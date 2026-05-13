@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4904465/899ce249-074a-474e-ac82-d301351f100e/s600" group-title="GRAND TV 21+™ PREMIUM",GRAND TV 21+™ PREMIUM
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4904465/899ce249-074a-474e-ac82-d301351f100e/s600" group-title="САМООБНОВЛЯЕМЫЙ ПЛЕЙЛИСТ: { ОБНОВИЛ 2026/02/16 19:53}™",{ ОБНОВИЛ 26/июн./2024 21:25}™
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4904465/899ce249-074a-474e-ac82-d301351f100e/s600" group-title="САМООБНОВЛЯЕМЫЙ ПЛЕЙЛИСТ: { ОБНОВИЛ 2026/02/16 19:53}™",{ ОБНОВИЛ 13/05/2026}™
 https://dl.dropbox.com/s/kn3nw8bxdt9y6jf/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%20%D0%B4%D1%8B%D0%BC%D0%B0.mp4
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="ВНИМАНИЕ!!! ЛИСТ СОДЕРЖИТ МАТЕРИАЛЫ ЭРОТИЧЕСКОГО ХАРАКТЕРА ЗАПРЕЩЁННЫЙ ДЛЯ ПРОСМОТРА ЛИЦАМ МЛАДШЕ 18 лет. СТАВЬТЕ РОДИТЕЛЬСКИЙ КОНТРОЛЬ!!! 21+",СТАВЬТЕ РОДИТЕЛЬСКИЙ КОНТРОЛЬ 21+
 https://dl.dropbox.com/s/2kk0o4cjqa26cdz/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%203d-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D1%85%20%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2.mp4
@@ -13,837 +13,277 @@ https://video1.tizam.cc/music/LickIt.mp4
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Blacked  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550938
+#EXTINF:0 tvg-id="Xblue-hustler" tvg-name="Blue Hustler TV" tvg-logo="https://ip-tv.dev/epg/icon/blue-hustler.png"  tvg-rec="5" timeshift="5", Blue Hustler TV
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/107/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xhustler-hd" tvg-name="Hustler TV" tvg-logo="https://ip-tv.dev/epg/icon/hustler-hd.png"  tvg-rec="5" timeshift="5", Hustler TV
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/592/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xplayboy-tv" tvg-name="Playboy" tvg-logo="https://ip-tv.dev/epg/icon/playboy-tv.png"  tvg-rec="5" timeshift="5", Playboy
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/242/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xeroxxxhd" tvg-name="Eroxxx HD" tvg-logo="https://ip-tv.dev/images/ico/eroxxxhd.png"  tvg-rec="5" timeshift="5", Eroxxx HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/596/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="Evil Angel HD" tvg-logo="https://ip-tv.dev/images/ico/EvilAngel.png" , Evil Angel HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6891/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xbrazzers-tv-europe" tvg-name="Brazzers TV Europe" tvg-logo="https://ip-tv.dev/epg/icon/brazzers.png"  tvg-rec="5" timeshift="5", Brazzers TV Europe
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/76/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xbarely-legal" tvg-name="Barely Legal" tvg-logo="https://ip-tv.dev/epg/icon/barely-legal.png"  tvg-rec="5" timeshift="5", Barely Legal
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/4012/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xbabes-tv" tvg-name="Babes TV HD" tvg-logo="https://ip-tv.dev/images/epg/990.png?v1743763833"  tvg-rec="5" timeshift="5", Babes TV HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/990/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xpassionxxx" tvg-name="PassionXXX" tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png" , PassionXXX
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6869/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="PassionXXX 2" tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png" , PassionXXX 2
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6883/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="PassionXXX Milf" tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png" , PassionXXX Milf
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6884/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="Pinko Club" tvg-logo="https://ip-tv.dev/images/ico/pinko.png" , Pinko Club
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6867/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="CentoXCento" tvg-logo="https://ip-tv.dev/images/ico/centocento.png" , CentoXCento
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6868/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xo-la-la" tvg-name="Olala" tvg-logo="https://ip-tv.dev/images/ico/o-la-la.png" , Olala
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/103/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xvivid-red" tvg-name="Vivid Red HD" tvg-logo="https://ip-tv.dev/images/ico/vivid-red.png"  tvg-rec="5" timeshift="5", Vivid Red HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/1766/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="XYPlus HD" tvg-logo="https://ip-tv.dev/images/ico/xxplus.png" , XYPlus HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6870/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="XYMax HD" tvg-logo="https://ip-tv.dev/images/ico/xxmax.png" , XYMax HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6871/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="XYMix HD" tvg-logo="https://ip-tv.dev/images/ico/xxmix.png" , XYMix HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6872/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xdorcel" tvg-name="Dorcel HD" tvg-logo="https://ip-tv.dev/images/ico/dorcel.png" , Dorcel HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6879/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xredlips" tvg-name="Red Lips" tvg-logo="https://ip-tv.dev/images/ico/redlips.png"  tvg-rec="5" timeshift="5", Red Lips
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/290/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xprivate-tv" tvg-name="Private TV" tvg-logo="https://ip-tv.dev/images/ico/private-tv.png" , Private TV
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/793/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xexxxotica" tvg-name="Exxxotica HD" tvg-logo="https://ip-tv.dev/images/ico/exotica.png"  tvg-rec="5" timeshift="5", Exxxotica HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/611/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xrusskaya-noch" tvg-name="Русская Ночь" tvg-logo="https://ip-tv.dev/epg/icon/russkaya-noch.png"  tvg-rec="5" timeshift="5", Русская Ночь
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/132/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xredlight-hd" tvg-name="Redlight HD" tvg-logo="https://ip-tv.dev/images/ico/redlight-hd.png"  tvg-rec="5" timeshift="5", Redlight HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/594/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xpenthouse-quickies" tvg-name="Penthouse Quickies HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-quickies.png" , Penthouse Quickies HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6881/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="ОХ-АХ HD" tvg-logo="https://ip-tv.dev/images/epg/1767.png?v1743763887" , ОХ-АХ HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/1767/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xpenthouse-hd" tvg-name="Penthouse HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-hd.png"  tvg-rec="5" timeshift="5", Penthouse HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/1497/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="Penthouse Reality TV" tvg-logo="https://ip-tv.dev/images/epg/8074.png?v1743763915" , Penthouse Reality TV
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/8074/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xpenthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-gold.png" , Penthouse Gold HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/6880/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="OLERO Babes" tvg-logo="https://ip-tv.dev/images/epg/1768.png?v1743763945" , OLERO Babes
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/1768/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xeromania4k" tvg-name="Eromania 4K" tvg-logo="https://ip-tv.dev/images/ico/eromania4k.png" , Eromania 4K
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/1703/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="XLIBERTYEROTIKAFHD" tvg-name="Liberty Эротика HD" tvg-logo="https://ip-tv.dev/images/ico/liberty/liberty-erotika.png" , Liberty Эротика HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/7080/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-charm" tvg-name="BCU Charm HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-charm.png" , BCU Charm HD
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/7141/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="DITV XXX 18+", DITV XXX 18+
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/2065/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-sexy" tvg-name="YOSSO TV SEXY" tvg-logo="https://ip-tv.dev/images/ico/yosso-sexy.png"  tvg-rec="5" timeshift="5", YOSSO TV SEXY
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/8774/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="X42052" tvg-name="KBC+100500 (18+)" tvg-logo="https://ip-tv.dev/images/ico/42052-65d5e628a395c.png"  tvg-rec="5" timeshift="5", KBC+100500 (18+)
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/8829/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="CineManExExEx" tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx.png" , CineManExExEx
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/13020/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="CineManExExEx TWO" tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx2.png" , CineManExExEx TWO
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/13021/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="Clarity4K Angel XXX" tvg-logo="https://ip-tv.dev/images/epg/4607.png?v1743764101" , Clarity4K Angel XXX
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/4607/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="Beate Uhse" tvg-logo="https://ip-tv.dev/images/epg/685.jpg?v1743764064" , Beate Uhse
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/685/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="no_epg_xxx" tvg-name="TVPlay Наше XXX" tvg-logo="https://ip-tv.dev/images/epg/1769.png?v1743764127" , TVPlay Наше XXX
+#EXTGRP: GRAND PLUS| O
+http://bde.online24.pm/play/1769/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 group-title="GRAND PLUS| O" tvg-id="8848" tvg-logo="http://epg.one/img/8848.png" tvg-rec="0",StrahTV Ню Арт HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KDGR45SACN2CRLNCC5MWM7HS/31716/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Blacked Raw HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550939
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Yeşilçam Erotik 2 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550940
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Yeşilçam Erotik 1 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550941
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Türkçe Alt Yazılı 1 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550942
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Türkçe Alt Yazılı 2 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550943
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Türkçe Alt Yazılı 3 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550944
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/241/MDAwMDAwMTg3LnBuZw.png", Русская ночь
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgAdSRbptO7NqaIjDpkv8aoP6ZDGjLRWsQSGsWfFrLryykgAhx8W_jYENiJQzH4aFxAoOm_bmzmln_0-IHbB6bk3ZQQBYOHSFvcbome602L0bANi7ZhULiiYkwQE2e5pFiS7br78s_YuoJ78MSAsXcUTJgF63jdN7hJe6Zi8WBrUga3Ifpkbu6JdSA6Y47QmALmcDPC5qCZrPxVx9zUbl27gfJmPuG-C3TbSY9uOFpoSkB1YbWVQr5ZXTN8FVBTPS6&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Amateur HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550945
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/102/MDAwMDAwNzI4LnBuZw.png", Shot tv
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgOqskcbrxfGBa27HGIlj0I9szjIOVHkFsGSDrJt5GjwROq2NANXVTzrP2sERY8R45ZDFtuVBkiwTTQGdRA-h1Zx4D4KdBRVbZED07Asv-ejY-mfVfINWe7ETKUlhIGAvGKJ3mo9-9jgYWGMz8PerB1XTBhihk0RvdgD-mr6Z1Lvpps7r1Xxhv9Zvro2oHx6J9KtI8gcHK6hiooh6CYgBluuWh_sesZhkrFYFNhzDLvHHXBAgr7S7egsBXzAc7cA1J&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/new/playboy.png", Playboy TV
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgh_acbCLHGaVuiQh2OXZBqP_R4iOaWD-dnygVP4-W9ZPPAH_lPIRx-x8IsZbEGf8mpu1ZKaH0uTU-cak3yngGWN2AEKDfiDc70OcYZekNxevK_CCTdyN6ezvax0p4CPFOlE6sRUZfI6Hr_Uul1KrHQkM6JwYJmlnTVjx53IK1e-tgCidHjKdeqVaF-wHtnYlzptBuJcEPovHBqCT3OSl2GiZ2Bvxctk8Aoj8lCHUmr4IP9ANa5bzuK-xQ-8vLvI54&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Cuckold HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550946
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/323/MDAwMDAwODA5LnBuZw.png", O-la-la
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgSvCJmW8Fnsmq5ERiTIH1RVTAwEfd55aJaomg-L6VzAcavpbq45BsoksUa1fZaX_fiHXqSGo0LEf_NmpQKUMUYFOzagjZptW8OJKWANIsj0_2U7flTu1sxmqSD37uJoB_fjQXHF4xaeU_WHO4fZqSomyMu4JG_NvmB7Dod012IMV2clI3YtHpzk8L0K_x1RAJX4lUcU4r1CFilE4cz1zCkOMriq0BU82sXc_7LjGf_i5CTjDVO0MQ7SPUtSS9cCqm&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Brazzers HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550947
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/brazzers_tv_europe.png", BRAZZERS TV
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgPKkmCFn8sOYX3blfWj74oEfzaFn59cadmbPZFneusB7rMsEeLND_Un9ykYgzSzjGPIv9P1jwpudor0FNUKsn9xCbegitgw975GwlvcnAKCt4LqwYYouoLCOZAy7bXDSuNDbQZmz8XUTTxf0-lsLv1d7koKkz3PtR_rKATmU-wt_qXOJf7czHU6WGJP4LtADPRBAFvlzXXIImtbI2g1xjpYnUXZB8l_WbYdXYgxlRsOsSKagEGrG2hsAUdYKIlJ_S&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Gangbang HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550948
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/655/655.png", Babes tv
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgl34rHjTYykPvr6wA5z1X2oDpyPvCut2JCcdMnfnDKuvnXPERYqDMM0grVbMplP4b_AeDA18D8Onhqn73Vi325RCw4yZyPT4-mrzVWDn4ZbPFO2Qof70ndElBTQ5wnukhH8Coyd_38OrefrJioticJc11fuRqItFRak3T7FDEO0GW0Lg-dhSTbdIr0NeYZUV-gWTDwQsnQNBSO38LdZHiLZMcxzCP3LKmdqc5-twH5DoSH7qLUMMn0C01f0zErAMM&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Anal HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550949
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-charm.png", BCU Charm HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgZgSV2sMKEb0zyWY3i9aI-wLoOl-j_yudwfP6785tzle0BaHpN1hNyaCC4Bffn0Lnp4Wr8QG1MObJEiFKGXYOL5doDLry2zY-XpvM7Zjn8t9GAmwwkGihw71c2vyGHNrlh2MtJwvq853TLz_UWa_IhmETL_wYPDdO1pYYoPmUhFh1pqL-hCjrUWFkpFvLgQdDMVSHUxxWNSwAwSljk8gw6YlYmf37c_xhl2TrhUTdsAQPkMUqPZH5bhyHdBBkpz_p&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Lesbian HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550950
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Massage HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550951
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Milf HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550952
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Teen HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550953
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Asian HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550954
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Big Ass HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550955
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Big Tits HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550956
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Black HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550957
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Private TV
+http://79.127.207.193:80/Private/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV 18 Years Old HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550958
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Hustler HD
+http://79.127.207.193:80/Hustler/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Fake Hospital HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550959
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Dorcel HD
+http://79.127.207.193:80/DorcelHD/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Fake Taxi HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550960
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 1
+http://79.127.207.193:80/PinkErotic1/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Family HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550961
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 2
+http://79.127.207.193:80/PinkErotic2/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Erotica 1 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550962
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 3
+http://79.127.207.193:80/PinkErotic3/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Erotica 2 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550963
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 4
+http://79.127.207.193:80/PinkErotic4/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Public HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550964
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 5
+http://79.127.207.193:80/PinkErotic5/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", BlueTV Big Cock  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550965
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 6
+http://79.127.207.193:80/PinkErotic6/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx",  ✦ ✦ +18 FOR ADULTS ✦ ✦
-http://yrtds0911.xyz:8080/karadag123/123karadag/550966
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 7
+http://79.127.207.193:80/PinkErotic7/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Babes  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550967
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 8
+http://79.127.207.193:80/PinkErotic8/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Germany  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550968
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   DorcelHD
+http://169.150.223.25/DorcelHD/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Hardcore  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550969
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Hustler HD
+http://169.150.223.25/Hustler/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Interracıal  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550970
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Private HD
+http://169.150.223.25/Private/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Netgirl  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550971
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   FrenchLover
+http://169.150.223.25/FrenchLover/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Porn Star  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550972
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic1
+http://169.150.223.25/PinkErotic1/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Red Head  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550973
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic2
+http://169.150.223.25/PinkErotic2/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Sports  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550974
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic3
+http://169.150.223.25/PinkErotic3/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Story  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550975
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic4
+http://169.150.223.25/PinkErotic4/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", EroxTV Upskırt  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550976
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic5
+http://169.150.223.25/PinkErotic5/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Braty Sis  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550977
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic6
+http://169.150.223.25/PinkErotic6/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Digital Play  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550978
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic7
+http://169.150.223.25/PinkErotic7/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Girl Show  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550979
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic8
+http://169.150.223.25/PinkErotic8/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Milf  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550980
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   BangU
+http://169.150.223.25/BangU/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Moms Teach  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550981
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Oily  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550982
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   penthouse2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Russian  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550983
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   RK TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Schooll  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550984
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Slim Girl  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550985
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Brazzers
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", NovaTV Step Siblings  HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550986
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Desire
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Türkçe Alt Yazılı 1 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550987
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Türkçe Alt Yazılı 2 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550988
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Anal HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550989
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  babes HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550990
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Fakehub HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550991
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Familie HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550992
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Playboy
+http://178.23.88.55/Playboy/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Lesbian HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550993
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PRIVATE
+http://77.46.130.252:99/private
 
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Mofos HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550994
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Reality Kings HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550995
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SugarTV  Sexyhub HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550996
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Anal HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550997
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Hegre HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550998
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Javhub HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/550999
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV MisaX HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551000
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Nubile Films HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551001
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Pure taboo HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551002
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Tuhsy HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551003
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Ultra Films HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551004
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Vixen HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551005
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", SutraTV Property HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551006
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Inked Gurlz HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551007
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Luxure HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551008
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV NymPho HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551009
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Monojob HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551010
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV fit 18 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551011
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV fake Agent HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551012
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Dtf Sluts HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551013
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Devils Film HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551014
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Deeper HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551015
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", FuxTV Vipissy HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551016
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Analized HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551017
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Throated HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551018
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Spizoo HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551019
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Shop Lyfter HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551020
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Private HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551021
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Pooksi HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551022
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Ours HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551023
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Holed HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551024
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Bang Bros HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551025
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", PixelTV Arch Angel HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551026
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", Türkhub Alt Yazılı 1 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551027
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", Türkhub Alt Yazılı 2 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551028
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", Türkhub Alt Yazılı 3 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551029
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", Türkhub Alt Yazılı 4 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551030
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", Türkhub Alt Yazılı 5 HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551031
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Dick Drainers HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551032
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Wicked Pictures HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551033
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Sweet Sinner HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551034
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Spank Monster HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551035
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Producersfun HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551036
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV New Sensations HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551037
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Kinky Family HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551038
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Fetish Gold HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551039
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Excogi HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551040
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", RedlightTV Erotique HD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551041
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", 4K PORN 1 UHD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551042
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", 4K PORN 2 UHD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551043
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", 4K PORN 3 UHD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551044
-
-#EXTINF:-1 group-title="GRAND PLUS| PORTAL TR xxx", 4K PORN 4 UHD
-http://yrtds0911.xyz:8080/karadag123/123karadag/551045
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV FHD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24823
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV FHD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/84757
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/2045
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/11093
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZyDarZ6.png" group-title="GRAND PLUS| ADULTOS" SEXY HOT HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/39108
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXTREME.png" group-title="GRAND PLUS| ADULTOS" SEXTREME HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/2026
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXTREME.png" group-title="GRAND PLUS| ADULTOS" SEXTREME HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/181292
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/VENUS.png" group-title="GRAND PLUS| ADULTOS" VENUS HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/223327
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/VENUS.png" group-title="GRAND PLUS| ADULTOS" VENUS HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/2009
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXPRIVE.png" group-title="GRAND PLUS| ADULTOS" SEXPRIVÉ HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/110847
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXPRIVE.png" group-title="GRAND PLUS| ADULTOS" SEXPRIVÉ HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/1206
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oE9iABK.png" group-title="GRAND PLUS| ADULTOS" 24H A CASA DAS BRASILEIRINHAS PACK 1¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19999
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oE9iABK.png" group-title="GRAND PLUS| ADULTOS" 24H A CASA DAS BRASILEIRINHAS PACK 2
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19998
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oE9iABK.png" group-title="GRAND PLUS| ADULTOS" 24H A CASA DAS BRASILEIRINHAS PACK 3¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19997
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oE9iABK.png" group-title="GRAND PLUS| ADULTOS" 24H A CASA DAS BRASILEIRINHAS PACK 4¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19996
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H AMADOR¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24493
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H ANAL¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24494
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H BRASILEIRAS 02
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/39109
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/BRASILEIRAS.png" group-title="GRAND PLUS| ADULTOS" 24H BRASILEIRAS¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24495
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H BRAZZERS¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19995
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H FLAGRAS¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19994
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H GAY¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24499
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H GOZO 02
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/39110
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H GOZO¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24459
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H HENTAI¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24496
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H LÉSBICAS¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24497
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H LOIRAS¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24460
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H MIA KHALIFA¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24498
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H RUIVAS 02
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/39111
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H RUIVAS¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24500
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H TRANSEXUAL¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/24492
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="GRAND PLUS| ADULTOS" 24H WOW PORN¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19993
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ ADULTO 17
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198260
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ ADULTO 18
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198261
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ ADULTO 19
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198262
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ ADULTO 20
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198263
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ BRAZZERS EUROPE
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198258
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ SCT
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198256
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ PASSION
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198254
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/BRASILEIRINHAS.png" group-title="GRAND PLUS| ADULTOS" BRASILEIRINHAS FHD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/4919
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ BRASILEIRINHAS: BIG MACK
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198253
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6mSSbg.png" group-title="ADULTOS", ~ ASSIM VC ME MATA
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198257
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV FHD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/84757
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/2045
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/PLAYBOYTV.png" group-title="GRAND PLUS| ADULTOS" PLAYBOY TV HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/11093
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZyDarZ6.png" group-title="GRAND PLUS| ADULTOS" SEXY HOT HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/39108
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXTREME.png" group-title="GRAND PLUS| ADULTOS" SEXTREME HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/2026
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXTREME.png" group-title="GRAND PLUS| ADULTOS" SEXTREME HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/181292
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/VENUS.png" group-title="GRAND PLUS| ADULTOS" VENUS HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/223327
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/VENUS.png" group-title="GRAND PLUS| ADULTOS" VENUS HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/2009
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXPRIVE.png" group-title="GRAND PLUS| ADULTOS" SEXPRIVÉ HD¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/110847
-
-#EXTINF:-1 tvg-logo="https://googleplusimages.com/SEXPRIVE.png" group-title="GRAND PLUS| ADULTOS" SEXPRIVÉ HD²
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/1206
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oE9iABK.png" group-title="GRAND PLUS| ADULTOS" 24H A CASA DAS BRASILEIRINHAS PACK 1¹
-http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/19999
-
-
-
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/extasy-tv-hd.png" group-title="GRAND PLUS | 248on XXX",  Extasy TV HD
-http://s06.wsbof.com:8080/s/c8b70831/extasy-tv-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/penthouse1-hd.png" group-title="GRAND PLUS | 248on XXX",  Penthouse Gold HD
-http://s06.wsbof.com:8080/s/c8b70831/penthouse1-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/penthouse2-hd.png" group-title="GRAND PLUS | 248on XXX",  Penthouse Reality TV HD
-http://s06.wsbof.com:8080/s/c8b70831/penthouse2-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/penthouse-passion-hd.png" group-title="GRAND PLUS | 248on XXX",  Penthouse Passion HD
-http://s06.wsbof.com:8080/s/c8b70831/penthouse-passion-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/redlight-hd.png" group-title="GRAND PLUS | 248on XXX",  Redlight HD
-http://s06.wsbof.com:8080/s/c8b70831/redlight-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/private-tv.png" group-title="GRAND PLUS | 248on XXX",  Private HD
-http://s06.wsbof.com:8080/s/c8b70831/private-tv.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hustler-hd.png" group-title="GRAND PLUS | 248on XXX",  Hustler HD
-http://s06.wsbof.com:8080/s/c8b70831/hustler-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/brazzers-tv.png" group-title="GRAND PLUS | 248on XXX",  Brazzers TV HD
-http://s06.wsbof.com:8080/s/c8b70831/brazzers-tv.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/babes-hd.png" group-title="GRAND PLUS | 248on XXX",  Babes HD
-http://s06.wsbof.com:8080/s/c8b70831/babes-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vixen-tv-hd.png" group-title="GRAND PLUS | 248on XXX",  Vixen TV HD
-http://s06.wsbof.com:8080/s/c8b70831/vixen-tv-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/evil-angel-hd.png" group-title="GRAND PLUS | 248on XXX",  Evil Angel HD
-http://s06.wsbof.com:8080/s/c8b70831/evil-angel-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/erox-hd.png" group-title="GRAND PLUS | 248on XXX",  Erox HD
-http://s06.wsbof.com:8080/s/c8b70831/erox-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eroxxx-hd.png" group-title="GRAND PLUS | 248on XXX",  Eroxxx HD
-http://s06.wsbof.com:8080/s/c8b70831/eroxxx-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dorcel-hd.png" group-title="GRAND PLUS | 248on XXX",  Dorcel TV HD
-http://s06.wsbof.com:8080/s/c8b70831/dorcel-tv-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/super-one-hd.png" group-title="GRAND PLUS | 248on XXX",  SuperOne HD
-http://s06.wsbof.com:8080/s/c8b70831/super-one-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xxl-tv.png" group-title="GRAND PLUS | 248on XXX",  XXL
-http://s06.wsbof.com:8080/s/c8b70831/xxl-tv.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vivid-tv.png" group-title="GRAND PLUS | 248on XXX",  Vivid TV
-http://s06.wsbof.com:8080/s/c8b70831/vivid-tv.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vivid-red.png" group-title="GRAND PLUS | 248on XXX",  Vivid Red
-http://s06.wsbof.com:8080/s/c8b70831/vivid-red.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/shalun-hd.png" group-title="GRAND PLUS | 248on XXX",  Шалун HD
-http://s06.wsbof.com:8080/s/c8b70831/shalun-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/shyolk-hd.png" group-title="GRAND PLUS | 248on XXX",  Шёлк HD
-http://s06.wsbof.com:8080/s/c8b70831/shyolk-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vivid-touch-hd.png" group-title="GRAND PLUS | 248on XXX",  Vivid Touch HD
-http://s06.wsbof.com:8080/s/c8b70831/vivid-touch-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/exxxotica-hd.png" group-title="GRAND PLUS | 248on XXX",  Exxxotica HD
-http://s06.wsbof.com:8080/s/c8b70831/exxxotica-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinoerotica-hd.png" group-title="GRAND PLUS | 248on XXX",  Kinoerotica HD
-http://s06.wsbof.com:8080/s/c8b70831/kinoerotica-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xy-mix-hd.png" group-title="GRAND PLUS | 248on XXX",  XY MIX HD
-http://s06.wsbof.com:8080/s/c8b70831/xy-mix-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xy-max-hd.png" group-title="GRAND PLUS | 248on XXX",  XY MAX HD
-http://s06.wsbof.com:8080/s/c8b70831/xy-max-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xy-plus-hd.png" group-title="GRAND PLUS | 248on XXX",  XY PLUS HD
-http://s06.wsbof.com:8080/s/c8b70831/xy-plus-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/red-lips.png" group-title="GRAND PLUS | 248on XXX",  Red Lips HD
-http://s06.wsbof.com:8080/s/c8b70831/red-lips.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/blue-hustler-hd.png" group-title="GRAND PLUS | 248on XXX",  Blue Hustler HD
-http://s06.wsbof.com:8080/s/c8b70831/blue-hustler-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/barely-legal.png" group-title="GRAND PLUS | 248on XXX",  Barely Legal TV
-http://s06.wsbof.com:8080/s/c8b70831/barely-legal.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ruskaja-noch-hd.png" group-title="GRAND PLUS | 248on XXX",  Русская Ночь HD
-http://s06.wsbof.com:8080/s/c8b70831/ruskaja-noch-hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/playboy-tv.png" group-title="GRAND PLUS | 248on XXX",  Playboy TV
-http://s06.wsbof.com:8080/s/c8b70831/playboy-tv.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BOGCOCK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BOGCOCK ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58407
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BLACK ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58408
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLOW ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BLOW ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58409
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CARTOON ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",CARTOON ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58410
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CREAMPIE ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",CREAMPIE ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58411
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MY WIFE ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",MY WIFE ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58412
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BALCKED ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BALCKED ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58413
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK GFS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BLACK GFS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58414
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE BLACK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PRIVATE BLACK ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58415
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ASIAN SEX DIARY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ASIAN SEX DIARY ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58417
-#EXTINF:-1 tvg-id="" tvg-name="XXX: WILD GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",WILD GANGBANGS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58419
-#EXTINF:-1 tvg-id="" tvg-name="XXX: C ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",C ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58422
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALL GROUP SEX ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ALL GROUP SEX ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58424
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRATTY SIS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BRATTY SIS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58426
-#EXTINF:-1 tvg-id="" tvg-name="XXX: COLLECTIVE PLEASURE ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",COLLECTIVE PLEASURE ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58427
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CUSTOMS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",CUSTOMS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58428
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOGFART NETWORK 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",DOGFART NETWORK 2 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58429
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOGFART NETWORK 3 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",DOGFART NETWORK 3 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58430
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOGFART NETWORK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",DOGFART NETWORK ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58431
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL CLUB ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",DORCEL CLUB ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58432
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FIFTHY KINGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",FIFTHY KINGS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58434
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FIT18 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",FIT18 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58435
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HER LIMIT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",HER LIMIT ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58437
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JAYS POV 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",JAYS POV 2 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58438
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MEN ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",MEN ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58440
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",MOFOS 2 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58442
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS 3 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",MOFOS 3 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58443
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MY FAMILY PIES ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",MY FAMILY PIES ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58446
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NET VIDEOS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",NET VIDEOS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58448
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NEXT DOOR RAW ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",NEXT DOOR RAW ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58450
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NF BUSTY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",NF BUSTY ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58451
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUBILE FILMS1 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",NUBILE FILMS1 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58452
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUBILE FILMS2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",NUBILE FILMS2 ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58453
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PURE BBW ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PURE BBW ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58454
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REAL GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",REAL GANGBANGS ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58455
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SPANK MONSTER ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",SPANK MONSTER ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58456
-#EXTINF:-1 tvg-id="" tvg-name="XXX: STEB SIBLINGS CAUGHT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",STEB SIBLINGS CAUGHT ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58460
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TREASURE ISLAND MEDIA ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",TREASURE ISLAND MEDIA ADULT
-http://nordsohzace.top:8080/301697906482120/51702227668057/58464
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_1 LA3 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58466
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT_LA1 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",HOT_LA1 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58467
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA2 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_1 LA2 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58468
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT_LA3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",HOT_LA3 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58470
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_1 LA6 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58472
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ALBA XXX 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/58476
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ALBA XXX 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/58477
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ALBA XXX 4
-http://nordsohzace.top:8080/301697906482120/51702227668057/58478
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ALBA XXX 6
-http://nordsohzace.top:8080/301697906482120/51702227668057/58479
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Big Dick" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Big Dick
-http://nordsohzace.top:8080/301697906482120/51702227668057/58481
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Blonde" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Blonde
-http://nordsohzace.top:8080/301697906482120/51702227668057/58482
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Brunette" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Brunette
-http://nordsohzace.top:8080/301697906482120/51702227668057/58484
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX A5" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX A5
-http://nordsohzace.top:8080/301697906482120/51702227668057/58487
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_4 LA6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_4 LA6 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58488
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BARELY LEGAL TV
-http://nordsohzace.top:8080/301697906482120/51702227668057/58489
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Passion XXX
-http://nordsohzace.top:8080/301697906482120/51702227668057/58491
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Eroxxx FHD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Eroxxx FHD
-http://nordsohzace.top:8080/301697906482120/51702227668057/58492
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 2 FHD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX 2 FHD
-http://nordsohzace.top:8080/301697906482120/51702227668057/58493
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx French Lover" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx French Lover
-http://nordsohzace.top:8080/301697906482120/51702227668057/58494
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BLACKED
-http://nordsohzace.top:8080/301697906482120/51702227668057/58495
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58496
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58497
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA1 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_1 LA1 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58499
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58500
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV EUROPE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BRAZZERS TV EUROPE
-http://nordsohzace.top:8080/301697906482120/51702227668057/58501
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58502
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58504
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58506
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Alba XXX 3
-http://nordsohzace.top:8080/301697906482120/51702227668057/58507
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy TV LIVE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Playboy TV LIVE
-http://nordsohzace.top:8080/301697906482120/51702227668057/58508
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58509
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58510
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58511
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58512
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58513
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Jasmin" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Jasmin
-http://nordsohzace.top:8080/301697906482120/51702227668057/58514
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Alba XXX 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/58515
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Sextreme (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Sextreme (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58516
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58517
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",DORCEL [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58519
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",DUSK [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58520
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX82 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX82 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58521
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Vivid Red (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Vivid Red (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58524
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROX HD [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58525
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58527
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58530
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FETISH" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",FETISH
-http://nordsohzace.top:8080/301697906482120/51702227668057/58531
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY [VIP]" tvg-logo="https://asiagrandiptv.us/logo//GAYTV.png" group-title="GRAND PLUS | XXX-VIP",GAY [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58532
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",HUSTLER HD [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58537
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Fake Agent FHD (18+) [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Fake Agent FHD (18+) [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58538
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58539
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Alba XXX 4
-http://nordsohzace.top:8080/301697906482120/51702227668057/58545
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden van Holland Hard" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Meiden van Holland Hard
-http://nordsohzace.top:8080/301697906482120/51702227668057/58546
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Adul" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Adul
-http://nordsohzace.top:8080/301697906482120/51702227668057/58547
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIA KHALIFA" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",MIA KHALIFA
-http://nordsohzace.top:8080/301697906482120/51702227668057/58548
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Alba XXX 4
-http://nordsohzace.top:8080/301697906482120/51702227668057/58549
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ORGASM" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ORGASM
-http://nordsohzace.top:8080/301697906482120/51702227668057/58550
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PENTHOUSE QUICKIES
-http://nordsohzace.top:8080/301697906482120/51702227668057/58553
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PINK EROTIC 3 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58555
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PINK EROTIC 5 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58556
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PINK EROTIC 7 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58557
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PINK O TV
-http://nordsohzace.top:8080/301697906482120/51702227668057/58559
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE_LA" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PRIVATE_LA
-http://nordsohzace.top:8080/301697906482120/51702227668057/58560
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_2 LA4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_2 LA4 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58561
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SeXation" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",SeXation
-http://nordsohzace.top:8080/301697906482120/51702227668057/58562
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",REALITY KINGS TV [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58564
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX A3[VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX A3[VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58568
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PINK EROTIC 6 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58570
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",REDLIGHT HD [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58571
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",RUSSKAYA NOCH [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58573
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (18+)
-http://nordsohzace.top:8080/301697906482120/51702227668057/58574
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC 4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC 4 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58575
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Alba XXX HD 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/58576
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",Alba XXX 1 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58581
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXL [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58582
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX
-http://nordsohzace.top:8080/301697906482120/51702227668057/58583
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/58584
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/58585
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_2 LA6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",EROTIC_2 LA6 [VIP]
-http://nordsohzace.top:8080/301697906482120/51702227668057/58588
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX A6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",XXX A6
-http://nordsohzace.top:8080/301697906482120/51702227668057/58590
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNBOX PRIVATE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",PORNBOX PRIVATE
-http://nordsohzace.top:8080/301697906482120/51702227668057/58591
-#EXTINF:-1 tvg-id="" tvg-name="XXX: True Amateurs" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",True Amateurs
-http://nordsohzace.top:8080/301697906482120/51702227668057/58595
-#EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",21 Sextury
-http://nordsohzace.top:8080/301697906482120/51702227668057/64830
-
+#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   DORCEL
+http://77.46.130.252:99/dorcel
 
 
 
@@ -1311,1191 +751,418 @@ https://ovhv47.twincdn.com/videos/43/43392/43392_720p.mp4?key_iptv.org.ua
 https://video2.tizam.cc/files/1940967/la_sposa__s_perevodom.mp4
 
 
+#EXTINF:-1 group-title="RUZIEV / EDEM 2VF Граиндхаус
+https://a.cehennem.workers.dev/playlist/2049.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Extasy Platinum 4K
+https://a.cehennem.workers.dev/playlist/2050.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Русская Ночь orig
+https://a.cehennem.workers.dev/playlist/2051.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Exxxotica HD orig
+https://a.cehennem.workers.dev/playlist/2052.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Eroxxx HD
+https://a.cehennem.workers.dev/playlist/2053.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Playboy TV
+https://a.cehennem.workers.dev/playlist/2054.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Русская Ночь
+https://a.cehennem.workers.dev/playlist/2055.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Brazzers TV Europe Россия
+https://a.cehennem.workers.dev/playlist/2056.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Blue Hustler
+https://a.cehennem.workers.dev/playlist/2057.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Redlight HD
+https://a.cehennem.workers.dev/playlist/2058.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Private TV
+https://a.cehennem.workers.dev/playlist/2059.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hustler HD
+https://a.cehennem.workers.dev/playlist/2060.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dorcel TV HD
+https://a.cehennem.workers.dev/playlist/2061.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Babes TV
+https://a.cehennem.workers.dev/playlist/2062.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Vivid Red HD
+https://a.cehennem.workers.dev/playlist/2063.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Exxxotica HD
+https://a.cehennem.workers.dev/playlist/2064.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2XXL
+https://a.cehennem.workers.dev/playlist/2065.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Penthouse Passion HD
+https://a.cehennem.workers.dev/playlist/2066.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Penthouse Gold HD
+https://a.cehennem.workers.dev/playlist/2067.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Penthouse Reality TV HD
+https://a.cehennem.workers.dev/playlist/2068.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Penthouse Reality TV FHD
+https://a.cehennem.workers.dev/playlist/2069.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2SexArt HD
+https://a.cehennem.workers.dev/playlist/2070.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Adult Time
+https://a.cehennem.workers.dev/playlist/2071.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Anal
+https://a.cehennem.workers.dev/playlist/2072.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Analized HD
+https://a.cehennem.workers.dev/playlist/2073.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Babes HD
+https://a.cehennem.workers.dev/playlist/2074.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Babes
+https://a.cehennem.workers.dev/playlist/2075.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Bang Bros HD
+https://a.cehennem.workers.dev/playlist/2076.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Bang!
+https://a.cehennem.workers.dev/playlist/2077.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Big Ass
+https://a.cehennem.workers.dev/playlist/2078.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Big Dick
+https://a.cehennem.workers.dev/playlist/2079.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Big Tits
+https://a.cehennem.workers.dev/playlist/2080.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Blacked HD
+https://a.cehennem.workers.dev/playlist/2081.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Blowjob
+https://a.cehennem.workers.dev/playlist/2082.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Brazzers eXXtra
+https://a.cehennem.workers.dev/playlist/2083.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Brazzers HD
+https://a.cehennem.workers.dev/playlist/2084.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Brunette
+https://a.cehennem.workers.dev/playlist/2085.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Cherry Pimps
+https://a.cehennem.workers.dev/playlist/2086.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Club Sweethearts HD
+https://a.cehennem.workers.dev/playlist/2087.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Compilation
+https://a.cehennem.workers.dev/playlist/2088.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Cuckold
+https://a.cehennem.workers.dev/playlist/2089.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Cum Louder
+https://a.cehennem.workers.dev/playlist/2090.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Daughter Swap
+https://a.cehennem.workers.dev/playlist/2091.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Day with a Pornstar
+https://a.cehennem.workers.dev/playlist/2092.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2DDF Busty
+https://a.cehennem.workers.dev/playlist/2093.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2DDF Network
+https://a.cehennem.workers.dev/playlist/2094.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Digital Desire HD
+https://a.cehennem.workers.dev/playlist/2095.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Digital Playground HD
+https://a.cehennem.workers.dev/playlist/2096.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dorcel Club
+https://a.cehennem.workers.dev/playlist/2097.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Evil Angel HD
+https://a.cehennem.workers.dev/playlist/2098.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Evolved Fights
+https://a.cehennem.workers.dev/playlist/2099.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Fake Taxi HD
+https://a.cehennem.workers.dev/playlist/2100.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Fap TV Compilation
+https://a.cehennem.workers.dev/playlist/2101.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2FemJoy
+https://a.cehennem.workers.dev/playlist/2102.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Fetish
+https://a.cehennem.workers.dev/playlist/2103.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Gangbang
+https://a.cehennem.workers.dev/playlist/2104.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Gay
+https://a.cehennem.workers.dev/playlist/2105.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Got MYLF
+https://a.cehennem.workers.dev/playlist/2106.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2DDF Hands on Hardcore
+https://a.cehennem.workers.dev/playlist/2107.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hard X
+https://a.cehennem.workers.dev/playlist/2108.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Hardcore
+https://a.cehennem.workers.dev/playlist/2109.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hitzefrei HD
+https://a.cehennem.workers.dev/playlist/2110.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Holed
+https://a.cehennem.workers.dev/playlist/2111.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hot and Mean
+https://a.cehennem.workers.dev/playlist/2112.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hot Guys Fuck
+https://a.cehennem.workers.dev/playlist/2113.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Interracial
+https://a.cehennem.workers.dev/playlist/2114.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Japan HDV
+https://a.cehennem.workers.dev/playlist/2115.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Latina
+https://a.cehennem.workers.dev/playlist/2116.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Lesbea
+https://a.cehennem.workers.dev/playlist/2117.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Lesbian
+https://a.cehennem.workers.dev/playlist/2118.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Lethal Hardcore
+https://a.cehennem.workers.dev/playlist/2119.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Little Asians HD
+https://a.cehennem.workers.dev/playlist/2120.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Live Cams
+https://a.cehennem.workers.dev/playlist/2121.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Lust Cinema
+https://a.cehennem.workers.dev/playlist/2122.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2MetArt HD
+https://a.cehennem.workers.dev/playlist/2123.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Milf
+https://a.cehennem.workers.dev/playlist/2124.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Monsters of Cock
+https://a.cehennem.workers.dev/playlist/2125.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2MYLF TV HD
+https://a.cehennem.workers.dev/playlist/2126.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Naughty America
+https://a.cehennem.workers.dev/playlist/2127.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Nubiles TV HD
+https://a.cehennem.workers.dev/playlist/2128.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 3
+https://a.cehennem.workers.dev/playlist/2129.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 4
+https://a.cehennem.workers.dev/playlist/2130.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Playboy Plus
+https://a.cehennem.workers.dev/playlist/2131.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Pornstar
+https://a.cehennem.workers.dev/playlist/2132.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV POV
+https://a.cehennem.workers.dev/playlist/2133.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Private.com HD
+https://a.cehennem.workers.dev/playlist/2134.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Public Agent
+https://a.cehennem.workers.dev/playlist/2135.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Reality Kings HD
+https://a.cehennem.workers.dev/playlist/2136.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2RK Prime
+https://a.cehennem.workers.dev/playlist/2137.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2RK TV
+https://a.cehennem.workers.dev/playlist/2138.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Rough
+https://a.cehennem.workers.dev/playlist/2139.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Russian
+https://a.cehennem.workers.dev/playlist/2140.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Sex With Muslims
+https://a.cehennem.workers.dev/playlist/2141.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2SexArt
+https://a.cehennem.workers.dev/playlist/2142.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2SINematica
+https://a.cehennem.workers.dev/playlist/2143.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Teen
+https://a.cehennem.workers.dev/playlist/2144.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red TV Threesome
+https://a.cehennem.workers.dev/playlist/2145.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Tiny4K
+https://a.cehennem.workers.dev/playlist/2146.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Trans Angels
+https://a.cehennem.workers.dev/playlist/2147.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2True Amateurs
+https://a.cehennem.workers.dev/playlist/2148.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Tushy HD
+https://a.cehennem.workers.dev/playlist/2149.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Tushy RAW HD
+https://a.cehennem.workers.dev/playlist/2150.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Vivid TV Europe
+https://a.cehennem.workers.dev/playlist/2151.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Vixen HD
+https://a.cehennem.workers.dev/playlist/2152.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2We Live Together
+https://a.cehennem.workers.dev/playlist/2153.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2White Boxxx
+https://a.cehennem.workers.dev/playlist/2154.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Wicked
+https://a.cehennem.workers.dev/playlist/2155.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Xpanded TV
+https://a.cehennem.workers.dev/playlist/2156.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Balkan Erotic
+https://a.cehennem.workers.dev/playlist/2157.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red Lips
+https://a.cehennem.workers.dev/playlist/2158.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Leo TV HD
+https://a.cehennem.workers.dev/playlist/2159.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2HOT
+https://a.cehennem.workers.dev/playlist/2160.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hot Pleasure
+https://a.cehennem.workers.dev/playlist/2161.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Red XXX
+https://a.cehennem.workers.dev/playlist/2162.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Sexy Hot
+https://a.cehennem.workers.dev/playlist/2163.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Venus
+https://a.cehennem.workers.dev/playlist/2164.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2XY Max HD
+https://a.cehennem.workers.dev/playlist/2165.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2XY Mix HD
+https://a.cehennem.workers.dev/playlist/2166.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2XY Plus HD
+https://a.cehennem.workers.dev/playlist/2167.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 1
+https://a.cehennem.workers.dev/playlist/2168.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 2
+https://a.cehennem.workers.dev/playlist/2169.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 6
+https://a.cehennem.workers.dev/playlist/2170.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 7
+https://a.cehennem.workers.dev/playlist/2171.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 8
+https://a.cehennem.workers.dev/playlist/2172.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Erox HD
+https://a.cehennem.workers.dev/playlist/2173.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2SuperOne HD
+https://a.cehennem.workers.dev/playlist/2174.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dorcel TV HD orig
+https://a.cehennem.workers.dev/playlist/2175.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hustler HD orig
+https://a.cehennem.workers.dev/playlist/2176.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Redlight HD orig
+https://a.cehennem.workers.dev/playlist/2177.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Eromania 4K
+https://a.cehennem.workers.dev/playlist/2178.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2StrahTV Extasy HD
+https://a.cehennem.workers.dev/playlist/2179.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2StrahTV KinoXXX
+https://a.cehennem.workers.dev/playlist/2180.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2StrahTV Ох-Ах HD
+https://a.cehennem.workers.dev/playlist/2181.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2VF Cartoon 18+
+https://a.cehennem.workers.dev/playlist/2182.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Alba XXX 1
+https://a.cehennem.workers.dev/playlist/2183.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Exotic 4k
+https://a.cehennem.workers.dev/playlist/2184.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Euro Girls On Girls
+https://a.cehennem.workers.dev/playlist/2185.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Erotica X
+https://a.cehennem.workers.dev/playlist/2186.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Erotic Spice
+https://a.cehennem.workers.dev/playlist/2187.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2DP Fanatics
+https://a.cehennem.workers.dev/playlist/2188.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Brazzers TV Europe HD
+https://a.cehennem.workers.dev/playlist/2189.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2SuperOne
+https://a.cehennem.workers.dev/playlist/2190.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dirty Wives Club
+https://a.cehennem.workers.dev/playlist/2191.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2French Lover
+https://a.cehennem.workers.dev/playlist/2192.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Meiden Van Holland
+https://a.cehennem.workers.dev/playlist/2193.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dirty Masseur
+https://a.cehennem.workers.dev/playlist/2194.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dirty Flix
+https://a.cehennem.workers.dev/playlist/2195.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dorcel TV
+https://a.cehennem.workers.dev/playlist/2196.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Wicked HD
+https://a.cehennem.workers.dev/playlist/2197.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Playboy LA
+https://a.cehennem.workers.dev/playlist/2198.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Passie XXX TV
+https://a.cehennem.workers.dev/playlist/2199.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Devils Film HD
+https://a.cehennem.workers.dev/playlist/2200.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Deep Throat Sirens
+https://a.cehennem.workers.dev/playlist/2201.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Deep Lush
+https://a.cehennem.workers.dev/playlist/2202.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dark X
+https://a.cehennem.workers.dev/playlist/2203.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Veraporn Group Sex
+https://a.cehennem.workers.dev/playlist/2204.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Veraporn Group Sex 2
+https://a.cehennem.workers.dev/playlist/2205.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dane Jones
+https://a.cehennem.workers.dev/playlist/2206.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dancing Bear
+https://a.cehennem.workers.dev/playlist/2207.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 1 HD
+https://a.cehennem.workers.dev/playlist/2208.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 2 HD
+https://a.cehennem.workers.dev/playlist/2209.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 3 HD
+https://a.cehennem.workers.dev/playlist/2210.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 4 HD
+https://a.cehennem.workers.dev/playlist/2211.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 5 HD
+https://a.cehennem.workers.dev/playlist/2212.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 6 HD
+https://a.cehennem.workers.dev/playlist/2213.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 7 HD
+https://a.cehennem.workers.dev/playlist/2214.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Pink Erotic 8 HD
+https://a.cehennem.workers.dev/playlist/2215.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Dad Crush
+https://a.cehennem.workers.dev/playlist/2216.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Family Swap
+https://a.cehennem.workers.dev/playlist/2217.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Family Strokes
+https://a.cehennem.workers.dev/playlist/2218.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Cum4k UHD
+https://a.cehennem.workers.dev/playlist/2219.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Cum Perfection
+https://a.cehennem.workers.dev/playlist/2220.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2MetArt FHD
+https://a.cehennem.workers.dev/playlist/2221.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Bratty Sis
+https://a.cehennem.workers.dev/playlist/2222.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Brand New Amateurs
+https://a.cehennem.workers.dev/playlist/2223.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Beate Uhse
+https://a.cehennem.workers.dev/playlist/2224.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2BBC Pie
+https://a.cehennem.workers.dev/playlist/2225.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2FTV Girls HD
+https://a.cehennem.workers.dev/playlist/2226.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Bang POV
+https://a.cehennem.workers.dev/playlist/2227.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Bang Bus
+https://a.cehennem.workers.dev/playlist/2228.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Banana Fever
+https://a.cehennem.workers.dev/playlist/2229.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Asshole Fever
+https://a.cehennem.workers.dev/playlist/2230.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Ass Parade
+https://a.cehennem.workers.dev/playlist/2231.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Anal Time
+https://a.cehennem.workers.dev/playlist/2232.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Anal Teen Angels
+https://a.cehennem.workers.dev/playlist/2233.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Anal Only
+https://a.cehennem.workers.dev/playlist/2234.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Hot Wife XXX
+https://a.cehennem.workers.dev/playlist/2235.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Tushy
+https://a.cehennem.workers.dev/playlist/2236.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Anal Mom
+https://a.cehennem.workers.dev/playlist/2237.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Anal 4K
+https://a.cehennem.workers.dev/playlist/2238.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Amateur Boxxx
+https://a.cehennem.workers.dev/playlist/2239.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2All Anal
+https://a.cehennem.workers.dev/playlist/2240.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Alex Legend
+https://a.cehennem.workers.dev/playlist/2241.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Alba XXX 2 HD
+https://a.cehennem.workers.dev/playlist/2242.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Alba XXX 1 HD
+https://a.cehennem.workers.dev/playlist/2243.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 221 Sextury
+https://a.cehennem.workers.dev/playlist/2244.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Yosso TV Sexy
+https://a.cehennem.workers.dev/playlist/2245.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Liberty Эротика FHD
+https://a.cehennem.workers.dev/playlist/2246.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Tviksel Кино 18+ HD
+https://a.cehennem.workers.dev/playlist/2247.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2Tviksel Кино 18+ International
+https://a.cehennem.workers.dev/playlist/2248.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2BCU Charm HD
+https://a.cehennem.workers.dev/playlist/2249.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2CineMan ExExEx
+https://a.cehennem.workers.dev/playlist/2250.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2CineMan ExExEx TWO
+https://a.cehennem.workers.dev/playlist/2251.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2StrahTV PlayBoyz TV HD
+https://a.cehennem.workers.dev/playlist/2252.m3u8
+#EXTINF:-1 group-title="RUZIEV / EDEM 2StrahTV Ню Арт HD
+https://a.cehennem.workers.dev/playlist/2253.m3u8
 
-#EXTINF:0 tvg-id="ch049" tvg-name="Русская ночь" tvg-logo="http://tvtm.one/images/chIcons/49.png" tvg-rec="0", Русская ночь
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch049/mono.m3u8?token=alxdlp.v2_1PZZne2yZsUp44oFJ84QBe0_bzEbyw9FyrTQcMwFI6v2vnIsaWk2wEhEY46W0i-ClDM1A_kR
-#EXTINF:0 tvg-id="ch050" tvg-name="Playboy" tvg-logo="http://tvtm.one/images/chIcons/50.png" tvg-rec="0", Playboy
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch050/mono.m3u8?token=alxdlp.v2_9jYvx0dzCPyD3JWZB7tSDEKKLg5dHLZwcjnb9uu5vZwY96HUbJxWN1T5ZDzubyrEqZ66db_3
-#EXTINF:0 tvg-id="ch094" tvg-name="Private TV HD" tvg-logo="http://tvtm.one/images/chIcons/94.png" tvg-rec="0", Private TV HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch094/mono.m3u8?token=alxdlp.v2_h7IIdYzxz36MA7arzlpcNvtrv500riKcIwdOFfz3yrT_qThoiltv5hlCUOVD65XiEeujU8nv
-#EXTINF:0 tvg-id="ch093" tvg-name="Brazzers TV HD" tvg-logo="http://tvtm.one/images/chIcons/93.png" tvg-rec="0", Brazzers TV HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch093/mono.m3u8?token=alxdlp.v2_qsrw8Wo552bnEeANMYiv8PE0V1iSDXWrSQGg6bjIepMGFNNPt-rmebBC4V_DHEWx-sbglVrb
-#EXTINF:0 tvg-id="ch096" tvg-name="Hustler HD" tvg-logo="http://tvtm.one/images/chIcons/96.png" tvg-rec="0", Hustler HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch096/mono.m3u8?token=alxdlp.v2_61W9nTbjTFkFpvg6LWxWpt7SFlS73hcEIeOXzJ5VComuyJnpK2dLocn3bexXfdqmUDBO7t4-
-#EXTINF:0 tvg-id="ch097" tvg-name="Dorcel HD" tvg-logo="http://tvtm.one/images/chIcons/97.png" tvg-rec="0", Dorcel HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch097/mono.m3u8?token=alxdlp.v2_cmM-_kmpo000m_4rewM2IVRSJu4dZ_3nuVk0wf4V6ZKcPox1ZGkRn5tf5kdUk6WIBMP4hsdo
-#EXTINF:0 tvg-id="ch381" tvg-name="Penthouse Gold HD" tvg-logo="http://tvtm.one/images/chIcons/381.png" tvg-rec="0", Penthouse Gold HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch381/mono.m3u8?token=alxdlp.v2_mMsxU2WA1B1ujbWvOdBJrsb9Ax6An0iGTEgsCuDPmOzZyHLvZDCtTT-GQYzXbE1jr6jbZ5qLOQ
-#EXTINF:0 tvg-id="ch819" tvg-name="Penthouse Passion HD" tvg-logo="http://tvtm.one/images/chIcons/819.png" tvg-rec="0", Penthouse Passion HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch819/mono.m3u8?token=alxdlp.v2_q4R0rxrpPGQ5qO6bAdgOJLPmMo1YCqiRI19vGnZsShc3BRV1u0oW_qzPaMcwPvjLQXW5F1_TWg
-#EXTINF:0 tvg-id="ch791" tvg-name="Penthouse Quickies HD" tvg-logo="http://tvtm.one/images/chIcons/791.png" tvg-rec="0", Penthouse Quickies HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch791/mono.m3u8?token=alxdlp.v2_WfOMTHrI4yp5t-5dMZwe846-rjJoMrFLH-zb86_rOiAqE_YX8mQ-c9PCXWRqQftuH-PVS7M5Jw
-#EXTINF:0 tvg-id="ch826" tvg-name="Vivid Red HD" tvg-logo="http://tvtm.one/images/chIcons/826.png" tvg-rec="0", Vivid Red HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch826/mono.m3u8?token=alxdlp.v2_T2Cwgc6dwHx4lU2Kc_tOsS-MZzfm4n0ILYwmMk-c-0xEC4U37KuxtVZ0ahv3KWsby4nXwXVuvg
-#EXTINF:0 tvg-id="ch805" tvg-name="Vivid Touch" tvg-logo="http://tvtm.one/images/chIcons/805.png" tvg-rec="0", Vivid Touch
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch805/mono.m3u8?token=alxdlp.v2_wDytdR1JFkCJitN7ZrqhRbz9giSrOJmfSREOpxm7egVFcyzd2khhNcNh08xlUxQbFEvTj0_LMg
-#EXTINF:0 tvg-id="ch842" tvg-name="Dusk HD" tvg-logo="http://tvtm.one/images/chIcons/842.png" tvg-rec="0", Dusk HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch842/mono.m3u8?token=alxdlp.v2_smt0Bg4svKyQlc-rxeD__3NhruwzsNUvnT87L3vBpIG-woDswUIc-yuDxiww33DKiDJY15uoug
-#EXTINF:0 tvg-id="ch380" tvg-name="Pornbox A Girls Knows" tvg-logo="http://tvtm.one/images/chIcons/380.png" tvg-rec="0", Pornbox A Girls Knows
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch380/mono.m3u8?token=alxdlp.v2_tvrWtIQEyKZJcds1Was7KtJ7LFpDfm2MgKEPmviO3Uqqwuajij2nl7qEbq9Zwe_0D9xJVMicLg
-#EXTINF:0 tvg-id="ch248" tvg-name="Pornbox Adult Time" tvg-logo="http://tvtm.one/images/chIcons/248.png" tvg-rec="0", Pornbox Adult Time
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch248/mono.m3u8?token=alxdlp.v2_KFQs0xFMK4ozHydlSwnSWvi3peeZq0ns1VONtRihrxmxI332KnHS3Ah8T9kCNdyo3h56k_scYQ
-#EXTINF:0 tvg-id="ch810" tvg-name="Pornbox All Group Sex" tvg-logo="http://tvtm.one/images/chIcons/810.png" tvg-rec="0", Pornbox All Group Sex
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch810/mono.m3u8?token=alxdlp.v2_wdJSrgmZS3a5h_t9kK0jTMt6b8HQm4GNAxHFPon1APO1m3k1sKx-EmTmqESUYfQupeTMYrGEDg
-#EXTINF:0 tvg-id="ch793" tvg-name="Pornbox Bums Bus" tvg-logo="http://tvtm.one/images/chIcons/793.png" tvg-rec="0", Pornbox Bums Bus
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch793/mono.m3u8?token=alxdlp.v2_SK11ZY4I7P5cKvXWge-1KJ_kQBKGJ8dkPNlR7jfcgtHotuD_pyqcoiAvPQeOKZmEcZHLZOiOYA
-#EXTINF:0 tvg-id="ch051" tvg-name="Pornbox Babes" tvg-logo="http://tvtm.one/images/chIcons/51.png" tvg-rec="0", Pornbox Babes
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch051/mono.m3u8?token=alxdlp.v2_iGRRuXBCGQ8WL08Kz5ao5FF3HwkDgE5HeDXEYWX4gqQKN9IQRbVG1sBH7BxvRJDg28bFLxrZ
-#EXTINF:0 tvg-id="ch792" tvg-name="Pornbox Bratty Sis" tvg-logo="http://tvtm.one/images/chIcons/792.png" tvg-rec="0", Pornbox Bratty Sis
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch792/mono.m3u8?token=alxdlp.v2_OtsSEeD-ss9Vf90JYoHTgmTuY01ZfaW6edvF3uI7wj_89ov91gLSzRly_vWBo9wV8mq6jKhy2Q
-#EXTINF:0 tvg-id="ch246" tvg-name="Pornbox Blacked" tvg-logo="http://tvtm.one/images/chIcons/246.png" tvg-rec="0", Pornbox Blacked
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch246/mono.m3u8?token=alxdlp.v2_tB2BylLUlBeosNmthFdeyhoxTfBmDX5joeZ2_aIsAcjSWAJpMCgtxecGaC0-_7UBXUy8SdUqXw
-#EXTINF:0 tvg-id="ch053" tvg-name="Pornbox Cum 4K" tvg-logo="http://tvtm.one/images/chIcons/53.png" tvg-rec="0", Pornbox Cum 4K
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch053/mono.m3u8?token=alxdlp.v2_acb-EOGDPS6kwqbJp_JAWYrZV_DN4ifAA6R7dFaHM4VbSxbLHyxLxR_j8N2GK9br_Sy74lp4
-#EXTINF:0 tvg-id="ch795" tvg-name="Pornbox Casting Couch" tvg-logo="http://tvtm.one/images/chIcons/795.png" tvg-rec="0", Pornbox Casting Couch
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch795/mono.m3u8?token=alxdlp.v2_spHEB9znjCTl4a5KFxSpXk5bfLMyvRhUc5sYxSUct_Thk-C_mly5ZP9YSqZzgTKtWB29Knc15w
-#EXTINF:0 tvg-id="ch377" tvg-name="Pornbox Dogfart Network" tvg-logo="http://tvtm.one/images/chIcons/377.png" tvg-rec="0", Pornbox Dogfart Network
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch377/mono.m3u8?token=alxdlp.v2_jou0ziM1vf2vpVzSTVdPUMdcjlw2-SNNpshcXj20_W31OJcxnO5ZYlxlSYUjt9daqmNDpIECMA
-#EXTINF:0 tvg-id="ch376" tvg-name="Pornbox DDF Busty" tvg-logo="http://tvtm.one/images/chIcons/376.png" tvg-rec="0", Pornbox DDF Busty
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch376/mono.m3u8?token=alxdlp.v2_Ci4hcVTlrdAZM5nxqGk9xtDbdsmEr_4oFPx8KfnmDQEIlxMd_BgAtZxf4xP7h2JlzZvvSEXmvA
-#EXTINF:0 tvg-id="ch291" tvg-name="Pornbox Diabolic" tvg-logo="http://tvtm.one/images/chIcons/291.png" tvg-rec="0", Pornbox Diabolic
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch291/mono.m3u8?token=alxdlp.v2_F-m2tS7JZlKrRNKMUpgSp1WHeHccf38xHcIMjGSaO7tAr5zqMiDlqqUMi173Ym7YOVBBgqrHlw
-#EXTINF:0 tvg-id="ch052" tvg-name="Pornbox Gender X Films" tvg-logo="http://tvtm.one/images/chIcons/52.png" tvg-rec="0", Pornbox Gender X Films
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch052/mono.m3u8?token=alxdlp.v2_ldpCG-ftm_Lj9-YzcbrPN_JPijxBuqSsny_pM4ZWejViVVYghQBblb-WaiRdK72PYoh2LAFa
-#EXTINF:0 tvg-id="ch801" tvg-name="Pornbox Family Strokes" tvg-logo="http://tvtm.one/images/chIcons/801.png" tvg-rec="0", Pornbox Family Strokes
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch801/mono.m3u8?token=alxdlp.v2_E4I96wkYTg6lRI6Xm_2dCwLg0CabckZSRu5FU8-G6UXrMs0powL6HgCfYDGRr6mRuw52oRq_Dw
-#EXTINF:0 tvg-id="ch803" tvg-name="Pornbox Fake Taxi" tvg-logo="http://tvtm.one/images/chIcons/803.png" tvg-rec="0", Pornbox Fake Taxi
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch803/mono.m3u8?token=alxdlp.v2_fo5vqoXWEfHgWcLDWMxJ_sBJrvOzRFgkTPZBNe9fC5E668FW2RLtieNxRV-b9Us0SCLrw-XKHg
-#EXTINF:0 tvg-id="ch794" tvg-name="Pornbox Fake Hostel" tvg-logo="http://tvtm.one/images/chIcons/794.png" tvg-rec="0", Pornbox Fake Hostel
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch794/mono.m3u8?token=alxdlp.v2_EoBuiqPJtmQC9SMwZqsWOa1YIMyfhP_ygneIomXB2AjXqRRyJ9lzW8J4pWl0RaKHWKmjzenHHA
-#EXTINF:0 tvg-id="ch799" tvg-name="Pornbox First Anal Quest" tvg-logo="http://tvtm.one/images/chIcons/799.png" tvg-rec="0", Pornbox First Anal Quest
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch799/mono.m3u8?token=alxdlp.v2_QzZnhb2CV3G_DcPGfABKX2V6EO8n6HLMkUq2zgFRuQoC-aAv1d-jW1ZE6ViEAva3d8Q7hsDVRw
-#EXTINF:0 tvg-id="ch798" tvg-name="Pornbox Fit 18" tvg-logo="http://tvtm.one/images/chIcons/798.png" tvg-rec="0", Pornbox Fit 18
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch798/mono.m3u8?token=alxdlp.v2_xDk6qnFo21E5PcpANs4Z4jCvC_G9RTfRdi0eO7FM8f0SdLvEYa9MxvZRqhm4Eo6ibw20f25JFg
-#EXTINF:0 tvg-id="ch800" tvg-name="Pornbox Fapadoo" tvg-logo="http://tvtm.one/images/chIcons/800.png" tvg-rec="0", Pornbox Fapadoo
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch800/mono.m3u8?token=alxdlp.v2_im1ysaCU7q5Yy49kpNaAJhiRS_EiIFX2ggI0hAiA62ZR6uHt30Sxxi-HEJ0muhLefbx0aB_K8Q
-#EXTINF:0 tvg-id="ch824" tvg-name="Pornbox Holed" tvg-logo="http://tvtm.one/images/chIcons/824.png" tvg-rec="0", Pornbox Holed
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch824/mono.m3u8?token=alxdlp.v2_miBw956d5JbO_n5lpoKcBN0dG60vSZFu4BHYJ6F9Qtw5NQ5wYop1zASANAt31PD3HdhBZ3EJMw
-#EXTINF:0 tvg-id="ch250" tvg-name="Pornbox Hentained" tvg-logo="http://tvtm.one/images/chIcons/250.png" tvg-rec="0", Pornbox Hentained
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch250/mono.m3u8?token=alxdlp.v2_fSD5msgYosNpP7yQ-1t1pGHz8YTB-dcy9OZcNeHKXow6yKwPydQpd6ZCAqnoZel6WwDRMUhknA
-#EXTINF:0 tvg-id="ch249" tvg-name="Pornbox Jules Jordan" tvg-logo="http://tvtm.one/images/chIcons/249.png" tvg-rec="0", Pornbox Jules Jordan
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch249/mono.m3u8?token=alxdlp.v2_51KFh8ZlZ0nM-3wSqwCH_lrZeOdgTg9rTNNu2hXBr0gSb0ksKaPOLpQ0PejoXPlI-zFfyMOTWw
-#EXTINF:0 tvg-id="ch290" tvg-name="Pornbox Jays Pov" tvg-logo="http://tvtm.one/images/chIcons/290.png" tvg-rec="0", Pornbox Jays Pov
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch290/mono.m3u8?token=alxdlp.v2_vpphA2pL_vmAZKkJXlam5g3DM17rwBWKy7ZoNJbQ2KzZNCkQ1WY67zyocKBeQxYSqhQbeFh9Og
-#EXTINF:0 tvg-id="ch375" tvg-name="Pornbox Jesh By Jesh" tvg-logo="http://tvtm.one/images/chIcons/375.png" tvg-rec="0", Pornbox Jesh By Jesh
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch375/mono.m3u8?token=alxdlp.v2_RY5DJQJ2s1E5IC6Q_RADqz3JaEnoJpKl9iNzGCo_Eml2LHNUNluMLz6gviriCLWFfTjuU8FDQA
-#EXTINF:0 tvg-id="ch823" tvg-name="Pornbox Interracial Pass" tvg-logo="http://tvtm.one/images/chIcons/823.png" tvg-rec="0", Pornbox Interracial Pass
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch823/mono.m3u8?token=alxdlp.v2_ueYCDPEGNPhmv61joNSytDayoi_qVJkciqz-8HgDpPktaOiH5FvIOnzZIwU6HKHIEDFAKcE4MA
-#EXTINF:0 tvg-id="ch289" tvg-name="Pornbox Kinky Family" tvg-logo="http://tvtm.one/images/chIcons/289.png" tvg-rec="0", Pornbox Kinky Family
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch289/mono.m3u8?token=alxdlp.v2_BnQFTRPnNn1Rq4l9TZclDN8mSqj9gL55TtaqSMAwSghcmVpWR-9POzZlgKWUcJ9P5xmJa3AlEA
- #EXTINF:0 tvg-id="ch809" tvg-name="Pornbox Lets Do It" tvg-logo="http://tvtm.one/images/chIcons/809.png" tvg-rec="0", Pornbox Lets Do It
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch809/mono.m3u8?token=alxdlp.v2_3iW6wAThwmaMNCgNsx56ycXJmqL-qQbYPoIeEbnuLssLxKvW9NpxVuGS7veTkaSGL5kXeBrU6g
-#EXTINF:0 tvg-id="ch813" tvg-name="Pornbox Love Her Feet" tvg-logo="http://tvtm.one/images/chIcons/813.png" tvg-rec="0", Pornbox Love Her Feet
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch813/mono.m3u8?token=alxdlp.v2_hkMJ53Uz0nffP95o-0-acqkUqywegJYv5jXsnpqz1seJJQ9NpKIBIbbptSfKjx3vt8EMTQsXgA
-#EXTINF:0 tvg-id="ch807" tvg-name="Pornbox Love Home Porn" tvg-logo="http://tvtm.one/images/chIcons/807.png" tvg-rec="0", Pornbox Love Home Porn
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch807/mono.m3u8?token=alxdlp.v2_lIV_m2xPke_fyoSY_MqYbuGHEAWbncIa1JW1U-XfSx5NOZbXzazYxKtt_EGKay1BLsOIFnZ0NQ
-#EXTINF:0 tvg-id="ch850" tvg-name="Pornbox Massage Rooms" tvg-logo="http://tvtm.one/images/chIcons/850.png" tvg-rec="0", Pornbox Massage Rooms
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch850/mono.m3u8?token=alxdlp.v2_139-Wxq26Bji_GdfFTumdYpA1Xt0rfnpaPSnZw3jVzn5Vhmg0CMN7pdYc3CxJDUn0fKX-iAWfg
-#EXTINF:0 tvg-id="ch815" tvg-name="Pornbox My Tiny Wish" tvg-logo="http://tvtm.one/images/chIcons/815.png" tvg-rec="0", Pornbox My Tiny Wish
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch815/mono.m3u8?token=alxdlp.v2_I61J0HefXt4s5nD5x4G_KoQAD6sgOw1y2N0ZbOQ9ZWhN39Zw_9aIzvCRi7HZzuxDUZcbEtM7ug
-#EXTINF:0 tvg-id="ch817" tvg-name="Pornbox My Family Pies" tvg-logo="http://tvtm.one/images/chIcons/817.png" tvg-rec="0", Pornbox My Family Pies
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch817/mono.m3u8?token=alxdlp.v2_0Vivy1Mg5wymYoqheyBPsJ-PWYGV1SBoFA1FFaBTKhWpT3kskWXNXDW0uwiLAYbqTV1AQOm8lw
-#EXTINF:0 tvg-id="ch806" tvg-name="Pornbox Must Not Fap" tvg-logo="http://tvtm.one/images/chIcons/806.png" tvg-rec="0", Pornbox Must Not Fap
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch806/mono.m3u8?token=alxdlp.v2_wk0L4I35Go3zETfZELBJqkmn5hua7Q8M8T0-PX4fS-t6RDoArMW1dz5FwR4kyQ9tKTT46HMjAA
-#EXTINF:0 tvg-id="ch292" tvg-name="Pornbox Model Media Asia" tvg-logo="http://tvtm.one/images/chIcons/292.png" tvg-rec="0", Pornbox Model Media Asia
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch292/mono.m3u8?token=alxdlp.v2_fcKWlTT81nuP8ymPBLOG0pKzI3JNz5t-xb4kCte9WzAEmcVpMvUzIiiWLxErMu1daPpuxSAYMg
-#EXTINF:0 tvg-id="ch816" tvg-name="Pornbox Mom Teach Sex" tvg-logo="http://tvtm.one/images/chIcons/816.png" tvg-rec="0", Pornbox Mom Teach Sex
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch816/mono.m3u8?token=alxdlp.v2_UnsLJ53b2Vo-XvFkTMjCrbFRMWokaq8cxGU-ykzFcdh5xecWi_bQ6N89hU69PgfQDNCv7n5oLw
-#EXTINF:0 tvg-id="ch802" tvg-name="Pornbox Mamacitaz" tvg-logo="http://tvtm.one/images/chIcons/802.png" tvg-rec="0", Pornbox Mamacitaz
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch802/mono.m3u8?token=alxdlp.v2_WZX-ZQhqHzcEuKhRcyLIBK-LQMAmWLqctlb42Jlu_Oxvvm7E7lC4E8_3BE-EAAMuibecpfQu2Q
-#EXTINF:0 tvg-id="ch814" tvg-name="Pornbox My Dirty Hobby" tvg-logo="http://tvtm.one/images/chIcons/814.png" tvg-rec="0", Pornbox My Dirty Hobby
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch814/mono.m3u8?token=alxdlp.v2_HWLmA2w-h6Go6HF9HiyfELPW5QTiLkwOsfe4wIdlSEyluPexhDPzcHQOrjtsYKfiPu0q30uohw
-#EXTINF:0 tvg-id="ch247" tvg-name="Pornbox Pornochic" tvg-logo="http://tvtm.one/images/chIcons/247.png" tvg-rec="0", Pornbox Pornochic
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch247/mono.m3u8?token=alxdlp.v2_nE3ESin0KFg0sFCXjQ3EwG3Wwu2BECQm8oD173JNSFnoM5wjoviePTJm4Oo6wtaO1HZ6w8KQ5Q
-#EXTINF:0 tvg-id="ch797" tvg-name="Pornbox Public Agent" tvg-logo="http://tvtm.one/images/chIcons/797.png" tvg-rec="0", Pornbox Public Agent
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch797/mono.m3u8?token=alxdlp.v2_LnY95q6VwNGsPnBOazatvqOfv1vY0qEGE7_aWvSgnUB7CZjz4aJrpiQkdysfjUIaYZ_ich1-pw
-#EXTINF:0 tvg-id="ch820" tvg-name="Pornbox Passion" tvg-logo="http://tvtm.one/images/chIcons/820.png" tvg-rec="0", Pornbox Passion
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch820/mono.m3u8?token=alxdlp.v2_fhCZAFZPguDWi7kwrQYaX3ilVOD5hLJnqFT3VREQXtJmkmZp6BauZc6VyzjD_qKFBv4tEvZqlA
-#EXTINF:0 tvg-id="ch804" tvg-name="Pornbox Pure Mature" tvg-logo="http://tvtm.one/images/chIcons/804.png" tvg-rec="0", Pornbox Pure Mature
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch804/mono.m3u8?token=alxdlp.v2_E0-4EA_F-3_harkRpsAppukBHymbmFbUCL3dgckvSqbvkUrwkY7i9vPiMyXI4BfKN9irgfoubw
-#EXTINF:0 tvg-id="ch812" tvg-name="Pornbox Princess Cum" tvg-logo="http://tvtm.one/images/chIcons/812.png" tvg-rec="0", Pornbox Princess Cum
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch812/mono.m3u8?token=alxdlp.v2_XRB4osclOjO6pr3g4KEO0HvWKw4BxMXPU77PU5Djq9pCB8kNSmHgkzLoCUevoC8Tw-vDiQ6Eug
-#EXTINF:0 tvg-id="ch811" tvg-name="Pornbox Real Dirty Videos" tvg-logo="http://tvtm.one/images/chIcons/811.png" tvg-rec="0", Pornbox Real Dirty Videos
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch811/mono.m3u8?token=alxdlp.v2_p1KnY-WSKU0nwn0ici_5CoDMpvJMMwl6iPoYjbHh102ppLNrtgfyx_VzvGgY_VjikmZYEwBKvQ
-#EXTINF:0 tvg-id="ch821" tvg-name="Pornbox Reality Junkies" tvg-logo="http://tvtm.one/images/chIcons/821.png" tvg-rec="0", Pornbox Reality Junkies
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch821/mono.m3u8?token=alxdlp.v2_MdcBcPtsNy29L7gS2lHIfAYGrosIJL8WSee2_oSnBuOY-8ESWT2ki7xvtX8-dY5O25LiJjwbng
-#EXTINF:0 tvg-id="ch822" tvg-name="Pornbox Reality Kings" tvg-logo="http://tvtm.one/images/chIcons/822.png" tvg-rec="0", Pornbox Reality Kings
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch822/mono.m3u8?token=alxdlp.v2_xk7sJX80ze3D5sD1P-n4fvCqi2Ff-eA0NmqnfjORnOMV8HFL9jEWezNuJWacI3VfraYWhpA6Bg
-#EXTINF:0 tvg-id="ch796" tvg-name="Pornbox Slim 4K" tvg-logo="http://tvtm.one/images/chIcons/796.png" tvg-rec="0", Pornbox Slim 4K
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch796/mono.m3u8?token=alxdlp.v2_sBYFUV_CEeDfCXdrDMuVl8Yg4aOVjg5nLyjJ6bHbKtqnpilOsjA98O7oE7D867RQjlWnma-JrA
-#EXTINF:0 tvg-id="ch818" tvg-name="Pornbox Strokies" tvg-logo="http://tvtm.one/images/chIcons/818.png" tvg-rec="0", Pornbox Strokies
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch818/mono.m3u8?token=alxdlp.v2_UXsVAmfRVgOsRZcu16qa0YByhULwTCgEA-s8A6oVjjy_STX3EajDRY6jGnBXVcBdBcOORsll2Q
-#EXTINF:0 tvg-id="ch825" tvg-name="Pornbox True Amatuers" tvg-logo="http://tvtm.one/images/chIcons/825.png" tvg-rec="0", Pornbox True Amatuers
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch825/mono.m3u8?token=alxdlp.v2_oOBjCzPg6Q7o9lp2qUdE4UY7TpGK7d6_TrEjKZC30mc_oVd5YqYRZEMPeTSVLJtmz_n4Q8nkIg
-#EXTINF:0 tvg-id="ch851" tvg-name="Pornbox Elsa Jean Pornstar" tvg-logo="http://tvtm.one/images/chIcons/851.png" tvg-rec="0", Pornbox Elsa Jean Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch851/mono.m3u8?token=alxdlp.v2_CIUgaronggEkt65Lm13a-p7u2B5Xo09UsyaOk2Hw0ca93YKcMrzxxp9lBMFZnYwIKC_tkPt9XA
-#EXTINF:0 tvg-id="ch808" tvg-name="Pornbox Riley Reid Pornstar" tvg-logo="http://tvtm.one/images/chIcons/808.png" tvg-rec="0", Pornbox Riley Reid Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch808/mono.m3u8?token=alxdlp.v2_D1A73dHiFyJZehJE_pQ1DUsDK5ICCi7vAojLGlPQC0Udt9nc29vqfv27wew2iLTshEsw4fc-GQ
-#EXTINF:0 tvg-id="ch836" tvg-name="Pornbox Adriana Chechik Pornstar" tvg-logo="http://tvtm.one/images/chIcons/836.png" tvg-rec="0", Pornbox Adriana Chechik Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch836/mono.m3u8?token=alxdlp.v2_KjpxO1kca52rshyPIbfRGg80c6of5a_lvc4DlExU6bumqZ6jC9SXC3EXVggFt9J-VSZ8UROPXw
-#EXTINF:0 tvg-id="ch837" tvg-name="Pornbox Dani Jensen Pornstar" tvg-logo="http://tvtm.one/images/chIcons/837.png" tvg-rec="0", Pornbox Dani Jensen Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch837/mono.m3u8?token=alxdlp.v2_FkFT6CSKAR5ThKI2abIhWHJ-oMenqU9gKsQfczlUKtQPekfKQBy1zjHEloHsiqnmFJGEwQkrGg
-#EXTINF:0 tvg-id="ch838" tvg-name="Pornbox Gina Gerson Pornstar" tvg-logo="http://tvtm.one/images/chIcons/838.png" tvg-rec="0", Pornbox Gina Gerson Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch838/mono.m3u8?token=alxdlp.v2_wjkpBkIfzNOnp-9jDnjUQaTyFxYbT4b77zgog-7QBfEgnezfjsmSkeDQlTdrU-ur3kUWtFK7Qw
-#EXTINF:0 tvg-id="ch839" tvg-name="Pornbox Luxurygirl Pornstar" tvg-logo="http://tvtm.one/images/chIcons/839.png" tvg-rec="0", Pornbox Luxurygirl Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch839/mono.m3u8?token=alxdlp.v2_BFNTyK_oDJel3RFMpQIEeVVB-aQMYhP2R0kZXGpZx8lvK2OdkG8VvCwIkcQ65GSgLMb0NG1Piw
-#EXTINF:0 tvg-id="ch840" tvg-name="Pornbox Mia Malkova Pornstar" tvg-logo="http://tvtm.one/images/chIcons/840.png" tvg-rec="0", Pornbox Mia Malkova Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch840/mono.m3u8?token=alxdlp.v2_MzUPN81tXozWGqalxjKRso769pHs0IUXJt2QVrP4hkL2d23j75pw7oTSr66NRKkV6doOL4BCUw
-#EXTINF:0 tvg-id="ch841" tvg-name="Pornbox Lisa Ann Pornstar" tvg-logo="http://tvtm.one/images/chIcons/841.png" tvg-rec="0", Pornbox Lisa Ann Pornstar
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch841/mono.m3u8?token=alxdlp.v2_HPrGUTdBFWxKrkm76il0OSekl430ENwNKgFpEEZYwfN2P5Wjug48x6_D1EIx83YUb5QtPQHz4A
-#EXTINF:0 tvg-id="ch1507" tvg-name="Sex View 4K" tvg-logo="http://tvtm.one/images/chIcons/1507.png" tvg-rec="0", Sex View 4K
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch1507/mono.m3u8?token=alxdlp.v2__RzOtbJvnnsQbrYb1ZTLk0OP0vT498d4_kRIBXAHCuk2EDUheM2ovDah8HZc0gjiKae3JtjzK40
-#EXTINF:0 tvg-id="ch1893" tvg-name="Sex View Gay" tvg-logo="http://tvtm.one/images/chIcons/1893.png" tvg-rec="0", Sex View Gay
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch1893/mono.m3u8?token=alxdlp.v2_E9TVZW1TifPNeHZymdZ8OVHM6D3-eX6iJUUsx488pjy_XFJaj5La0Kdb5RKgYmy_TRLQtGCW5tw
-#EXTINF:0 tvg-id="ch655" tvg-name="Eromania 4K" tvg-logo="http://tvtm.one/images/chIcons/655.png" tvg-rec="0", Eromania 4K
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch655/mono.m3u8?token=alxdlp.v2_NoTJeCbesXHKQ_3DbSRaT1hI9JGz2C2SkmsGnjjV2v6YkdRs2kczOZ2v9XlK1JprW-ZrJItQCw
-#EXTINF:0 tvg-id="ch1546" tvg-name="BCU Charm HD" tvg-logo="http://tvtm.one/images/chIcons/1546.png" tvg-rec="3", BCU Charm HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch1546/mono.m3u8?token=alxdlp.v2_TUhqHM1n-veT5Trbz2Pl4cW1hzSEc3sFDRj7TRGx5FhKUrPWiVv3B3VQX47m-qkKX2YGR_fYtjw
-#EXTINF:0 tvg-id="ch1756" tvg-name="Liberty Эротика FHD" tvg-logo="http://tvtm.one/images/chIcons/1756.png" tvg-rec="3", Liberty Эротика FHD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch1756/mono.m3u8?token=alxdlp.v2_d7wxb8_8sVJ3Hui68gIFOXyl7i_w3OminUde_NBlxK1wdBfgcnSTZ3RE0wp2i0UWasyVBBAFu2g
-#EXTINF:0 tvg-id="ch1302" tvg-name="Yosso TV Sexy" tvg-logo="http://tvtm.one/images/chIcons/1302.png" tvg-rec="3", Yosso TV Sexy
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch1302/mono.m3u8?token=alxdlp.v2_HERCT0Xp_dLDdA48O6BxaqmTzZBgW39S0S3rbrJWq_sw2XvULqm0b6U2iPe3CiwuWNPMZqKasIY
-#EXTINF:0 tvg-id="ch3179" tvg-name="Sky High Sex HD" tvg-logo="http://tvtm.one/images/chIcons/3179.png" tvg-rec="0", Sky High Sex HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3179/mono.m3u8?token=alxdlp.v2_hW0vcluchr1edI2V_bG8EjP2ygUafCtTn1ekw-pAvOWhxYV4aE0cpdGUhL4pb8v_KoGqiDt4Ejw
-#EXTINF:0 tvg-id="ch3100" tvg-name="CineMan XXX FHD" tvg-logo="http://tvtm.one/images/chIcons/3100.png" tvg-rec="0", CineMan XXX FHD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3100/mono.m3u8?token=alxdlp.v2_Ub09a4b_nxmhY7oS6fW2tZsEtuuYkxiXOMz-Zdcqog2_JVBRzzV68u_mgrxSNCCIecYHBhCPtJg
-#EXTINF:0 tvg-id="ch3101" tvg-name="CineMan XXX2 FHD" tvg-logo="http://tvtm.one/images/chIcons/3101.png" tvg-rec="0", CineMan XXX2 FHD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3101/mono.m3u8?token=alxdlp.v2_lkgkTqWSXwT3OpHLQCXwaeoFONJvNF6DOEKiOAn55frzOXkUQirSq0TukeFyprCJqB7OoD8nzTI
-#EXTINF:0 tvg-id="ch3181" tvg-name="Velilla TV Adult Channel HD" tvg-logo="http://tvtm.one/images/chIcons/3181.png" tvg-rec="0", Velilla TV Adult Channel HD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3181/mono.m3u8?token=alxdlp.v2_bX6LDsq3zmRh0JAkQdSmFNhuelOldJkoO37luWnyZUKOcaHdPPyCLsjICytk6iw0tybg9eXAZmg
-#EXTINF:0 tvg-id="ch1987" tvg-name="Pink X" tvg-logo="http://tvtm.one/images/chIcons/1987.png" tvg-rec="0", Pink X
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch1987/mono.m3u8?token=alxdlp.v2_tgclSBHecM3aN2IPadJdfxPg4J2kxiQpLhc1xTJHjVdPvgso3E327btBJD5IROB9qpxwwc-f_XY
-#EXTINF:0 tvg-id="ch2896" tvg-name="EroLuxe Blondes" tvg-logo="http://tvtm.one/images/chIcons/2896.png" tvg-rec="0", EroLuxe Blondes
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2896/mono.m3u8?token=alxdlp.v2_YRipL1v3PN6cfnL7W-0cV7sjYwD9lE8wuE_ILSH0RgxUoVvD7Egn611-DkzlprYmk1telTqNGOQ
-#EXTINF:0 tvg-id="ch2897" tvg-name="EroLuxe Anal" tvg-logo="http://tvtm.one/images/chIcons/2897.png" tvg-rec="0", EroLuxe Anal
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2897/mono.m3u8?token=alxdlp.v2_xPyFXoJtuSxEipirIGu_CU0ZT378NnOC2sUeoliyuXsRRqED9pgpcCYPD7Z7S7pBGgFBF-wJAO8
-#EXTINF:0 tvg-id="ch2898" tvg-name="EroLuxe Blowjob" tvg-logo="http://tvtm.one/images/chIcons/2898.png" tvg-rec="0", EroLuxe Blowjob
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2898/mono.m3u8?token=alxdlp.v2_rUxTuC8K0uQ0cmcodaN3cQJFsh4Ec7nwFjLDUCFBLrYnGXsiugnhdc9gmhy7dSolztRwb6ZGonQ
-#EXTINF:0 tvg-id="ch2899" tvg-name="EroLuxe Cinema" tvg-logo="http://tvtm.one/images/chIcons/2899.png" tvg-rec="0", EroLuxe Cinema
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2899/mono.m3u8?token=alxdlp.v2_xPXSgIhiwgbQ08WZZldQipoZfAlQEA2NAMnwz8mJeITPEVrq26UEqG4FbiWuBOpQ4jJO5CP0Pps
-#EXTINF:0 tvg-id="ch2900" tvg-name="EroLuxe Cosplay" tvg-logo="http://tvtm.one/images/chIcons/2900.png" tvg-rec="0", EroLuxe Cosplay
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2900/mono.m3u8?token=alxdlp.v2_CqFsXxyoJrh1YaxfrPjgmo5TTPnNqBNF31wHZPYYsop7fU6eBovPlXF_DWn3Zw23wMfA69jol1k
-#EXTINF:0 tvg-id="ch2901" tvg-name="EroLuxe Ebony" tvg-logo="http://tvtm.one/images/chIcons/2901.png" tvg-rec="0", EroLuxe Ebony
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2901/mono.m3u8?token=alxdlp.v2_nX_eJKOxcxrpOUVVv8YP-e2505GyVkaIahIsgAibezTiyqPFrAq7AquBPH4n8S3PY9ZzxWRMFEI
-#EXTINF:0 tvg-id="ch2902" tvg-name="EroLuxe Gays" tvg-logo="http://tvtm.one/images/chIcons/2902.png" tvg-rec="0", EroLuxe Gays
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2902/mono.m3u8?token=alxdlp.v2_4IQN4EqpPZC2HPNDrZfv753AIq65mwhXI6Y5WrUn7RAV0sWg5ZiyLy2NmAaqb2sV93upQQ9B-DM
-#EXTINF:0 tvg-id="ch2903" tvg-name="EroLuxe Gloryhole" tvg-logo="http://tvtm.one/images/chIcons/2903.png" tvg-rec="0", EroLuxe Gloryhole
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2903/mono.m3u8?token=alxdlp.v2_p8sbFHbC8il8S19EIPCIH7uTlp8jJ02JLFUsYhpjH12cj1MQqMvYtkRJsMeyiTVlhRNtm7iv16E
-#EXTINF:0 tvg-id="ch2904" tvg-name="EroLuxe Henati" tvg-logo="http://tvtm.one/images/chIcons/2904.png" tvg-rec="0", EroLuxe Henati
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2904/mono.m3u8?token=alxdlp.v2_udTBk0yV4UoSw37J2LIPEf1ro5DwqeUqpwmUVxgZMf-eRf4tdXBo_sRHlf0gTw9SqD3oH_e2GOE
-#EXTINF:0 tvg-id="ch2905" tvg-name="EroLuxe Japanese" tvg-logo="http://tvtm.one/images/chIcons/2905.png" tvg-rec="0", EroLuxe Japanese
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2905/mono.m3u8?token=alxdlp.v2_HXAXvubrS2unlPgwNiIJ9rIyf1agV8c35AMrxHtm_tQQ8Ny-LGq-g3y7B8Niwo0Yp21jphXVxeM
-#EXTINF:0 tvg-id="ch2906" tvg-name="EroLuxe Orgy" tvg-logo="http://tvtm.one/images/chIcons/2906.png" tvg-rec="0", EroLuxe Orgy
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2906/mono.m3u8?token=alxdlp.v2_np2_a49SVqCiSWXD-2ZG6LIWtUj6p4gNWybR3y5rSHvL7AWONaKs3rImHiXMfnOxpmxvJqizWn0
-#EXTINF:0 tvg-id="ch2907" tvg-name="EroLuxe Massage" tvg-logo="http://tvtm.one/images/chIcons/2907.png" tvg-rec="0", EroLuxe Massage
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2907/mono.m3u8?token=alxdlp.v2_lFcWlSSff1umDtc3LkiF_XW7PPz3TLUP1JqIxQa7GEPkDd3McAlmGKGLEV6ovbE9wAcaZGS3jhk
-#EXTINF:0 tvg-id="ch2908" tvg-name="EroLuxe Lesbians" tvg-logo="http://tvtm.one/images/chIcons/2908.png" tvg-rec="0", EroLuxe Lesbians
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2908/mono.m3u8?token=alxdlp.v2_WrFoYqhZC94mc4ANKcB5pGJeZPq4kR1a3ye0FKl-RKGq3FPJucBQ4rP3iNAZS7SWUXw_j89FMGo
-#EXTINF:0 tvg-id="ch2909" tvg-name="EroLuxe Milf" tvg-logo="http://tvtm.one/images/chIcons/2909.png" tvg-rec="0", EroLuxe Milf
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2909/mono.m3u8?token=alxdlp.v2_kSMZLUDEU2qfHK8PyS0hvB7XEmfzZ91YKgrdH70ilFNvivfnhz9dsLRchsjk-za9IpghYKKxGI8
-#EXTINF:0 tvg-id="ch2910" tvg-name="EroLuxe Step Family" tvg-logo="http://tvtm.one/images/chIcons/2910.png" tvg-rec="0", EroLuxe Step Family
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2910/mono.m3u8?token=alxdlp.v2_qkjQj8okH32_6hJ8t_ilVjHANDOdUspz0lNN0qSfu_8mRlNe6t8m_aGPTjJgQ9nQhNjsnIAJCiw
-#EXTINF:0 tvg-id="ch2911" tvg-name="EroLuxe Solo" tvg-logo="http://tvtm.one/images/chIcons/2911.png" tvg-rec="0", EroLuxe Solo
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2911/mono.m3u8?token=alxdlp.v2_1hFeSUHMPQrC9rcTkzz7tWAMwr3otZUJ9ubZcYTnZYJkjw2zxTzgx9A-56kxDBtapxqVtbueGeg
-#EXTINF:0 tvg-id="ch2912" tvg-name="EroLuxe 60FPS" tvg-logo="http://tvtm.one/images/chIcons/2912.png" tvg-rec="0", EroLuxe 60FPS
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2912/mono.m3u8?token=alxdlp.v2_SgkW5R4VgVVBPME6P62PfI1cGMftY4QF0aEPhggqS9hRF5xbZ_qHBWHq7gTEEp_O-53mdu5jF5k
-#EXTINF:0 tvg-id="ch2913" tvg-name="EroLuxe Shemales" tvg-logo="http://tvtm.one/images/chIcons/2913.png" tvg-rec="0", EroLuxe Shemales
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2913/mono.m3u8?token=alxdlp.v2_TAeoac5Fi-SZOE4a-n8OPDLwEcPyLCcpiAFSTY2YLFQ8dIy9r6ILgPFKZXuf5oRPjCpqg6AUhpk
-#EXTINF:0 tvg-id="ch2914" tvg-name="EroLuxe Russian Teens" tvg-logo="http://tvtm.one/images/chIcons/2914.png" tvg-rec="0", EroLuxe Russian Teens
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2914/mono.m3u8?token=alxdlp.v2_QakUuZ5UzZx2sQoVXB1Z-FxDrRTxhbORwd58lJIhikQ66d1t2xdllTv_f8j5BmYiNb-8rME-flc
-#EXTINF:0 tvg-id="ch2915" tvg-name="EroLuxe Pregnant" tvg-logo="http://tvtm.one/images/chIcons/2915.png" tvg-rec="0", EroLuxe Pregnant
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2915/mono.m3u8?token=alxdlp.v2_U_rjaak-suvWNpilNuXH3GuFJrTueR8rNjTGkaeH234DnZ_q2TUpt619TqjpzJjgH08-UtQWa98
-#EXTINF:0 tvg-id="ch2936" tvg-name="EroLuxe 4K UHD" tvg-logo="http://tvtm.one/images/chIcons/2936.png" tvg-rec="0", EroLuxe 4K UHD
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2936/mono.m3u8?token=alxdlp.v2_5Kxi7qkoR7-bBtIEgGCnVW1sObaecx1hDKr8efCh0Eft-HJbnV1UQhBviMPMeQ718QMl1mGqaYc
-#EXTINF:0 tvg-id="ch2937" tvg-name="EroLuxe VIP 4K 60FPS" tvg-logo="http://tvtm.one/images/chIcons/2937.png" tvg-rec="0", EroLuxe VIP 4K 60FPS
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2937/mono.m3u8?token=alxdlp.v2_S1WRb2Tw8OKcXKSkhNWGSHeT-D_LWBI1RnVJy0q9VsaUOTMl9zcJ5SO3lNkhEk8OyQnzqRfhkVU
-#EXTINF:0 tvg-id="ch2938" tvg-name="EroLuxe B.B.W." tvg-logo="http://tvtm.one/images/chIcons/2938.png" tvg-rec="0", EroLuxe B.B.W.
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2938/mono.m3u8?token=alxdlp.v2_MnnmkYtaKsyIvLep5I1vjaDq6cGPvgnTG2XB2uWVqrtVri7W4JWBI0eBMywwsR3-eRqF5pwmgyM
-#EXTINF:0 tvg-id="ch2939" tvg-name="EroLuxe BabySitter" tvg-logo="http://tvtm.one/images/chIcons/2939.png" tvg-rec="0", EroLuxe BabySitter
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2939/mono.m3u8?token=alxdlp.v2__LvDAj55zQLo29SodvRNzJGASxvcXV_lHGUTxJ-yEIe3ve3S95tVe1RqZyMM7IY4pTj51AE_TnQ
-#EXTINF:0 tvg-id="ch2940" tvg-name="EroLuxe B.D.S.M." tvg-logo="http://tvtm.one/images/chIcons/2940.png" tvg-rec="0", EroLuxe B.D.S.M.
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2940/mono.m3u8?token=alxdlp.v2_FnrMxspEA6m1OER-RWLB-ZdOWA2Wt1fpi_ND5nHKCz7EWCK470Hupbw7dJ7QrvGGLKRVlXgmOzk
-#EXTINF:0 tvg-id="ch2941" tvg-name="EroLuxe Big Cock" tvg-logo="http://tvtm.one/images/chIcons/2941.png" tvg-rec="0", EroLuxe Big Cock
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2941/mono.m3u8?token=alxdlp.v2_QmcU0vBgbcINDXvoOLH2dA2DN0ucT7QVoYpb4ADt-my6FVeGqFOys457HoC0zv-Lqf-OaY3sln0
-#EXTINF:0 tvg-id="ch2942" tvg-name="EroLuxe Brunette" tvg-logo="http://tvtm.one/images/chIcons/2942.png" tvg-rec="0", EroLuxe Brunette
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2942/mono.m3u8?token=alxdlp.v2_POdvxUakXE01EqNh8qQZPwPDAq5NKTOJ-O34uUZ8wBV8UUoLS4qEcME44wcFWZTRJtTo4aghxkg
-#EXTINF:0 tvg-id="ch2943" tvg-name="EroLuxe CheerLeader" tvg-logo="http://tvtm.one/images/chIcons/2943.png" tvg-rec="0", EroLuxe CheerLeader
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2943/mono.m3u8?token=alxdlp.v2_kUDVyQX5C4T9kGi3nPmlVFWdEWI-U9fknywJQ9qLXMEm1H1FQu5JrTKRM_u7TiDAllUWm5oN9wQ
-#EXTINF:0 tvg-id="ch2944" tvg-name="EroLuxe Cuckold" tvg-logo="http://tvtm.one/images/chIcons/2944.png" tvg-rec="0", EroLuxe Cuckold
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2944/mono.m3u8?token=alxdlp.v2_c83ivavxKN0YvXIKEs7qi2XHmNSnaXXGTY6wbHHPiXXMs5Od3q26mbmxbBqmy5jRpDWms6VVaKY
-#EXTINF:0 tvg-id="ch2945" tvg-name="EroLuxe Creampie" tvg-logo="http://tvtm.one/images/chIcons/2945.png" tvg-rec="0", EroLuxe Creampie
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2945/mono.m3u8?token=alxdlp.v2_Txc8RYTJVVaDfHKwlDxLFU712YbnB1P44I2bVTQzW-y_1v4bDrVRMuB208JstUu1n3H0wFyhgu4
-#EXTINF:0 tvg-id="ch2946" tvg-name="EroLuxe Fake Taxi" tvg-logo="http://tvtm.one/images/chIcons/2946.png" tvg-rec="0", EroLuxe Fake Taxi
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2946/mono.m3u8?token=alxdlp.v2_kHZ_HAZYfdOBGigHzQqQrwFBo_HVfU5B1YIPhR82HnXD5t7xZ2idOFwjsMCztgguYrGMMpsN3To
-#EXTINF:0 tvg-id="ch2947" tvg-name="EroLuxe Foot Fetish" tvg-logo="http://tvtm.one/images/chIcons/2947.png" tvg-rec="0", EroLuxe Foot Fetish
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2947/mono.m3u8?token=alxdlp.v2_Ut0NQ16wD7TWNbIkyANZgZYKL9ewIx3DyVSfMzUBgv8o6_0NLM1QHGQYSYRzHHHOdrc6LS14HyQ
-#EXTINF:0 tvg-id="ch2948" tvg-name="EroLuxe Fisting" tvg-logo="http://tvtm.one/images/chIcons/2948.png" tvg-rec="0", EroLuxe Fisting
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2948/mono.m3u8?token=alxdlp.v2_1lNGk_T962hDOp9-G1Y8GzYVb0q_jzeC1KNXD3wsJYA3UMMmaUojTS4_O2yE_wo_fkzID4GH698
-#EXTINF:0 tvg-id="ch2949" tvg-name="EroLuxe GangBang" tvg-logo="http://tvtm.one/images/chIcons/2949.png" tvg-rec="0", EroLuxe GangBang
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2949/mono.m3u8?token=alxdlp.v2_G_sdKrkgMDcQF-czoAuGH32m9SzHDwGzsI3Lv0cmm_dZfaiHmzEe74ICc1N-mz3o8L17dzENnqA
-#EXTINF:0 tvg-id="ch2950" tvg-name="EroLuxe Parody" tvg-logo="http://tvtm.one/images/chIcons/2950.png" tvg-rec="0", EroLuxe Parody
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2950/mono.m3u8?token=alxdlp.v2_aTJg35E3wWobT3GLfOEP3HZl55Ec-EL2w5vkN3P0VsDIIv5NqjI_sJQl4zRJGFtF5-GtIUECMek
-#EXTINF:0 tvg-id="ch2951" tvg-name="EroLuxe P.O.V." tvg-logo="http://tvtm.one/images/chIcons/2951.png" tvg-rec="0", EroLuxe P.O.V.
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2951/mono.m3u8?token=alxdlp.v2_RATONb-k4k46IWaMw103IB4pAAa99sVr3PIeEWQCf9J_u-xe8w6iAnOXxQnDYO_XtCuQDSEp_dM
-#EXTINF:0 tvg-id="ch2952" tvg-name="EroLuxe Public Agent" tvg-logo="http://tvtm.one/images/chIcons/2952.png" tvg-rec="0", EroLuxe Public Agent
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2952/mono.m3u8?token=alxdlp.v2_A1a9tYnXRbUokbyA8XoaPu9L9Wj013moy7_5D6mRo4kXLepXQPeuSGUxD96Gjb1yLuKrO3xx-kg
-#EXTINF:0 tvg-id="ch2953" tvg-name="EroLuxe RedHeads" tvg-logo="http://tvtm.one/images/chIcons/2953.png" tvg-rec="0", EroLuxe RedHeads
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2953/mono.m3u8?token=alxdlp.v2_XGgJJl0-kOu9RJ42E_qt_2C1p91zNHkgCpPmqFxED1NE8I3ME2YNEtFTa2FakvN62nguTku4vrQ
-#EXTINF:0 tvg-id="ch2954" tvg-name="EroLuxe Schoolgirl" tvg-logo="http://tvtm.one/images/chIcons/2954.png" tvg-rec="0", EroLuxe Schoolgirl
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2954/mono.m3u8?token=alxdlp.v2_xn2nQqjRQNS44c8DbzGVpo-HaCOqXcZZxOzy8d-tmrgFS5pgQMqzSXHripQWLfvj3LZgiaEHPfo
-#EXTINF:0 tvg-id="ch2955" tvg-name="EroLuxe Asian" tvg-logo="http://tvtm.one/images/chIcons/2955.png" tvg-rec="0", EroLuxe Asian
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch2955/mono.m3u8?token=alxdlp.v2_UenTMEN4GNEkQx3k79YkXaRWpkj7FVwP-TvxnVeLyioM8Gvhg_4gXmPFqJHOBMd5KB54Y-Pt6mk
-#EXTINF:0 tvg-id="ch3787" tvg-name="TVPlay WorldXXX" tvg-logo="http://tvtm.one/images/chIcons/3787.png" tvg-rec="0", TVPlay WorldXXX
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3787/mono.m3u8?token=alxdlp.v2_R4252jFzt38S4FMeD60_SHNSvSVDZBRf-MCo_iaFqx6z9exk7yoXTXS8Z2zHbC2NgNCZBQcy0LE
-#EXTINF:0 tvg-id="ch3788" tvg-name="TVPlay НашеXXX" tvg-logo="http://tvtm.one/images/chIcons/3788.png" tvg-rec="0", TVPlay НашеXXX
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3788/mono.m3u8?token=alxdlp.v2_v5VHKnabSuNM0fi_QZW-xp_VGyhS17MHzLMMvBg39jZPyH68YEryWQZhifqII9PH9Ah_Np_-DLw
-#EXTINF:0 tvg-id="ch3789" tvg-name="TVPlay МультыXXX" tvg-logo="http://tvtm.one/images/chIcons/3789.png" tvg-rec="0", TVPlay МультыXXX
-#EXTGRP:GRAND PLUS TEAM ADULT
-http://11.tvtm.one/ch3789/mono.m3u8?token=alxdlp.v2_lwgAZgwwYJiLCRrRnpCA8ns9fu4DvWZE90IVO5HwXKfygO-FhLnw2RelqYaoqSAPNUo9xXJlpVw
- 
 
-
- #EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX TRANS: TRANS ANGELS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159951
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX TRANS: TRANS EROTICA
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159952
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: A GIRL KNOWS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159953
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: ADULT TIME
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159954
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: ALL BLACK X
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159955
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: ALL GROUP SEX
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159956
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: AMATEUR EURO
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159957
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: ANALIZED
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159958
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BABES
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159959
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BANG BROS NETWORK
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159960
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BIPHORIA
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159961
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BLACKED
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159962
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BLOW ME POV
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159963
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BOX OF PORN
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159964
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BRATTY SIS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159965
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BRAZZERS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159966
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: BUMS BUS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159967
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: CASTING COUCH
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159968
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: CUM 4K
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159969
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DAGFS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159970
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DDF BUSTY
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159971
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DIABOLIC
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159972
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DIGITAL PLAYGROUND
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159973
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DOGFART NETWORK
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159974
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DORCEL CLUB
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159975
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: DREAMROOM
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159976
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: EROTIKVONBENAN
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159977
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FAKE HOSTEL
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159979
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FAKE TAXI
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159980
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FAMILY STROKES
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159981
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FAMILY SWAP XXX
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159982
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FAPADOO
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159983
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FILTHY POV
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159984
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FIRST ANAL QUEST
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159985
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: FIT 18
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159986
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: GOTMYLF
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159987
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: HENTAINED
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159988
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: HER LIMIT
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159989
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: HOLED
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159990
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: HOT WIFE XXX
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159991
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: HUSSIE PASS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159992
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: INTERRACIAL PASS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159993
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: JAYS POV
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159994
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: JESH BY JESH
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159995
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: JOI BABES
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159996
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: JULES JORDAN
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159997
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: KINKY FAMILY
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159998
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: KINKY INLAWS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/159999
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LETHAL HARDCORE
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160001
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LETHAL TEENS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160002
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LETS DOE IT
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160003
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LIFE SELECTOR
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160004
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LOVE HER FEET
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160005
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LOVE HOME PORN
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160006
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LUBED
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160007
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: LUXURE
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160008
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MAMACITAZ
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160009
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MASSAGE ROOMS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160010
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MODEL MEDIA ASIA
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160011
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MOFOS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160012
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MOM TEACH SEX
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160013
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MOM XXX
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160014
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MOMMY BLOWS BEST
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160015
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MUST NOT FAP
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160016
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MY DIRTY HOBBY
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160017
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MY FAMILY PIES
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160018
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MY LIFE IN MIAMI
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160019
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MY PERVY FAMILY
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160020
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MY TINY WISH
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160021
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: MYLF
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160022
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: NEW SENSATIONS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160023
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: NF BUSTY
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160024
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: NUBILE FILMS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160025
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: NURU MASSAGE
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160026
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PASSION
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160027
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PERV CITY
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160028
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PERV MOM
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160029
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PORN WORLD HARDCORE
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160030
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PORNHOCHIC
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160031
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: POVD
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160032
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PRENCESS CUM
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160033
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PRIVATE
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160034
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PROPERTY SEX
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160035
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PUBLIC AGENT
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160036
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: PURE MATURE
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160037
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: REAL DIRTY VIDEOS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160038
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: REALITY JUNKIES
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160040
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: REALITY KINGS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160041
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: SLIM 4K
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160042
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: STROKIES
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160043
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: SUGAR BABES TV
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160044
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: SWEET SINNER
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160045
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: THROATED
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160046
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: TRUE AMATUERS
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160047
-
-#EXTINF:-1 group-title="GRAND PLUS| P.BOX",PORNBOX: X CHIMERA
-http://nocable.cc:8080/u3zrD8P5WY/XA4n3V4Z2K/160048
-
-
-#EXTINF:0,HUSTLER HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/902/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,REDLIGHT HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/904/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,PENTHOUSE GOLD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/909/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,PENTHOUSE QUICKIES
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/903/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Pink O TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/5880/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Dorcel
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/5881/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Private TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/5758/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Babes
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/17976/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Русская ночь
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/5238/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Шалун HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22401/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Strawberry HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/20787/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Clarity4K Angel XXX
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/20906/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Play-x Retro SEX HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/21151/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Play-x Spy Sex HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/21152/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,LIBERTY ЭРОТИКА  FHD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/8011/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,BCU Charm HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/20788/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Playboy TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/5235/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Playboy  Plus
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22414/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,O-la-la
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/907/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,EXXXOTICA HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/901/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,EroXXX
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22402/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Reality Kings
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22403/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Barely legal
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22404/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Vivid RED HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/19180/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Bang Bros UHD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29010/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Cum4k UHD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29029/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Tiny4k UHD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29106/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,21 Sextury
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29000/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Adult Time
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29002/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Amateur Boxxx
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29120/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,AST TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29005/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,AST TV 2
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29006/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Babes HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29007/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Balkan Erotic
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29008/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Banana Fever
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29121/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Bang Bros HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29009/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Bang!
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29011/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Blacked HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29015/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Blue Hustler
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29018/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Bratty Sis
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29019/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,BRAZZERS
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22421/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Brazzers eXXtra
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29020/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Brazzers TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/5236/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Cherry Pimps
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29024/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Club 17
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29025/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Cum Louder
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29028/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Dad Crush
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29030/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Day with a Pornstar
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29032/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,DDF Busty
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29033/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,DDF Network
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29034/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Deep Lush
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29035/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Digital Desire HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29036/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Digital Playground HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29037/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Dorcel Club
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29038/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Dorcel XXX HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29039/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Evil Angel HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29041/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fake Taxi HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29043/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Family xxx
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29044/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV 2
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22437/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV 3
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22442/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV 4
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22443/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV Anal
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29048/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV BBW
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29049/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV Compilation
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22441/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV Lesbian
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22440/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV Parody
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22439/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fap TV Teens
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22435/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,FTV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29056/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Gangbang Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29057/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Gay Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29058/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Girls Rimming
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29059/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Got MYLF
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29060/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hands on Hardcore
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29061/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hard X
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29062/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hitzefrei HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29064/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Holed
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29065/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hot and Mean
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29066/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hot Guys Fuck
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29067/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,House of Fyre
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29068/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Interracial Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29069/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,J and  M TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29070/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Japan HDV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29071/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Jerk Off with Me
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29072/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Lesbea
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29074/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Lethal Hardcore
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29076/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,MetArt HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29080/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Mia Khalifa HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29081/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Monsters of Cock
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29083/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,MYLF TV HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29084/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Naughty America
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29085/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Nubiles TV HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29086/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Private TV HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/19184/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Public Agent
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29093/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,RK Prime
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29094/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,RK TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29095/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,SuperONE HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22387/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Taboo
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29102/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,The Nudie
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29104/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Threesome Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29105/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,True Amateurs
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29108/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Tushy HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29109/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,TushyRAW
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29110/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Vixen HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29113/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,We Live Together
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29114/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,White Boxxx
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29115/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Wicked
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29116/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,XY Mix
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29118/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,XY Plus
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29119/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,A3 Bikini
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29001/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Anal Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29003/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Analized HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29004/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Big Ass Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29012/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Big Dick Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29013/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Big Tits Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29014/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Blonde Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29016/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Blowjob Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29017/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Brunette Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29021/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Candy TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22436/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,cento x cento
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22438/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Compilation Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29026/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Cuckold Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29027/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Daughter Swap
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29031/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Evolved Fights
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29042/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Extasy HD XXX
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22461/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,FemJoy
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29054/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Fetish Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29055/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hardcore Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29063/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,JASMIN
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22429/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Latina Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29073/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Lesbian Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29075/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Little Asians HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29077/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Live Cams Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29078/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,MILF Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29082/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,ox-ax HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29087/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Pornstar Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29090/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,POV Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29091/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Princess Cum
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29092/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Rough Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29096/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Russian Adult TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29097/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,SCT
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22432/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,SexArt
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29099/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,sext 6 senso
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29100/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,SINematica
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29101/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Teen Red TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29103/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Trans Angels
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29107/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Visit-X TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29112/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,XY Max HD XXX
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22459/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Pink Erotic 4
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29089/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,XXL
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/19186/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hot
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22412/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,ALBA XXX 1
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22444/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,ALBA XXX 2
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22445/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,PENTHOUSE PASSION
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/19183/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Hustler TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/19185/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,DUSK! XXX
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22462/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Erox HD
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29040/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Lust Cinema
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29079/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Passion XXX
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/22431/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Sex With Muslims
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29098/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,U Bang
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29111/index.m3u8?token=TVs5Xz4zfXKbnx
-#EXTINF:0,Xpanded TV
-#EXTGRP:GRAND PLUS | SHARAVOZ ADULT 
-http://as01.plinks-pile.su/29117/index.m3u8?token=TVs5Xz4zfXKbnx
-
-
-
-#EXTINF:0,Dorcel TV HD
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/701/video.m3u8?token=SB31175290
-#EXTINF:0,Redlight HD
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/702/video.m3u8?token=SB31175290
-#EXTINF:0,Hustler HD Europe
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/714/video.m3u8?token=SB31175290
-#EXTINF:0,Vivid Red
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/709/video.m3u8?token=SB31175290
-#EXTINF:0,Private TV
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/704/video.m3u8?token=SB31175290
-#EXTINF:0,Brazzers TV Europe
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/705/video.m3u8?token=SB31175290
-#EXTINF:0,CineMan ExExEx
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/706/video.m3u8?token=SB31175290
-#EXTINF:0,CineMan ExExEx TWO
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/716/video.m3u8?token=SB31175290
-#EXTINF:0,Penthouse Quickies HD
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/713/video.m3u8?token=SB31175290
-#EXTINF:0,Penthouse Gold HD
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/707/video.m3u8?token=SB31175290
-#EXTINF:0,VIXEN
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/708/video.m3u8?token=SB31175290
-#EXTINF:0,EVILANGEL
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/712/video.m3u8?token=SB31175290
-#EXTINF:0,BLACKED
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/715/video.m3u8?token=SB31175290
-#EXTINF:0,Barely legal
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/711/video.m3u8?token=SB31175290
-#EXTINF:0,Blue Hustler
-#EXTGRP:GRAND PLUS 
-http://ip1.orgip.net/703/video.m3u8?token=SB31175290
 
 
 #EXTINF:0 tvg-rec="0",Русская Ночь orig
@@ -3115,173 +1782,6 @@ http://edde570f.akadatel.com/iptv/977BR8LM2ZWZXS6QCDVWEP2T/20090/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:0,Dorcel TV HD
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/701/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Redlight HD
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/702/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Hustler HD Europe
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/714/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Vivid Red
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/709/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Private TV
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/704/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Brazzers TV Europe
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/705/video.m3u8?token=Ceba8e4412
-#EXTINF:0,CineMan ExExEx
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/706/video.m3u8?token=Ceba8e4412
-#EXTINF:0,CineMan ExExEx TWO
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/716/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Penthouse Quickies HD
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/713/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Penthouse Gold HD
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/707/video.m3u8?token=Ceba8e4412
-#EXTINF:0,VIXEN
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/708/video.m3u8?token=Ceba8e4412
-#EXTINF:0,EVILANGEL
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/712/video.m3u8?token=Ceba8e4412
-#EXTINF:0,BLACKED
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/715/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Barely legal
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/711/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Blue Hustler
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/703/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Кино 18+ (23:00 МСК)
-#EXTGRP:GRAND PLUS | Premium XXX
-http://ip1.orgip.net/710/video.m3u8?token=Ceba8e4412
-            
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Private TV
-http://79.127.207.193:80/Private/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Hustler HD
-http://79.127.207.193:80/Hustler/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Dorcel HD
-http://79.127.207.193:80/DorcelHD/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 1
-http://79.127.207.193:80/PinkErotic1/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 2
-http://79.127.207.193:80/PinkErotic2/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 3
-http://79.127.207.193:80/PinkErotic3/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 4
-http://79.127.207.193:80/PinkErotic4/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 5
-http://79.127.207.193:80/PinkErotic5/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 6
-http://79.127.207.193:80/PinkErotic6/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 7
-http://79.127.207.193:80/PinkErotic7/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Pink Erotic 8
-http://79.127.207.193:80/PinkErotic8/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   DorcelHD
-http://169.150.223.25/DorcelHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Hustler HD
-http://169.150.223.25/Hustler/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Private HD
-http://169.150.223.25/Private/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   FrenchLover
-http://169.150.223.25/FrenchLover/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic1
-http://169.150.223.25/PinkErotic1/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic2
-http://169.150.223.25/PinkErotic2/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic3
-http://169.150.223.25/PinkErotic3/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic4
-http://169.150.223.25/PinkErotic4/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic5
-http://169.150.223.25/PinkErotic5/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic6
-http://169.150.223.25/PinkErotic6/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic7
-http://169.150.223.25/PinkErotic7/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PinkErotic8
-http://169.150.223.25/PinkErotic8/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   BangU
-http://169.150.223.25/BangU/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   penthouse1
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   penthouse2
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   RK TV
-http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Leo TV
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Brazzers
-http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Desire
-http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Extasy 4K
-http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Dorcel TV
-http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Eroxxx
-http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Erox
-http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Babes TV
-http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   Playboy
-http://178.23.88.55/Playboy/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   PRIVATE
-http://77.46.130.252:99/private
-
-#EXTINF:-1 group-title="GRAND PLUS| P.xxx",   DORCEL
-http://77.46.130.252:99/dorcel
 
 
 
@@ -4094,108 +2594,6 @@ https://cdn.porntext.biz/videos_ssd1/pornhub/492103252/pornhub_492103252.mp4?q=7
 
 #EXTINF:-1 group-title="GRAND+ | PORNHUB 18+", PORNHUB   22
 https://cdn.porntext.biz/videos_ssd2/pornhub/1394975904/pornhub_1394975904.mp4?q=720
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/epg/icon/blue-hustler.png"  group-title="RUZIEV + IPTV| TVIZI",  Blue Hustler TV
-http://pl.seetv.cc/play/107/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/epg/icon/hustler-hd.png"  group-title="RUZIEV + IPTV| TVIZI",  Hustler TV
-http://pl.seetv.cc/play/592/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/epg/icon/playboy-tv.png"  group-title="RUZIEV + IPTV| TVIZI",  Playboy
-http://pl.seetv.cc/play/242/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/eroxxxhd.png"  group-title="RUZIEV + IPTV| TVIZI",  Eroxxx HD
-http://pl.seetv.cc/play/596/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/EvilAngel.png"  group-title="RUZIEV + IPTV| TVIZI",  Evil Angel HD
-http://pl.seetv.cc/play/6891/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/epg/icon/brazzers.png"  group-title="RUZIEV + IPTV| TVIZI",  Brazzers TV Europe
-http://pl.seetv.cc/play/76/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/epg/icon/barely-legal.png"  group-title="RUZIEV + IPTV| TVIZI",  Barely Legal
-http://pl.seetv.cc/play/4012/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png"  group-title="RUZIEV + IPTV| TVIZI",  PassionXXX
-http://pl.seetv.cc/play/6869/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png"  group-title="RUZIEV + IPTV| TVIZI",  PassionXXX 2
-http://pl.seetv.cc/play/6883/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png"  group-title="RUZIEV + IPTV| TVIZI",  PassionXXX Milf
-http://pl.seetv.cc/play/6884/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/pinko.png"  group-title="RUZIEV + IPTV| TVIZI",  Pinko Club
-http://pl.seetv.cc/play/6867/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/centocento.png"  group-title="RUZIEV + IPTV| TVIZI",  CentoXCento
-http://pl.seetv.cc/play/6868/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/o-la-la.png"  group-title="RUZIEV + IPTV| TVIZI",  Olala
-http://pl.seetv.cc/play/103/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/xxplus.png"  group-title="RUZIEV + IPTV| TVIZI",  XYPlus HD
-http://pl.seetv.cc/play/6870/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/xxmax.png"  group-title="RUZIEV + IPTV| TVIZI",  XYMax HD
-http://pl.seetv.cc/play/6871/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/xxmix.png"  group-title="RUZIEV + IPTV| TVIZI",  XYMix HD
-http://pl.seetv.cc/play/6872/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/dorcel.png"  group-title="RUZIEV + IPTV| TVIZI",  Dorcel HD
-http://pl.seetv.cc/play/6879/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/redlips.png"  group-title="RUZIEV + IPTV| TVIZI",  Red Lips
-http://pl.seetv.cc/play/290/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/private-tv.png"  group-title="RUZIEV + IPTV| TVIZI",  Private TV
-http://pl.seetv.cc/play/793/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/exotica.png"  group-title="RUZIEV + IPTV| TVIZI",  Экзотика
-http://pl.seetv.cc/play/611/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/epg/icon/russkaya-noch.png"  group-title="RUZIEV + IPTV| TVIZI",  Русская Ночь
-http://pl.seetv.cc/play/132/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/shalun.png"  group-title="RUZIEV + IPTV| TVIZI",  Шалун HD
-http://pl.seetv.cc/play/610/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/sholk.png"  group-title="RUZIEV + IPTV| TVIZI",  Шелк
-http://pl.seetv.cc/play/7310/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/redlight-hd.png"  group-title="RUZIEV + IPTV| TVIZI",  Redlight HD
-http://pl.seetv.cc/play/594/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/penthouse-quickies.png"  group-title="RUZIEV + IPTV| TVIZI",  Penthouse Quickies HD
-http://pl.seetv.cc/play/6881/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/penthouse-hd.png"  group-title="RUZIEV + IPTV| TVIZI",  Penthouse HD
-http://pl.seetv.cc/play/1497/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/penthouse-gold.png"  group-title="RUZIEV + IPTV| TVIZI",  Penthouse Gold HD
-http://pl.seetv.cc/play/6880/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/kinoshka-adult.png"  group-title="RUZIEV + IPTV| TVIZI",  Kinoshka Adult HD
-http://pl.seetv.cc/play/9997/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/bcu-charm.png"  group-title="RUZIEV + IPTV| TVIZI",  BCU Charm HD
-http://pl.seetv.cc/play/7141/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/yosso-sexy.png"  group-title="RUZIEV + IPTV| TVIZI",  YOSSO TV SEXY
-http://pl.seetv.cc/play/8774/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx.png"  group-title="RUZIEV + IPTV| TVIZI",  CineManExExEx
-http://pl.seetv.cc/play/13020/D591A450364592E/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx2.png"  group-title="RUZIEV + IPTV| TVIZI",  CineManExExEx TWO
-http://pl.seetv.cc/play/13021/D591A450364592E/video.m3u8
 
 
 
