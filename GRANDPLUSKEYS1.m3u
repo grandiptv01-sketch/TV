@@ -2,42 +2,56 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/05/14}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/05/14  14;35}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6821 1351 1689",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWFzwYF/kinozal.png" group-title="GRAND IPTV/ DE RUSSKOE TV",袣褨薪芯 TV VHS
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ DE RUSSKOE TV",小芯胁械褌褋泻邪褟 泻懈薪芯泻谢邪褋褋懈泻邪 HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/sovetskaya-kinoclassica-hd-orig.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ DE RUSSKOE TV",袧邪褕械 薪邪褋谢械写懈械 HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/nashe-nasledie-hd.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ DE RUSSKOE TV",袩邪褌褉懈芯褌
-http://de.russkoe-iptv.com:8080/s/rcy9uell/patriot.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ DE RUSSKOE TV",VHS-泻a HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/vhska-hd-orig.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ DE RUSSKOE TV",VHS-泻邪 褋械褉懈邪谢 HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/vhs-serial-hd.m3u8
-#EXTINF:-1 tvg-id="3357" tvg-logo="http://epg.it999.ru/img/3357.png" group-title="GRAND IPTV/ DE RUSSKOE TV",袦芯褋褎懈谢褜屑 袟芯谢芯褌邪褟 袣芯谢谢械泻褑懈褟 HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/mosfilm-hd-orig.m3u8
-
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",1 серия 
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e01_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",2 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e02_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",3 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e03_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",4 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e04_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",5 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e05_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",6 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e06_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",7 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/98a10a5e498d8c0474fc33f932207979/s01e07_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",8 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e08_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",9 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e09_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",10 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e10_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",11 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e11_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",12 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e12_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",13 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e13_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",14 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e14_480.mp4
+#EXTINF:-1 group-title="GRAND IPTV/ KUZYA PUT K USPRHU",15 серия
+https://s15.kvb.cool/video_mp4/serials/KuzyaUspeh/88a72f6bb79a5543b8ed1c31b21c7d1c/s01e15_480.mp4
 
 
 #EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Britney Spears radio
 https://streaming.exclusive.radio/er/britney/icecast.audio
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",袪邪写褨芯 Melodia FM UKR
+#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Melodia FM UKR
 https://online.melodiafm.ua/MelodiaFM_HD
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",袪邪写褨芯 Melodia FM Disco
+#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA", Melodia FM Disco
 https://online.melodiafm.ua/MelodiaFM_Disco_HD
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",袪邪写褨芯 Melodia FM Romantic
+#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Melodia FM Romantic
 https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 #EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Flash Radio UKR
 https://online.radioplayer.ua/FlashRadio_HD
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",袧邪褕械 袪邪写褨芯 UKR
+#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",NASHE RADIO UKR
 http://online.nasheradio.ua/NasheRadio
 #EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Melodia FM UA
 https://online.melodiafm.ua/MelodiaFM
@@ -47,19 +61,13 @@ http://online.nasheradio.ua/NasheRadio_Ukr_HD
 https://stream.novaline.net.ua/Novaline_320
 #EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Kiss FM UKR
 http://online.kissfm.ua/KissFM_Ukr_HD
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Gangsta Rap
-http://music.myradio.ua:8000/gangstarap192.mp3
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Hip-Hop RnB
-http://music.myradio.ua:8000/hiphopandrnb192.mp3
+
 #EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Radio 90s
 http://prmstrm.1.fm:8000/90s
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Gangsta Rap
-http://music.myradio.ua:8000/gangstarap192.mp3
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Hip-Hop RnB
-http://music.myradio.ua:8000/hiphopandrnb192.mp3
+
 #EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",Radio 90s
 http://prmstrm.1.fm:8000/90s
-#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",袪邪写褨芯 Gora HIP Hop
+#EXTINF:-1 group-title="GRAND IPTV/ RADIO UA",RADIO Gora HIP Hop
 http://listen.radiogora.ru:8000/hiphop128
 
 
@@ -4344,6 +4352,200 @@ http://217.174.229.136:8000/play/a00a
 http://217.174.229.136:8000/play/a00b
 #EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 24
 http://217.174.229.136:8000/play/a00k
+
+
+
+#EXTINF:0 tvg-rec="3",H1 HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/601/index.m3u8
+#EXTINF:0 tvg-rec="3",21TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/602/index.m3u8
+#EXTINF:0 tvg-rec="0",Delta TV AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/18214/index.m3u8
+#EXTINF:0 tvg-rec="3",H2 HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/603/index.m3u8
+#EXTINF:0 tvg-rec="3",Armenia TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/605/index.m3u8
+#EXTINF:0 tvg-rec="3",Yerkir Media HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/608/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV FHD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/609/index.m3u8
+#EXTINF:0 tvg-rec="3",Armenia Premium HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/273/index.m3u8
+#EXTINF:0 tvg-rec="3",Azatutyun TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/274/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV LifeHack HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/275/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Xaxaliq HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/276/index.m3u8
+#EXTINF:0 tvg-rec="3",Comedy AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/277/index.m3u8
+#EXTINF:0 tvg-rec="3",Tuntunik AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/279/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Hay TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/280/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Tava HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/281/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Kinoman HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/282/index.m3u8
+#EXTINF:0 tvg-rec="3",Cineman HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/283/index.m3u8
+#EXTINF:0 tvg-rec="3",Jan TV AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/285/index.m3u8
+#EXTINF:0 tvg-rec="3",Hay Kino AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/286/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Fitness HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/287/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Muzzone HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/288/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Bazmoc TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15112/index.m3u8
+#EXTINF:0 tvg-rec="0",H2 AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15204/index.m3u8
+#EXTINF:0 tvg-rec="0",Kentron HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15205/index.m3u8
+#EXTINF:0 tvg-rec="0",ATV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15206/index.m3u8
+#EXTINF:0 tvg-rec="0",5TV AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15208/index.m3u8
+#EXTINF:0 tvg-rec="0",Yerkir Media AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15209/index.m3u8
+#EXTINF:0 tvg-rec="0",Nor Hayastan AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15210/index.m3u8
+#EXTINF:0 tvg-rec="0",21TV AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15211/index.m3u8
+#EXTINF:0 tvg-rec="0",FreeNews AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15212/index.m3u8
+#EXTINF:0 tvg-rec="0",Arma TV AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15214/index.m3u8
+#EXTINF:0 tvg-rec="0",5TV Plus HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15488/index.m3u8
+#EXTINF:0 tvg-rec="0",Nur TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15489/index.m3u8
+#EXTINF:0 tvg-rec="0",Armenian Business News HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15490/index.m3u8
+#EXTINF:0 tvg-rec="0",1 Lurer HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15491/index.m3u8
+#EXTINF:0 tvg-rec="0",Kotayk TV AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15498/index.m3u8
+#EXTINF:0 tvg-rec="0",Tsayg TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15499/index.m3u8
+#EXTINF:0 tvg-rec="0",Lori TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15500/index.m3u8
+#EXTINF:0 tvg-rec="0",FreeNews HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15501/index.m3u8
+#EXTINF:0 tvg-rec="0",Armount TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15502/index.m3u8
+#EXTINF:0 tvg-rec="0",Fortuna TV HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15503/index.m3u8
+#EXTINF:0 tvg-rec="0",ArmToon HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15504/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports HD AM
+#EXTGRP:GRAND MY Армения | Հայկական
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15507/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",Mbc Max AE
+#EXTGRP:GRAND MBC UAE
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15195/index.m3u8
+#EXTINF:0 tvg-rec="0",Mbc Drama AE
+#EXTGRP:GRAND MBC UAE
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15196/index.m3u8
+#EXTINF:0 tvg-rec="0",Mbc Action AE
+#EXTGRP:GRAND MBC UAE
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15197/index.m3u8
+#EXTINF:0 tvg-rec="0",MBC 2 SD AE
+#EXTGRP:GRAND MBC UAE
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15198/index.m3u8
+#EXTINF:0 tvg-rec="0",MBC 4 AE
+#EXTGRP:GRAND MBC UAE
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15199/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Baltic 1 FHD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/5068/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6541/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6542/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6543/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6544/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Moldova FHD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/20081/index.m3u8
 
 
 
