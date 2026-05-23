@@ -2,12 +2,807 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/05/14  14;35}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/05/23 21;44}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6821 1351 1689",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="RUZIEV MY TV +",  Cinema 
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",   Кино ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="RUZIEV MY TV +", НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
+http://fc1qlunj.tvclub.xyz/iptv/PN72TRC6UNHLF9/282/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
+http://fc1qlunj.tvclub.xyz/iptv/75VWHXAQFUB8TG/282/index.m3u8
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="RUZIEV MY TV +", Cineman HD AM
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +",  ATV Armenia Premium 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="RUZIEV MY TV +",  ATV Armount TV
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-id="atv-kinoman" tvg-logo="https://iptvx.one/picons/atv-kinoman.png" group-title="RUZIEV MY TV +" ,ATV Kinoman
+https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +", ATV CineMan HD
+http://185.57.68.33:80/255/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
+http://timeshift.arpinet.am/237/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
+http://185.57.68.33/237/mpegts
+
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TV12 GUDAUTA
+http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
+#EXTGRP:RUZIEV MY TV +
+https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  V2BEAT 
+http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  INFINITY SD
+https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-name="Black" tvg-logo="https://ip-tv.dev/images/ico/blackmusic.png" , Black
+#EXTGRP:RUZIEV MY TV +
+http://bde.online24.pm/play/349/F6E1DD42544DD10/video.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",15+ Music 
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
+http://185.221.213.254:8080/Ritsa/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=3GjJXc7GSpajnGdSWZzhDA&e=2069068475&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Miami TV Musicᴴᴰ
+https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1738820734_b5096000.m3u8
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
+http://91.186.196.185/hls/hotels/stream.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", TV-1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", ИИ РАДИО DATASET
+https://region-ru4.tunio.ai/datasetradio.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET TRAP
+https://region-ru2.tunio.ai/trap.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET RAP
+https://region-ru2.tunio.ai/superdata.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET GRIME 
+https://region-ru2.tunio.ai/grime.aac
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",360 Novosti
+http://217.174.229.136:8000/play/a02a
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",360 Подмосковье
+http://217.174.229.136:8000/play/a07l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",8 Канал
+http://217.174.229.136:8000/play/a00g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A HABER
+http://217.174.229.136:8000/play/a0e9
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A HABER HD
+http://217.174.229.136:8000/play/a0ee
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A SPOR
+http://217.174.229.136:8000/play/a0ea
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A SPOR HD
+http://217.174.229.136:8000/play/a0ef
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ASFTV
+http://217.174.229.136:8000/play/a0f3
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ASFTV
+http://217.174.229.136:8000/play/a0es
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ATV
+http://217.174.229.136:8000/play/a0e8
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ATV HD
+http://217.174.229.136:8000/play/a0ed
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Akıllı TV
+http://217.174.229.136:8000/play/a0f1
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 1
+http://217.174.229.136:8000/play/a07p
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 2
+http://217.174.229.136:8000/play/a084
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 2 HD
+http://217.174.229.136:8000/play/a078
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Black
+http://217.174.229.136:8000/play/a00r
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Hit HD
+http://217.174.229.136:8000/play/a041
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Premium HD
+http://217.174.229.136:8000/play/a07y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Red
+http://217.174.229.136:8000/play/a00p
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Red HD
+http://217.174.229.136:8000/play/a077
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Sci-Fi
+http://217.174.229.136:8000/play/a00q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BABY TIME
+http://217.174.229.136:8000/play/a024
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BLOOMBERGHT HD
+http://217.174.229.136:8000/play/a0e4
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE
+http://217.174.229.136:8000/play/a02g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE CLASSIC
+http://217.174.229.136:8000/play/a02c
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE DELUXE
+http://217.174.229.136:8000/play/a02i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE ETHNO
+http://217.174.229.136:8000/play/a02j
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE FRESH
+http://217.174.229.136:8000/play/a02f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE HITS
+http://217.174.229.136:8000/play/a02b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE ROCK
+http://217.174.229.136:8000/play/a02e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE Russkiy Hit
+http://217.174.229.136:8000/play/a02h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE SHLYAGER
+http://217.174.229.136:8000/play/a02d
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV
+http://217.174.229.136:8000/play/a07s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV Classic
+http://217.174.229.136:8000/play/a056
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV Русский Хит
+http://217.174.229.136:8000/play/a08u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Bolt
+http://217.174.229.136:8000/play/a055
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",CBC Sport TV HD
+http://217.174.229.136:8000/play/a04k
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",CNN TÜRK
+http://217.174.229.136:8000/play/a0ep
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Curiosity Stream
+http://217.174.229.136:8000/play/a09l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",D anadolu
+http://217.174.229.136:8000/play/a0ez
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Da Vinci
+http://217.174.229.136:8000/play/a03m
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Demirören Medya
+http://217.174.229.136:8000/play/a0ey
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Dream Türk
+http://217.174.229.136:8000/play/a0et
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",EKİNTÜRK TV
+http://217.174.229.136:8000/play/a0f6
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",EURO D HD
+http://217.174.229.136:8000/play/a0eu
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Extreme
+http://217.174.229.136:8000/play/a08q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Fashion HD
+http://217.174.229.136:8000/play/a089
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Gagsnetwork
+http://217.174.229.136:8000/play/a09c
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Gulli Girl
+http://217.174.229.136:8000/play/a09t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",HABERTURK HD
+http://217.174.229.136:8000/play/a0e3
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Idman TV HD
+http://217.174.229.136:8000/play/a04e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Info Card (test)
+http://217.174.229.136:8000/play/a0f0
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KANAL 7 HD
+http://217.174.229.136:8000/play/a0ek
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KHL
+http://217.174.229.136:8000/play/a07q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KHL Prime HD
+http://217.174.229.136:8000/play/a07x
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",LEOMAX24
+http://217.174.229.136:8000/play/a03l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",LUXURY
+http://217.174.229.136:8000/play/a026
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Lider Haber TV
+http://217.174.229.136:8000/play/a0f4
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",NANO
+http://217.174.229.136:8000/play/a027
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",NTV Kazakstan
+http://217.174.229.136:8000/play/a020
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",O2TV
+http://217.174.229.136:8000/play/a08s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ocean
+http://217.174.229.136:8000/play/a086
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Plan B HD
+http://217.174.229.136:8000/play/a08l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RBC TV CHANNEL
+http://217.174.229.136:8000/play/a028
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RT DOC HD
+http://217.174.229.136:8000/play/a022
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RT Region SD
+http://217.174.229.136:8000/play/a021
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RTG HD
+http://217.174.229.136:8000/play/a045
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RTG TV
+http://217.174.229.136:8000/play/a07r
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RUMELİ TV
+http://217.174.229.136:8000/play/a0er
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RUMELİ TV
+http://217.174.229.136:8000/play/a0f5
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ru TV
+http://217.174.229.136:8000/play/a034
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",SHOW HD
+http://217.174.229.136:8000/play/a0e2
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",SHOW MAX HD
+http://217.174.229.136:8000/play/a0e5
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",START World
+http://217.174.229.136:8000/play/a09a
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Shopping Live
+http://217.174.229.136:8000/play/a00h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Silk Way
+http://217.174.229.136:8000/play/a04w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Star Family
+http://217.174.229.136:8000/play/a04u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TELE 1 HD
+http://217.174.229.136:8000/play/a0ew
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV 8 INT
+http://217.174.229.136:8000/play/a0ev
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV XXI
+http://217.174.229.136:8000/play/a06w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV2
+http://217.174.229.136:8000/play/a0eq
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Telekanal 360
+http://217.174.229.136:8000/play/a029
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Terra
+http://217.174.229.136:8000/play/a032
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Terra HD
+http://217.174.229.136:8000/play/a039
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TiJi
+http://217.174.229.136:8000/play/a09k
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Torre Ricca
+http://217.174.229.136:8000/play/a025
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ULKE TV HD
+http://217.174.229.136:8000/play/a0el
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",VKUS
+http://217.174.229.136:8000/play/a023
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",minikaCOCUK
+http://217.174.229.136:8000/play/a0eb
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",minikaGO
+http://217.174.229.136:8000/play/a0ec
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju History
+http://217.174.229.136:8000/play/a03r
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju Nature
+http://217.174.229.136:8000/play/a03s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000
+http://217.174.229.136:8000/play/a03p
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 action
+http://217.174.229.136:8000/play/a03o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 romantica
+http://217.174.229.136:8000/play/a04b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 новелла
+http://217.174.229.136:8000/play/a03w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 русское
+http://217.174.229.136:8000/play/a03n
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Comedy
+http://217.174.229.136:8000/play/a040
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Megahit
+http://217.174.229.136:8000/play/a03z
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Planet
+http://217.174.229.136:8000/play/a048
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Premiere
+http://217.174.229.136:8000/play/a03y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Serial
+http://217.174.229.136:8000/play/a049
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Sport
+http://217.174.229.136:8000/play/a03t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",БСТ
+http://217.174.229.136:8000/play/a05j
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",БелРос
+http://217.174.229.136:8000/play/a051
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Бобёр
+http://217.174.229.136:8000/play/a05q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Большая Азия
+http://217.174.229.136:8000/play/a038
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",В гостях у сказки
+http://217.174.229.136:8000/play/a02u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Витрина ТВ
+http://217.174.229.136:8000/play/a00s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Восток
+http://217.174.229.136:8000/play/a033
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Глазами Туриста HD
+http://217.174.229.136:8000/play/a043
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Детский
+http://217.174.229.136:8000/play/a035
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Детский Мир
+http://217.174.229.136:8000/play/a088
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Диалоги о рыбалке
+http://217.174.229.136:8000/play/a08w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикая охота HD
+http://217.174.229.136:8000/play/a08k
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикая рыбалка HD
+http://217.174.229.136:8000/play/a08j
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикий
+http://217.174.229.136:8000/play/a05b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Доктор
+http://217.174.229.136:8000/play/a036
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дом кино
+http://217.174.229.136:8000/play/a05f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний
+http://217.174.229.136:8000/play/a00l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний (+2)
+http://217.174.229.136:8000/play/a07v
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний (+4)
+http://217.174.229.136:8000/play/a01q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дон 24
+http://217.174.229.136:8000/play/a05g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЕГЭ
+http://217.174.229.136:8000/play/a05h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Еврокино
+http://217.174.229.136:8000/play/a092
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Европа Плюс
+http://217.174.229.136:8000/play/a08c
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Живая Природа HD
+http://217.174.229.136:8000/play/a044
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Живи активно HD
+http://217.174.229.136:8000/play/a09i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЗВЕЗДА ПЛЮС
+http://217.174.229.136:8000/play/a05p
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Загородная жизнь
+http://217.174.229.136:8000/play/a082
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Зал суда
+http://217.174.229.136:8000/play/a09b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда
+http://217.174.229.136:8000/play/a03j
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда (+2)
+http://217.174.229.136:8000/play/a074
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда (+7)
+http://217.174.229.136:8000/play/a07c
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Зоопарк
+http://217.174.229.136:8000/play/a02l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ИНДИЙСКОЕ КИНО
+http://217.174.229.136:8000/play/a02v
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Известия
+http://217.174.229.136:8000/play/a08a
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Иллюзион +
+http://217.174.229.136:8000/play/a02m
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Индия
+http://217.174.229.136:8000/play/a09x
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Инфоканал Телекарта
+http://217.174.229.136:8000/play/a03b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КВН ТВ
+http://217.174.229.136:8000/play/a02r
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОМИКС HD
+http://217.174.229.136:8000/play/a046
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОПРЕМЬЕРА HD
+http://217.174.229.136:8000/play/a09h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОСВИДАНИЕ
+http://217.174.229.136:8000/play/a059
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Карусель
+http://217.174.229.136:8000/play/a03g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Катунь 24
+http://217.174.229.136:8000/play/a02q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинеко
+http://217.174.229.136:8000/play/a02s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинеко HD
+http://217.174.229.136:8000/play/a02w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино 24
+http://217.174.229.136:8000/play/a06y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино ТВ (+4)
+http://217.174.229.136:8000/play/a083
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино ТВ HD
+http://217.174.229.136:8000/play/a047
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Киноман
+http://217.174.229.136:8000/play/a02p
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Киносемья HD
+http://217.174.229.136:8000/play/a085
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинохит HD
+http://217.174.229.136:8000/play/a057
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ключ
+http://217.174.229.136:8000/play/a07z
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Конный мир
+http://217.174.229.136:8000/play/a02t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Курай
+http://217.174.229.136:8000/play/a05i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кухня ТВ
+http://217.174.229.136:8000/play/a07o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЛОТ-регион
+http://217.174.229.136:8000/play/a037
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Любимое кино
+http://217.174.229.136:8000/play/a050
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Лёва HD
+http://217.174.229.136:8000/play/a08e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",МУЖСКОЕ КИНО
+http://217.174.229.136:8000/play/a07i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",МУЗ ТВ
+http://217.174.229.136:8000/play/a00n
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Майдан
+http://217.174.229.136:8000/play/a094
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мама
+http://217.174.229.136:8000/play/a071
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч ТВ
+http://217.174.229.136:8000/play/a03e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч ТВ HD
+http://217.174.229.136:8000/play/a01s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 1
+http://217.174.229.136:8000/play/a010
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 2
+http://217.174.229.136:8000/play/a011
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 3
+http://217.174.229.136:8000/play/a012
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч! Премьер
+http://217.174.229.136:8000/play/a00o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир
+http://217.174.229.136:8000/play/a04y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир 24
+http://217.174.229.136:8000/play/a00w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир Увлечений
+http://217.174.229.136:8000/play/a05c
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир сериала
+http://217.174.229.136:8000/play/a087
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Москва 24
+http://217.174.229.136:8000/play/a07k
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мосфильм. Золотая коллекция
+http://217.174.229.136:8000/play/a07d
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Моя Планета
+http://217.174.229.136:8000/play/a06v
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Моя планета HD
+http://217.174.229.136:8000/play/a07b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мужской
+http://217.174.229.136:8000/play/a081
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мульт
+http://217.174.229.136:8000/play/a06x
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мульт HD
+http://217.174.229.136:8000/play/a042
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НВВ
+http://217.174.229.136:8000/play/a07g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НИК
+http://217.174.229.136:8000/play/a07h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НСТВ
+http://217.174.229.136:8000/play/a070
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ
+http://217.174.229.136:8000/play/a03f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ (+2)
+http://217.174.229.136:8000/play/a07n
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ (+7)
+http://217.174.229.136:8000/play/a08p
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ HD
+http://217.174.229.136:8000/play/a08m
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Право
+http://217.174.229.136:8000/play/a08h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Сериал
+http://217.174.229.136:8000/play/a08i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Стиль
+http://217.174.229.136:8000/play/a08g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наука
+http://217.174.229.136:8000/play/a06u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наука HD
+http://217.174.229.136:8000/play/a07a
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наше новое кино
+http://217.174.229.136:8000/play/a08f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ОТВ (Екатеринбург)
+http://217.174.229.136:8000/play/a08t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ОТВ Челябинск БУЛАТ
+http://217.174.229.136:8000/play/a095
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Общественное ТВ России
+http://217.174.229.136:8000/play/a09v
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Охота и Рыбалка
+http://217.174.229.136:8000/play/a02y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый Вегетарианский
+http://217.174.229.136:8000/play/a08y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал
+http://217.174.229.136:8000/play/a03c
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал (+2)
+http://217.174.229.136:8000/play/a00t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал HD
+http://217.174.229.136:8000/play/a09g
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Петербург 5 канал
+http://217.174.229.136:8000/play/a03u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Петербург 5 канал (+2)
+http://217.174.229.136:8000/play/a098
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пингвин
+http://217.174.229.136:8000/play/a05o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Победа
+http://217.174.229.136:8000/play/a09j
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Продвижение (Сибирь)
+http://217.174.229.136:8000/play/a054
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пятница
+http://217.174.229.136:8000/play/a09d
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пятница (+7)
+http://217.174.229.136:8000/play/a01w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РБК
+http://217.174.229.136:8000/play/a07m
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН
+http://217.174.229.136:8000/play/a03h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+2)
+http://217.174.229.136:8000/play/a097
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+4)
+http://217.174.229.136:8000/play/a01o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+7)
+http://217.174.229.136:8000/play/a07f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Родное кино
+http://217.174.229.136:8000/play/a05d
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 1
+http://217.174.229.136:8000/play/a03d
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 1 (+2)
+http://217.174.229.136:8000/play/a00u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия HD
+http://217.174.229.136:8000/play/a031
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия К
+http://217.174.229.136:8000/play/a07e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русская История
+http://217.174.229.136:8000/play/a09q
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Бестселлер
+http://217.174.229.136:8000/play/a04x
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Детектив
+http://217.174.229.136:8000/play/a04t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Роман
+http://217.174.229.136:8000/play/a04s
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский иллюзион
+http://217.174.229.136:8000/play/a090
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС
+http://217.174.229.136:8000/play/a03i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС (+2)
+http://217.174.229.136:8000/play/a07u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС (+7)
+http://217.174.229.136:8000/play/a07t
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС Love
+http://217.174.229.136:8000/play/a00m
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сапфир
+http://217.174.229.136:8000/play/a02o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сапфир HD
+http://217.174.229.136:8000/play/a02x
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сарафан
+http://217.174.229.136:8000/play/a06z
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Синема HD
+http://217.174.229.136:8000/play/a079
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Совершенно секретно
+http://217.174.229.136:8000/play/a08r
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Солнце
+http://217.174.229.136:8000/play/a00d
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Союз
+http://217.174.229.136:8000/play/a00e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Спас
+http://217.174.229.136:8000/play/a09e
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Суббота
+http://217.174.229.136:8000/play/a03v
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Т24
+http://217.174.229.136:8000/play/a076
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТВ Центр Москва
+http://217.174.229.136:8000/play/a09w
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТВ-3
+http://217.174.229.136:8000/play/a00v
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНВ Планета
+http://217.174.229.136:8000/play/a09y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ
+http://217.174.229.136:8000/play/a03k
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ (+2)
+http://217.174.229.136:8000/play/a09u
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ (+4)
+http://217.174.229.136:8000/play/a01h
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ HD
+http://217.174.229.136:8000/play/a08n
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ Music
+http://217.174.229.136:8000/play/a00j
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ4
+http://217.174.229.136:8000/play/a00x
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Тайны Галактики
+http://217.174.229.136:8000/play/a080
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Татарстан Новый Век
+http://217.174.229.136:8000/play/a09f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Театр
+http://217.174.229.136:8000/play/a05l
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Телеканал 2x2
+http://217.174.229.136:8000/play/a00y
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Туган Тел
+http://217.174.229.136:8000/play/a072
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Футбол
+http://217.174.229.136:8000/play/a08o
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Чаваш Ен
+http://217.174.229.136:8000/play/a05a
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Че ТВ
+http://217.174.229.136:8000/play/a02z
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Шансон ТВ
+http://217.174.229.136:8000/play/a05n
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ю ТВ
+http://217.174.229.136:8000/play/a00i
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ювелирочка
+http://217.174.229.136:8000/play/a00f
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Altyn Asyr
+http://217.174.229.136:8000/play/a002
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Yaslyk
+http://217.174.229.136:8000/play/a003
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Miras
+http://217.174.229.136:8000/play/a004
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmenistan
+http://217.174.229.136:8000/play/a005
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmen Owazy
+http://217.174.229.136:8000/play/a009
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Asgabat
+http://217.174.229.136:8000/play/a008
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmenistan Sport
+http://217.174.229.136:8000/play/a00a
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Arkadag
+http://217.174.229.136:8000/play/a00b
+#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 24
+http://217.174.229.136:8000/play/a00k
+
+
+
+
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Baltic 1 FHD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/5068/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6541/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6542/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6543/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6544/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Moldova FHD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
+#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
+http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/20081/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 1 HD
+http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 2 HD
+http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Trace Sport Stars HD
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Uzreport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  KHL
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Планета
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Viasat Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  KHL
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч ТВ
+http://185.46.16.239:8000/Match_TV
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Арена
+http://185.46.16.239:8000/Match_Arena
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Страна
+http://185.46.16.239:8000/Match_Nash_Sport
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Игра
+http://185.46.16.239:8000/Match_Igra
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Бокс ТВ
+http://185.46.16.239:8000/Eurosport_1
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 1
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 2
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  KHL HD
+http://193.25.8.59:8000/khl
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Арена
+http://193.25.8.59:8000/sport1
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Viasat Sport
+http://193.25.8.59:8000/viasatsport
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  FightBox
+http://193.25.8.59:8000/box
+
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  МАТЧ! БОЕЦ
+http://87.120.142.11:18000/Match!
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  МАТЧ! АРЕНА
+http://87.120.142.11:18000/Match!Arena
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  МАТЧ! Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Trace Sport Stars HD
+http://87.120.142.11:18000/Rossiya1
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  UFC
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  TNA Wrestling Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
+
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Tennis+
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8
+
+
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  PFL MMA
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Monster Jam
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  K-Baseball TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  FTF Sports
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
+
+#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Fight Network
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
+
+
+
 
 
 
@@ -4272,685 +5067,766 @@ https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TV12 GUDAUTA
-http://185.221.213.254:8080/Mafia2/index.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
-#EXTGRP:RUZIEV MY TV +
-https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  V2BEAT 
-http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  INFINITY SD
-https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-name="Black" tvg-logo="https://ip-tv.dev/images/ico/blackmusic.png" , Black
-#EXTGRP:RUZIEV MY TV +
-http://bde.online24.pm/play/349/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-name="Легенды Ретро FM" tvg-logo="https://ip-tv.dev/images/ico/legendy-retro-fm.jpg" , Легенды Ретро FM
-#EXTGRP:RUZIEV MY TV +
-http://bde.online24.pm/play/3544/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-name="EU Music HD" tvg-logo="https://ip-tv.dev/images/ico/EU_Music_HD.jpg" , EU Music HD
-#EXTGRP:RUZIEV MY TV +
-http://bde.online24.pm/play/7186/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="X4ever-music" tvg-name="4ever Music HD" tvg-logo="https://ip-tv.dev/images/ico/4ever-music.png" , 4ever Music HD
-#EXTGRP:RUZIEV MY TV +
-http://bde.online24.pm/play/9938/F6E1DD42544DD10/video.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",15+ Music 
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
-http://185.221.213.254:8080/Ritsa/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=3GjJXc7GSpajnGdSWZzhDA&e=2069068475&scheme=https
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
-https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  Miami TV Musicᴴᴰ
-https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1738820734_b5096000.m3u8
-
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  Music SD
-https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 grgroup-title="RUZIEV MY TV +" tvg-logo="https://i.postimg.cc/0jSkDzbr/Sun.jpg",SunsetOne
-https://str-01.sunset-media.org/SunsetOne/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
-http://91.186.196.185/hls/hotels/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
-http://fc1qlunj.tvclub.xyz/iptv/PN72TRC6UNHLF9/282/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
-http://fc1qlunj.tvclub.xyz/iptv/75VWHXAQFUB8TG/282/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="RUZIEV MY TV +", Cineman HD AM
-http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +",  ATV Armenia Premium 6
-http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="RUZIEV MY TV +",  ATV Armount TV
-https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 group-title="RUZIEV MY TV +",  ATV Bazmoc
-http://109.68.122.117:8899/bazmoc
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +", ATV CineMan HD
-http://185.57.68.33:80/255/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
-http://timeshift.arpinet.am/237/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
-http://185.57.68.33/237/mpegts
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", NSC HD
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="RUZIEV MY TV +",  Cinema 
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",   Кино ТВ
-https://vod.tuva.ru/kinotv/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TV 1 KG FHD
-https://rebrand.ly/tqiq6lv/ROSTIK-TV/TV-1-KG
-#EXTINF:-1 group-title="RUZIEV MY TV +", TV-1 KG
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="RUZIEV MY TV +", НСТ
-http://vod.tuva.ru/nst/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", ИИ РАДИО DATASET
-https://region-ru4.tunio.ai/datasetradio.aac
-#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET TRAP
-https://region-ru2.tunio.ai/trap.aac
-#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET RAP
-https://region-ru2.tunio.ai/superdata.aac
-#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET GRIME 
-https://region-ru2.tunio.ai/grime.aac
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s" tvg-logo="https://i.ibb.co/RTJpTGPW/image-37.png" group-title="RUZIEV MY TV +",MTV 00s
-
-
-
-
-
-#EXTINF:0 tvg-id="Xktk-kz" tvg-name="КТК" tvg-logo="https://ip-tv.dev/images/ico/ktk-kz.png" , КТК
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/448/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xaqtobe" tvg-name="AQTOBE" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" , AQTOBE
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/5442/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xsaryarqa" tvg-name="Saryarqa" tvg-logo="https://ip-tv.dev/images/ico/saryarqa.png" , Saryarqa
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/461/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xkinoboevik-kz" tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834"  tvg-rec="5" timeshift="5", Кинобоевик
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1840/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xmirovoe-kino-kz" tvg-name="Мировое Кино" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779"  tvg-rec="5" timeshift="5", Мировое Кино
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1839/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xpremium-kino-kz" tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707"  tvg-rec="5" timeshift="5", Премиум Кино
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1838/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xsemejnoe-kino-kz" tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638"  tvg-rec="5" timeshift="5", Семейное Кино
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1837/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xq-kino-hit" tvg-name="Кинодрама" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390"  tvg-rec="5" timeshift="5", Кинодрама
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1835/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xq-kino-alem" tvg-name="Киносериал" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351"  tvg-rec="5" timeshift="5", Киносериал
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1834/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369"  tvg-rec="5" timeshift="5", Sport+ Qazaqstan
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1844/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274"  tvg-rec="5" timeshift="5", Q Sport League
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1843/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145"  tvg-rec="5" timeshift="5", Q Arena
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1842/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077"  tvg-rec="5" timeshift="5", QazSport
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1841/F6E1DD42544DD10/video.m3u8
-
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" tvg-rec="7",BCU Premiere 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11015/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11015/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4737" tvg-logo="http://epg.one/img/4737.png" tvg-rec="7",BCU Premiere 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11016/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11016/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Premiere 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11017/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11017/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4747" tvg-logo="http://epg.one/img/4747.png" tvg-rec="7",BCU СССР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11027/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11027/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11028/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11028/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11029/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11029/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4751" tvg-logo="http://epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11030/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11030/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8963" tvg-logo="http://epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11031/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11031/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11032/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11032/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4754" tvg-logo="http://epg.one/img/4754.png" tvg-rec="7",BCU FilMystic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11033/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11033/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4755" tvg-logo="http://epg.one/img/4755.png" tvg-rec="7",BCU History HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11034/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4758" tvg-logo="http://epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11037/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11037/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8964" tvg-logo="http://epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11038/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11038/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4760" tvg-logo="http://epg.one/img/4760.png" tvg-rec="7",BCU Premiere HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11039/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11039/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="7",BCU Romantic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11040/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11040/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11041/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11041/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4763" tvg-logo="http://epg.one/img/4763.png" tvg-rec="7",BCU VHS HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11042/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11042/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4764" tvg-logo="http://epg.one/img/4764.png" tvg-rec="7",BCU Media HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11043/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11043/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4765" tvg-logo="http://epg.one/img/4765.png" tvg-rec="7",BCU Stars HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11044/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11044/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4766" tvg-logo="http://epg.one/img/4766.png" tvg-rec="7",BCU Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11045/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11045/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11046/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11046/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11047/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11047/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4769" tvg-logo="http://epg.one/img/4769.png" tvg-rec="7",BCU Criminal HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11048/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11048/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5561" tvg-logo="http://epg.one/img/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15023/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15023/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5513" tvg-logo="http://epg.one/img/5513.png" tvg-rec="0",BCU Media HD OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15024/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15024/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5514" tvg-logo="http://epg.one/img/5514.png" tvg-rec="0",BCU Marvel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15025/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5515" tvg-logo="http://epg.one/img/5515.png" tvg-rec="0",BCU Comedy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6131" tvg-logo="http://epg.one/img/6131.png" tvg-rec="0",BCU Reality HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16082/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16082/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6067" tvg-logo="http://epg.one/img/6067.png" tvg-rec="0",BCU Reality OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16083/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16083/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6175" tvg-logo="http://epg.one/img/6175.png" tvg-rec="0",BCU Survival HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17019/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17019/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6164" tvg-logo="http://epg.one/img/6164.png" tvg-rec="0",BCU Survival OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17020/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17020/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6176" tvg-logo="http://epg.one/img/6176.png" tvg-rec="0",BCU Cosmo HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17021/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17021/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6198" tvg-logo="http://epg.one/img/6198.png" tvg-rec="0",BCU TruMotion HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17054/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17054/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="0",BCU Romantic OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/18052/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18052/index.m3u8
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5113" tvg-logo="http://epg.one/img/5113.png" tvg-rec="0",TOP Великолепный Век HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13001/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5114" tvg-logo="http://epg.one/img/5114.png" tvg-rec="0",TOP 80 S HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13002/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13002/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5115" tvg-logo="http://epg.one/img/5115.png" tvg-rec="0",TOP BUDO HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13003/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13003/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5116" tvg-logo="http://epg.one/img/5116.png" tvg-rec="0",TOP Cinema HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13004/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13004/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5117" tvg-logo="http://epg.one/img/5117.png" tvg-rec="0",TOP USSR HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5118" tvg-logo="http://epg.one/img/5118.png" tvg-rec="0",TOP MIX HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13006/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13006/index.m3u8
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11004/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11004/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4683" tvg-logo="http://epg.one/img/4683.png" tvg-rec="7",CineMan Top
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4684" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11006/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11006/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4685" tvg-logo="http://epg.one/img/4685.png" tvg-rec="7",CineMan Thriller
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11007/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4596" tvg-logo="http://epg.one/img/4596.png" tvg-rec="7",VF Fantasy
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/10005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/10005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4793" tvg-logo="http://epg.one/img/4793.png" tvg-rec="0",VF Fantastic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11121/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11121/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4598" tvg-logo="http://epg.one/img/4598.png" tvg-rec="7",VF Mystic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/10007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/10007/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4666" tvg-logo="http://epg.one/img/4666.png" tvg-rec="7",VF Катастрофы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/10080/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/10080/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5585" tvg-logo="http://epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15106/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15106/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6051" tvg-logo="http://epg.one/img/6051.png" tvg-rec="0",CineMan Ментовские войны
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16063/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16063/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4777" tvg-logo="http://epg.one/img/4777.png" tvg-rec="7",StrahTV Хит HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11064/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11064/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" tvg-rec="7",StrahTV Космо HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11065/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11065/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4779" tvg-logo="http://epg.one/img/4779.png" tvg-rec="7",StrahTV Страх HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11069/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11069/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4780" tvg-logo="http://epg.one/img/4780.png" tvg-rec="7",StrahTV Фантастика HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11070/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11070/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4719" tvg-logo="http://epg.one/img/4719.png" tvg-rec="7",PG Premiere HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11094/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11094/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4720" tvg-logo="http://epg.one/img/4720.png" tvg-rec="7",PG Premium HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11095/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11095/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4721" tvg-logo="http://epg.one/img/4721.png" tvg-rec="7",PG РуКино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11096/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11096/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4722" tvg-logo="http://epg.one/img/4722.png" tvg-rec="7",PG Victory HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11097/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11097/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4723" tvg-logo="http://epg.one/img/4723.png" tvg-rec="7",PG Paradox HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11098/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11098/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4724" tvg-logo="http://epg.one/img/4724.png" tvg-rec="7",PG Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11099/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11099/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4725" tvg-logo="http://epg.one/img/4725.png" tvg-rec="7",PG Paradise HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11100/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11100/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4726" tvg-logo="http://epg.one/img/4726.png" tvg-rec="7",PG Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11101/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11101/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4727" tvg-logo="http://epg.one/img/4727.png" tvg-rec="7",PG USSR HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11102/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11102/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5462" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15000/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15000/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7151" tvg-logo="http://epg.one/img/7151.png" tvg-rec="0",VB VHS Classic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19429/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19429/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5147" tvg-logo="http://epg.one/img/5147.png" tvg-rec="0",MM Катастрофа HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13034/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5141" tvg-logo="http://epg.one/img/5141.png" tvg-rec="0",MM Боевик HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13028/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13028/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5152" tvg-logo="http://epg.one/img/5152.png" tvg-rec="0",MM Криминал HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13039/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13039/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5153" tvg-logo="http://epg.one/img/5153.png" tvg-rec="0",MM Крутые 90-е HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13040/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13040/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5162" tvg-logo="http://epg.one/img/5162.png" tvg-rec="0",MM Полицейский с Рублёвки HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13049/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13049/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5171" tvg-logo="http://epg.one/img/5171.png" tvg-rec="0",MM Триллер HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13058/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13058/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5175" tvg-logo="http://epg.one/img/5175.png" tvg-rec="0",MM Фантастика HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/13062/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/13062/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6145" tvg-logo="http://epg.one/img/6145.png" tvg-rec="0",VF Чернобыль
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17001/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6154" tvg-logo="http://epg.one/img/6154.png" tvg-rec="0",VF Привет из 90х
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17011/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17011/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="1113" tvg-logo="http://epg.one/img/1113.png" tvg-rec="0",Z!Channel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14134/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14134/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="1116" tvg-logo="http://epg.one/img/1116.png" tvg-rec="0",Z!Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14137/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14137/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5446" tvg-logo="http://epg.one/img/5446.png" tvg-rec="0",Yosso TV Best
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14236/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14236/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5586" tvg-logo="http://epg.one/img/5586.png" tvg-rec="0",Yosso TV Adrenaline
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15105/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15105/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5631" tvg-logo="http://epg.one/img/5631.png" tvg-rec="0",Yosso TV Thriller
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15168/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15168/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5983" tvg-logo="http://epg.one/img/5983.png" tvg-rec="0",Yosso TV Oblivion
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15509/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15509/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7886" tvg-logo="http://epg.one/img/7886.png" tvg-rec="0",Yosso TV Best 60fps
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20165/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20165/index.m3u8
 EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6210" tvg-logo="http://epg.one/img/6210.png" tvg-rec="0",Eye Criminal HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17067/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17067/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6252" tvg-logo="http://epg.one/img/6252.png" tvg-rec="0",Magic Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/18065/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18065/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6253" tvg-logo="http://epg.one/img/6253.png" tvg-rec="0",Magic Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/18066/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18066/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6254" tvg-logo="http://epg.one/img/6254.png" tvg-rec="0",Magic Galaxy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/18067/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18067/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6255" tvg-logo="http://epg.one/img/6255.png" tvg-rec="0",Magic Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/18068/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18068/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Триколор Ментовские войны
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/18128/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18128/index.m3u8
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6696" tvg-logo="http://epg.one/img/6696.png" tvg-rec="0",BOX Franchise HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19274/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19274/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6697" tvg-logo="http://epg.one/img/6697.png" tvg-rec="0",BOX Hybrid HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19275/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19275/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6698" tvg-logo="http://epg.one/img/6698.png" tvg-rec="0",BOX Anime HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19276/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19276/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6699" tvg-logo="http://epg.one/img/6699.png" tvg-rec="0",BOX Gangster HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19277/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19277/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6700" tvg-logo="http://epg.one/img/6700.png" tvg-rec="0",BOX Oscar HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19278/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19278/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6701" tvg-logo="http://epg.one/img/6701.png" tvg-rec="0",BOX Memory HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19279/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19279/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6702" tvg-logo="http://epg.one/img/6702.png" tvg-rec="0",BOX M.Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19280/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19280/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6703" tvg-logo="http://epg.one/img/6703.png" tvg-rec="0",BOX Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19281/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19281/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6704" tvg-logo="http://epg.one/img/6704.png" tvg-rec="0",BOX Game HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19284/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19284/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6705" tvg-logo="http://epg.one/img/6705.png" tvg-rec="0",BOX Spy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19285/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19285/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6831" tvg-logo="http://epg.one/img/6831.png" tvg-rec="0",BOX Travel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19418/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19418/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6832" tvg-logo="http://epg.one/img/6832.png" tvg-rec="0",BOX Western HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19419/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19419/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6833" tvg-logo="http://epg.one/img/6833.png" tvg-rec="0",BOX Zombie HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19420/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19420/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6834" tvg-logo="http://epg.one/img/6834.png" tvg-rec="0",BOX Cyber HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19421/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19421/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7490" tvg-logo="http://epg.one/img/7490.png" tvg-rec="0",BOX Fantasy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20156/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20156/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6836" tvg-logo="http://epg.one/img/6836.png" tvg-rec="0",PG Insomnia HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19398/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19398/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="104" tvg-logo="http://epg.one/img/104.png" tvg-rec="0",MYTV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19407/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19407/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="105" tvg-logo="http://epg.one/img/105.png" tvg-rec="0",MYTV 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19408/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19408/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="106" tvg-logo="http://epg.one/img/106.png" tvg-rec="0",MYTV 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19411/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19411/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="107" tvg-logo="http://epg.one/img/107.png" tvg-rec="0",MYTV HIT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19410/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19410/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7896" tvg-logo="http://epg.one/img/7896.png" tvg-rec="0",VB Назад в СССР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20175/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20175/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7903" tvg-logo="http://epg.one/img/7903.png" tvg-rec="0",Кион Хит HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20211/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20211/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8760" tvg-logo="http://epg.one/img/8760.png" tvg-rec="0",VeleS 60fps
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31637/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31637/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8763" tvg-logo="http://epg.one/img/8763.png" tvg-rec="0",VeleS Premiere
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31641/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31641/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8764" tvg-logo="http://epg.one/img/8764.png" tvg-rec="0",VeleS Страшное
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31642/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31642/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8782" tvg-logo="http://epg.one/img/8782.png" tvg-rec="0",Z!Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31693/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31693/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-rec="0",Z!Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31694/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31694/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8784" tvg-logo="http://epg.one/img/8784.png" tvg-rec="0",Z!Adventure HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31698/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31698/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8785" tvg-logo="http://epg.one/img/8785.png" tvg-rec="0",Z!Detective HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31699/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31699/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8788" tvg-logo="http://epg.one/img/8788.png" tvg-rec="0",Z!Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31702/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31702/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8789" tvg-logo="http://epg.one/img/8789.png" tvg-rec="0",Z!Fantasy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31703/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31703/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8792" tvg-logo="http://epg.one/img/8792.png" tvg-rec="0",StrahTV Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31708/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31708/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8793" tvg-logo="http://epg.one/img/8793.png" tvg-rec="0",StrahTV Байки из склепа
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31711/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31711/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8796" tvg-logo="http://epg.one/img/8796.png" tvg-rec="0",StrahTV Кинодром HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31714/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31714/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="88023" tvg-logo="http://epg.one/img/88023.png" tvg-rec="0",StrahTV Однажды в милиции
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31715/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31715/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8799" tvg-logo="http://epg.one/img/8799.png" tvg-rec="0",StrahTV Ольга HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31718/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31718/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8800" tvg-logo="http://epg.one/img/8800.png" tvg-rec="0",StrahTV Репка HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31719/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31719/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8801" tvg-logo="http://epg.one/img/8801.png" tvg-rec="0",StrahTV Страх 2.0 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31720/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31720/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8802" tvg-logo="http://epg.one/img/8802.png" tvg-rec="0",StrahTV Фантастика 2.0 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31722/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31722/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11342" tvg-logo="http://epg.one/img/11342.png" tvg-rec="0",Suspenso HD ES
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31906/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31906/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11343" tvg-logo="http://epg.one/img/11343.png" tvg-rec="0",КиноКульт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31914/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31914/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11507" tvg-logo="http://epg.one/img/11507.png" tvg-rec="0",VHS-ка Русское кино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31925/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31925/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11344" tvg-logo="http://epg.one/img/11344.png" tvg-rec="0",Госфильмофонд. Машина времени HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31929/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31929/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11345" tvg-logo="http://epg.one/img/11345.png" tvg-rec="0",VHS-ка Сериал HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31931/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31931/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11600" tvg-logo="http://epg.one/img/11600.png" tvg-rec="0",Venera.TV Советская классика 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/30151/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30151/index.m3u8
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5519" tvg-logo="http://epg.one/img/5519.png" tvg-rec="0",Liberty Марвел FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15090/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15090/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6007" tvg-logo="http://epg.one/img/6007.png" tvg-rec="0",Citrus Marvel
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16051/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16051/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" tvg-rec="7",VF Marvel
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/10081/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/10081/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11009/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11009/index.m3u8
 
 
-
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9327" tvg-logo="http://epg.one/img2/9327.png" tvg-rec="3",Тооку (Якутия)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9172/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="0",Карусель HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20012/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9024" tvg-logo="http://epg.one/img2/9024.png" tvg-rec="0",КиноМульт
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20009/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9025" tvg-logo="http://epg.one/img2/9025.png" tvg-rec="0",Kids TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20008/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" tvg-rec="0",В гостях у сказки HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20005/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2239" tvg-logo="http://epg.one/img2/2239.png" tvg-rec="0",Малыш HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15099/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7990" tvg-logo="http://epg.one/img2/7990.png" tvg-rec="0",Лёва HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15098/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9029" tvg-logo="http://epg.one/img2/9029.png" tvg-rec="0",Baby Time
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20030/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9092" tvg-logo="http://epg.one/img2/9092.png" tvg-rec="0",KinoKazka
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15019/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7593" tvg-logo="http://epg.one/img2/7593.png" tvg-rec="0",VF Disney Cartoon
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15027/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7597" tvg-logo="http://epg.one/img2/7597.png" tvg-rec="0",Чижик HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14034/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7594" tvg-logo="http://epg.one/img2/7594.png" tvg-rec="0",VF Союзмультфильм
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14238/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7595" tvg-logo="http://epg.one/img2/7595.png" tvg-rec="0",VF Ералаш
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14163/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7596" tvg-logo="http://epg.one/img2/7596.png" tvg-rec="0",ТипТоп HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14007/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="7",Nickelodeon HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/223/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="555" tvg-logo="http://epg.one/img2/555.png" tvg-rec="7",Tiji TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/108/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="917" tvg-logo="http://epg.one/img2/917.png" tvg-rec="7",Nick Jr.
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/114/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2481" tvg-logo="http://epg.one/img2/2481.png" tvg-rec="7",СТС Kids HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2001/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="810" tvg-logo="http://epg.one/img2/810.png" tvg-rec="7",Gulli Girl
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/109/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="7",Nickelodeon
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/541/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="923" tvg-logo="http://epg.one/img2/923.png" tvg-rec="7",Детский мир
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/543/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="494" tvg-logo="http://epg.one/img2/494.png" tvg-rec="7",JimJam
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/138/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="601" tvg-logo="http://epg.one/img2/601.png" tvg-rec="7",Cartoon Network HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/143/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="7",Карусель
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/156/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png" tvg-rec="7",Ani
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/129/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="7",Мульт
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/909/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="929" tvg-logo="http://epg.one/img2/929.png" tvg-rec="7",Cartoonito
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/723/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1757" tvg-logo="http://epg.one/img2/1757.png" tvg-rec="7",О!
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/727/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="66" tvg-logo="http://epg.one/img2/66.png" tvg-rec="7",Уникум
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/730/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" tvg-rec="7",В гостях у сказки
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/737/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7984" tvg-logo="http://epg.one/img2/7984.png" tvg-rec="3",Карусель +3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/740/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="284" tvg-logo="http://epg.one/img2/284.png" tvg-rec="7",Мультимузыка
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/749/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2156" tvg-logo="http://epg.one/img2/2156.png" tvg-rec="3",Duck TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/1031/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2436" tvg-logo="http://epg.one/img2/2436.png" tvg-rec="3",Baby TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2084/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="410" tvg-logo="http://epg.one/img2/410.png" tvg-rec="3",Da Vinci orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/1033/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2223" tvg-logo="http://epg.one/img2/2223.png" tvg-rec="3",Da Vinci FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/1034/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2239" tvg-logo="http://epg.one/img2/2239.png" tvg-rec="3",Малыш
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/1041/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2994" tvg-logo="http://epg.one/img2/2994.png" tvg-rec="7",NickToons HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/849/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2287" tvg-logo="http://epg.one/img2/2287.png" tvg-rec="7",Радость моя
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/853/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2437" tvg-logo="http://epg.one/img2/2437.png" tvg-rec="3",Рыжий
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2052/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2438" tvg-logo="http://epg.one/img2/2438.png" tvg-rec="3",Капитан Фантастика HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2098/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2440" tvg-logo="http://epg.one/img2/2440.png" tvg-rec="3",Тамыр (Уфа)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2109/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2442" tvg-logo="http://epg.one/img2/2442.png" tvg-rec="3",Смайл ТВ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2157/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2757" tvg-logo="http://epg.one/img2/2757.png" tvg-rec="3",Мультиландия
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/5055/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="7",Мульт HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/921/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="3",Nickelodeon HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9015/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="3",Мульт HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9037/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="66" tvg-logo="http://epg.one/img2/66.png" tvg-rec="3",Уникум HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9077/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2481" tvg-logo="http://epg.one/img2/2481.png" tvg-rec="3",СТС Kids HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9063/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="555" tvg-logo="http://epg.one/img2/555.png" tvg-rec="3",Tiji TV orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9180/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="810" tvg-logo="http://epg.one/img2/810.png" tvg-rec="3",Gulli Girl orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9181/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="917" tvg-logo="http://epg.one/img2/917.png" tvg-rec="3",Nick Jr. orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9182/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="923" tvg-logo="http://epg.one/img2/923.png" tvg-rec="3",Детский мир orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9184/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="494" tvg-logo="http://epg.one/img2/494.png" tvg-rec="3",JimJam orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9185/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="3",Карусель orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9186/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png" tvg-rec="3",Ani orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9187/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="3",Мульт orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9188/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="929" tvg-logo="http://epg.one/img2/929.png" tvg-rec="3",Cartoonito HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9189/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1757" tvg-logo="http://epg.one/img2/1757.png" tvg-rec="3",О! orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9190/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="66" tvg-logo="http://epg.one/img2/66.png" tvg-rec="3",Уникум HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9191/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="923" tvg-logo="http://epg.one/img2/923.png" tvg-rec="3",Детский мир HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9192/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2239" tvg-logo="http://epg.one/img2/2239.png" tvg-rec="3",Малыш orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9193/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2287" tvg-logo="http://epg.one/img2/2287.png" tvg-rec="3",Радость моя orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9194/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2437" tvg-logo="http://epg.one/img2/2437.png" tvg-rec="3",Рыжий orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9195/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2438" tvg-logo="http://epg.one/img2/2438.png" tvg-rec="3",Капитан Фантастика HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9196/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2440" tvg-logo="http://epg.one/img2/2440.png" tvg-rec="3",Тамыр (Уфа) orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9198/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2442" tvg-logo="http://epg.one/img2/2442.png" tvg-rec="3",Смайл ТВ orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9199/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2757" tvg-logo="http://epg.one/img2/2757.png" tvg-rec="3",Мультиландия orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9200/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="3",Nickelodeon orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9260/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="601" tvg-logo="http://epg.one/img2/601.png" tvg-rec="3",Cartoon Network HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9261/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="284" tvg-logo="http://epg.one/img2/284.png" tvg-rec="3",Мультимузыка orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9262/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" tvg-rec="3",В гостях у сказки orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/9263/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4728" tvg-logo="http://epg.one/img2/4728.png" tvg-rec="7",CineMan Cartoons 90
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11001/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4729" tvg-logo="http://epg.one/img2/4729.png" tvg-rec="7",CineMan Cartoons Short
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11002/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4730" tvg-logo="http://epg.one/img2/4730.png" tvg-rec="7",CineMan Cartoons Big
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11003/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4746" tvg-logo="http://epg.one/img2/4746.png" tvg-rec="7",BCU Multserial HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11025/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4756" tvg-logo="http://epg.one/img2/4756.png" tvg-rec="7",BCU Kids HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11035/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4757" tvg-logo="http://epg.one/img2/4757.png" tvg-rec="7",BCU Kids+ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11036/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6185" tvg-logo="http://epg.one/img2/6185.png" tvg-rec="0",BCU Kids 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17023/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4774" tvg-logo="http://epg.one/img2/4774.png" tvg-rec="7",StrahTV Весёлая Карусель HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11057/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4775" tvg-logo="http://epg.one/img2/4775.png" tvg-rec="7",StrahTV Ералаш HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11058/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4731" tvg-logo="http://epg.one/img2/4731.png" tvg-rec="7",StrahTV Кроха ТВ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11066/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4790" tvg-logo="http://epg.one/img2/4790.png" tvg-rec="0",VF VHS Cartoon
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11118/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4795" tvg-logo="http://epg.one/img2/4795.png" tvg-rec="0",VF Малыш
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11123/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1112" tvg-logo="http://epg.one/img2/1112.png" tvg-rec="0",Сказки Зайки HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14150/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5386" tvg-logo="http://epg.one/img2/5386.png" tvg-rec="0",Yosso TV Kids
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14173/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5387" tvg-logo="http://epg.one/img2/5387.png" tvg-rec="0",Yosso TV Союзмульт
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14178/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7154" tvg-logo="http://epg.one/img2/7154.png" tvg-rec="0",Yosso TV Наше Детское
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19433/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5548" tvg-logo="http://epg.one/img2/5548.png" tvg-rec="0",Liberty Пиксар FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15092/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5549" tvg-logo="http://epg.one/img2/5549.png" tvg-rec="0",Liberty Дисней FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15093/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6178" tvg-logo="http://epg.one/img2/6178.png" tvg-rec="0",Liberty Бебимульт FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17027/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6229" tvg-logo="http://epg.one/img2/6229.png" tvg-rec="0",Liberty Мульт UKR 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18044/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="0",Liberty Мульт 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18051/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1107" tvg-logo="http://epg.one/img2/1107.png" tvg-rec="0",Карусель +7 (Владивосток)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15340/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7984" tvg-logo="http://epg.one/img2/7984.png" tvg-rec="0",Карусель +3 (Омск)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15436/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1107" tvg-logo="http://epg.one/img2/1107.png" tvg-rec="0",Карусель +7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15442/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="0",Карусель +0 (Элиста)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15453/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5995" tvg-logo="http://epg.one/img2/5995.png" tvg-rec="0",VF Мультуб
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15520/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0",VF Новогодние мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15523/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6162" tvg-logo="http://epg.one/img2/6162.png" tvg-rec="0",VF Скуби-Ду
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17007/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6251" tvg-logo="http://epg.one/img2/6251.png" tvg-rec="0",Magic Disney HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/18064/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="108" tvg-logo="http://epg.one/img2/108.png" tvg-rec="0",MYTV Kids
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19409/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6848" tvg-logo="http://epg.one/img2/6848.png" tvg-rec="0",BCU Little HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19425/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="8823" tvg-logo="http://epg.one/img2/8823.png" tvg-rec="0",VeleS Kids
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31646/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="8828" tvg-logo="http://epg.one/img2/8828.png" tvg-rec="0",StrahTV Том и Джерри
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31721/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2757" tvg-logo="http://epg.one/img2/2757.png" tvg-rec="0",Мультиландия HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31910/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11360" tvg-logo="http://epg.one/img2/11360.png" tvg-rec="0",Весёлые малыши HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31918/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="0",Карусель (Ставрополь)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31930/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11599" tvg-logo="http://epg.one/img2/11599.png" tvg-rec="0",Venera.TV Детский мир 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30150/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11554" tvg-logo="http://epg.one/img2/11554.png" tvg-rec="0",Venera.TV Воскресное утро 90х
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30152/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11555" tvg-logo="http://epg.one/img2/11555.png" tvg-rec="0",Venera.TV Фиксики
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30153/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11556" tvg-logo="http://epg.one/img2/11556.png" tvg-rec="0",Venera.TV Вуди Вудпекер
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30154/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11557" tvg-logo="http://epg.one/img2/11557.png" tvg-rec="0",Venera.TV Вспыш и чудо-машинки
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30155/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11558" tvg-logo="http://epg.one/img2/11558.png" tvg-rec="0",Venera.TV Утиные истории
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30156/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11559" tvg-logo="http://epg.one/img2/11559.png" tvg-rec="0",Venera.TV Три кота
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30157/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11560" tvg-logo="http://epg.one/img2/11560.png" tvg-rec="0",Venera.TV Свинка Пеппа
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30158/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11561" tvg-logo="http://epg.one/img2/11561.png" tvg-rec="0",Venera.TV Peppa Pig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30159/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11562" tvg-logo="http://epg.one/img2/11562.png" tvg-rec="0",Venera.TV Простоквашино
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30160/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11563" tvg-logo="http://epg.one/img2/11563.png" tvg-rec="0",Venera.TV Ну, погоди!
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30161/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11601" tvg-logo="http://epg.one/img2/11601.png" tvg-rec="0",Venera.TV Том и Джерри 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30162/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11564" tvg-logo="http://epg.one/img2/11564.png" tvg-rec="0",Venera.TV Тимон и Пумба
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30164/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11565" tvg-logo="http://epg.one/img2/11565.png" tvg-rec="0",Venera.TV Суперкрошки
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30165/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11566" tvg-logo="http://epg.one/img2/11566.png" tvg-rec="0",Venera.TV Смурфики
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30166/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11567" tvg-logo="http://epg.one/img2/11567.png" tvg-rec="0",Venera.TV Щенячий патруль
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30167/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11568" tvg-logo="http://epg.one/img2/11568.png" tvg-rec="0",Venera.TV Смешарики
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30168/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11569" tvg-logo="http://epg.one/img2/11569.png" tvg-rec="0",Venera.TV Симпсоны
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30169/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11570" tvg-logo="http://epg.one/img2/11570.png" tvg-rec="0",Venera.TV Розовая пантера
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30170/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11571" tvg-logo="http://epg.one/img2/11571.png" tvg-rec="0",Venera.TV Рик и Морти
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30171/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11572" tvg-logo="http://epg.one/img2/11572.png" tvg-rec="0",Venera.TV Рапунцель
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30172/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11573" tvg-logo="http://epg.one/img2/11573.png" tvg-rec="0",Venera.TV Пчёлка Майя
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30173/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11574" tvg-logo="http://epg.one/img2/11574.png" tvg-rec="0",Venera.TV Панда и Антилопа
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30174/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11575" tvg-logo="http://epg.one/img2/11575.png" tvg-rec="0",Venera.TV Охотники за привидениями
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30175/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11576" tvg-logo="http://epg.one/img2/11576.png" tvg-rec="0",Venera.TV Очень странные делишки
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30176/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11577" tvg-logo="http://epg.one/img2/11577.png" tvg-rec="0",Venera.TV Мишки Гамми
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30177/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11578" tvg-logo="http://epg.one/img2/11578.png" tvg-rec="0",Venera.TV Мини-мишки
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30178/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11579" tvg-logo="http://epg.one/img2/11579.png" tvg-rec="0",Venera.TV Микки Маус
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30179/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11580" tvg-logo="http://epg.one/img2/11580.png" tvg-rec="0",Venera.TV Маша и Медведь
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30180/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11581" tvg-logo="http://epg.one/img2/11581.png" tvg-rec="0",Venera.TV Даша-путешественница
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30181/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11582" tvg-logo="http://epg.one/img2/11582.png" tvg-rec="0",Venera.TV Леди Баг и Супер-Кот
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30182/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11583" tvg-logo="http://epg.one/img2/11583.png" tvg-rec="0",Venera.TV Крепыш и команда
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30183/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11584" tvg-logo="http://epg.one/img2/11584.png" tvg-rec="0",Venera.TV Корги по имени Моко
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30184/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11585" tvg-logo="http://epg.one/img2/11585.png" tvg-rec="0",Venera.TV Губка Боб
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30186/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11586" tvg-logo="http://epg.one/img2/11586.png" tvg-rec="0",Venera.TV Гриффины
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30187/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11587" tvg-logo="http://epg.one/img2/11587.png" tvg-rec="0",Venera.TV Еноты
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30188/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11588" tvg-logo="http://epg.one/img2/11588.png" tvg-rec="0",Venera.TV Енотки. Первые слова
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30189/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11589" tvg-logo="http://epg.one/img2/11589.png" tvg-rec="0",Venera.TV Экстрасенсы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30190/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11590" tvg-logo="http://epg.one/img2/11590.png" tvg-rec="0",Venera.TV Чип и Дейл
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30191/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11591" tvg-logo="http://epg.one/img2/11591.png" tvg-rec="0",Venera.TV Чудеса на виражах
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30192/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11592" tvg-logo="http://epg.one/img2/11592.png" tvg-rec="0",Venera.TV Бивис и Батт-Хед
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30193/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11593" tvg-logo="http://epg.one/img2/11593.png" tvg-rec="0",Venera.TV Аладдин
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30194/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11594" tvg-logo="http://epg.one/img2/11594.png" tvg-rec="0",Venera.TV Барбоскины
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30195/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11595" tvg-logo="http://epg.one/img2/11595.png" tvg-rec="0",Venera.TV Подводная одиссея
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30196/index.m3u8
+#EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11596" tvg-logo="http://epg.one/img2/11596.png" tvg-rec="0",Venera.TV 101 далматинец
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/30198/index.m3u8
 
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7235" tvg-logo="http://epg.one/img/7235.png" tvg-rec="0",Q Arena HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20061/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20061/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7236" tvg-logo="http://epg.one/img/7236.png" tvg-rec="0",Q League HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20062/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20062/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7238" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 FHD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20065/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20065/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="5891" tvg-logo="http://epg.one/img/5891.png" tvg-rec="0",Q Sport.KG HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15238/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15238/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="4734" tvg-logo="http://epg.one/img/4734.png" tvg-rec="7",StrahTV WWE Russian
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/11056/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/11056/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/6554/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/6554/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19430/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19430/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19432/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19432/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/19431/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/19431/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9648" tvg-logo="http://epg.one/img/9648.png" tvg-rec="0",Megogo Спорт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31612/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31612/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9868" tvg-logo="http://epg.one/img/9868.png" tvg-rec="0",Megogo Футбол 4 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31613/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31613/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9869" tvg-logo="http://epg.one/img/9869.png" tvg-rec="0",Megogo Футбол 5 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31614/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31614/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9400" tvg-logo="http://epg.one/img/9400.png" tvg-rec="0",Sky Sports Tennis HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/6546/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/6546/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9392" tvg-logo="http://epg.one/img/9392.png" tvg-rec="0",Megogo Гонг HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31503/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31503/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9393" tvg-logo="http://epg.one/img/9393.png" tvg-rec="0",Megogo Футбол 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31504/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31504/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31505/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31505/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31483/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31483/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7238" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7239" tvg-logo="http://epg.one/img/7239.png" tvg-rec="0",Setanta Sports 2 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16025/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="3",Setanta Sports 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/271/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/271/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="6861" tvg-logo="http://epg.one/img/6861.png" tvg-rec="3",Setanta Sports 1 orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/5069/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/5069/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="3",Setanta Sports 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/270/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/270/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2630" tvg-logo="http://epg.one/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/2399/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2399/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2370" tvg-logo="http://epg.one/img/2370.png" tvg-rec="3",Setanta Sports FHD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/272/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/272/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="6860" tvg-logo="http://epg.one/img/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/5068/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/5068/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="0",Setanta Sports 1 HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/6541/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/6541/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="0",Setanta Sports 2 HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/6542/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/6542/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="0",Setanta Sports 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/6543/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/6543/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="0",Setanta Sports 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/6544/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/6544/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-rec="0",Окко Event 7
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31450/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31450/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-rec="0",Окко Event 8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31451/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31451/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-rec="0",Окко Event 9
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31452/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31452/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-rec="0",Окко Event 10
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31453/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31453/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-rec="0",Окко Event 11
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31454/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31454/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-rec="0",Окко Event 12
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31457/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31457/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-rec="0",Окко Event 13
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31458/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31458/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-rec="0",Окко Event 14
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31459/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31459/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-rec="0",Окко Event 15
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31463/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31463/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-rec="0",Окко Event 16
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31522/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31522/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-rec="0",Окко Event 17
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31523/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31523/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-rec="0",Окко Event 18
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31524/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31524/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-rec="0",Окко Event 19
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31525/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31525/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-rec="0",Окко Event 20
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31526/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31526/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-rec="0",Окко Event 21
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31527/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31527/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-rec="0",Окко Event 22
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31528/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31528/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-rec="0",Окко Event 23
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31529/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31529/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-rec="0",Окко Event 24
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31530/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31530/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-rec="0",Окко Event 25
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31531/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31531/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9863" tvg-logo="http://epg.one/img/9863.png" tvg-rec="0",Окко Event 26
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31532/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31532/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-rec="0",Окко Event 27
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31533/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31533/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-rec="0",Окко Event 28
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31534/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31534/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-rec="0",Окко Event 29
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31535/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31535/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20135/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20135/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20138/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20138/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7238" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7239" tvg-logo="http://epg.one/img/7239.png" tvg-rec="0",Setanta Sports 2 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16025/index.m3u8
 
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7573" tvg-logo="http://epg.one/img/7573.png" tvg-rec="7",VF Легенды Ретро ФМ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/10067/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/10067/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6135" tvg-logo="http://epg.one/img/6135.png" tvg-rec="0",VF Музыкальный Новый год!
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16140/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16140/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7552" tvg-logo="http://epg.one/img/7552.png" tvg-rec="0",VF Modern Talking
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14004/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14004/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7553" tvg-logo="http://epg.one/img/7553.png" tvg-rec="0",VF Britney Spears
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5985" tvg-logo="http://epg.one/img/5985.png" tvg-rec="0",VF Музыка
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15512/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15512/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5986" tvg-logo="http://epg.one/img/5986.png" tvg-rec="0",VF Music
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/15516/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/15516/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6169" tvg-logo="http://epg.one/img/6169.png" tvg-rec="0",VF Rap
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17034/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6170" tvg-logo="http://epg.one/img/6170.png" tvg-rec="0",VF Хит-парад
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/17036/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/17036/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5290" tvg-logo="http://epg.one/img/5290.png" tvg-rec="0",Z!Music HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14138/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14138/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5371" tvg-logo="http://epg.one/img/5371.png" tvg-rec="0",VB Dance Hits of 90s
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14154/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14154/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5372" tvg-logo="http://epg.one/img/5372.png" tvg-rec="0",VB Русская Попса 80х-90х
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14155/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14155/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5373" tvg-logo="http://epg.one/img/5373.png" tvg-rec="0",VB Russian Dance Hits of 90s
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/14156/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/14156/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6008" tvg-logo="http://epg.one/img/6008.png" tvg-rec="0",VB Best Live Performances
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16003/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16003/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6009" tvg-logo="http://epg.one/img/6009.png" tvg-rec="0",VB Romantic and Ballads
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16014/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16014/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6010" tvg-logo="http://epg.one/img/6010.png" tvg-rec="0",Радио LoveIsRadio.by HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/16015/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16015/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7176" tvg-logo="http://epg.one/img/7176.png" tvg-rec="0",VB Eurodance Hits 90s
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20000/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20000/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5997" tvg-logo="http://epg.one/img/5997.png" tvg-rec="0",#ё HD (Самара)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20162/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20162/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7887" tvg-logo="http://epg.one/img/7887.png" tvg-rec="0",BOX RU.RAP HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20171/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20171/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7888" tvg-logo="http://epg.one/img/7888.png" tvg-rec="0",VB MTV Old Россия HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/20174/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20174/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8805" tvg-logo="http://epg.one/img/8805.png" tvg-rec="0",VB Greatest Hits
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31622/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31622/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8806" tvg-logo="http://epg.one/img/8806.png" tvg-rec="0",VB Yo! MTV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31623/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31623/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8807" tvg-logo="http://epg.one/img/8807.png" tvg-rec="0",VeleS Dj Set
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31639/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31639/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8808" tvg-logo="http://epg.one/img/8808.png" tvg-rec="0",VeleS Магнитофон
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VGWB9P9PSCG8HS/31645/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/31645/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",National Geographic HD
 http://178.63.98.119:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Cartoons 90
-http://178.63.98.119:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Cartoons BIG
-http://178.63.98.119:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Cartoons Short
-http://178.63.98.119:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan
-http://178.63.98.119:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Action
-http://178.63.98.119:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Комедия
-http://178.63.98.119:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Катастрофы
-http://178.63.98.119:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Marvel
-http://178.63.98.119:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Мелодрама
-http://178.63.98.119:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan MiniSeries
-http://178.63.98.119:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan ПёС + Лихач
-http://178.63.98.119:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Premium
-http://178.63.98.119:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan РуКино
-http://178.63.98.119:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Симпсоны
-http://178.63.98.119:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Скорая Помощь
-http://178.63.98.119:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Сваты
-http://178.63.98.119:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Thriller
-http://178.63.98.119:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Top
-http://178.63.98.119:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Ужасы
-http://178.63.98.119:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan VHS
-http://178.63.98.119:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Лесник
-http://178.63.98.119:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Ментовские войны
-http://178.63.98.119:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Фитнес
-http://178.63.98.119:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Криминальные Сериалы
-http://178.63.98.119:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",CineMan Катастрофы
-http://178.63.98.119:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Cineman Relax 4k
-http://178.63.98.119:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Netflix 4K
-http://178.63.98.119:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty РусФильм 4K
-http://178.63.98.119:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Триллер 4K
-http://178.63.98.119:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Индия 4K
-http://178.63.98.119:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Турк Фильм 4K
-http://178.63.98.119:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Аванпост 4K
-http://178.63.98.119:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Мелодрамы FHD
-http://178.63.98.119:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Кино Микс 4K
-http://178.63.98.119:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Криминал 4K
-http://178.63.98.119:8000/play/a020/index.m3u8
+
 #EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",Liberty Сериалы FHD
 http://178.63.98.119:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="GRAND IPTV/Hetzner Online GmbH",MM Агата Кристи HD
@@ -5421,618 +6297,6 @@ http://89.218.32.179:18000/play/a01o
 http://89.218.32.179:18000/play/a02z
 
 
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",360 Novosti
-http://217.174.229.136:8000/play/a02a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",360 Подмосковье
-http://217.174.229.136:8000/play/a07l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",8 Канал
-http://217.174.229.136:8000/play/a00g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A HABER
-http://217.174.229.136:8000/play/a0e9
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A HABER HD
-http://217.174.229.136:8000/play/a0ee
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A SPOR
-http://217.174.229.136:8000/play/a0ea
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A SPOR HD
-http://217.174.229.136:8000/play/a0ef
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ASFTV
-http://217.174.229.136:8000/play/a0f3
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ASFTV
-http://217.174.229.136:8000/play/a0es
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ATV
-http://217.174.229.136:8000/play/a0e8
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ATV HD
-http://217.174.229.136:8000/play/a0ed
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Akıllı TV
-http://217.174.229.136:8000/play/a0f1
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 1
-http://217.174.229.136:8000/play/a07p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 2
-http://217.174.229.136:8000/play/a084
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 2 HD
-http://217.174.229.136:8000/play/a078
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Black
-http://217.174.229.136:8000/play/a00r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Hit HD
-http://217.174.229.136:8000/play/a041
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Premium HD
-http://217.174.229.136:8000/play/a07y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Red
-http://217.174.229.136:8000/play/a00p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Red HD
-http://217.174.229.136:8000/play/a077
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Sci-Fi
-http://217.174.229.136:8000/play/a00q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BABY TIME
-http://217.174.229.136:8000/play/a024
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BLOOMBERGHT HD
-http://217.174.229.136:8000/play/a0e4
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE
-http://217.174.229.136:8000/play/a02g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE CLASSIC
-http://217.174.229.136:8000/play/a02c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE DELUXE
-http://217.174.229.136:8000/play/a02i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE ETHNO
-http://217.174.229.136:8000/play/a02j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE FRESH
-http://217.174.229.136:8000/play/a02f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE HITS
-http://217.174.229.136:8000/play/a02b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE ROCK
-http://217.174.229.136:8000/play/a02e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE Russkiy Hit
-http://217.174.229.136:8000/play/a02h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE SHLYAGER
-http://217.174.229.136:8000/play/a02d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV
-http://217.174.229.136:8000/play/a07s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV Classic
-http://217.174.229.136:8000/play/a056
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV Русский Хит
-http://217.174.229.136:8000/play/a08u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Bolt
-http://217.174.229.136:8000/play/a055
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",CBC Sport TV HD
-http://217.174.229.136:8000/play/a04k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",CNN TÜRK
-http://217.174.229.136:8000/play/a0ep
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Curiosity Stream
-http://217.174.229.136:8000/play/a09l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",D anadolu
-http://217.174.229.136:8000/play/a0ez
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Da Vinci
-http://217.174.229.136:8000/play/a03m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Demirören Medya
-http://217.174.229.136:8000/play/a0ey
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Dream Türk
-http://217.174.229.136:8000/play/a0et
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",EKİNTÜRK TV
-http://217.174.229.136:8000/play/a0f6
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",EURO D HD
-http://217.174.229.136:8000/play/a0eu
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Extreme
-http://217.174.229.136:8000/play/a08q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Fashion HD
-http://217.174.229.136:8000/play/a089
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Gagsnetwork
-http://217.174.229.136:8000/play/a09c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Gulli Girl
-http://217.174.229.136:8000/play/a09t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",HABERTURK HD
-http://217.174.229.136:8000/play/a0e3
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Idman TV HD
-http://217.174.229.136:8000/play/a04e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Info Card (test)
-http://217.174.229.136:8000/play/a0f0
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KANAL 7 HD
-http://217.174.229.136:8000/play/a0ek
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KHL
-http://217.174.229.136:8000/play/a07q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KHL Prime HD
-http://217.174.229.136:8000/play/a07x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",LEOMAX24
-http://217.174.229.136:8000/play/a03l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",LUXURY
-http://217.174.229.136:8000/play/a026
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Lider Haber TV
-http://217.174.229.136:8000/play/a0f4
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",NANO
-http://217.174.229.136:8000/play/a027
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",NTV Kazakstan
-http://217.174.229.136:8000/play/a020
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",O2TV
-http://217.174.229.136:8000/play/a08s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ocean
-http://217.174.229.136:8000/play/a086
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Plan B HD
-http://217.174.229.136:8000/play/a08l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RBC TV CHANNEL
-http://217.174.229.136:8000/play/a028
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RT DOC HD
-http://217.174.229.136:8000/play/a022
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RT Region SD
-http://217.174.229.136:8000/play/a021
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RTG HD
-http://217.174.229.136:8000/play/a045
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RTG TV
-http://217.174.229.136:8000/play/a07r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RUMELİ TV
-http://217.174.229.136:8000/play/a0er
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RUMELİ TV
-http://217.174.229.136:8000/play/a0f5
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ru TV
-http://217.174.229.136:8000/play/a034
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",SHOW HD
-http://217.174.229.136:8000/play/a0e2
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",SHOW MAX HD
-http://217.174.229.136:8000/play/a0e5
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",START World
-http://217.174.229.136:8000/play/a09a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Shopping Live
-http://217.174.229.136:8000/play/a00h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Silk Way
-http://217.174.229.136:8000/play/a04w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Star Family
-http://217.174.229.136:8000/play/a04u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TELE 1 HD
-http://217.174.229.136:8000/play/a0ew
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV 8 INT
-http://217.174.229.136:8000/play/a0ev
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV XXI
-http://217.174.229.136:8000/play/a06w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV2
-http://217.174.229.136:8000/play/a0eq
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Telekanal 360
-http://217.174.229.136:8000/play/a029
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Terra
-http://217.174.229.136:8000/play/a032
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Terra HD
-http://217.174.229.136:8000/play/a039
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TiJi
-http://217.174.229.136:8000/play/a09k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Torre Ricca
-http://217.174.229.136:8000/play/a025
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ULKE TV HD
-http://217.174.229.136:8000/play/a0el
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",VKUS
-http://217.174.229.136:8000/play/a023
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",minikaCOCUK
-http://217.174.229.136:8000/play/a0eb
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",minikaGO
-http://217.174.229.136:8000/play/a0ec
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju History
-http://217.174.229.136:8000/play/a03r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju Nature
-http://217.174.229.136:8000/play/a03s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000
-http://217.174.229.136:8000/play/a03p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 action
-http://217.174.229.136:8000/play/a03o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 romantica
-http://217.174.229.136:8000/play/a04b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 новелла
-http://217.174.229.136:8000/play/a03w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 русское
-http://217.174.229.136:8000/play/a03n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Comedy
-http://217.174.229.136:8000/play/a040
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Megahit
-http://217.174.229.136:8000/play/a03z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Planet
-http://217.174.229.136:8000/play/a048
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Premiere
-http://217.174.229.136:8000/play/a03y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Serial
-http://217.174.229.136:8000/play/a049
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Sport
-http://217.174.229.136:8000/play/a03t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",БСТ
-http://217.174.229.136:8000/play/a05j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",БелРос
-http://217.174.229.136:8000/play/a051
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Бобёр
-http://217.174.229.136:8000/play/a05q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Большая Азия
-http://217.174.229.136:8000/play/a038
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",В гостях у сказки
-http://217.174.229.136:8000/play/a02u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Витрина ТВ
-http://217.174.229.136:8000/play/a00s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Восток
-http://217.174.229.136:8000/play/a033
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Глазами Туриста HD
-http://217.174.229.136:8000/play/a043
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Детский
-http://217.174.229.136:8000/play/a035
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Детский Мир
-http://217.174.229.136:8000/play/a088
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Диалоги о рыбалке
-http://217.174.229.136:8000/play/a08w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикая охота HD
-http://217.174.229.136:8000/play/a08k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикая рыбалка HD
-http://217.174.229.136:8000/play/a08j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикий
-http://217.174.229.136:8000/play/a05b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Доктор
-http://217.174.229.136:8000/play/a036
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дом кино
-http://217.174.229.136:8000/play/a05f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний
-http://217.174.229.136:8000/play/a00l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний (+2)
-http://217.174.229.136:8000/play/a07v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний (+4)
-http://217.174.229.136:8000/play/a01q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дон 24
-http://217.174.229.136:8000/play/a05g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЕГЭ
-http://217.174.229.136:8000/play/a05h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Еврокино
-http://217.174.229.136:8000/play/a092
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Европа Плюс
-http://217.174.229.136:8000/play/a08c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Живая Природа HD
-http://217.174.229.136:8000/play/a044
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Живи активно HD
-http://217.174.229.136:8000/play/a09i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЗВЕЗДА ПЛЮС
-http://217.174.229.136:8000/play/a05p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Загородная жизнь
-http://217.174.229.136:8000/play/a082
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Зал суда
-http://217.174.229.136:8000/play/a09b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда
-http://217.174.229.136:8000/play/a03j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда (+2)
-http://217.174.229.136:8000/play/a074
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда (+7)
-http://217.174.229.136:8000/play/a07c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Зоопарк
-http://217.174.229.136:8000/play/a02l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ИНДИЙСКОЕ КИНО
-http://217.174.229.136:8000/play/a02v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Известия
-http://217.174.229.136:8000/play/a08a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Иллюзион +
-http://217.174.229.136:8000/play/a02m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Индия
-http://217.174.229.136:8000/play/a09x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Инфоканал Телекарта
-http://217.174.229.136:8000/play/a03b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КВН ТВ
-http://217.174.229.136:8000/play/a02r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОМИКС HD
-http://217.174.229.136:8000/play/a046
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОПРЕМЬЕРА HD
-http://217.174.229.136:8000/play/a09h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОСВИДАНИЕ
-http://217.174.229.136:8000/play/a059
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Карусель
-http://217.174.229.136:8000/play/a03g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Катунь 24
-http://217.174.229.136:8000/play/a02q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинеко
-http://217.174.229.136:8000/play/a02s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинеко HD
-http://217.174.229.136:8000/play/a02w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино 24
-http://217.174.229.136:8000/play/a06y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино ТВ (+4)
-http://217.174.229.136:8000/play/a083
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино ТВ HD
-http://217.174.229.136:8000/play/a047
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Киноман
-http://217.174.229.136:8000/play/a02p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Киносемья HD
-http://217.174.229.136:8000/play/a085
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинохит HD
-http://217.174.229.136:8000/play/a057
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ключ
-http://217.174.229.136:8000/play/a07z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Конный мир
-http://217.174.229.136:8000/play/a02t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Курай
-http://217.174.229.136:8000/play/a05i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кухня ТВ
-http://217.174.229.136:8000/play/a07o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЛОТ-регион
-http://217.174.229.136:8000/play/a037
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Любимое кино
-http://217.174.229.136:8000/play/a050
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Лёва HD
-http://217.174.229.136:8000/play/a08e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",МУЖСКОЕ КИНО
-http://217.174.229.136:8000/play/a07i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",МУЗ ТВ
-http://217.174.229.136:8000/play/a00n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Майдан
-http://217.174.229.136:8000/play/a094
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мама
-http://217.174.229.136:8000/play/a071
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч ТВ
-http://217.174.229.136:8000/play/a03e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч ТВ HD
-http://217.174.229.136:8000/play/a01s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 1
-http://217.174.229.136:8000/play/a010
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 2
-http://217.174.229.136:8000/play/a011
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 3
-http://217.174.229.136:8000/play/a012
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч! Премьер
-http://217.174.229.136:8000/play/a00o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир
-http://217.174.229.136:8000/play/a04y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир 24
-http://217.174.229.136:8000/play/a00w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир Увлечений
-http://217.174.229.136:8000/play/a05c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир сериала
-http://217.174.229.136:8000/play/a087
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Москва 24
-http://217.174.229.136:8000/play/a07k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мосфильм. Золотая коллекция
-http://217.174.229.136:8000/play/a07d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Моя Планета
-http://217.174.229.136:8000/play/a06v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Моя планета HD
-http://217.174.229.136:8000/play/a07b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мужской
-http://217.174.229.136:8000/play/a081
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мульт
-http://217.174.229.136:8000/play/a06x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мульт HD
-http://217.174.229.136:8000/play/a042
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НВВ
-http://217.174.229.136:8000/play/a07g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НИК
-http://217.174.229.136:8000/play/a07h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НСТВ
-http://217.174.229.136:8000/play/a070
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ
-http://217.174.229.136:8000/play/a03f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ (+2)
-http://217.174.229.136:8000/play/a07n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ (+7)
-http://217.174.229.136:8000/play/a08p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ HD
-http://217.174.229.136:8000/play/a08m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Право
-http://217.174.229.136:8000/play/a08h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Сериал
-http://217.174.229.136:8000/play/a08i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Стиль
-http://217.174.229.136:8000/play/a08g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наука
-http://217.174.229.136:8000/play/a06u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наука HD
-http://217.174.229.136:8000/play/a07a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наше новое кино
-http://217.174.229.136:8000/play/a08f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ОТВ (Екатеринбург)
-http://217.174.229.136:8000/play/a08t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ОТВ Челябинск БУЛАТ
-http://217.174.229.136:8000/play/a095
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Общественное ТВ России
-http://217.174.229.136:8000/play/a09v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Охота и Рыбалка
-http://217.174.229.136:8000/play/a02y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый Вегетарианский
-http://217.174.229.136:8000/play/a08y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал
-http://217.174.229.136:8000/play/a03c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал (+2)
-http://217.174.229.136:8000/play/a00t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал HD
-http://217.174.229.136:8000/play/a09g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Петербург 5 канал
-http://217.174.229.136:8000/play/a03u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Петербург 5 канал (+2)
-http://217.174.229.136:8000/play/a098
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пингвин
-http://217.174.229.136:8000/play/a05o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Победа
-http://217.174.229.136:8000/play/a09j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Продвижение (Сибирь)
-http://217.174.229.136:8000/play/a054
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пятница
-http://217.174.229.136:8000/play/a09d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пятница (+7)
-http://217.174.229.136:8000/play/a01w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РБК
-http://217.174.229.136:8000/play/a07m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН
-http://217.174.229.136:8000/play/a03h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+2)
-http://217.174.229.136:8000/play/a097
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+4)
-http://217.174.229.136:8000/play/a01o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+7)
-http://217.174.229.136:8000/play/a07f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Родное кино
-http://217.174.229.136:8000/play/a05d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 1
-http://217.174.229.136:8000/play/a03d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 1 (+2)
-http://217.174.229.136:8000/play/a00u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия HD
-http://217.174.229.136:8000/play/a031
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия К
-http://217.174.229.136:8000/play/a07e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русская История
-http://217.174.229.136:8000/play/a09q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Бестселлер
-http://217.174.229.136:8000/play/a04x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Детектив
-http://217.174.229.136:8000/play/a04t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Роман
-http://217.174.229.136:8000/play/a04s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский иллюзион
-http://217.174.229.136:8000/play/a090
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС
-http://217.174.229.136:8000/play/a03i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС (+2)
-http://217.174.229.136:8000/play/a07u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС (+7)
-http://217.174.229.136:8000/play/a07t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС Love
-http://217.174.229.136:8000/play/a00m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сапфир
-http://217.174.229.136:8000/play/a02o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сапфир HD
-http://217.174.229.136:8000/play/a02x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сарафан
-http://217.174.229.136:8000/play/a06z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Синема HD
-http://217.174.229.136:8000/play/a079
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Совершенно секретно
-http://217.174.229.136:8000/play/a08r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Солнце
-http://217.174.229.136:8000/play/a00d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Союз
-http://217.174.229.136:8000/play/a00e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Спас
-http://217.174.229.136:8000/play/a09e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Суббота
-http://217.174.229.136:8000/play/a03v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Т24
-http://217.174.229.136:8000/play/a076
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТВ Центр Москва
-http://217.174.229.136:8000/play/a09w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТВ-3
-http://217.174.229.136:8000/play/a00v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНВ Планета
-http://217.174.229.136:8000/play/a09y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ
-http://217.174.229.136:8000/play/a03k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ (+2)
-http://217.174.229.136:8000/play/a09u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ (+4)
-http://217.174.229.136:8000/play/a01h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ HD
-http://217.174.229.136:8000/play/a08n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ Music
-http://217.174.229.136:8000/play/a00j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ4
-http://217.174.229.136:8000/play/a00x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Тайны Галактики
-http://217.174.229.136:8000/play/a080
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Татарстан Новый Век
-http://217.174.229.136:8000/play/a09f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Театр
-http://217.174.229.136:8000/play/a05l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Телеканал 2x2
-http://217.174.229.136:8000/play/a00y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Туган Тел
-http://217.174.229.136:8000/play/a072
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Футбол
-http://217.174.229.136:8000/play/a08o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Чаваш Ен
-http://217.174.229.136:8000/play/a05a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Че ТВ
-http://217.174.229.136:8000/play/a02z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Шансон ТВ
-http://217.174.229.136:8000/play/a05n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ю ТВ
-http://217.174.229.136:8000/play/a00i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ювелирочка
-http://217.174.229.136:8000/play/a00f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Altyn Asyr
-http://217.174.229.136:8000/play/a002
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Yaslyk
-http://217.174.229.136:8000/play/a003
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Miras
-http://217.174.229.136:8000/play/a004
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmenistan
-http://217.174.229.136:8000/play/a005
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmen Owazy
-http://217.174.229.136:8000/play/a009
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Asgabat
-http://217.174.229.136:8000/play/a008
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmenistan Sport
-http://217.174.229.136:8000/play/a00a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Arkadag
-http://217.174.229.136:8000/play/a00b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 24
-http://217.174.229.136:8000/play/a00k
-
-
-
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Liberty Сериалы FHD
-http://178.63.98.119:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Агата Кристи HD
-http://178.63.98.119:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM NewFilm RU HD
-http://178.63.98.119:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM 007 HD
-http://178.63.98.119:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Classic HD
-http://178.63.98.119:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Драма HD
-http://178.63.98.119:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM NewFilm 1 HD
-http://178.63.98.119:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM NewFilm 2 HD
-http://178.63.98.119:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM NewFilm 3 HD
-http://178.63.98.119:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Фантастика HD
-http://178.63.98.119:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM История HD
-http://178.63.98.119:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Макромир HD
-http://178.63.98.119:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Мегамир HD
-http://178.63.98.119:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Микромир HD
-http://178.63.98.119:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Погружение HD
-http://178.63.98.119:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Приключения HD
-http://178.63.98.119:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Скорость HD
-http://178.63.98.119:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Триллер HD
-http://178.63.98.119:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM UFO HD
-http://178.63.98.119:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",MM Вестерн HD
-http://178.63.98.119:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Adrenaline
-http://178.63.98.119:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Adventure
-http://178.63.98.119:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Best
-http://178.63.98.119:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Grand
-http://178.63.98.119:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV New Кино
-http://178.63.98.119:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Oblivion
-http://178.63.98.119:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Русские Фильмы
-http://178.63.98.119:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Трагичное
-http://178.63.98.119:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Thriller
-http://178.63.98.119:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Забавное
-http://178.63.98.119:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Мелодрама
-http://178.63.98.119:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Ковбойское
-http://178.63.98.119:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Yosso TV Мелодрама
-http://178.63.98.119:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Setanta Sports 1 HD
-http://178.63.98.119:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",Setanta Sports 2 HD
-http://178.63.98.119:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/ Hetzner Online GmbH",NHL Network [US]
-http://178.63.98.119:8000/play/a01p/index.m3u8
-
 
 
 
@@ -6190,161 +6454,6 @@ http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15198/index.m3u8
 http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15199/index.m3u8
 
 
-
-
-
-
-#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/271/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Baltic 1 FHD
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/5069/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/270/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/2399/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/272/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/5068/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6541/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6542/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6543/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 2
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/6544/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Moldova FHD
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/20074/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
-#EXTGRP:RUZIEV SETANTA МАТЧ ТВ
-http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/20081/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 1 HD
-http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 2 HD
-http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Trace Sport Stars HD
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Uzreport HD
-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  UzSport
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  KHL
-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Планета
-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Viasat Sport
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  KHL
-https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч ТВ
-http://185.46.16.239:8000/Match_TV
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Арена
-http://185.46.16.239:8000/Match_Arena
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Страна
-http://185.46.16.239:8000/Match_Nash_Sport
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Игра
-http://185.46.16.239:8000/Match_Igra
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Бокс ТВ
-http://185.46.16.239:8000/Eurosport_1
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 1
-http://193.25.8.59:8000/fut
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 2
-http://193.25.8.59:8000/fut
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  KHL HD
-http://193.25.8.59:8000/khl
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Арена
-http://193.25.8.59:8000/sport1
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Viasat Sport
-http://193.25.8.59:8000/viasatsport
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  FightBox
-http://193.25.8.59:8000/box
-
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  МАТЧ! БОЕЦ
-http://87.120.142.11:18000/Match!
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  МАТЧ! АРЕНА
-http://87.120.142.11:18000/Match!Arena
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  МАТЧ! Игра
-http://87.120.142.11:18000/Match!Igra
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Trace Sport Stars HD
-http://87.120.142.11:18000/Rossiya1
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  UFC
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  TNA Wrestling Channel
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
-
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Tennis+
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8
-
-
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  PFL MMA
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Monster Jam
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  K-Baseball TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  FTF Sports
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
-
-#EXTINF:-1 group-title="RUZIEV SETANTA МАТЧ ТВ",  Fight Network
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
 
 
