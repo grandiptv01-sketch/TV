@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/04 17;20}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/07}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -632,175 +632,186 @@ http://91.221.252.12:82/tv113
 http://91.221.252.12:82/tv115
 
 
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/AcCCdFn_e5k4KompG5n5qQ/e/1780642839/4000/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/8yGwQCfEmLZlfxciEeIaoA/e/1780642840/4001/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/owJcajc54KIOGnwqTq8mgg/e/1780642841/1408/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Asqe3868jZ2jEG9rMHS9Mg/e/1780642842/1001/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/51O_jmhcsOnfA8r_jv1Gfw/e/1780642843/1002/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/fGNeVOVwc3-p8h0wJyGImQ/e/1780642844/1003/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/o8O2_F-0KwqscbLXcYGARw/e/1780642847/1011/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/h5iMH2wcFGGkxvl1KEhD0Q/e/1780642848/1286/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ZNZnU5SsYEsYdsfiV1iu0w/e/1780642849/1014/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/KnGsUlsqyAT2GooHAdQS5w/e/1780642850/1216/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/DhPYTJ-hvSvC5CIiCsLN5w/e/1780642851/1012/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/erQbhv9z-lhBIhGHJQJuoQ/e/1780642852/1217/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/_P9wca3RPWrgkEIhYc5Btw/e/1780642856/1221/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg", DasturxonTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/sEsdNlPnuO69avLesS2rWw/e/1780642857/1206/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/CfNf0CFNXmNMatbz8NlqHg/e/1780642858/1007/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/NsFXjUfjzp28Nwj3S60YJA/e/1780642859/1205/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/5jTUhPgoVlY_HvgcKntaQg/e/1780642860/1008/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/zJ-HI8Al1gQtioHvoD9WxA/e/1780642861/1005/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/wZ5A92TWKQyUgdBRB6ntUA/e/1780642862/1013/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/3wu9JibHEk9S55pi84S4Ag/e/1780642863/1009/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/fE4cKsNK6JzDpuu_rlX9EA/e/1780642865/1209/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/_5MV357FcyVX34eD1LUi4w/e/1780642866/1006/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/XGTB5lLlCobnV8HyzDvaag/e/1780642867/1015/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/QoH4Xu6pSpkE2KGNc_x_fQ/e/1780642868/1204/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/X3wlNUV9GPTI8dNewFnxFg/e/1780642869/4007/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/DKGrZv0XjgeFrnJYWMNkOw/e/1780642870/4008/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/53fcLvyBAqEq-YRFSLPDGw/e/1780642871/1220/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ELwy1A69w0i8LflitqnBaw/e/1780642872/1457/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/nms-SIJVbbhmGsdKE0uiXw/e/1780642873/1458/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/G6sqNtf2wVe9d_wwQlrs5g/e/1780642874/1460/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/sEH8zN8sFRFNW9L6HqINgQ/e/1780642875/1461/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/X0OvjBL3mZnLA9ZyIGUMdQ/e/1780642876/1462/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/5Z8vOgrqswqz0pEslV6OTw/e/1780642877/1463/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/qY5kow5l24AVC7_TINj_Gg/e/1780642878/1464/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/kMRq3CdKnfoAL6KMrTnf1A/e/1780642878/1465/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/byqMAEqj4x6CQAyGhjGucQ/e/1780642879/1466/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/7WiTGsXypqjbKzViwuOfqw/e/1780642880/1467/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Bukhara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/ll1VP37GnW4Qth64XJ43nQ/e/1780642881/1459/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Samarkand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/biyfDRIh8LYxJUKGkmsCpA/e/1780642882/1468/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/smcAda_KW5RnUMZUWmJ4Yg/e/1780642883/4012/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/lJKOV8NFNdbn3XiRWjK-EQ/e/1780642884/1469/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/0vRn3TX5W4RC0P_TOlmrKw/e/1780642885/1470/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/0_o3dIW65ufQyM2fRcQH2g/e/1780642886/1494/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/bGL8ZVcR42iHspk-iWuhXQ/e/1780642887/1486/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/XAsOoGuT6X4m8KwU7gI4LQ/e/1780642888/1485/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/Kz5btVHSKqWOj2tt6Wv3qA/e/1780642889/1488/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/6eRiKTDIJ94p4K2gE89x0A/e/1780642890/1489/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/mcMSMrd0vJ5uS46ytJKpsA/e/1780642891/1495/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/HLOMMq01HOLz3cnycZMGHw/e/1780642892/1496/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/5l19ddomQ5ds06zFLOMHPQ/e/1780642893/1491/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/bQq8mkqK1-GVvt-JWPfXSQ/e/1780642894/1492/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/9x9A1zSUIIC7EfDoBm_7FQ/e/1780642895/1490/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/8g4zej9ot83o2Mr40VghUg/e/1780642896/1285/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/IJ3C6teggAqSPUOquifpIg/e/1780642897/1497/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/rqXOb8MyMHmNK1hfqUFv0w/e/1780642898/1301/index.m3u8?ip=2.59.161.252
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://iptv.itv.uz/hls/live/t/4i2ogbqU3lJajNBLyyjaUw/e/1780642899/1499/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Albkanale Music
+http://albportal.net/albkanalemusic.m3u8
 
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  AlbKanale Music TV
+https://secured.albportal.net:2083/AlbKanaleMusicTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/songtv armenia.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  ArmMusic
+http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH2b7rSX/image-4.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/live/mystream.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Cool Summer Channel
+https://d1vssasvzkudiq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zdujgjkznl6g0/csts.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Cool Summer Channel
+https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Dance TV Dance
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTNZGMSh/image-2025-09-01-T194944-555.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqM6kxwk/image-4.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  GENERATION TV
+http://edge13.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Desi TV
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Def Jam
+https://d1t9jj3kgy7bur.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/a45ef234-a662-4340-bcc5-a8570a8a534a/0.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5366.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Fresh HD
+https://freshtv-live.ru/FreshTV/tracks-v1a1/index.m3u8?token=livestream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mycnQWv/resize-47.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Fresh TV
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQrPYL6T/image-12.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Gabbarit Anthem
+http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Etno HD
+http://open.secretsofsibiu.ro:80/AN228956/TAGVdiiVuhUbwjOFsP6ptINW5D0jl2/9153
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Enjoy TV
+https://str27.fluid.stream/EnjoyTelevision/livestream/chunklist_w2088157954.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР", KIZUG TV
+https://v2.catcast.tv/content/48811/index.m3u8?password=kizugtv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5gj05QS/image-50.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  JUKEBOX
+http://013tv.com:8080/F13836/35b68aca/12613
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26KqyxYc/image-32.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  K-POP by CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvHVmZ4W/image-2025-08-30-T002620-985.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLkhxj49/image-16.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  La Mega Mundial
+https://server40.servistreaming.com:3477/stream/play.m3u8
+
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  M6 MUSIC
+http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  LiveXLive
+https://livestream.liveone.com/lc1/p1.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  TV EXITOS
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  SUPER MUSICA
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0QY7WNg/image-19.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  MCM TOP
+http://line01.serveuser.com/QIWQ3GPOEZ/GCOULCY30Q/8051
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/MCM Top.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  MCM POP
+http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/2466
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v409J73n/image-9.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Megaclassic TV
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Miami TV DJ
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Miami TV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1af4abed-c0b8-487a-a75e-da051be75fac/0.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Miami TV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/cc6204e2-2821-43d0-a123-b7fc6eb7017d/0.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Mix Music Channel (España)
+https://cdamix.streaming.ws/mixmusic/live/.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Dance_.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  MTV Kosova
+http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/262
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Moleta Mix
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w360765263.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Russia.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Music Azerbaijan TV
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hsg5zqf/resize-93.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Russia.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Now 00S
+http://mains.services/live/0228902066/tc674KJ3du/c365fe14-2b94-47df-b40b-3c2cd47f8f43.m3u
+
+#EXTINF:-1 tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Fashion tv.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w1760042771.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/RTVi.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  RTVHF
+https://www.streamecmsm.fr:19360/livertvhf/passthru.m3u8
+
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Rfm TV
+http://mains.services/live/0228902066/tc674KJ3du/b17e4a68-9ec0-4292-a26d-d1dfb25ddfa7.m3u
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Relax FM.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  RELOAD GR
+http://mains.services/live/0228902066/tc674KJ3du/12c3bc14-2bfc-4c2c-91ba-7ef8c1583b97.m3u
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Radio Fiessta TV
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  RU TV
+http://5.188.159.128:8070/rutv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russian-musicbox.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Russian MusicBox
+http://cdnua03.hls.tv/476/hls/e0a67444b32acdd649ef11aa98247e7e/419/stream.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Tropical Music TV
+https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Turbo.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Turbo.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  VIVA PLUS
+https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  VoiceOver Radio TV
+https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5hNfjP7/image-46.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  X 102.7 FM
+https://live2.tensila.com/onair-v-1.xfm1027/hls/live/mystream.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  X-Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ30KZBs/image-2025-09-09-T125336-752.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Новое радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше новое кино.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Новое радио (BY)
+http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1muz.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Первый Музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1muz.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Первый музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1029/0b/56f21348696166976df035a6de2e3a0b.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Первый Музыкальный Россия HD
+http://rtmp.one.by:2200
+
+#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1029/0b/56f21348696166976df035a6de2e3a0b.png" group-title="GRAND IPTV/ МУЗЫКА МИР",  Первый Музыкальный Россия HD
+http://rtmp.one.by:2300
 
 #EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
 #EXTGRP:GRAND PLUS| MIX TV
@@ -5137,28 +5148,6 @@ http://178.134.1.158:8081/shottv/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="477" tvg-logo="http://epg.one/img2/477.png",Любимое Кино
 http://176.118.197.101/LubimoeKino/mono.m3u8
 
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="1588" tvg-logo="http://epg.one/img2/1588.png",Остросюжетное
-http://tmptv.sunduk.tv/CH547/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="2732" tvg-logo="http://epg.one/img2/2732.png",Премиальное
-http://tmptv.sunduk.tv/CH545/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="2309" tvg-logo="http://epg.one/img2/2309.png",Шокирующее
-http://tmptv.sunduk.tv/CH229/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="138" tvg-logo="http://epg.one/img2/138.png",Комедийное
-http://tmptv.sunduk.tv/CH231/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="9065" tvg-logo="http://epg.one/img2/9065.png",VHS-ка 
-http://tmptv.sunduk.tv/CH5505/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="2509" tvg-logo="http://epg.one/img2/2509.png",Наше любимое
-http://tmptv.sunduk.tv/CH717/index.m3u8
-#EXTINF:0   group-title="GRAND PLUS | KUBTELECOM" tvg-id="1588" tvg-logo="http://epg.one/img2/1588.png",Остросюжетное
-https://tinyurl.com/yrxsfhyv/902.m3u8
-#EXTINF:0   group-title="GRAND PLUS | KUBTELECOM" tvg-id="2732" tvg-logo="http://epg.one/img2/2732.png",Премиальное
-https://tinyurl.com/yrxsfhyv/901.m3u8
-#EXTINF:0   group-title="GRAND PLUS | KUBTELECOM" tvg-id="2309" tvg-logo="http://epg.one/img2/2309.png",Шокирующее
-https://tinyurl.com/yrxsfhyv/905.m3u8
-#EXTINF:0   group-title="GRAND PLUS | KUBTELECOM" tvg-id="138" tvg-logo="http://epg.one/img2/138.png",Комедийное
-https://tinyurl.com/yrxsfhyv/906.m3u8
-#EXTINF:0   group-title="GRAND PLUS | KUBTELECOM" tvg-id="9065" tvg-logo="http://epg.one/img2/9065.png",VHS-ка 
-https://tinyurl.com/teh55yef/5006/index.m3u8
 
 #EXTINF:-1,viju TV1000 русское
 #EXTGRP:GRAND IPTV/ test udp
@@ -12924,35 +12913,6 @@ http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mB9q3NH/image-57.png" group-title="GRAND PLUS | WORLD MUSIC 2",  100%NL
-http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/16589
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLvskWYz/image-52.png" group-title="GRAND PLUS | WORLD MUSIC 2",  103 Cadena (Argentina)
-http://arcast.net:1935/cadena103/cadena103/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMDSNJBn/image-34.png" group-title="GRAND PLUS | WORLD MUSIC 2",  192 TV
-http://mains.services/live/0228902066/tc674KJ3du/32a51781-cb84-4c43-a07c-9245066fa8b2.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hXsfQyT/resize.png" group-title="GRAND PLUS | WORLD MUSIC 2",  30A Music
-https://30a-tv.com/feeds/720p/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="GRAND PLUS | WORLD MUSIC 2",  30A Music
-https://30a-tv.com/music.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  4ACETV
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/N7EB73Q/36B349231811/m.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  4ACETV RETRO POP HIT
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/WZCUIZY/EDBB7C63F3F3/m.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  4ACETV RETRO POP HIT
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/RJHYHDI/3A0A9042AF63/m.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  4ACETV XTRA
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/6Q5NAFQ/DA0E70925BFA/m.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  4FUN Dance
-http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  4you TV
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
@@ -12969,9 +12929,6 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  7 YOU & ME
 https://stream10.xdevel.com/video0s977798-2239/stream/chunks.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  7Star TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png" group-title="GRAND PLUS | WORLD MUSIC 2",  7X MUSIC
 https://stream.e2is.in/hls/7xMusic.m3u8
 
@@ -12984,17 +12941,6 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFLHfX4r/image-2025-09-10-T052501-254.png" group-title="GRAND PLUS | WORLD MUSIC 2",  98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3G86FV5/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  9X Jhakaas
-https://9xjio.wiseplayout.com/9X_Jhakaas/HD1080/HD1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="GRAND PLUS | WORLD MUSIC 2",  9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMsxYHJm/image-2025-09-07-T215305-731.png" group-title="GRAND PLUS | WORLD MUSIC 2",  A2i Music
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p8qJRqm/image-9.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Aaryaa
 https://live.sscloud7.in/live/aaryaatv/tracks-v1a1/mono.m3u8
@@ -13002,68 +12948,18 @@ https://live.sscloud7.in/live/aaryaatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0nvwFx0/image-12.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Adria Folx
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/135200
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mr6Lhn7F/image-9.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Adria One
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/135213
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZVRHWCB/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Adria Zwei 2
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/135219
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/chunklist_w518808554.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="GRAND PLUS | WORLD MUSIC 2",  AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  AfreecaTV
-https://fl1004.bozztv.com/ushba43/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JshR7fB/resize-73.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Afrobeats
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Afrobeats TV
-http://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z4wDBX9/resize-74.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Aghani Aghani
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qjd2TX5G/image-51.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Aghani Aghani
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/4tz2e4r7ns3oefuk51su/cp3tns2b7wdnrk1dqcn4/chunks.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Albkanale Music
-http://albportal.net/albkanalemusic.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  AlbKanale Music TV
-https://secured.albportal.net:2083/AlbKanaleMusicTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  AlbKanale Music TV
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/92603.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVw7LTmD/image-2025-08-29-T233116-750.png" group-title="GRAND PLUS | WORLD MUSIC 2",  AlbKanale Music TV
-http://filex.me:8080//live/MAS101A/MAS101AABB/303982.ts
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  ALMA LUSA
-http://srv1.extratv.pro:8080/live/Fritz/khb229wbGbwZy3/8d416857-085a-457b-8680-791ad580a7ba.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PzPbS52M/image-11.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Altar TV
 http://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nH3SNrN/image-9.png" group-title="GRAND PLUS | WORLD MUSIC 2",  AMOL TV
-http://exm3u.extraott.com:80/0451933520/0364224542/126491
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Antena (Mexico)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Arancia Television
-https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/songtv armenia.png" group-title="GRAND PLUS | WORLD MUSIC 2",  ArmMusic
-http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTyr3nLL/image-87.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Aspen FM
 https://rds3gen.desdeparaguay.net/aspentv/aspentv/chunklist_w358589676.m3u8
@@ -13080,26 +12976,9 @@ https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLvBrb64/image-45.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Balkan Music
 http://giganet.mk/hls/balkanmusictv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ywj1y0D/image-64.png" group-title="GRAND PLUS | WORLD MUSIC 2",  BALKANIKA
-http://exm3u.extraott.com:80/0451933520/0364224542/4105
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THRsQ6M/resize-13.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Balle Balle
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M52DMyZ1/image-75.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Balle Balle
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Bandamax
-http://tv.zapping.life:8080/alexsierra2206/f8e95f9810b3/8307
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfTScFps/image-65.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Banovina
-http://exm3u.extraott.com:80/0451933520/0364224542/31571
-
-#EXTINF:-1 tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Banovina TV
-http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Baraza Music TV Coffee
 http://rtmp.streams.ovh:1935/barazarelax/barazarelax/playlist.m3u8
@@ -13109,20 +12988,7 @@ http://rtmp.streams.ovh:1935/barazarelax/barazazararelax/barazarelax/playlist.m3
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/4651.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Baraza TV Hits
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  BBF Music
-http://iptvtree.net:8080/F16077/2d3a2abc/4041
 
-#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0731/00/da3fdadd7cb55f363de3554bb0136600.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bblack! Africa
-http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0731/8a/61a8d0ce5f2c06474e35130127d4548a.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bblack! Caribbean
-http://edge11.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Bblack! Classic
-http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Beats Radio
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DUprIW.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
@@ -13133,20 +12999,6 @@ http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spfjzHdG/image-80.png" group-title="GRAND PLUS | WORLD MUSIC 2",  BET Gospel
-http://mains.services/live/0228902066/tc674KJ3du/6db19758-bb7b-4e84-a3c6-113ce1a95d8e.m3u
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  BET HER
-http://mains.services/live/0228902066/tc674KJ3du/96883269-982a-4e98-9079-cf8f8984d8bf.m3u
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  BET Jams
-http://mains.services/live/0228902066/tc674KJ3du/8c162f20-c30a-4245-8dc5-24d229e58f30.m3u
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  BET SOUL
-http://mains.services/live/0228902066/tc674KJ3du/70788fac-6c9b-4019-9673-83c50f62165c.m3u
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w2112822305.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z62sxhPG/image-29.png" group-title="GRAND PLUS | WORLD MUSIC 2",  BIZ Music
 https://st1.biztv.media/biztv_music_480/tracks-v1a1/mono.m3u8
@@ -13160,83 +13012,9 @@ http://89.38.8.130:39450
 #EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Gold.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Box Playlist
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/172a2437-d196-4c43-aab2-3056c368a90c/4.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Gold.png" group-title="GRAND PLUS | WORLD MUSIC 2",  BOX TV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/958070
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k267W1Hd/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  BPX
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsVCSM5W/image-2025-09-01-T175059-835.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge
-http://31.148.48.15/Bridge_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge Classic
-http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsVCSM5W/image-2025-09-01-T175059-835.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge Deluxe
-http://ip1.orgip.net/466/video.m3u8?token=SB31175290
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge Deluxe
-http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYCGdd4S/image-21.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Classic
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Classic
-http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Deluxe
-http://92.63.106.41/24hp/stream.php?id=154
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Hits
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2024.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Hits HD
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYXJJQvn/image-16.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Hits HD
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0315/fa/344aa7dc33053e95fae354ee03ebc3fa.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Rock HD
-https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C38zDtvN/image-15.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Rock HD
-http://ip1.orgip.net/457/video.m3u8?token=SB31175290
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Русский хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Фрэш
-http://92.63.106.41/24hp/stream.php?id=7426
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV Шлягер.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Шлягер
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPzyFvZS/image-20.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Этно
-http://ip1.orgip.net/473/video.m3u8?token=SB31175290
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge TV Этно HD
-http://92.63.106.41/24hp/stream.php?id=8641
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/bridge-tv-fresh.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge Фрэш
-http://cdn.balelbrus.com/balancer/bigteisti1/08936913/V3d3d3d3dzJ8fGQzZDNkM2QzZHpJPQ==/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPp8yQQn/image-19.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Bridge Фрэш
-http://ip1.orgip.net/464/video.m3u8?token=SB31175290
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Busuioc
-http://185.164.82.18:9009/aDxLhVQm_Busuioc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99BTXw51/image-53.png" group-title="GRAND PLUS | WORLD MUSIC 2",  C9NTV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
@@ -13262,17 +13040,9 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  CHD TV RU ROCK
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DRbP6rc/image-64.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Chincha TV
-https://inliveserver.com:1936/10508/10508/chunklist_w140084284.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G30D5PMC/image-88.png" group-title="GRAND PLUS | WORLD MUSIC 2",  CityPlay
-http://exm3u.extraott.com:80/0451933520/0364224542/4917
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLVQfMj/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Classic Project
-https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Clubbing TV France
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
@@ -13280,11 +13050,6 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycVNB77g/image-2025-08-31-T124954-436.png" group-title="GRAND PLUS | WORLD MUSIC 2",  CMT Music
-http://exm3u.extraott.com:80/0451933520/0364224542/3382
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfx3pGfb/image-2025-09-09-T115647-598.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Colosal (Costa Rica)
-http://5d16127744872.streamlock.net:1935/COLOSAL/COLOSAL/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41chRTK/resize-55.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
@@ -13300,38 +13065,15 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/vip comedy.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DhC4B9Z/image-19.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Concert Channel
-http://fastream.xyz:8080/EtbmFQWPkvNR/ExkJNJC8bAcu/47270
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH2b7rSX/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Cool FM 98.9
-https://live2.tensila.com/cool-v-1.arubara/hls/live/mystream.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Cool Summer Channel
-https://d1vssasvzkudiq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zdujgjkznl6g0/csts.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Cool Summer Channel
-https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VOIwYYd.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Couleur 3
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  CRC TV
 https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfcGBWy7/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Cumbia Mix
-https://cloud.tvomix.com/CUMBIAMIX/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2022/0408/90/d999f45ad53c859494e7e1bf0d2de590.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Dance FM
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/chunklist_w411613476.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Dance TV Dance
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Dance TV Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
@@ -13360,9 +13102,6 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKnvsgm/resize-27.png" group-title="GRAND PLUS | WORLD MUSIC 2",  DBM TV
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Def Jam
-https://d1t9jj3kgy7bur.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/a45ef234-a662-4340-bcc5-a8570a8a534a/0.m3u8
-
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Deluxe Dance
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
 
@@ -13381,41 +13120,19 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Deluxe Music
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Deluxe Rap
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
 #EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Deluxe Winter Time
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4efad08a-8190-11f0-8cb4-fe31fa51a447/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Desi TV
-https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Digital 809 (Dominicana)
-https://inliveserver.com:1936/digital809tv/digital809tv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1xFzQz/image-76.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Disco Mix
-http://185.128.97.154:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGbC4PpQ/image-2025-09-01-T172651-486.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Disco Polo Music
 http://mains.services/live/0228902066/tc674KJ3du/1ee3f2e8-ae54-4829-abd5-6fb46101fa1d.m3u
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Ditty HD
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/ab030a5e-4ef9-4b7b-aa5a-fd117c9b0d12/3.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Ditty TV
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  DSTV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/958082
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz1MQkKs/image-87.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Duga TV
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/292.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tnFZY5O.png" group-title="GRAND PLUS | WORLD MUSIC 2",  ECKO EXPRES music
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wFYDjT1N/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  EKINTURK TV
-http://supersonictv.live:8080/Neal123/Neal123/86397
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  EMOTION
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/ts-eu-w1-n2/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/cb5738186573668684c23c78d1f24382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f6e55d43896ba2e50140c32e41fa83439fd401e982d40e8312d727a513ccc7f089804582e4d459896f58c41222404facc21fa1dc4ea5d39b1b48f6130d736e99623ef184281993554c4cfd85a7d7e01b53bcef088e7334b417da3eec8e6e2bd86a8ace79dacb96d0514236b38e330b41f1b7f7dfac6761fe0e8fd3ed714e5731493f583ee0234763b696b2dd8179a1d60799a626ca99660e3bcf867f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da1f795b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024aa4f86fee9152ec7ca8b80c7ed7bbc9758957f41334ed1ee2ef1bb/152/1920x1080_4716800/index.m3u8
@@ -13423,17 +13140,12 @@ https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/ts-eu-w1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="GRAND PLUS | WORLD MUSIC 2",  EnerGeek Radio (1080p)
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Enjoy TV
-https://str27.fluid.stream/EnjoyTelevision/livestream/chunklist_w2088157954.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Errevutì TV
 https://stream10.xdevel.com/video0s977339-1877/stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F40fCV9q/image-28.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Escuchame Radio Tv
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/chunklist_w868230557.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcsbGF2J/image-30.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Eska Rock TV
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/940
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0923/78/6f3e7ab92878bd020fa862dc6c2c7578.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Eska Rock TV PL
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?user-4pda-denms-ru-v1-a1
@@ -13444,14 +13156,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Estacion TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Etno HD
-http://open.secretsofsibiu.ro:80/AN228956/TAGVdiiVuhUbwjOFsP6ptINW5D0jl2/9153
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1XTNMjb/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Europa Plus TV
-http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/europa-plus-tv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Europa Plus TV HD
-http://cdn.balelbrus.com/balancer/bigteisti9/EUROPAPLUS/V3d3d3d3dzJ8fGQzZDNkM2QzZHpJPQ==/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz308f6k/image-2025-09-01-T182839-428.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
@@ -13459,19 +13163,9 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Factoria TV HD
 https://eu1.servers10.com:8081/8010/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="GRAND PLUS | WORLD MUSIC 2",  Fairuz
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Farra Play
 http://159.203.148.226/live/farra.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6hN944L/image-16.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Favorit TV
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/129181
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Fen TV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/958075
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  FL Music TV
-https://rst.saiuzwebnetwork.it:8081/fiestaloca/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54CO2u9.png" group-title="GRAND PLUS | WORLD MUSIC 2",  FM ITALIA
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
@@ -13479,35 +13173,8 @@ https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Folk Klub TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  FOLK PLUS
-http://iptvtree.net:8080/F16077/2d3a2abc/4053
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Folklor TV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/958073
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YQwC24z/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  FOLKLORIT
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/129112
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/5366.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Fresh HD
-https://freshtv-live.ru/FreshTV/tracks-v1a1/index.m3u8?token=livestream
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mycnQWv/resize-47.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Fresh TV
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQrPYL6T/image-12.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Gabbarit Anthem
-http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwKQXxj5/image-2025-09-08-T095110-085.png" group-title="GRAND PLUS | WORLD MUSIC 2",  GEM Mifa
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/152840
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwKQXxj5/image-2025-09-08-T095110-085.png" group-title="GRAND PLUS | WORLD MUSIC 2",  GEM Mifa 24
-http://filex.me:8080//live/MAS101A/MAS101AABB/499999.ts
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Gemini Music
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/20710
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TqM6kxwk/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  GENERATION TV
-http://edge13.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Dwgc2dW/image-2025-09-01-T194111-633.png" group-title="GRAND PLUS | WORLD MUSIC 2",  GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
@@ -13518,14 +13185,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRYp8Fhx/image-62.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Good Radio
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Stingray iConcerts.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Grand 2
-http://g-med.xyz:25461/live/aleksanar_vujadinovic/anhuZ7SAj3hF/269.ts
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  GRT TV Yayın Akışı
-https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HT3Z3K5m/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  GUTE LAUNE
-http://luckypr.xyz/Rodrigolopes/A8689F5A8572F57/1139011
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
@@ -13533,41 +13192,12 @@ https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kggzntm9/image-24.png" group-title="GRAND PLUS | WORLD MUSIC 2",  HAYAT FOLK
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/151640
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NdW7VQJQ/image-26.png" group-title="GRAND PLUS | WORLD MUSIC 2",  HAYAT MUSIC
 http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/2866
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TFrxZ4v/image-58.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Heart Radio Aruba
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  HiHop TV
-http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vpQrBN1/image-65.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Hilando Fino
-https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Hind Hits
-http://thksmom.shop/bbso1vod24/7/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Hip Hop
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Hip Hop TV
-https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRHJksnR/image-18.png" group-title="GRAND PLUS | WORLD MUSIC 2",  HIT (Орск)
-http://lova.me/hls/hithd.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Hits_.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Hit Music
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/751727
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sY3DscS/image-15.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Hit Music
-http://exm3u.extraott.com:80/0451933520/0364224542/96594
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfg8DrFb/image-2025-08-30-T003031-616.png" group-title="GRAND PLUS | WORLD MUSIC 2",  HIT TV HR
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/151614
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Hits Mexicanos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
@@ -13578,32 +13208,12 @@ https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwhwZgX/resize-52.png" group-title="GRAND PLUS | WORLD MUSIC 2",  HolidayScapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Hora TV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/751645
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84fX7PS2/image-2025-08-30-T000210-509.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Hugo TV 2
-http://exm3u.extraott.com:80/0451933520/0364224542/30065
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qF4GCXnJ/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Hugo TV 3
-http://exm3u.extraott.com:80/0451933520/0364224542/31553
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkXG5g4x/image-59.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Hugo TV 4
-http://exm3u.extraott.com:80/0451933520/0364224542/96889
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTNZGMSh/image-2025-09-01-T194944-555.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Huila TV
-https://server.asilivehd.com:3333/live/huilatvlive.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Hype Visual Radio
-https://streammix.alsolnet.com/hyperadio/live/chunklist_w1883948073.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  InRating HD
-http://gr.seetv.cc/play/9911/D70CC021CA87DF2/video.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
@@ -13611,49 +13221,15 @@ http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWcdBkgx/image-2025-09-01-T211030-719.png" group-title="GRAND PLUS | WORLD MUSIC 2",  IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Afrobeats Music
-https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Arabic Music
-https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Indian Music
-https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Latin Music
-https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Persian Music
-https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Turkish Music
-https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" group-title="GRAND PLUS | WORLD MUSIC 2",  iTV Urban Music
-https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20Qs2Pxf/image-89.png" group-title="GRAND PLUS | WORLD MUSIC 2",  IZVORNA TV
-http://exm3u.extraott.com:80/0451933520/0364224542/31502
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zgkb6hj/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  JC TV
 http://applelive.in/jctv/jctv.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  JUGOTON TV
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b5gj05QS/image-50.png" group-title="GRAND PLUS | WORLD MUSIC 2",  JUKEBOX
-http://013tv.com:8080/F13836/35b68aca/12613
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26KqyxYc/image-32.png" group-title="GRAND PLUS | WORLD MUSIC 2",  K-POP by CJ ENM
-https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JPgjH23/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  KAFANSKO VECE OTV VALENTINOVO
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/299.ts
-
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0129/eb/028c71814530ce224c3ecf5b5f9499eb.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Kaloopy HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Kayhan TV
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
@@ -13664,14 +13240,8 @@ https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1487983799.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  KBC-НАШ ROCK
-http://gr.seetv.cc/play/8838/D70CC021CA87DF2/video.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  KINO POLSKA MUZYKA
 http://mains.services/live/0228902066/tc674KJ3du/ec21b706-56e2-4fb9-a014-7997ea52ed72.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/prjxLzqY/image-2025-08-30-T002039-988.png" group-title="GRAND PLUS | WORLD MUSIC 2",  KINO POLSKA MUZYKA
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/153770
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6117.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Kiss Kiss Italia HD
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
@@ -13724,8 +13294,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  KurdMax Music TV
-https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="GRAND PLUS | WORLD MUSIC 2",  Kuriakos Music
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
@@ -13733,8 +13301,6 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNMy5kx/resize-67.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Kuriakos Music
 http://w2.manasat.com:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLkhxj49/image-16.png" group-title="GRAND PLUS | WORLD MUSIC 2",  La Mega Mundial
-https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jbnzVw/image-51.png" group-title="GRAND PLUS | WORLD MUSIC 2",  La Rock 22
 http://cootv.cootel.com.ni:8075/channel22/playlist.m3u8
@@ -13742,369 +13308,11 @@ http://cootv.cootel.com.ni:8075/channel22/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  La Voz Grupera TV
 https://cloudpro.servidoresdestream.com:8081/8026/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvHVmZ4W/image-2025-08-30-T002620-985.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Liberty Инди HD
-http://gr.seetv.cc/play/7063/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Liberty Рок FHD
-http://gr.seetv.cc/play/7083/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://v2.catcast.tv/content/48811/index.m3u8?password=kizugtv
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://stream.ecable.tv/afrobeats/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://kinowalk.hopto.org/kinowalk_live
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_PERVOBL/variant.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/111.0.0.0 Sa
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VOSTEXPRESS/variant.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/111.0.0.0 Sa
-https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=hBQx0kJ1g8dGGV4YhmI9xw&e=2067169969&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=V3XZAFOmKjzFGdsDh5P2fw&e=2067169954&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=gV_U0zFsvxqIABFXVP7OiQ&e=2067169975&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=nKU4NDIgzmBmnwgIOzDN9A&e=2067169967&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=oNFmymmyY-7_gOad4AQQ4g&e=2067169984&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=5ESdyLBjlfFhTQsdRzd2GA&e=2067169966&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=5yY_K-dgayuENNzMX5Fc4g&e=2067169983&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Vmu8P5uSnYqOGNSnHS4ZYw&e=2067169962&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=1H-XQbVfijqr2RSf6VCt-A&e=2067169952&scheme=https
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=l9zK1PPH29WPGmlFBXL1Jg&e=2067169957&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=nTbQovGnYYMh7es5OmCIoA&e=2067169956&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=96WpRbtrrQJAyrfedHToZg&e=2067169978&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=kfPmFB0PcSmcOxUmR4pNGw&e=2067169954&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=vcxE9tg-Uk18bFIPFyZCDw&e=2067169977&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=pqtH0sQjyFs0nWjIcIGudQ&e=2067169950&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=usCSkabl8PBFojcUHgGvWg&e=2067169956&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=q7Oez64J8_84tFssxgNj2g&e=2067169968&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=qcm-Nw3yFpDWY_OSYJCnZw&e=2067169972&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=qxMu_m0Ixv0v9ccgc7bvfg&e=2067169960&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=JED7o7Ex01s6YHo_K0pDzA&e=2067169962&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=eeJfDHeBLd0iqoqLthmY4w&e=2067169963&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=N54SqQdHh4Jm1A78Io38Jw&e=2067169953&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=ext3mioR1BhzDOBviylIZQ&e=2067169965&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=S9IegLlXio9qqPJ35201_Q&e=2067169975&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=ujJ2JydQ9iEn8G58NFnk0A&e=2067169963&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=BHBQw7WE9qeXNYaWsvOrOQ&e=2067169974&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=LAvJLrQG-VN9pJbluWyS2Q&e=2067169970&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=DSfOKi8V9nrU0nwFmZlCWg&e=2067169966&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=Ps1b5MXni2KEvYQqRIkStA&e=2067169968&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=m27eSRdkX16O4xDWoQG3oQ&e=2067169961&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=EPqq3QCLudiewa1IYxJVEQ&e=2067169958&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=QFATZ2j4oSgL_o99xVVSgQ&e=2067169951&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=o47oxuzK9P27cWgqVkS8og&e=2067169964&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ag85biU29vFGYn54LFVKIg&e=2067169973&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=DovERlvrE64PmAxp_H2UnQ&e=2067169986&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=9UedIEyjtyqIRNXLYLURJg&e=2067169982&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=MyJCis_AfY-hoBZ9Vrnh1A&e=2067169973&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=IFA0B1MIdCHDAQsiPyaJ5Q&e=2067169979&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=NMfLfC8JVJMNwftcfGGxiA&e=2067169949&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=fAu2zTLgTM2KxVaQt9vxFA&e=2067169966&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=l0UKtPhQU2V01buC1DCLLg&e=2067169987&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Iik_mZmyYaa1gidBQqFNmQ&e=2067169951&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9feaea12e270b1e23f7c7e65da5652af/index.m3u8?s=xtoJgsSNZz6dAU4seL4oLg&e=2067169978&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=_4cT4GB9usapPHSwn844Iw&e=2067169955&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=Fcvx0sO81y8A7M2UjiS-yQ&e=2067169987&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=U7eDXqhstuVdA54c7HCSMA&e=2067169968&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=Y0So5Ear-0FoVUQSyfpHpw&e=2067169962&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=dmwj-4zym-3lZg_4y8DqLg&e=2067169965&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=0nYvnd8mLsymOmRU4S2FHg&e=2067169981&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=L4HPkOPS3MJVl50Om_qtPg&e=2067169971&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=08qW_F2WWiZ0IJvAZs-Ukg&e=2067169984&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=s_LQIUgKyMIMpoly3KmXRw&e=2067169976&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=Qjt2KNqv1CWbuuFyrjPCrA&e=2067169963&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=P2A4FFOxCbbbSiA2xf4MzQ&e=2067169974&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=eYkFEQQJNvI0ok-A7NITpw&e=2067169950&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Pi-xPITobvyC2eBMIWz7Sg&e=2067169949&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=kKxli8KB1I1Izz9GbLlL-A&e=2067169961&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=VEnYHq643F08LjkVkuaLdg&e=2067169960&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=Gek52CR3j9M2t2Zy0YuJHA&e=2067169950&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=_jEZ7gR7dm3gEmStS59s2w&e=2067169980&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=DLXPSxHUYIcId9xUlVvHvg&e=2067169978&scheme=https
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Xlzplro5trTJvXI0tJvixg&e=2067169986&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=p7U64PxGqCJj_nOIxh55CQ&e=2067169971&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=DzI86V0nwZA90SOoDIOVXw&e=2067169964&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=b5b2OBOwhYpFKQ3kXfyaeA&e=2067169954&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=NzRHMKCFb2A5OPL7c4bH0g&e=2067169977&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=AoGLZcndR0IgSucckPRrtw&e=2067169983&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/d8857b5b4c4fa78869a13f5e3ca9d4c4/index.m3u8?s=mQMojQfXka4YccJuTaSd5A&e=2067169961&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=w2bDJykR9rnRpLhEDZpwdg&e=2067169983&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=lEyV4aBE19HelGtBYG_zOw&e=2067169982&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=w7AgU8KL9QcuBL38CRlhjg&e=2067169965&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=I4QL1Gomq9Z8wC9G6WfUwQ&e=2067169979&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=Xp25eNtcFgbSceU4lYie2g&e=2067169963&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=RVzQd4cHpZiczZex8Ppnbw&e=2067169986&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=7GVV5temE-KjC1Jh1nMGdg&e=2067169982&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=f0caQgdtH6EvHq0AVfzDyg&e=2067169987&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=aRZUeV_eamKZqSFP16lL-g&e=2067169969&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=ZUFW64pJ9-wZ4ELchsDbFA&e=2067169960&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=euWRqdmkTYelN4nFB6nkhw&e=2067169984&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ageFgqqKGRJE_ujrdvVQ5w&e=2067169959&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=Lfnby-kf5bKLYbuTEkIGWQ&e=2067169977&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=ZOZBfUL5VyI27prIbj_qSQ&e=2067169961&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=qcs5hZppa3h-mLWUDnIW-w&e=2067169969&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/blockbusterstime_live
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=RD8CjzgRRPphsd8Mb1NglQ&e=2070450961&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/dimpon_live
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=xm0a5CbRKTlUZ7V5Ni7_OA&e=2070450959&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=9y8pI3-2W9o4RDnn5o_lkw&e=2070450960&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=CiuBWhFBngbkmruurQfRAw&e=2070450945&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/video_prokat_live
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/wihail_live
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=yobuKUZxT2N6Td45haNRmg&e=2070450961&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=-JPXx3cQfEvCL2j3x_zA-w&e=2070450961&scheme=https
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2KL6s0H/resize-63.png" group-title="GRAND PLUS | WORLD MUSIC 2",  LiraTV
-http://mm.369852147.xyz:8080/0503202235/gBjTpwV9VM/320683
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="GRAND PLUS | WORLD MUSIC 2",  LiveXLive
-https://livestream.liveone.com/lc1/p1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdF6JGTD/image-27.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Louga TV
-https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  M+
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/948055ec-2202-4fc3-8af4-b48de989763d/0.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  M-2
-https://rebrand.ly/h46jugi/ROSTIK-TV/M-2
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  M2ROCK
-http://49.0.64.96:8007/M2ROCK
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  M4JAZZ
-http://49.0.64.96:8007/M4JAZZ
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  M6 MUSIC
-http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MAD WORLD
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
@@ -14118,8 +13326,6 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VbCPz5y/image-18.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Mastiii
-https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Leomax24.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Maxima FM
 https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/chunklist_w1462387560.m3u8
@@ -14129,62 +13335,19 @@ https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/ind
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mptwwLs.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MBC Loud
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0QY7WNg/image-19.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MCM POP
-http://line01.serveuser.com/QIWQ3GPOEZ/GCOULCY30Q/8051
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MCM Top.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MCM TOP
-http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/2466
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BdZWtXy/image-2025-08-30-T003404-512.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Med Music TV
 http://54.36.110.140/live3/live3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v409J73n/image-9.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Megaclassic TV
-https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Megogo Live HD
-http://gr.seetv.cc/play/6203/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MEGOGO Music
-https://tva.in.ua/live/megogo_life.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67m0r148/image-2025-07-10-T141224-778.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MELODY TV
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/132335
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PsRmf6Wn/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MENT POP
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/16857
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B15LxJg/image-20.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Metropoli Medios TV
 https://eu1.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mezzo.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZfNbz1b/image-98.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Mezzo Live HD
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/154084
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Miami TV DJ
-https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Miami TV Fashion
-https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1af4abed-c0b8-487a-a75e-da051be75fac/0.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Miami TV Models
-https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/cc6204e2-2821-43d0-a123-b7fc6eb7017d/0.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip premiere.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Miel TV
-https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Mix Music Channel (España)
-https://cdamix.streaming.ws/mixmusic/live/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrtqRLF/image-2025-09-01-T164735-702.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MixM TV
-http://89.179.247.144/hls/mixm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxVzPVMm/image-93.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MKK Web TV
-https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/chunklist_w771895530.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBF620DF/image-57.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MO Channel HD (España)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
@@ -14195,163 +13358,11 @@ https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/in
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Mohammed Abdo
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index_6.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Moleta Mix
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w360765263.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV 80s.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV 00s
-http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/154175
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV 2
-http://mains.services/live/0228902066/tc674KJ3du/7c8a21ba-0a83-4c00-8666-b7012aad6923.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wFsCdhTZ/image-2025-09-08-T014037-038.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV 90s
-http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/139173
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wFsCdhTZ/image-2025-09-08-T014037-038.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV 90s
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/139173
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Base
-http://saveukraine.1ce.xyz/10041/video.m3u8?token=99jkYSXX7E
-
-#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1207/a8/6620b7e213e397b2a811dfc581bffea8.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Biggest Pop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/6426.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Classic
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Classic
-http://mains.services/live/0228902066/tc674KJ3du/9e37623d-f55a-4794-8d31-b0647164abd2.m3u
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Dance.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV DE
-http://mains.services/live/0228902066/tc674KJ3du/7198c95c-a508-4aa8-8d76-6f1afc5d2852.m3u
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV FR
-http://mains.services/live/0228902066/tc674KJ3du/410d8740-8490-4fbc-931e-269e693559e7.m3u
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV IDOL
-http://saveukraine.1ce.xyz/10039/video.m3u8?token=99jkYSXX7E
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Dance_.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Kosova
-http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/262
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mtv-live-hd.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8?secret=xws6dla3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hkdq02qn/image-2025-07-10-T162831-990.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV Live USA
-http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Dance.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV PULSE
-http://saveukraine.1ce.xyz/10040/video.m3u8?token=99jkYSXX7E
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MTV U
-http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Russia.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Azerbaijan TV
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Gold.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Box
-http://gr.seetv.cc/play/230/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFPy3pJs/image-45.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Box Brazil
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/151200
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Box Classic
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/968
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Box Dance HD
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/970
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Box Hits HD
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/1038
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Box Sexy
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/134700
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Music HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Channel
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/751728
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFMJSz1W/image-53.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Channel
-http://exm3u.extraott.com:80/0451933520/0364224542/3174
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hsg5zqf/resize-93.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Japan TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Russia.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music Reload TV HD
-http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4JBpF9J/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Music RU
-https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/musicbox-gold.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MusicBox Gold
-https://livetv.mylifeisgood.net.ru/channels/musicboxgold.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Music HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MusicBox Gold
-http://saveukraine.1ce.xyz/7724/video.m3u8?token=99jkYSXX7E
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK
-https://muzzikbalkan-live.morescreens.com/mts-15/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK
-https://muzzikbalkan-live.morescreens.com/mts-6/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK CLIPS
-https://muzzikbalkan-live.morescreens.com/mts-12/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik Electro
-https://muzzikbalkan-live.morescreens.com/mts-9/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik Flashback
-https://muzzikbalkan-live.morescreens.com/mts-8/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik J.E.K.A.
-https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik MIX
-https://muzzikbalkan-live.morescreens.com/mts-a7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK MYUZZIK
-https://muzzikbalkan-live.morescreens.com/mts-7/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik PopStar
-https://muzzikbalkan-live.morescreens.com/mts-3/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK PRV1 Premium
-https://muzzikbalkan-live.morescreens.com/mts-13/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik Restart
-https://muzzikbalkan-live.morescreens.com/mts-2/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK RIVERA
-https://muzzikbalkan-live.morescreens.com/mts-14/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik Rock&Roll
-https://muzzikbalkan-live.morescreens.com/mts-1/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK SONIDOZZ
-https://muzzikbalkan-live.morescreens.com/mts-11/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik TikTak
-https://muzzikbalkan-live.morescreens.com/mts-a5/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  MUZZIK WWM
-https://muzzikbalkan-live.morescreens.com/mts-5/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik X-MUZZIK
-https://muzzikbalkan-live.morescreens.com/mts-10/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Muzzik ZZ TV
-https://muzzikbalkan-live.morescreens.com/mts-a4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JFm4hgmm/image-22.png" group-title="GRAND PLUS | WORLD MUSIC 2",  MuzzOne
-http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cPjbNmz/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Myx
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/614411
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Natureza Fm
 https://tv02.zas.media:1936/natureza/natureza/chunklist_w396461624.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrzCGpqM/image-23.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NM Television
-https://tv.a21network.ru/stream/40650/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Noroeste TV HD
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
@@ -14377,26 +13388,12 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrNgk7S/image-11.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NOW 90s
-http://mains.services/live/0228902066/tc674KJ3du/c365fe14-2b94-47df-b40b-3c2cd47f8f43.m3u
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/now-rock.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Now TV 102.3FM Edmonton (CKNO-FM)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xt5xfcpK/image-26.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NRG 91
-http://mm.369852147.xyz:8080/0503202235/gBjTpwV9VM/321240
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  NRG 91 HD
-https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2043948915.m3u8
-
-#EXTINF:-1 tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NRG 91 Music HD
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://online-red.tv/uploads/posts/2018-06/1529241449_nrj-hits-tv-1.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NRJ Hits
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w2023413974_b3268608.m3u8
@@ -14407,8 +13404,6 @@ https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w673137928_b1496608.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6630.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NRJ Hits
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwZ4fhWk/image-24.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NRJ HITS
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/567
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg803Rtq/image-28.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=fj_z59I71Ub6DdcJno_QHA&expires=170673816
@@ -14425,14 +13420,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksWQNsm8/image-27.png" group-title="GRAND PLUS | WORLD MUSIC 2",  NUMBER ONE TÜRK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/chunklist_b400000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zWw1rJth/image-66.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Nuta Gold
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/134702
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkCMR8NZ/image-80.png" group-title="GRAND PLUS | WORLD MUSIC 2",  O!2
-http://31.148.48.15/O2_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ocean TV.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Oceans TV
-https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/83/b62fb7b8d85328345df89ea2e3431083.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
@@ -14484,8 +13471,6 @@ https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Fashion tv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  On Air TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Fashion tv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  ON FM
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w1760042771.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
@@ -14499,65 +13484,12 @@ https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/ind
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGZ5Lt97/image-14.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Party Mix
-http://open.secretsofsibiu.ro:80/AN228956/TAGVdiiVuhUbwjOFsP6ptINW5D0jl2/9151
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fkr9TTjb/image-28.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink BRAVO
-http://filex.me:8080//live/MAS101A/MAS101AABB/317437.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJPJBMDM/image-76.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Extra
-http://exm3u.extraott.com:80/0451933520/0364224542/22353
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hR94Zf1r/image-82.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Folk 1
-http://exm3u.extraott.com:80/0451933520/0364224542/22355
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Folk 2
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/273.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9HtzNB1R/image-81.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Folk 2
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/151675
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Hits 1
-http://g-med.xyz:25461/live/aleksanar_vujadinovic/anhuZ7SAj3hF/276.ts
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Hits 1
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/276.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NztcBqC/image-80.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Hits 1
-http://exm3u.extraott.com:80/0451933520/0364224542/31450
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRPk7YVN/image-75.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Koncert
-http://exm3u.extraott.com:80/0451933520/0364224542/31452
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLbRshkw/image-79.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Music 1
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/154474
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Pink Music 2
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/272.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4xwYTkH/image-74.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Pink N Roll
-http://013tv.com:8080/F13836/35b68aca/20247
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Planeta Folk TV
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/958084
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMx0HRTL/image-26.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Planeta HD
-http://exm3u.extraott.com:80/0451933520/0364224542/31557
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Planeta TV
-https://tls-cl.cdnz.cl/planetatv/live/chunklist_w765984345.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Playboy TV.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Play Ibiza
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ee89eb82-af22-4e93-b190-e319f234fbcf/4.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Playboy TV.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Play TV BR
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbhcZnfZ/image-24.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Play TV GR
-http://mm.369852147.xyz:8080/0503202235/gBjTpwV9VM/321102
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 4K.png" group-title="GRAND PLUS | WORLD MUSIC 2",  PortalFoxmix
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w1623789705.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Power 101.7 FM
 https://vcp11.myplaytv.com/powerfm/powerfm/chunklist_w62265447.m3u8
@@ -14567,9 +13499,6 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PgVvBRL/resize-2024-09-29-T190311-328.png" group-title="GRAND PLUS | WORLD MUSIC 2",  POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=204209" group-title="GRAND PLUS | WORLD MUSIC 2",  Power TV
-http://ua.1usd.tv:34000/ch2190/mono.m3u8?token=1usdtv_mrmikesv.bFAWMOltLWj2F8Vsh2B2yBQ8vnlnxhWPit0rK7S9Ptw0Bp3ybByx91FNR9A2pwUcYnw054X128ehr7Ysm1rZYQ.dubldot
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvzrpKK5/image-17.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Power TV HD
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
@@ -14586,11 +13515,6 @@ http://flash2.streaming.xdevel.com/primatv/primatv/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrx4HRrL/image-2025-07-09-T011257-128.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Promo Radio Tv
 https://media2021.rtvweb.com/promovideo_web/promoradiotv/chunklist_w1439546252.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  PTC Music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Punjabi Hits
-https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
@@ -14604,8 +13528,6 @@ https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qw
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLRfWRxT/image-32.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Qwest TV HD
 https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-qwestjazz-rakuten/cb5638186573668684c33e78d9f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0f7b30940db3df0ac151e9d2b58e68314c9c94ded80d546cd128076a511c895f782d642e0c3ab4391bd122f733a1048dbe64b86da4ebfdbe81853fe541d36d2d17bc1e9986b29944853598293a33a81bf61a8a42a926338ac42e9273ad4ca19c92488d634c680b4cc414e2eeeac310776f2b2f5dda96770d5078aa645e058d426dd34016e87f299bf851ab0b7a63191d11a86b36ca8bb7a1e37d7ab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978a5e98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d984f814c68982d9f874b68688ac23bd0bc2b109727130e5f340c/112/1280x720_3329040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" group-title="GRAND PLUS | WORLD MUSIC 2",  Rabeh Saqer
-https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/3705.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio 51
 http://178.32.140.155/canale51/canale51/playlist.m3u8
@@ -14613,14 +13535,10 @@ http://178.32.140.155/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLmgLV7d/image-16.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio 538
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/16340
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Adige TV
 https://stream9.xdevel.com/video0s976463-1250/stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N00aS3x.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Alegria 98.5 FM (720p)
-https://video.compuwebecuador.com:3880/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P5Mbt68/resize-2024-09-29-T191616-611.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Bruno TV
 http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
@@ -14639,11 +13557,6 @@ https://stream6.xdevel.com/video0s976486-1271/stream/chunks.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Diffusione Europea
 https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hyPxz8L/image-63.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Ferentino
-https://stream10.xdevel.com/video0s977777-2230/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Fiessta TV
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Ibiza TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
@@ -14693,9 +13606,6 @@ http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/ch
 #EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Marte Tv
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Lh1YQv3/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RADIO MONTE CARLO
-http://77.73.68.200:8080/gladia/corciaSA/152297
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkDRy0Kx/image-54.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Monumental TV
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 
@@ -14714,8 +13624,6 @@ https://stream9.xdevel.com/video0s976542-1303/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Poesia TV
 http://5eaccbab48461.streamlock.net:1935/8222/8222/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRBwxdv2/image-2025-08-30-T005425-745.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio RCS
-https://5c389faa13be3.streamlock.net:9553/radiorcstv/radiorcstv/chunklist.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
@@ -14726,8 +13634,6 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1171338796.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M56QQ3dY/image-2025-07-09-T015541-334.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Ritmo 80  Tv (Forever Young)
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/chunklist_w1976860884.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Comedy Radio.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Sound
-https://stream3.xdevel.com/video0s975559-216/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXkcgF4/resize-2024-09-29-T193306-798.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Radio Stereo 5 TV
 http://stream1.aswifi.it/stereo5/live/index.m3u8
@@ -14768,29 +13674,11 @@ https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/ind
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  RCS75 TV (Radio TV Castelluccio)
 https://stream9.xdevel.com/video0s975429-131/stream/chunks.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Red 24 (Bolivia)
-https://inliveserver.com:1936/11012/11012/.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Red Fueguina Radio
-https://inliveserver.com:1936/11012/11012/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZvs4F1x/image-17.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Rede Blitz Tv
 https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w484849390.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Relax FM.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RELOAD GR
-http://mains.services/live/0228902066/tc674KJ3du/12c3bc14-2bfc-4c2c-91ba-7ef8c1583b97.m3u
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Retro Music
-https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Retro Music
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0129/ea/86dec156ba0f5a5439f420a65e039bea.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Retro Plus Tv
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1152211616.m3u8
@@ -14800,9 +13688,6 @@ https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w2073570202.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Retro Plus Tv 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Rfm TV
-http://mains.services/live/0228902066/tc674KJ3du/b17e4a68-9ec0-4292-a26d-d1dfb25ddfa7.m3u
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Ritmo Top Latino
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?PlaylistM3UCL
@@ -14816,8 +13701,6 @@ https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Rockola Television
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/461f9c48-13d5-4a6f-95ac-a59a71527ad8/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc40tqJx/image-68.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Roma TV
-http://exm3u.extraott.com:80/0451933520/0364224542/126497
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Радио Romantika.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Romantica TV
 https://stream10.xdevel.com/video0s977363-1901/stream/chunks_dvr.m3u8
@@ -14828,20 +13711,6 @@ http://149.100.10.194:5455/RotanaMusicHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9NT1C0B/image-31.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Rselva TV
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  RTN Napoli TV
-https://rst2.saiuzwebnetwork.it:8081/saiuz-2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkPwrr7h/image-73.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTS Kolo
-http://exm3u.extraott.com:80/0451933520/0364224542/31604
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bein Sports 1.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTS Muzika
-http://g-med.xyz:25461/live/aleksanar_vujadinovic/anhuZ7SAj3hF/289.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkPwrr7h/image-73.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTS Muzika
-http://exm3u.extraott.com:80/0451933520/0364224542/31605
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JR8MqzsD/image-90.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTSH Muzikë
-http://exm3u.extraott.com:80/0451933520/0364224542/126520
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/RTVi.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTV Love
 https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
@@ -14849,41 +13718,13 @@ https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCdMbTXH/image-49.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTVi.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RTVHF
-https://www.streamecmsm.fr:19360/livertvhf/passthru.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  RU TV
-http://5.188.159.128:8070/rutv/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Extreme.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Russian Music Box
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russian-musicbox.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Russian MusicBox
-http://cdnua03.hls.tv/476/hls/e0a67444b32acdd649ef11aa98247e7e/419/stream.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Sabor TV
-https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Saga Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/759e7bfe-b3bb-4ea3-9c59-4091eb3e1e1f/0.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Salsa Latina FM
 https://panel.streamingmedia.com.co:3557/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9br116T/image-2025-08-31-T141420-147.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Schlager Deluxe
-http://013tv.com:8080/F13836/35b68aca/278321
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x5S3Ygc/image-70.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Senses TV
-http://31.14.41.69:8080/hls/sensesarabia/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/FashionTv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  SHIFT TV
-https://fl1003.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" group-title="GRAND PLUS | WORLD MUSIC 2",  ShowBox
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynfwKgGk/image-58.png" group-title="GRAND PLUS | WORLD MUSIC 2",  SLAM!
 http://mains.services/live/0228902066/tc674KJ3du/28d8827c-43dc-424d-84c5-d8092329f6a1.m3u
@@ -14909,8 +13750,6 @@ http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pppJLbH/image-11.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Star 101 FM
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Star Maa Gold
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/689321
 
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0830/9e/f3be93362815b50b50b214d9a9f49a9e.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -14986,14 +13825,7 @@ https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kq3srdN/resize-2024-09-29-T202632-006.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Sıla TV
-https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Tarab
-https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkxv0KzT/image-54.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TARAF
-http://supersonictv.live:8080/Neal123/Neal123/83963
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Team FM TV
 https://live.teamfm.nl:3190/stream/play.m3u8
@@ -15001,8 +13833,6 @@ https://live.teamfm.nl:3190/stream/play.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Telecitta Padova
 https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Telehit Plus
-http://fastream.xyz:8080/EtbmFQWPkvNR/ExkJNJC8bAcu/24976
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4whCQ32H/image-97.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TeleMix TV
 https://haititivi.com/haiti/telemix1/tracks-v1a1/mono.m3u8
@@ -15010,8 +13840,6 @@ https://haititivi.com/haiti/telemix1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Telerayo
 https://s.emisoras.tv:8081/telerayo/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfjXvzpV/image-2025-09-07-T212842-785.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Telerumba TV
-https://inliveserver.com:1936/18506/18506/chunklist_w1937678657.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Televideo
 https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
@@ -15019,68 +13847,16 @@ https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TMF RUS
-https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MCM Top.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TOP MIX TV
-https://video03.logicahost.com.br/aovivo/aovivo/chunklist_w18702497.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TOP MIX TV 2
-https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist_w193935129.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Top TV
-http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHskPVGh/image-2025-09-08-T082313-574.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Torococo TV
-https://us.streaminghd.cl/torococotelevision/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="GRAND PLUS | WORLD MUSIC 2",  TotalMusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="GRAND PLUS | WORLD MUSIC 2",  TotalMusic 00
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="GRAND PLUS | WORLD MUSIC 2",  TotalMusic 80
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="GRAND PLUS | WORLD MUSIC 2",  TotalMusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" group-title="GRAND PLUS | WORLD MUSIC 2",  TotalMusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF1vDq82/image-77.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Toxic Folk
-http://sonymax.org:8080/live/Kydabk9PvE/68opSnk7re/409294.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF1vDq82/image-77.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Toxic Rap
-http://sonymax.org:8080/live/Kydabk9PvE/68opSnk7re/520838.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2p19Gp9/image-2025-09-21-T124458-495.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TRACE AFRICA
-http://filex.me:8080//live/MAS101A/MAS101AABB/301870.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5XKcYyxG/image-2025-09-21-T125522-594.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TRACE AYITI
-http://srv.igsuae.xyz:80/zrjcS9G83aDU/cpHgZXz5G1G1/789837
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFDh1sg/image-78.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Brazuca
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/a8ca48c9-f09a-4521-a23a-0d67b25500c7/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JR9CMnff/image-48.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TRACE KITOKO
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/151917
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q053N2k/image-2025-09-21-T124759-888.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Latina
-https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prsyRD3W/image-18.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TRACE TOCA
 http://line01.serveuser.com/QIWQ3GPOEZ/GCOULCY30Q/8056
@@ -15091,23 +13867,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/trace-urban.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZPfXLRC/image-2025-09-21-T125026-414.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Urban
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/150312
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Urban HD
 http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Traditional TV
-http://83.103.149.75:8085/udp/239.30.0.9:4000
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Trimedio TV
-https://stream.streaming4u.hu/TriMedioTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Tropical Music TV
-https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TSN Visual Radio
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_3d0ad040b69311edbdfe833877bb03e2/tracks-v1a1/mono.m3u8
@@ -15130,22 +13896,10 @@ https://stmv2.centralcast.com.br/central/central/chunklist_w1784259638.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Brazzers TV Europe.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Tv Ellef
 https://cdn22.streampartner.nl/tvellef/livestream/chunklist_w2087187691.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TV Estacion Mix
-https://mix.fachacarlos1.workers.dev/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Dance.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TV SHARRI
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/698109
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svVGmTvx/image-65.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TV SHARRI
-http://filex.me:8080//live/MAS101A/MAS101AABB/303994.ts
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  TVONE Nicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zzp2WNQt/image-75.png" group-title="GRAND PLUS | WORLD MUSIC 2",  TVR Folclor
-http://ginafelea.ddns.net:8080/Ionut@Morosanu/r3NnCuFEDr/162780
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  UA Music HD
-http://gr.seetv.cc/play/351/D70CC021CA87DF2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SD12Gbpb/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/tracks-v1a1/mono.m3u8
@@ -15153,20 +13907,10 @@ https://eu1.servers10.com:8081/8072/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9f0p83w/image-19.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Uniandes Radio y TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Turbo.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Urbano TV
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Turbo.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Urbano TV
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZcsB1jx/image-12.png" group-title="GRAND PLUS | WORLD MUSIC 2",  UTV
 http://open.secretsofsibiu.ro:80/AN228956/TAGVdiiVuhUbwjOFsP6ptINW5D0jl2/31414
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  UZIVOTEKA
-http://g-med.xyz:25461/live/aleksanar_vujadinovic/anhuZ7SAj3hF/42050.ts
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  UZIVOTEKA
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/42050.ts
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" group-title="GRAND PLUS | WORLD MUSIC 2",  V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
@@ -15192,98 +13936,6 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="../Channel/Logo/Travel channel.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Velari TV
 http://185.57.68.33/233/mpegts
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20251013T235730SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo '70s
-https://jmp2.uk/stvp-USBD300011KQ
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" group-title="GRAND PLUS | WORLD MUSIC 2",  VEVO '70s (US)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20251013T235732SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo '80s
-https://jmp2.uk/stvp-USBD300012YC
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20251013T235735SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo '90s
-https://jmp2.uk/stvp-USBD3000133M
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo 2010s
-https://jmp2.uk/stvp-USBD120002431
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo 2k
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20251013T235740SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo 2K
-https://jmp2.uk/stvp-USBB4400015F5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo 90s
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20251014T000010SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Country
-https://jmp2.uk/stvp-CABC52000165E
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" group-title="GRAND PLUS | WORLD MUSIC 2",  VEVO Country (US)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Hip Hop & R&B
-https://jmp2.uk/stvp-GBBD2300001C0
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20251013T235745SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Hip-Hop
-https://jmp2.uk/stvp-USBC3600002EK
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241105T024425SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Holiday
-https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20251013T235748SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Latino
-https://jmp2.uk/stvp-USBC3600015GF
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20251028T011429SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Noël
-https://jmp2.uk/stvp-USBD3300010L9
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/f9/2ddc94dbeaf73cf11896db44626e8ff9.png" group-title="GRAND PLUS | WORLD MUSIC 2",  VEVO POP
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo R&B
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  VEVO R&B
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20251013T235753SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo R&B
-https://jmp2.uk/stvp-USBC3900009K5
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Regional Mexicano
-https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="GRAND PLUS | WORLD MUSIC 2",  VEVO Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20251013T235756SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Rétro
-https://jmp2.uk/stvp-FRBD1900013CB
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Vevo Schlager Pop
-https://jmp2.uk/stvp-DEBC21000022L
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Video Tour Channel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Vision Musica TV (PE)
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL
@@ -15291,16 +13943,12 @@ https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?Playlis
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v46mwZgj/image-62.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Visual Radio Tv
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  VIVA PLUS
-https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jw1GpzFH/image-4.png" group-title="GRAND PLUS | WORLD MUSIC 2",  VIVA TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Vive TV
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  VoiceOver Radio TV
-https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg" group-title="GRAND PLUS | WORLD MUSIC 2",  Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
@@ -15308,17 +13956,10 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Wanasah
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Web Vintage TV
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w895082262.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  WVCU-LP
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5hNfjP7/image-46.png" group-title="GRAND PLUS | WORLD MUSIC 2",  X 102.7 FM
-https://live2.tensila.com/onair-v-1.xfm1027/hls/live/mystream.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  X-Level Media
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg" group-title="GRAND PLUS | WORLD MUSIC 2",  XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
@@ -15389,35 +14030,14 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/640px-Xite_Logo_New.jpg" group-title="GRAND PLUS | WORLD MUSIC 2",  XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Yo! MTV HD
-http://saveukraine.1ce.xyz/9371/video.m3u8?token=99jkYSXX7E
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mwTJHfT/image-58.png" group-title="GRAND PLUS | WORLD MUSIC 2",  YRF Music HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/3f94ac19-321f-417c-b589-6d21b8b59ecf/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc0PhZT8/image-12.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Yuo FM (HOT 98 FM)
-https://stmv1.transmissaodigital.com/hot98/hot98/chunklist_w2002421874.m3u8
-
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  ZB Music
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  ZeeTV Music Party
-http://thksmom.shop/zp1247/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b5BxKdCR/image-7.png" group-title="GRAND PLUS | WORLD MUSIC 2",  ZOOM
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZj48Smh/image-55.png" group-title="GRAND PLUS | WORLD MUSIC 2",  ZU TV
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/3296
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ocko-cz.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
@@ -15437,109 +14057,18 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Высоцкий
 http://ic7.101.ru:8000/stream/pro/aac/64/58
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/681.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Европа Плюс ТВ
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfrQjSM7/image-2025-09-09-T130026-768.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Жара
-http://31.148.48.15/Zhara/index.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Курай-ТВ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/m2-ua.png" group-title="GRAND PLUS | WORLD MUSIC 2",  М2
-http://live.m2.tv/hls3/720/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/m2-ua.png" group-title="GRAND PLUS | WORLD MUSIC 2",  М2
-http://live.m2.tv/hls3/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/3336.png" group-title="GRAND PLUS | WORLD MUSIC 2",  М2 HD UA
-http://live.m2.tv/hls3/stream.m3u8?user-4pda-denms-ru-v1-a1
 
 #EXTINF:-1 tvg-logo="https://matur-tv.ru/images/logo.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz01vFCy/image-2025-07-10-T182246-890.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Муз союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muztv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Муз ТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muztv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Муз-ТВ HD
-http://radio.tvs.by:8088/MuzTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Муз ТВ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музвар
-http://gr.seetv.cc/play/8849/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Муз ТВ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  МузТВ
-http://178.124.179.122:8088/MuzTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/15/d4b968deed742af0f4721a9481f98115.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка 1 International
-http://kino-1.catcast.tv/content/37745/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  МУЗЫКА 2 International
-http://kino-1.catcast.tv/content/37742/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка 2 International
-http://autopilot.catcast.tv/content/37742/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка 5
-https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка 7
-https://fl1001.bozztv.com/ushba57/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка 8
-https://fl1001.bozztv.com/ushba6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка 9
-https://fl1001.bozztv.com/ushba42/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Live
-http://31.148.48.15/La-Minor_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Live
-http://92.63.106.41/24hp/stream.php?id=222
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/ca/82311b0ff394749dd8fc9916fd7b83ca.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Кино International
-http://kino-1.catcast.tv/content/37739/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Кино International
-http://autopilot.catcast.tv/content/37739/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Первого
-http://31.148.48.15/Muzika_Pervogo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBH28YBP/image-95.png" group-title="GRAND PLUS | WORLD MUSIC 2",  МУЗЫКА Первого
-http://176.96.241.40/MuzikaPervogo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Первого
-http://88.135.128.20:8090/muzikapervogo/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Музыка Рок
-https://fl1001.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше Мужское.png" group-title="GRAND PLUS | WORLD MUSIC 2",  НАШЕ Music HD
-http://gr.seetv.cc/play/7184/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше Радио.png" group-title="GRAND PLUS | WORLD MUSIC 2",  НАШЕ Рэтро HD
-http://gr.seetv.cc/play/603/D70CC021CA87DF2/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ30KZBs/image-2025-09-09-T125336-752.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Новое радио
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше новое кино.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Новое радио (BY)
-http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1muz.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Первый Музыкальный
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1muz.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Первый музыкальный
-http://hz1.teleport.cc/HLS/SD.m3u8
-
-#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1029/0b/56f21348696166976df035a6de2e3a0b.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Первый Музыкальный Россия HD
-http://rtmp.one.by:2200
-
-#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1029/0b/56f21348696166976df035a6de2e3a0b.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Первый Музыкальный Россия HD
-http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
@@ -15550,14 +14079,9 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | WORLD MUSIC 2",  Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/2278.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Шансон ТВ
-http://86.57.209.210/Shanson/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.shanson.tv/i/logo_191112.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Шансон ТВ
-http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
 
 #EXTINF:-1 tvg-logo="../Channel/Logo/Шансон-ТВ.png" group-title="GRAND PLUS | WORLD MUSIC 2",  Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
