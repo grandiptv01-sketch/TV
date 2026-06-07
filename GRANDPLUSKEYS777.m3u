@@ -10,6 +10,74 @@ http://sc4.gergosnet.com/pulsHD.mp3
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
+
+
+
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucatastr.png", BCU Catastrophe HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgt05kWfJiDLUjeP-2_7-QmwLgUR91eT4YfJps6e3kQrE1uhtJMuN_sgHZuaf5Z6yfhA069U3XPtKrh2piA9-N5ZDZ_KLufpLfZVP5L4pS0XgW-hSobDePoKQbksYXu_wt02QoGsv8crYlHsY-2V71Jzn7JZQlBJ5r6xeYDu-_4dBODB8KkMm9Nw1uZSR1PNuj_pCpTMVQYSTSDu_Fb2TjYuBanVdo2WDVZS-p6oWxvP1IQVe1dNxPdQZCcSSO8ogB&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucinema.png", BCU Cinema HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgRbVJYzByXVOBUkWCL2dE9h6jXH5X4Rhr_BTjV9yvKAkczXF7WAGNwRZyzbQeVxq92tWLKjqw1fOrmGYM7lWLgPuJXfUEvOzIMjYyjpgQWUvMVc_pPgX_D2jGdxtTFSiTof0pCdNj9wyTB-25UE73C6XBAT4H1lvSpo6mi0zuw1-zMdZMevhuaI3NjYp0tUGgMa3PRn4tZ5tqPFPhGfQNanjYFVV5qBIVJACGutfVKC38MLGm4lqB5ZzseaYBUV0X&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucomedy.png", BCU Comedy HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg520uXUhGU3e_TbbFTVECSqKa-1HMyJvCj69sUHBZVfdA2lxtYKIgNg_r8yNL44K8i9_5IBrwUdf9_Yxzk5eZ3PRMYNiLWY4VehWHTvtnEivSRRA0vNkUk890TqCO6a3V8HxFFH3wxmJImlJGhfaHKFdygy6hm5MI9TUU4caxWtQsewXQlEzr5gu4Jp3nB8bNcwRqR3--LSPhnqpKvF8nHIHdukeCMBBTasJ6XeQ5YBk5JbZJOLTsyOeRHRJofiO5&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcufantastic.png", BCU Fantastic HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgxAa6OUs6ZRkzRINElDFBcRwy_qUdxi2Zy1ly0YiJv-aw14LbEzizo0Y95DtvuMBqJJ0R58sUs1M9O6uzXe486C0axVPPnM2a1rQOIdIQzl9bYw4lOtag8DOiBDheBQInDnavBt_XLVWko5tsdS_7Si62_fqoBmWrv02HW1kAD6ae0dzi4UAdRpxa6tLzkYkdvSpGBENKGMjjHXXartftddoylMFxBFKrxTyqk8koEtkYpJM6vRxTdnR8eGrxBiq3&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcufilmystic.png", BCU FilMystic HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgLGv-MR5ngWO97A8SBX1_8RnNBaz9kIo2Ukl3OXBqW-mUx2reoYdjbO6xf_YWpGvfjpCU2h2Uz3Ev8lnBv4SNq6QyjTBypoLJebkJo4MfggWl8qW-ApPUnD8BljjVd_H9Q90yavBLWnefMyu7X-sjmezfTAWvu0Xsyi5YG8Y4EcE9RK1b0D348Sowu8jSUXMTidVQm1bWQjUzOhA18Z8KpprL9Csw9FjOxEuG2CqURpLvV98B_9YirY-JDiVbFr6Q&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcuhist.png", BCU History HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgKIGrfKkANW1_fDbGfbnrZWKMjHogda0X26Qq85sIFbENsN35jmAnHaxYk9yMmLDrEm2BAc3hHNrBK-7ZZ1gMonywIR1iIDpiSwJiWMcxL4WT-ts-qDYgvM9rLtCHav-6kz6jSvDGpXtNUN36P_YvxUjOUdvrWTxGyWMJnzOuZFIA_z5iZiPFYLWYYt9exsp9PWidaQmwcfIRRI0BZbr1dXM2oaGtvkQ0OnAtRqP_tRPGr0UnvZwWJ7rv47lytovq&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcukinorating.png", BCU Kinorating HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgST-RcSjpzB0jLWkKxhJCEzZIcn6wMAwkZ1srjbRl7Q2eww8aA7alXsE-NIoTQtu-jWHY8ApQzIseOQaHKx1DdQf_MbkBaVeIhoysA3SC-AO2LtctBbg1jMurcsSypX5Rfrpm-2WEyoh1MyFsIG0CZf48YcWihTf3TzYg01ErwQRsqkrvwoDEOQR6k4jPTYK4EqtxFlakKY9wO5oK7wIQmJ9VCnZpD4PEEeOXDcRV7u_NpFqRvEd3IhU8HKoxqq9_&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcumarvel.png", BCU Marvel HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgyPn782YCRUecO7T81JBpOtFXLR0pZ4ERbgMfEXxNfaIqO0JqDq-dgCrX4elxHwPQ-qIpi_s8XgjGpJMcM1ql0N3zqOO4VlJ064bbndgiNiaJzvDn11GQrwE7yvOmTaEsYmluCX-keuCDvPF28bsqR3dd08V-gU4gskLYLq_mDdyhllLN0_G4YN4bOcPOxeqvGx7Dy1LuGBgrHs0XHk3RUUUZMeMFSGj6R2iRLuZBA1pH-_TMyM59uTMELh-HT3vZ&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgeq52j7K8Ob62yqynfe8xK3yEvFJZsz9HU39a3cBJGO7WQGtBfcjURDCSxjp21tGN-6vZXPvLYTCjS4kz215xNWJVhNRrcHgA9yMcOimuJbojbf_rjSZFH2_gqeTxhkKGNmhBH_CY2OlYIvU7zwRWInSjA-repsmhUMLqH6dvEw-BCPw3BLqy8r9cGhGtS6WazYsPwUfL5XEBEQ46Dn0kJLq4EhTy-RkVPee-br2heScHRKbDqoS8kkv0U_hltTUp&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcuromantic.png", BCU Romantic HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgaM2iQspqMyPIbIouaYimnDtPUFAy1Kyl-9yPKtQPohon3ug20MmyKNkDfvHs7GCvfOtCCp7JTpK3TdZD7VOUWgOthuU1j5XK0HMbR6zy5975c9V_CkXigb8GuxeNamsVESnGwSyqKmNnCVDAxZduxfjq2xwJNdLFt-EGuQod4yLzNh3VxkbEiuQ4uCk4LPwHpCXYXx4WdXwxbXp4HnaXqlHMLDhjwFvI6kV7Cmh8qY2VdrMi--r0o4pid1vrMHD-&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcurussian.png", BCU Russian HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgXBNCx-X_oJkQDA7wZ_AFPBP4hOVhhHYryhDY2yiJho9HTQIPy4oie6_InxAvgYohP-GDABdUE4MOaMLKdvll2rg-B1McNjzZdkZJ7vgjaquFYB-CbbkfzPuxB3tKvmmCbnaRZj6hQQs5XZy1tvSLPPzPilVqVOf7eCiStcgNJkArWTJN7jz0hnQZ-kLvyh5gBz_cv554sBB7LuAuCTIAMr-SP2ednAxQrrnd8nHEL-JAgX7pVAAkYMlVCdPOkzgs&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcuvhs.png", BCU VHS HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgb1-ecmHwrOWXCidy4dDz24G5nCuoBnhns0t9XeS19z7Hqnj-i_52RN_CZ5Aw-rlL6ZqeJdvtpzV4uOUMs9tt_PClTFmZL7QnMQQw_KAGoPC1GUQoiFZ_EBa1BqkD57E-KthYmX1B2Dvr4VPzWoFUI9mJ8IYh2A_RnOwaA5Et9HTgD8mxxkPXVDTDIKmnn18Mt7q81Xd_Ws5EhQ7X1k24sw3mePPZrGRGxEodsjo_P_QXk2I-Phu0hAIZYjAo7Lfe&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcumedia.jpeg", BCU Media HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg587PhYqYfccS7apYGZl8skwVOQjrjCUrIMmFSr8C3cnYjlLDofLq6YeVUEmJiDvCzNKGxM6L3w1tV1DGn_kF08CyqdheyX7Z07sdGtYJtDrutMyG1b3fjtSAggmN_ZRSoiwTdWq0T2jeHNzq0M0iBwC1wbrgOzp9-8Su45b2CZGSm-40ExEfXDn7doKpoUS5myTAzAf03-JlhJvYXLwwpHDFpzhdsp_HDZp5T-ek7LDbx6TzNXKxETWq3UxXhMer&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcusvaty.png", BCU Сваты HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgAfKPr10d-LW9G2NQfB4DLzXMFaYUbcGaHZwOkQR4S8qIPjZAfS3G4sZ2h18y-XwEicLyh9Rrd621FjKTN9Y03fsu1rovYLPOJZS52C-f_iO11IsNQWDFYqIQ_vYSI98P-rF1QaxwMn2xEEMaZoCAnd497_5ai_o1dOOUOCdJyjKux7KQWug8IG2wSKr3F9SMwLOQaKMEtRhhkOcUyYBjEprbuPW05aOLDeEu74c1XLGP-KDlwSE80dHTcb3whKIj&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="12" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere 1 HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgWIR3IB6YN4IMVQXUDTMV-EuK6PM4NHt1_3hSBudW4wfGnzziIoZ9skApXsHRAfowu2iVvxkOiZ8eDeR4XDpDGNvIm-N1zOlmhJYjcyekUug8_qvvwNgPbFnqpvW14YDf9V9WezXXdNPswavQU-FhmcTaHMVmQh8xKPP3bpmxz0Ktmqqf3CF3gZWkUKM7m1H5DsXc5Da9gl_O5zqajkcWW3HdGOD6ke0Betye7fi6MhI4YhVZDKah_propQ_Rigs7&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="7" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere 2 HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg3n_NSqzkWF0Cu1ff0nwCmg6fBVNL-bee-r0nkSECKX1cAjyX6gnm-Rd-QmqFG0FQwJv4njw3Vhz8ljLPPqC9nUfDqG2zLlqA2tEzXMfx072FRgifB6SLPDq0l7apJMmHOqsoeGI1ZNegVBzjERyL44gDmwSS0O_JbBv4qFRp7DhVQKBGDjfzei0WpYtYP7Z1p-dl-hoo-yHtcJ6AnvSqy1f0Cdv2ckrOzMz5o6vSYedVqhqnhwixhFSk6RKPZflV&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="7" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere 3 HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg6p4y_Y9Wp9ao1_geffcQXbyT0yYnaiOhLBNUn2QQtKmjYDvodZshm19xkb9BNGV7bzFNm6nBUTNzLQnLwoJxPdbjV2lHxfGgKc1c-HQYLs0j-3Aytv35208ohD0WY8HNFDGnYmfKbGvit4IXyTK2tBuoP0TcpuPwqweJ1vCuyjcyuGocS3p-aKS_j3U7PgxsZjKSj5KODRBaEtYqfre7FOMloGr2qwYadF59699UowjiwPTVSc2cNyUu0IQGRScu&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucccp.png", BCU СССР HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgSQAQoBVOrl3OunUSmIvk2yZWksp00KwDW1eTLkPcwRrE1ZUR4uuy3GliF4Q_TQ-ucXeucsyb7lAIcHi1q024nGxTltyt7qGIeRKEkgmGvlCc2TWKOUinJlLoI-5QMuVArxeqGF69Kk7QD1nZo21LzocayFPVJpJ0oVBG_ocQBZyXXxa0rSl3_JrBRkNLCJWYXt5jQHugbYCFoUtIGnVhdwgMeReU-RRPlfmByZPPuAl9I9PRE9GkJYAr3n19ZnaG&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/501/501.png", BCU Criminal HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgwirFRXNeCtJiMFj1_U-8K7trSDorLI3PvKbimuVcuv8gyiQN5SaNQ20EbP35_wun7fl71HFUYq-01Ps5e2HZ4TePmwSRc2yQ3A5KzXiDB3ebGQCfCfHsZTb-bA5_ryBDoBHMNlp4M1zc1N0qHDlVYX_Ulb4gU16NtTq_iEODaBUQa_w8C_6v-K5BNAZvlDkaolQONuCvQLv0P0D4jlYZnFmhMidHNtOopZ7C1-a8CdO-K0OkNaMgcrlHN01Ua7BE&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/502/502.png", BCU RuSerial
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgUBq5e7gd2iBrA11_2AdmIyUyHREnE4Be4jDd2a0yBcszVhGDo77O8wPamoSQy1jdRxgusyf_RQIVqvUUKuHTKC6ZuzAntexp2dK1GMpnxu93xXagE7oyxeTjEM_wwYY-FE-ByqMFkw_uLZgBZLcSM-669uvs290W_2F5_wyHvicl7d2kfqpKfOUA-TjXcVVE6cTga1n_bdbn-7-Kl5Tmy1xMUH36s5jgEe83dV60XZiUAv1uBZOHpOAT-yiGF4P3&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/493/493.png", BCU Cinema+
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgj6Me6XOYks0j2LityQLnPz51WL24n2yrXKL894rwbM1rTFcf0cahZvvPPOEP_xwgq_yMCeTDqpvmm9rvtRhncb9Jng2LYIQYFyI0-jE432NQkFWukNT-i_tHYLILDS6txBQQrBLuqiMbC1otCKg5wAiNwJr2sbprVzB3Uw50VRAGWrukvdnC2VvT9WZx6OK6qsx774-8LsDY79NQ8Qgj9mCRWdEEasSuArUOJgORm3BPO6uZTG2peTvPX8xZiN5p&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Ultra HD 4K" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/494/494.png", BCU Ultra 4K
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgmEWt3Km95Hqi7lKo19t_AibycpHkJeyXep5Fh2et49pTDja7EIuCyXTEVdi8sBZ2KOy1Hc8mNy6O070h9vHB5_QlOJTpgakzVHBOvlKFAvs_5miEfYBusNKpjWcKOwZOCQjIpaXZrNu57KaSOIQe4eKEtidBPZ7blGjI1J6X5FWFZTkoMU5gCmt5r_j4v_AdgxkLIa0ImUMtyMYarx0LtiOzsBcXv0eq5z5o2bS9t3lJMJAh3GrG6eYEsqwQOspK&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-cosmo.png", BCU Cosmo HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgTHtMP1WH9-dlYA5M_alWMPv6CDRCRroLXYVl_UvWxrKMD1k-t_Kv5ra-t7fx9aGzJ_qvcOH51YIIzDcV5jygzJIK1bRrverNdnWWfBM60Z91eIv6L_YzukE93HQyY0VsQL7XfQuvDP483FqEBinXUQpcbn01CYCeducea5a_k3uNOo_DKE87fy4nCBN3HpFdcgKJh7c6WVK3oxvchWqq4IvjcCmGNU5sLbPJcOEaxX8ZFDfLwJEb-_4-QK9snb_D&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-trumotion.png", BCU TruMotion HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgnPyHULh7tPkPioIvjTb6-0josBEU0gjq0LsAOi3POOW6pZQEfxexPZOiy9jptp53qnPHO7WzTvN3uwQYfDcS6z3sfZ-JK6lXdyYJ2Zsn_TG5Tnm6pj_6eD_iCY472d0ub_X76oHzelGu5CtBhuJNfhayvFjMMmph-xq1cJbE-yWcAiT-7VjGZ7PHTv3T0WIgjD9c7T-TKDVSx-lankKCm25VPpwrt2y1rasdeCdRxM9IdKKt1Vk-FwVGjX2QI8B8&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Детский" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-little.png", BCU Little HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgaPJLBRbWs1WGnms8gnIceOVpY06p5pe2ZhnJQ7qRRbNEt886GizKPd-mtr8WkwY4kmzoI3w9dWT4EjVcItYOZkmj9VfIN_YRfSWDW-4HvvQ8EMRHsMps_urHc3GLuWGioQr1UuCD9XpYQsH7JRU_2P7cWva0bfdWZdHxZJguZbc05jUNjYN5ZFIQSMqOWa5DU8v_bewvBC_MQn9E8dc528BCa8FUo5HKJ2x0-JqrYd348TyI97uzWleZLTD9SPu1&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Ultra HD 4K" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-premiere-4k.png", BCU Premiere Ultra 4K
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgd7z_YvyXN0OZyyKBGv4ajyHuas-z2t47eiNgs9MU2OA0bRHjv-vLq7u17mwdyMT1kMyZb8fDu-1a8vr9hVgwst5iz6ARPkG2-EAG3Q4j219ztouff5i219Pl1v-0nOy8LYooqW8rNi8SUNFjWmn_caLgXXClZDdm-Az2sTf2aHZ6BFjgx5CmoUiTi3-Nhp1lA6EREBwxePZ02RQ2rvBCCejm1qc9fAoORTCVdmdP5_KduUh65Xinb_-V09pnv8R7&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Ultra HD 4K" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-kids-4k.png", BCU Kids 4K
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgwuLu6oblXQUiDlhwZ46tgrGfOD8iFOScHwEri9A1aTay9Kxaaz-QqQg7XkOEDNABWKZFdXZ1xJie2YD9Y4mNEiXb9ydetn2PC0yNr4x37DhSTzWZltKHODP98dQaOVVh8ACgd-p60fE-Z-VnSqanZVkWR_92ERyM1c1GuPoSvJURLNutjGzJoWuYyW6__v3ltJ9gp23Qhz2axtJlXI8o2HzP39UwMKGeIhvnzKKyjdHy0qi3T7fM6cOmIGOfMHuF&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-reality.png", BCU Reality HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg_3ABMOvRPjo81bvn0ZqkNGZ7_nMpZAQfrcZ9VGqPwm56vn0WBpUVT1-INmHYULNo-nUNjriGwgQJhlapLFZ9TCxl2B_w4hrdU68fnjOoW2Z6DA8_HqACldxPoHJyQrrgcO6RMpkpYyhZYlgVzcztm4QIr_kLcIp99j4FX3YKte4Sz1UoPDOVWN2k9igB0LN5RNI7ZQ4w08IvjttTf2p1E1c46TqIAeWyfcZdp2l7CqucOQGPPHebf7EN_GsPE4gY&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-BCU" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-survival.png", BCU Survival HD
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgGgEWffFRsoEBDmYNcM703lB8aP1n9dVMfd1K74CfnrsYkEFT-H4Cykn_xbBAmOzYf0LtLuuILnZfif3q0herKaB5AV9QW8RItaHzvMHou7RQqND6aiTEYeDaOI9V3k-iugQS9Ub2ZdCwq6__mbSSR67wussfiD5-Q76LyBR2VkkUswDOYtvSlabFkO6BY860aa-60zMs0ZzfOZcJWeV16U3jTqXMSMoX3cTy5IsXaF0vqSKXBm_McVAasznJ4Kgz&token=MjIyMjoyMjIyMjI=
+
+
+
+
+
+
 #EXTINF:-1 group-title="RUZIEV MY TV +",NOW TV TURK
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1  group-title="RUZIEV MY TV +" ,FAN
@@ -39,7 +107,7 @@ http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
 http://fc1qlunj.tvclub.xyz/iptv/PN72TRC6UNHLF9/282/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
-http://fc1qlunj.tvclub.xyz/iptv/8APCR5PZS8WVK4/282/index.m3u8
+http://fc1qlunj.tvclub.xyz/iptv/AVNFCNQBEC9VQU/282/index.m3u8
 #EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="RUZIEV MY TV +", Cineman HD AM
 http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +",  ATV Armenia Premium 6
@@ -63,7 +131,12 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
-
+#EXTINF:-1 tvg-id="GEM24B.tr@SD" tvg-logo="https://i.imgur.com/8LgdPst.png" group-title="RUZIEV MY TV +",GEM 24B
+https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMMifa.tr@SD" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="RUZIEV MY TV +",GEM Mifa
+https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMMifaPlus.tr@SD" tvg-logo="https://i.imgur.com/8FIAqR5.png" group-title="RUZIEV MY TV +",GEM Mifa Plus
+https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 #EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
 http://37.46.49.14:18010/play/a060/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",  TV12 GUDAUTA
@@ -108,10 +181,16 @@ http://185.57.68.33/233/mpegts
 #EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   tvg-name="Vostok TV Armenia",VALERI SD
 #EXTGRP:RUZIEV MY TV +
 http://timeshift.arpinet.am/233/index.m3u8
-
+#EXTINF:-1 tvg-id="VantageDance.ee@HD" tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="RUZIEV MY TV +",Vantage Dance (720p)
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@HD" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="RUZIEV MY TV +",Vantage Music (720p) [Geo-blocked]
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="RUZIEV MY TV +",Vantage Music UK (1080p) [Geo-blocked]
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
 http://185.221.213.254:8080/Ritsa/index.m3u8
-
+#EXTINF:-1 tvg-id="Music.kg@SD" tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="RUZIEV MY TV +",УТРК Музыка (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
 
@@ -153,12 +232,82 @@ https://region-ru2.tunio.ai/grime.aac
 
 #EXTINF:-1 group-title="RUZIEV MY TV +", TV-1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="RUZIEV MY TV +",Viju TV1000
+http://176.118.197.125/viju-TV1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="RUZIEV MY TV +",Viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="RUZIEV MY TV +",Viju+ comedy
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="RUZIEV MY TV +",Viju+ megahit
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",BOLAJON
+https://stream9.itv.uz/t/Fvr4tApyS8R0HNxMyF2vUw/e/1759836777/1007/tracks-v1a1/timeshift_rel-1978.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",DENOV TV
+https://stream9.itv.uz/t/pMpAGyvvk_Dzc29N8RZCFw/e/1759837272/1499/tracks-v1a1/timeshift_rel-2473.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",DUNYA BOYLOB
+https://stream9.itv.uz/t/8VbgKKPKztXwZ0Tb6gEgqQ/e/1759837008/1006/tracks-v1a1/timeshift_rel-409.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",ITV Cinema
+https://stream9.itv.uz/t/4o59KxM0h-Vu5Mu8i22SNw/e/1759836132/4000/tracks-v2a1/timeshift_rel-132.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" group-title="GRAND IPTV/ MEDIABAY TV",ITV Music
+https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",KINOTEATR
+https://stream9.itv.uz/t/Nnp0q4s6iGzREdBWtcRoYg/e/1759836927/1009/tracks-v1a1/timeshift_rel-2128.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",MADANIYAT VA MA'RIFAT
+https://stream9.itv.uz/t/B1C0JgoGU7OCXD2a-OBX4A/e/1759836838/1005/tracks-v1a1/timeshift_rel-2039.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/c4dade9589871e099326cd64dd2b6a2d.webp" group-title="GRAND IPTV/ MEDIABAY TV",MAHALLA
+https://stream9.itv.uz/t/JyRow7Dz6x6_aSKUbbRyFw/e/1759836886/1013/tracks-v1a1/timeshift_rel-1488.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",MAKON TV
+https://stream9.itv.uz/t/K6mAa_2Vd_ZJ0e_YqJI7ng/e/1759837250/1497/tracks-v2a1/timeshift_rel-2451.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/fb03d36ad8bd70dd319312b62c961212.webp" group-title="GRAND IPTV/ MEDIABAY TV",MULOQOT.TV
+https://stream9.itv.uz/t/T6SBycjwQuta4ow0xThKdA/e/1759837189/1285/tracks-v1a1/timeshift_rel-2390.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",MY5
+https://st.my5.media/hls/hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",NURAFSHON TV
+https://stream9.itv.uz/t/r8L0OEUaMXmy1shTJ_XIrg/e/1759837077/1220/tracks-v1a1/timeshift_rel-2278.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",O'BEKISTON TARIXI
+https://stream9.itv.uz/t/pZB356zwLOOjd37o-tzZ1w/e/1759836963/1209/tracks-v1a1/timeshift_rel-2164.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",Ozbekiston1
+https://stream9.itv.uz/t/Hu8QYUpRncvaPuCVRxloWA/e/1759836416/1001/tracks-v1a1/timeshift_rel-1618.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",Ozbekiston24
+https://stream9.itv.uz/t/gLMorTRF--E59dGQt6Yrcg/e/1759836315/1011/tracks-v1a1/timeshift_rel-5716.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",RUXOR TV
+https://stream9.itv.uz/t/d5tuUfgXkE9sOSwWHlvHEA/e/1759837108/4008/tracks-v1a1/timeshift_rel-2309.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title="GRAND IPTV/ MEDIABAY TV",SPORT UZ
+https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f744f167d51aa312b72c9a021bc1ac07.webp" group-title="GRAND IPTV/ MEDIABAY TV",TOSHKENT
+https://stream9.itv.uz/t/Eyt5nv0EMu3S1tPXNVoSvw/e/1759836609/1003/tracks-v1a1/timeshift_rel-13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d680f45e0ee6347837af3230cab76359.webp" group-title="GRAND IPTV/ MEDIABAY TV",YOSHLAR
+https://stream9.itv.uz/t/7KC1fr88vE2F48JkjhyFeA/e/1759836511/1002/tracks-v1a1/timeshift_rel-512.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",Digi+ Music HD
+http://3.tvtm.one/ch2325/mono.m3u8?token=zazann.v2_psEIlHf49dmSZVs5SUbq8tY9gMybiTvELxv4SHzYooUPB1y0Dag9Zr7HQux-Xq6CxOp8mkzbIuo
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",MTV Club HD
+http://3.tvtm.one/ch3895/mono.m3u8?token=zazann.v2_T_OulSYDH-AAr7oCNxjYgd8nzBZ7x4mR_Gy01LdX4bwKJKZQb64LGR5MR_nShp61yvZFE8DQenk
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",MTV Hits HD
+http://3.tvtm.one/ch3896/mono.m3u8?token=zazann.v2_NXmi5ypEORu7wwD12vjAg0vueKTaZCNAPLI2tabAjDwb_5cNfIHnevj8La_4CySVAg2YyCcRfr4
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",MTV Idol HD
+http://3.tvtm.one/ch2752/mono.m3u8?token=zazann.v2_j9Y71kezj4EWMqNy5OCtuDIiBZi02N_OmnZn2M-JguXHgco7umIEoKGbNYxmgBL-yNAPg23N1YM
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",MTV Pulse HD
+http://3.tvtm.one/ch2758/mono.m3u8?token=zazann.v2_dhlaPFJ-cZsX58Sqeczf2YOAbILPxwCDF3Sx6tSGenjl8Ou3rl02jnWSFTMjYHP81XMiD2KOEPE
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",Music Hits+
+http://3.tvtm.one/ch2334/mono.m3u8?token=zazann.v2_eLUgHpZWnal8IsS-DgXr-3ZxYqZuVZrvh9gjx_blxGt7Df0vXqcy7NyB-Lc78Y-5Iiw0GYqxPX8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",Music+ 4K
+http://3.tvtm.one/ch2326/mono.m3u8?token=zazann.v2_EAxEcuPJZBrW6AGfwOnc0vuCaPf7Y34qLOXPsXMGpRWsP-DcJKOWbGwMyBcoqSe-KB9bYpDyA3Y
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",MusicBox
+http://3.tvtm.one/ch1599/mono.m3u8?token=zazann.v2_qLk0NTIwUcPKleXTkiOrvPt6E1ahyDYtYJLzUblFDNCpzq1Ju2TEHBEDrowhIfJZK63bu6RwJZM
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",Stereo Plus
+http://3.tvtm.one/ch2055/mono.m3u8?token=zazann.v2_sU0bsY9o9-6R15LmgY2Hh8sWLEfG79DcD6zQco9T6MGF8fW81TD4sqKKZ-VpxPkShhJVit0VeD4
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",Viva Georgia HD
+http://3.tvtm.one/ch3184/mono.m3u8?token=zazann.v2_SCGIRgUrIRB5_FtNu5qTorw0ZsTsi9kkN-FwZz8tijylILWIk3CiEHLjMz0ATI_PSh5dHvQS_qk
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ TEAM MUSIC TV",Xmas Hits+
+http://3.tvtm.one/ch2333/mono.m3u8?token=zazann.v2_JroVJLcApDO8uireDRNsrfbQA1DkRRWXnPp4TkKUYserypum775gQkn2OUhxM3fQSFLd2ycnyBw
 
 
 
@@ -630,6 +779,54 @@ http://91.221.252.12:82/tv114
 http://91.221.252.12:82/tv113
 #EXTINF:-1 group-title="GRAND PLUS | CITY DONECK",Футбол
 http://91.221.252.12:82/tv115
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ani.png" group-title="GRAND IPTV/ KIDS TV",Ani
+http://176.118.197.125/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/cartoon-classics.png" group-title="GRAND IPTV/ KIDS TV",Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="GRAND IPTV/ KIDS TV",Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="GRAND IPTV/ KIDS TV",Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/jimjam.png" group-title="GRAND IPTV/ KIDS TV",JimJam
+http://176.118.197.125/JimJam/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="GRAND IPTV/ KIDS TV",Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 tvg-logo="https://school.radiokids.fm/wp-content/uploads/2019/08/Logo_main.png" group-title="GRAND IPTV/ KIDS TV",RADIOKIDS.FM
+http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tiji.png" group-title="GRAND IPTV/ KIDS TV",TiJi
+http://45.145.32.13:20440/tiji/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="GRAND IPTV/ KIDS TV",Детское кино Int
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/capfantast.png" group-title="GRAND IPTV/ KIDS TV",Капитан Фантастика
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="GRAND IPTV/ KIDS TV",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="GRAND IPTV/ KIDS TV",Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mama.png" group-title="GRAND IPTV/ KIDS TV",Мама
+http://176.118.197.125/Mama/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/multimania.png" group-title="GRAND IPTV/ KIDS TV",Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="GRAND IPTV/ KIDS TV",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="GRAND IPTV/ KIDS TV",Пингвин
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="GRAND IPTV/ KIDS TV",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="GRAND IPTV/ KIDS TV",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="GRAND IPTV/ KIDS TV",Смайл ТВ HD
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/solnce.png" group-title="GRAND IPTV/ KIDS TV",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/shayantv.png" group-title="GRAND IPTV/ KIDS TV",Шаян ТВ
+http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="GRAND IPTV/ МУЗЫКА МИР",  Albkanale Music
@@ -1596,7 +1793,13 @@ http://217.174.229.136:8000/play/a00k
 
 
 
-
+#EXTINF:-1 tvg-id="24KZ.kz@SD",24KZ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz@SD",31 Kanal
+#EXTVLCOPT:http-referrer=https://31.kz/
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
 #EXTINF:-1  tvg-id="7kanal-kz"  tvg-logo="https://iptvx.one/picons/7kanal-kz.png" ,7 канал
 #EXTGRP:GRAND PLUS| КАЗАХСТАН
 http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=4&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
@@ -5820,69 +6023,13 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgvvCBTPABp_rzMjnlVHULsgAUlmqiuUdYcE-mjM-LqyZAf3bQto6EP3JfTVJPcgmMOc1B6FboHJB0PzhAPHWGQcDWH-7J4leqpoayYPlLw4ZKCeAbwDuuH3UaAgiwopUOXm-6D_myEF20abQ5Qg8Lzbjx1BpxXNxWlHoSBWTKpgNIweAGBVkLo1SgmH-F2JYbyWkdOOMH6ya4u7C5cKDe1O_0TS1cKLmblC-b_Kws4HXrxOTFU_ya726vsg8MnZgq&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/new_logo/bcu_action.png", BCU Action HD
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg5zBqoH_YlPdgFrJl9-wROHJ2lw_NWP2JmkV_fJVIrD0GCWpYJMcxeXfkgWsXy1eV8sJX0i14guQOxccXutUb-PXwCHuTvfFpROPBmnIMzzVrJ9hbJjE0Ud4kY_oXRdXJcn5Yd5JnVsfoXQMD5DFGeVMMIjkKm7xvkk029nSCRNPLsffMJ8fTEj_153RovWWXqlrFSdoQ07wD1_MVyz7V43D9mqgzZiAQoH-AY7MIEVl7MfmDu5NvWGTE4wv998Mx&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucatastr.png", BCU Catastrophe HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgt05kWfJiDLUjeP-2_7-QmwLgUR91eT4YfJps6e3kQrE1uhtJMuN_sgHZuaf5Z6yfhA069U3XPtKrh2piA9-N5ZDZ_KLufpLfZVP5L4pS0XgW-hSobDePoKQbksYXu_wt02QoGsv8crYlHsY-2V71Jzn7JZQlBJ5r6xeYDu-_4dBODB8KkMm9Nw1uZSR1PNuj_pCpTMVQYSTSDu_Fb2TjYuBanVdo2WDVZS-p6oWxvP1IQVe1dNxPdQZCcSSO8ogB&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucinema.png", BCU Cinema HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgRbVJYzByXVOBUkWCL2dE9h6jXH5X4Rhr_BTjV9yvKAkczXF7WAGNwRZyzbQeVxq92tWLKjqw1fOrmGYM7lWLgPuJXfUEvOzIMjYyjpgQWUvMVc_pPgX_D2jGdxtTFSiTof0pCdNj9wyTB-25UE73C6XBAT4H1lvSpo6mi0zuw1-zMdZMevhuaI3NjYp0tUGgMa3PRn4tZ5tqPFPhGfQNanjYFVV5qBIVJACGutfVKC38MLGm4lqB5ZzseaYBUV0X&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucomedy.png", BCU Comedy HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg520uXUhGU3e_TbbFTVECSqKa-1HMyJvCj69sUHBZVfdA2lxtYKIgNg_r8yNL44K8i9_5IBrwUdf9_Yxzk5eZ3PRMYNiLWY4VehWHTvtnEivSRRA0vNkUk890TqCO6a3V8HxFFH3wxmJImlJGhfaHKFdygy6hm5MI9TUU4caxWtQsewXQlEzr5gu4Jp3nB8bNcwRqR3--LSPhnqpKvF8nHIHdukeCMBBTasJ6XeQ5YBk5JbZJOLTsyOeRHRJofiO5&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcufantastic.png", BCU Fantastic HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgxAa6OUs6ZRkzRINElDFBcRwy_qUdxi2Zy1ly0YiJv-aw14LbEzizo0Y95DtvuMBqJJ0R58sUs1M9O6uzXe486C0axVPPnM2a1rQOIdIQzl9bYw4lOtag8DOiBDheBQInDnavBt_XLVWko5tsdS_7Si62_fqoBmWrv02HW1kAD6ae0dzi4UAdRpxa6tLzkYkdvSpGBENKGMjjHXXartftddoylMFxBFKrxTyqk8koEtkYpJM6vRxTdnR8eGrxBiq3&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcufilmystic.png", BCU FilMystic HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgLGv-MR5ngWO97A8SBX1_8RnNBaz9kIo2Ukl3OXBqW-mUx2reoYdjbO6xf_YWpGvfjpCU2h2Uz3Ev8lnBv4SNq6QyjTBypoLJebkJo4MfggWl8qW-ApPUnD8BljjVd_H9Q90yavBLWnefMyu7X-sjmezfTAWvu0Xsyi5YG8Y4EcE9RK1b0D348Sowu8jSUXMTidVQm1bWQjUzOhA18Z8KpprL9Csw9FjOxEuG2CqURpLvV98B_9YirY-JDiVbFr6Q&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcuhist.png", BCU History HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgKIGrfKkANW1_fDbGfbnrZWKMjHogda0X26Qq85sIFbENsN35jmAnHaxYk9yMmLDrEm2BAc3hHNrBK-7ZZ1gMonywIR1iIDpiSwJiWMcxL4WT-ts-qDYgvM9rLtCHav-6kz6jSvDGpXtNUN36P_YvxUjOUdvrWTxGyWMJnzOuZFIA_z5iZiPFYLWYYt9exsp9PWidaQmwcfIRRI0BZbr1dXM2oaGtvkQ0OnAtRqP_tRPGr0UnvZwWJ7rv47lytovq&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcukinorating.png", BCU Kinorating HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgST-RcSjpzB0jLWkKxhJCEzZIcn6wMAwkZ1srjbRl7Q2eww8aA7alXsE-NIoTQtu-jWHY8ApQzIseOQaHKx1DdQf_MbkBaVeIhoysA3SC-AO2LtctBbg1jMurcsSypX5Rfrpm-2WEyoh1MyFsIG0CZf48YcWihTf3TzYg01ErwQRsqkrvwoDEOQR6k4jPTYK4EqtxFlakKY9wO5oK7wIQmJ9VCnZpD4PEEeOXDcRV7u_NpFqRvEd3IhU8HKoxqq9_&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcumarvel.png", BCU Marvel HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgyPn782YCRUecO7T81JBpOtFXLR0pZ4ERbgMfEXxNfaIqO0JqDq-dgCrX4elxHwPQ-qIpi_s8XgjGpJMcM1ql0N3zqOO4VlJ064bbndgiNiaJzvDn11GQrwE7yvOmTaEsYmluCX-keuCDvPF28bsqR3dd08V-gU4gskLYLq_mDdyhllLN0_G4YN4bOcPOxeqvGx7Dy1LuGBgrHs0XHk3RUUUZMeMFSGj6R2iRLuZBA1pH-_TMyM59uTMELh-HT3vZ&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgeq52j7K8Ob62yqynfe8xK3yEvFJZsz9HU39a3cBJGO7WQGtBfcjURDCSxjp21tGN-6vZXPvLYTCjS4kz215xNWJVhNRrcHgA9yMcOimuJbojbf_rjSZFH2_gqeTxhkKGNmhBH_CY2OlYIvU7zwRWInSjA-repsmhUMLqH6dvEw-BCPw3BLqy8r9cGhGtS6WazYsPwUfL5XEBEQ46Dn0kJLq4EhTy-RkVPee-br2heScHRKbDqoS8kkv0U_hltTUp&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcuromantic.png", BCU Romantic HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgaM2iQspqMyPIbIouaYimnDtPUFAy1Kyl-9yPKtQPohon3ug20MmyKNkDfvHs7GCvfOtCCp7JTpK3TdZD7VOUWgOthuU1j5XK0HMbR6zy5975c9V_CkXigb8GuxeNamsVESnGwSyqKmNnCVDAxZduxfjq2xwJNdLFt-EGuQod4yLzNh3VxkbEiuQ4uCk4LPwHpCXYXx4WdXwxbXp4HnaXqlHMLDhjwFvI6kV7Cmh8qY2VdrMi--r0o4pid1vrMHD-&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcurussian.png", BCU Russian HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgXBNCx-X_oJkQDA7wZ_AFPBP4hOVhhHYryhDY2yiJho9HTQIPy4oie6_InxAvgYohP-GDABdUE4MOaMLKdvll2rg-B1McNjzZdkZJ7vgjaquFYB-CbbkfzPuxB3tKvmmCbnaRZj6hQQs5XZy1tvSLPPzPilVqVOf7eCiStcgNJkArWTJN7jz0hnQZ-kLvyh5gBz_cv554sBB7LuAuCTIAMr-SP2ednAxQrrnd8nHEL-JAgX7pVAAkYMlVCdPOkzgs&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcuvhs.png", BCU VHS HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgb1-ecmHwrOWXCidy4dDz24G5nCuoBnhns0t9XeS19z7Hqnj-i_52RN_CZ5Aw-rlL6ZqeJdvtpzV4uOUMs9tt_PClTFmZL7QnMQQw_KAGoPC1GUQoiFZ_EBa1BqkD57E-KthYmX1B2Dvr4VPzWoFUI9mJ8IYh2A_RnOwaA5Et9HTgD8mxxkPXVDTDIKmnn18Mt7q81Xd_Ws5EhQ7X1k24sw3mePPZrGRGxEodsjo_P_QXk2I-Phu0hAIZYjAo7Lfe&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcumedia.jpeg", BCU Media HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg587PhYqYfccS7apYGZl8skwVOQjrjCUrIMmFSr8C3cnYjlLDofLq6YeVUEmJiDvCzNKGxM6L3w1tV1DGn_kF08CyqdheyX7Z07sdGtYJtDrutMyG1b3fjtSAggmN_ZRSoiwTdWq0T2jeHNzq0M0iBwC1wbrgOzp9-8Su45b2CZGSm-40ExEfXDn7doKpoUS5myTAzAf03-JlhJvYXLwwpHDFpzhdsp_HDZp5T-ek7LDbx6TzNXKxETWq3UxXhMer&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcusvaty.png", BCU Сваты HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgAfKPr10d-LW9G2NQfB4DLzXMFaYUbcGaHZwOkQR4S8qIPjZAfS3G4sZ2h18y-XwEicLyh9Rrd621FjKTN9Y03fsu1rovYLPOJZS52C-f_iO11IsNQWDFYqIQ_vYSI98P-rF1QaxwMn2xEEMaZoCAnd497_5ai_o1dOOUOCdJyjKux7KQWug8IG2wSKr3F9SMwLOQaKMEtRhhkOcUyYBjEprbuPW05aOLDeEu74c1XLGP-KDlwSE80dHTcb3whKIj&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="12" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere 1 HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgWIR3IB6YN4IMVQXUDTMV-EuK6PM4NHt1_3hSBudW4wfGnzziIoZ9skApXsHRAfowu2iVvxkOiZ8eDeR4XDpDGNvIm-N1zOlmhJYjcyekUug8_qvvwNgPbFnqpvW14YDf9V9WezXXdNPswavQU-FhmcTaHMVmQh8xKPP3bpmxz0Ktmqqf3CF3gZWkUKM7m1H5DsXc5Da9gl_O5zqajkcWW3HdGOD6ke0Betye7fi6MhI4YhVZDKah_propQ_Rigs7&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="7" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere 2 HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg3n_NSqzkWF0Cu1ff0nwCmg6fBVNL-bee-r0nkSECKX1cAjyX6gnm-Rd-QmqFG0FQwJv4njw3Vhz8ljLPPqC9nUfDqG2zLlqA2tEzXMfx072FRgifB6SLPDq0l7apJMmHOqsoeGI1ZNegVBzjERyL44gDmwSS0O_JbBv4qFRp7DhVQKBGDjfzei0WpYtYP7Z1p-dl-hoo-yHtcJ6AnvSqy1f0Cdv2ckrOzMz5o6vSYedVqhqnhwixhFSk6RKPZflV&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="7" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcupremiere.png", BCU Premiere 3 HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg6p4y_Y9Wp9ao1_geffcQXbyT0yYnaiOhLBNUn2QQtKmjYDvodZshm19xkb9BNGV7bzFNm6nBUTNzLQnLwoJxPdbjV2lHxfGgKc1c-HQYLs0j-3Aytv35208ohD0WY8HNFDGnYmfKbGvit4IXyTK2tBuoP0TcpuPwqweJ1vCuyjcyuGocS3p-aKS_j3U7PgxsZjKSj5KODRBaEtYqfre7FOMloGr2qwYadF59699UowjiwPTVSc2cNyUu0IQGRScu&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcucccp.png", BCU СССР HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgSQAQoBVOrl3OunUSmIvk2yZWksp00KwDW1eTLkPcwRrE1ZUR4uuy3GliF4Q_TQ-ucXeucsyb7lAIcHi1q024nGxTltyt7qGIeRKEkgmGvlCc2TWKOUinJlLoI-5QMuVArxeqGF69Kk7QD1nZo21LzocayFPVJpJ0oVBG_ocQBZyXXxa0rSl3_JrBRkNLCJWYXt5jQHugbYCFoUtIGnVhdwgMeReU-RRPlfmByZPPuAl9I9PRE9GkJYAr3n19ZnaG&token=MjIyMjoyMjIyMjI=
+
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Инфоканал" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bisv.png", ИНФОКАНАЛ Бизнес-Связь
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg589yR_HWzh9-Fl3nIagab0DYeJitAfhAecrJ0S2Oo5zrGCt1EluGsRYcQdg9xKFQvoFzE8A3cOfjOwx79Wjw7Drv9zgTWf0BvyPepvlFZXUXLXVoHA4Rp6bi_IenMLfNR8g9LYUDPUMug63xwcCJ0IlN9M0urKPca6jCuzmBbBcphx_QrvrWhbyWBvpPr24j4MFFR_o_MVae060mxOWlGGwUdRFudw2Hz5Jw9VkHhGsdCIy6r8dSX-OgPAh2fbbs&token=MjIyMjoyMjIyMjI=
 
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Информационные" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/173/MDAwMDAwMjk5LnBuZw.png", Кубань 24
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgYa2PS7I-RVRQk7Q9GCqcXjcctB96tMXUzE4IIFq9qZhvxLu3Ojl0CjKTHg7Dh1PkRkDXibfZTIu1gHtO9-LGaZbO4_OJZB-Hdhyh2CMyeBQ3EOl9V2FMm2UMOTQsxNqCqrS78y_nTWTrpxIqiIPQdIkVBVWWvRTryYgeNOTKC2E4i3tcGTNV4C_UkYoLPkxLcgEIksIYSm0SgM3NDe9fRGkIO2lUGNJiV6jy76hxmfXJkKP7LIKRfPcZjqLhYs6J&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/501/501.png", BCU Criminal HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgwirFRXNeCtJiMFj1_U-8K7trSDorLI3PvKbimuVcuv8gyiQN5SaNQ20EbP35_wun7fl71HFUYq-01Ps5e2HZ4TePmwSRc2yQ3A5KzXiDB3ebGQCfCfHsZTb-bA5_ryBDoBHMNlp4M1zc1N0qHDlVYX_Ulb4gU16NtTq_iEODaBUQa_w8C_6v-K5BNAZvlDkaolQONuCvQLv0P0D4jlYZnFmhMidHNtOopZ7C1-a8CdO-K0OkNaMgcrlHN01Ua7BE&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/502/502.png", BCU RuSerial
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgUBq5e7gd2iBrA11_2AdmIyUyHREnE4Be4jDd2a0yBcszVhGDo77O8wPamoSQy1jdRxgusyf_RQIVqvUUKuHTKC6ZuzAntexp2dK1GMpnxu93xXagE7oyxeTjEM_wwYY-FE-ByqMFkw_uLZgBZLcSM-669uvs290W_2F5_wyHvicl7d2kfqpKfOUA-TjXcVVE6cTga1n_bdbn-7-Kl5Tmy1xMUH36s5jgEe83dV60XZiUAv1uBZOHpOAT-yiGF4P3&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/493/493.png", BCU Cinema+
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgj6Me6XOYks0j2LityQLnPz51WL24n2yrXKL894rwbM1rTFcf0cahZvvPPOEP_xwgq_yMCeTDqpvmm9rvtRhncb9Jng2LYIQYFyI0-jE432NQkFWukNT-i_tHYLILDS6txBQQrBLuqiMbC1otCKg5wAiNwJr2sbprVzB3Uw50VRAGWrukvdnC2VvT9WZx6OK6qsx774-8LsDY79NQ8Qgj9mCRWdEEasSuArUOJgORm3BPO6uZTG2peTvPX8xZiN5p&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Ultra HD 4K" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/494/494.png", BCU Ultra 4K
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgmEWt3Km95Hqi7lKo19t_AibycpHkJeyXep5Fh2et49pTDja7EIuCyXTEVdi8sBZ2KOy1Hc8mNy6O070h9vHB5_QlOJTpgakzVHBOvlKFAvs_5miEfYBusNKpjWcKOwZOCQjIpaXZrNu57KaSOIQe4eKEtidBPZ7blGjI1J6X5FWFZTkoMU5gCmt5r_j4v_AdgxkLIa0ImUMtyMYarx0LtiOzsBcXv0eq5z5o2bS9t3lJMJAh3GrG6eYEsqwQOspK&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-cosmo.png", BCU Cosmo HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgTHtMP1WH9-dlYA5M_alWMPv6CDRCRroLXYVl_UvWxrKMD1k-t_Kv5ra-t7fx9aGzJ_qvcOH51YIIzDcV5jygzJIK1bRrverNdnWWfBM60Z91eIv6L_YzukE93HQyY0VsQL7XfQuvDP483FqEBinXUQpcbn01CYCeducea5a_k3uNOo_DKE87fy4nCBN3HpFdcgKJh7c6WVK3oxvchWqq4IvjcCmGNU5sLbPJcOEaxX8ZFDfLwJEb-_4-QK9snb_D&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-trumotion.png", BCU TruMotion HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgnPyHULh7tPkPioIvjTb6-0josBEU0gjq0LsAOi3POOW6pZQEfxexPZOiy9jptp53qnPHO7WzTvN3uwQYfDcS6z3sfZ-JK6lXdyYJ2Zsn_TG5Tnm6pj_6eD_iCY472d0ub_X76oHzelGu5CtBhuJNfhayvFjMMmph-xq1cJbE-yWcAiT-7VjGZ7PHTv3T0WIgjD9c7T-TKDVSx-lankKCm25VPpwrt2y1rasdeCdRxM9IdKKt1Vk-FwVGjX2QI8B8&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Детский" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-little.png", BCU Little HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgaPJLBRbWs1WGnms8gnIceOVpY06p5pe2ZhnJQ7qRRbNEt886GizKPd-mtr8WkwY4kmzoI3w9dWT4EjVcItYOZkmj9VfIN_YRfSWDW-4HvvQ8EMRHsMps_urHc3GLuWGioQr1UuCD9XpYQsH7JRU_2P7cWva0bfdWZdHxZJguZbc05jUNjYN5ZFIQSMqOWa5DU8v_bewvBC_MQn9E8dc528BCa8FUo5HKJ2x0-JqrYd348TyI97uzWleZLTD9SPu1&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Ultra HD 4K" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-premiere-4k.png", BCU Premiere Ultra 4K
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgd7z_YvyXN0OZyyKBGv4ajyHuas-z2t47eiNgs9MU2OA0bRHjv-vLq7u17mwdyMT1kMyZb8fDu-1a8vr9hVgwst5iz6ARPkG2-EAG3Q4j219ztouff5i219Pl1v-0nOy8LYooqW8rNi8SUNFjWmn_caLgXXClZDdm-Az2sTf2aHZ6BFjgx5CmoUiTi3-Nhp1lA6EREBwxePZ02RQ2rvBCCejm1qc9fAoORTCVdmdP5_KduUh65Xinb_-V09pnv8R7&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Ultra HD 4K" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-kids-4k.png", BCU Kids 4K
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgwuLu6oblXQUiDlhwZ46tgrGfOD8iFOScHwEri9A1aTay9Kxaaz-QqQg7XkOEDNABWKZFdXZ1xJie2YD9Y4mNEiXb9ydetn2PC0yNr4x37DhSTzWZltKHODP98dQaOVVh8ACgd-p60fE-Z-VnSqanZVkWR_92ERyM1c1GuPoSvJURLNutjGzJoWuYyW6__v3ltJ9gp23Qhz2axtJlXI8o2HzP39UwMKGeIhvnzKKyjdHy0qi3T7fM6cOmIGOfMHuF&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-reality.png", BCU Reality HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYg_3ABMOvRPjo81bvn0ZqkNGZ7_nMpZAQfrcZ9VGqPwm56vn0WBpUVT1-INmHYULNo-nUNjriGwgQJhlapLFZ9TCxl2B_w4hrdU68fnjOoW2Z6DA8_HqACldxPoHJyQrrgcO6RMpkpYyhZYlgVzcztm4QIr_kLcIp99j4FX3YKte4Sz1UoPDOVWN2k9igB0LN5RNI7ZQ4w08IvjttTf2p1E1c46TqIAeWyfcZdp2l7CqucOQGPPHebf7EN_GsPE4gY&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="GRAND PLUS | OnlineTV-Фильмы" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/bcu-survival.png", BCU Survival HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgGgEWffFRsoEBDmYNcM703lB8aP1n9dVMfd1K74CfnrsYkEFT-H4Cykn_xbBAmOzYf0LtLuuILnZfif3q0herKaB5AV9QW8RItaHzvMHou7RQqND6aiTEYeDaOI9V3k-iugQS9Ub2ZdCwq6__mbSSR67wussfiD5-Q76LyBR2VkkUswDOYtvSlabFkO6BY860aa-60zMs0ZzfOZcJWeV16U3jTqXMSMoX3cTy5IsXaF0vqSKXBm_McVAasznJ4Kgz&token=MjIyMjoyMjIyMjI=
+
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Разное" tvg-logo="http://smarty.bisv.tv/tvmiddleware/media/img/logo/default/krasnodar.png", Краснодар
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgbyBOi8KuAmRCaYVHg6jg4JqZIK52x5KcViQCcEK3V7pT8Y2dtbY6Tt70zC6PRxaeHGvCzrbOBv65Z30DhRMao4oh-XHhlMJHU9U8pw4kJK2nNIQ0jRIYfukwnlUwRPh1L9WW4FxPAUACpo72CQNw-uL_Gp7dNKcPDb56VKNeOssaeInnL66XYySsy8VRRXR9T51cgcZ4fTzpZZTN9AehgtM9ysAnxK_-pd78xlz1tDizZV8SbnvWeWZpA0bVFW8x&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Спорт" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/540/540.png", Спортивный
@@ -6189,757 +6336,757 @@ https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" tvg-rec="7",BCU Premiere 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11015/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11015/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4737" tvg-logo="http://epg.one/img/4737.png" tvg-rec="7",BCU Premiere 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11016/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11016/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Premiere 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11017/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11017/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4747" tvg-logo="http://epg.one/img/4747.png" tvg-rec="7",BCU СССР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11027/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11027/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11028/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11028/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11029/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11029/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4751" tvg-logo="http://epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11030/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11030/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8963" tvg-logo="http://epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11031/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11031/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11032/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11032/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4754" tvg-logo="http://epg.one/img/4754.png" tvg-rec="7",BCU FilMystic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11033/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11033/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4755" tvg-logo="http://epg.one/img/4755.png" tvg-rec="7",BCU History HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11034/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4758" tvg-logo="http://epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11037/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11037/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8964" tvg-logo="http://epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11038/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11038/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4760" tvg-logo="http://epg.one/img/4760.png" tvg-rec="7",BCU Premiere HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11039/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11039/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="7",BCU Romantic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11040/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11040/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11041/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11041/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4763" tvg-logo="http://epg.one/img/4763.png" tvg-rec="7",BCU VHS HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11042/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11042/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4764" tvg-logo="http://epg.one/img/4764.png" tvg-rec="7",BCU Media HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11043/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11043/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4765" tvg-logo="http://epg.one/img/4765.png" tvg-rec="7",BCU Stars HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11044/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11044/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4766" tvg-logo="http://epg.one/img/4766.png" tvg-rec="7",BCU Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11045/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11045/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11046/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11046/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11047/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11047/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4769" tvg-logo="http://epg.one/img/4769.png" tvg-rec="7",BCU Criminal HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11048/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11048/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5561" tvg-logo="http://epg.one/img/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15023/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15023/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5513" tvg-logo="http://epg.one/img/5513.png" tvg-rec="0",BCU Media HD OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15024/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15024/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5514" tvg-logo="http://epg.one/img/5514.png" tvg-rec="0",BCU Marvel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15025/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5515" tvg-logo="http://epg.one/img/5515.png" tvg-rec="0",BCU Comedy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6131" tvg-logo="http://epg.one/img/6131.png" tvg-rec="0",BCU Reality HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16082/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16082/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6067" tvg-logo="http://epg.one/img/6067.png" tvg-rec="0",BCU Reality OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16083/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16083/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6175" tvg-logo="http://epg.one/img/6175.png" tvg-rec="0",BCU Survival HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17019/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17019/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6164" tvg-logo="http://epg.one/img/6164.png" tvg-rec="0",BCU Survival OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17020/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17020/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6176" tvg-logo="http://epg.one/img/6176.png" tvg-rec="0",BCU Cosmo HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17021/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17021/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6198" tvg-logo="http://epg.one/img/6198.png" tvg-rec="0",BCU TruMotion HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17054/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17054/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="0",BCU Romantic OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18052/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18052/index.m3u8
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5113" tvg-logo="http://epg.one/img/5113.png" tvg-rec="0",TOP Великолепный Век HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13001/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5114" tvg-logo="http://epg.one/img/5114.png" tvg-rec="0",TOP 80 S HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13002/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13002/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5115" tvg-logo="http://epg.one/img/5115.png" tvg-rec="0",TOP BUDO HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13003/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13003/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5116" tvg-logo="http://epg.one/img/5116.png" tvg-rec="0",TOP Cinema HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13004/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13004/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5117" tvg-logo="http://epg.one/img/5117.png" tvg-rec="0",TOP USSR HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5118" tvg-logo="http://epg.one/img/5118.png" tvg-rec="0",TOP MIX HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13006/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13006/index.m3u8
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11004/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11004/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4683" tvg-logo="http://epg.one/img/4683.png" tvg-rec="7",CineMan Top
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4684" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11006/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11006/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4685" tvg-logo="http://epg.one/img/4685.png" tvg-rec="7",CineMan Thriller
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11007/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4596" tvg-logo="http://epg.one/img/4596.png" tvg-rec="7",VF Fantasy
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/10005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/10005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4793" tvg-logo="http://epg.one/img/4793.png" tvg-rec="0",VF Fantastic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11121/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11121/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4598" tvg-logo="http://epg.one/img/4598.png" tvg-rec="7",VF Mystic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/10007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/10007/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4666" tvg-logo="http://epg.one/img/4666.png" tvg-rec="7",VF Катастрофы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/10080/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/10080/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5585" tvg-logo="http://epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15106/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15106/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6051" tvg-logo="http://epg.one/img/6051.png" tvg-rec="0",CineMan Ментовские войны
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16063/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16063/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4777" tvg-logo="http://epg.one/img/4777.png" tvg-rec="7",StrahTV Хит HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11064/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11064/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" tvg-rec="7",StrahTV Космо HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11065/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11065/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4779" tvg-logo="http://epg.one/img/4779.png" tvg-rec="7",StrahTV Страх HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11069/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11069/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4780" tvg-logo="http://epg.one/img/4780.png" tvg-rec="7",StrahTV Фантастика HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11070/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11070/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4719" tvg-logo="http://epg.one/img/4719.png" tvg-rec="7",PG Premiere HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11094/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11094/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4720" tvg-logo="http://epg.one/img/4720.png" tvg-rec="7",PG Premium HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11095/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11095/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4721" tvg-logo="http://epg.one/img/4721.png" tvg-rec="7",PG РуКино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11096/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11096/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4722" tvg-logo="http://epg.one/img/4722.png" tvg-rec="7",PG Victory HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11097/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11097/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4723" tvg-logo="http://epg.one/img/4723.png" tvg-rec="7",PG Paradox HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11098/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11098/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4724" tvg-logo="http://epg.one/img/4724.png" tvg-rec="7",PG Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11099/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11099/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4725" tvg-logo="http://epg.one/img/4725.png" tvg-rec="7",PG Paradise HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11100/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11100/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4726" tvg-logo="http://epg.one/img/4726.png" tvg-rec="7",PG Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11101/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11101/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4727" tvg-logo="http://epg.one/img/4727.png" tvg-rec="7",PG USSR HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11102/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11102/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5462" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15000/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15000/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7151" tvg-logo="http://epg.one/img/7151.png" tvg-rec="0",VB VHS Classic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19429/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19429/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5147" tvg-logo="http://epg.one/img/5147.png" tvg-rec="0",MM Катастрофа HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13034/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5141" tvg-logo="http://epg.one/img/5141.png" tvg-rec="0",MM Боевик HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13028/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13028/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5152" tvg-logo="http://epg.one/img/5152.png" tvg-rec="0",MM Криминал HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13039/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13039/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5153" tvg-logo="http://epg.one/img/5153.png" tvg-rec="0",MM Крутые 90-е HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13040/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13040/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5162" tvg-logo="http://epg.one/img/5162.png" tvg-rec="0",MM Полицейский с Рублёвки HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13049/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13049/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5171" tvg-logo="http://epg.one/img/5171.png" tvg-rec="0",MM Триллер HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13058/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13058/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5175" tvg-logo="http://epg.one/img/5175.png" tvg-rec="0",MM Фантастика HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/13062/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/13062/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6145" tvg-logo="http://epg.one/img/6145.png" tvg-rec="0",VF Чернобыль
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17001/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6154" tvg-logo="http://epg.one/img/6154.png" tvg-rec="0",VF Привет из 90х
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17011/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17011/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="1113" tvg-logo="http://epg.one/img/1113.png" tvg-rec="0",Z!Channel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14134/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14134/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="1116" tvg-logo="http://epg.one/img/1116.png" tvg-rec="0",Z!Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14137/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14137/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5446" tvg-logo="http://epg.one/img/5446.png" tvg-rec="0",Yosso TV Best
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14236/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14236/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5586" tvg-logo="http://epg.one/img/5586.png" tvg-rec="0",Yosso TV Adrenaline
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15105/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15105/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5631" tvg-logo="http://epg.one/img/5631.png" tvg-rec="0",Yosso TV Thriller
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15168/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15168/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5983" tvg-logo="http://epg.one/img/5983.png" tvg-rec="0",Yosso TV Oblivion
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15509/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15509/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7886" tvg-logo="http://epg.one/img/7886.png" tvg-rec="0",Yosso TV Best 60fps
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20165/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20165/index.m3u8
 EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6210" tvg-logo="http://epg.one/img/6210.png" tvg-rec="0",Eye Criminal HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17067/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17067/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6252" tvg-logo="http://epg.one/img/6252.png" tvg-rec="0",Magic Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18065/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18065/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6253" tvg-logo="http://epg.one/img/6253.png" tvg-rec="0",Magic Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18066/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18066/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6254" tvg-logo="http://epg.one/img/6254.png" tvg-rec="0",Magic Galaxy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18067/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18067/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6255" tvg-logo="http://epg.one/img/6255.png" tvg-rec="0",Magic Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18068/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18068/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Триколор Ментовские войны
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18128/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18128/index.m3u8
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6696" tvg-logo="http://epg.one/img/6696.png" tvg-rec="0",BOX Franchise HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19274/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19274/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6697" tvg-logo="http://epg.one/img/6697.png" tvg-rec="0",BOX Hybrid HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19275/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19275/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6698" tvg-logo="http://epg.one/img/6698.png" tvg-rec="0",BOX Anime HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19276/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19276/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6699" tvg-logo="http://epg.one/img/6699.png" tvg-rec="0",BOX Gangster HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19277/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19277/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6700" tvg-logo="http://epg.one/img/6700.png" tvg-rec="0",BOX Oscar HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19278/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19278/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6701" tvg-logo="http://epg.one/img/6701.png" tvg-rec="0",BOX Memory HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19279/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19279/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6702" tvg-logo="http://epg.one/img/6702.png" tvg-rec="0",BOX M.Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19280/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19280/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6703" tvg-logo="http://epg.one/img/6703.png" tvg-rec="0",BOX Serial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19281/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19281/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6704" tvg-logo="http://epg.one/img/6704.png" tvg-rec="0",BOX Game HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19284/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19284/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6705" tvg-logo="http://epg.one/img/6705.png" tvg-rec="0",BOX Spy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19285/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19285/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6831" tvg-logo="http://epg.one/img/6831.png" tvg-rec="0",BOX Travel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19418/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19418/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6832" tvg-logo="http://epg.one/img/6832.png" tvg-rec="0",BOX Western HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19419/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19419/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6833" tvg-logo="http://epg.one/img/6833.png" tvg-rec="0",BOX Zombie HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19420/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19420/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6834" tvg-logo="http://epg.one/img/6834.png" tvg-rec="0",BOX Cyber HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19421/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19421/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7490" tvg-logo="http://epg.one/img/7490.png" tvg-rec="0",BOX Fantasy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20156/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20156/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6836" tvg-logo="http://epg.one/img/6836.png" tvg-rec="0",PG Insomnia HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19398/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19398/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="104" tvg-logo="http://epg.one/img/104.png" tvg-rec="0",MYTV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19407/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19407/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="105" tvg-logo="http://epg.one/img/105.png" tvg-rec="0",MYTV 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19408/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19408/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="106" tvg-logo="http://epg.one/img/106.png" tvg-rec="0",MYTV 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19411/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19411/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="107" tvg-logo="http://epg.one/img/107.png" tvg-rec="0",MYTV HIT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19410/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19410/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7896" tvg-logo="http://epg.one/img/7896.png" tvg-rec="0",VB Назад в СССР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20175/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20175/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="7903" tvg-logo="http://epg.one/img/7903.png" tvg-rec="0",Кион Хит HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20211/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20211/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8760" tvg-logo="http://epg.one/img/8760.png" tvg-rec="0",VeleS 60fps
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31637/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31637/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8763" tvg-logo="http://epg.one/img/8763.png" tvg-rec="0",VeleS Premiere
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31641/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31641/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8764" tvg-logo="http://epg.one/img/8764.png" tvg-rec="0",VeleS Страшное
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31642/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31642/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8782" tvg-logo="http://epg.one/img/8782.png" tvg-rec="0",Z!Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31693/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31693/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-rec="0",Z!Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31694/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31694/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8784" tvg-logo="http://epg.one/img/8784.png" tvg-rec="0",Z!Adventure HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31698/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31698/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8785" tvg-logo="http://epg.one/img/8785.png" tvg-rec="0",Z!Detective HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31699/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31699/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8788" tvg-logo="http://epg.one/img/8788.png" tvg-rec="0",Z!Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31702/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31702/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8789" tvg-logo="http://epg.one/img/8789.png" tvg-rec="0",Z!Fantasy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31703/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31703/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8792" tvg-logo="http://epg.one/img/8792.png" tvg-rec="0",StrahTV Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31708/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31708/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8793" tvg-logo="http://epg.one/img/8793.png" tvg-rec="0",StrahTV Байки из склепа
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31711/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31711/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8796" tvg-logo="http://epg.one/img/8796.png" tvg-rec="0",StrahTV Кинодром HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31714/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31714/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="88023" tvg-logo="http://epg.one/img/88023.png" tvg-rec="0",StrahTV Однажды в милиции
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31715/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31715/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8799" tvg-logo="http://epg.one/img/8799.png" tvg-rec="0",StrahTV Ольга HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31718/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31718/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8800" tvg-logo="http://epg.one/img/8800.png" tvg-rec="0",StrahTV Репка HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31719/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31719/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8801" tvg-logo="http://epg.one/img/8801.png" tvg-rec="0",StrahTV Страх 2.0 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31720/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31720/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="8802" tvg-logo="http://epg.one/img/8802.png" tvg-rec="0",StrahTV Фантастика 2.0 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31722/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31722/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11342" tvg-logo="http://epg.one/img/11342.png" tvg-rec="0",Suspenso HD ES
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31906/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31906/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11343" tvg-logo="http://epg.one/img/11343.png" tvg-rec="0",КиноКульт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31914/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31914/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11507" tvg-logo="http://epg.one/img/11507.png" tvg-rec="0",VHS-ка Русское кино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31925/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31925/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11344" tvg-logo="http://epg.one/img/11344.png" tvg-rec="0",Госфильмофонд. Машина времени HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31929/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31929/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11345" tvg-logo="http://epg.one/img/11345.png" tvg-rec="0",VHS-ка Сериал HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31931/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31931/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="11600" tvg-logo="http://epg.one/img/11600.png" tvg-rec="0",Venera.TV Советская классика 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30151/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30151/index.m3u8
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="5519" tvg-logo="http://epg.one/img/5519.png" tvg-rec="0",Liberty Марвел FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15090/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15090/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="6007" tvg-logo="http://epg.one/img/6007.png" tvg-rec="0",Citrus Marvel
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16051/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16051/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" tvg-rec="7",VF Marvel
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/10081/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/10081/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY KINO" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11009/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11009/index.m3u8
 
 
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9327" tvg-logo="http://epg.one/img2/9327.png" tvg-rec="3",Тооку (Якутия)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9172/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9172/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="0",Карусель HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20012/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20012/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9024" tvg-logo="http://epg.one/img2/9024.png" tvg-rec="0",КиноМульт
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20009/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20009/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9025" tvg-logo="http://epg.one/img2/9025.png" tvg-rec="0",Kids TV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20008/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20008/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" tvg-rec="0",В гостях у сказки HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20005/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2239" tvg-logo="http://epg.one/img2/2239.png" tvg-rec="0",Малыш HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15099/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15099/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7990" tvg-logo="http://epg.one/img2/7990.png" tvg-rec="0",Лёва HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15098/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15098/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9029" tvg-logo="http://epg.one/img2/9029.png" tvg-rec="0",Baby Time
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20030/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20030/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="9092" tvg-logo="http://epg.one/img2/9092.png" tvg-rec="0",KinoKazka
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15019/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15019/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7593" tvg-logo="http://epg.one/img2/7593.png" tvg-rec="0",VF Disney Cartoon
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15027/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15027/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7597" tvg-logo="http://epg.one/img2/7597.png" tvg-rec="0",Чижик HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14034/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7594" tvg-logo="http://epg.one/img2/7594.png" tvg-rec="0",VF Союзмультфильм
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14238/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14238/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7595" tvg-logo="http://epg.one/img2/7595.png" tvg-rec="0",VF Ералаш
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14163/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14163/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7596" tvg-logo="http://epg.one/img2/7596.png" tvg-rec="0",ТипТоп HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14007/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="7",Nickelodeon HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/223/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/223/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="555" tvg-logo="http://epg.one/img2/555.png" tvg-rec="7",Tiji TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/108/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/108/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="917" tvg-logo="http://epg.one/img2/917.png" tvg-rec="7",Nick Jr.
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/114/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/114/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2481" tvg-logo="http://epg.one/img2/2481.png" tvg-rec="7",СТС Kids HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2001/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="810" tvg-logo="http://epg.one/img2/810.png" tvg-rec="7",Gulli Girl
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/109/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/109/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="7",Nickelodeon
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/541/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/541/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="923" tvg-logo="http://epg.one/img2/923.png" tvg-rec="7",Детский мир
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/543/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/543/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="494" tvg-logo="http://epg.one/img2/494.png" tvg-rec="7",JimJam
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/138/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/138/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="601" tvg-logo="http://epg.one/img2/601.png" tvg-rec="7",Cartoon Network HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/143/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/143/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="7",Карусель
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/156/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/156/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png" tvg-rec="7",Ani
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/129/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/129/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="7",Мульт
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/909/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/909/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="929" tvg-logo="http://epg.one/img2/929.png" tvg-rec="7",Cartoonito
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/723/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/723/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1757" tvg-logo="http://epg.one/img2/1757.png" tvg-rec="7",О!
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/727/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/727/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="66" tvg-logo="http://epg.one/img2/66.png" tvg-rec="7",Уникум
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/730/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/730/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" tvg-rec="7",В гостях у сказки
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/737/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/737/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7984" tvg-logo="http://epg.one/img2/7984.png" tvg-rec="3",Карусель +3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/740/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/740/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="284" tvg-logo="http://epg.one/img2/284.png" tvg-rec="7",Мультимузыка
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/749/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/749/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2156" tvg-logo="http://epg.one/img2/2156.png" tvg-rec="3",Duck TV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/1031/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/1031/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2436" tvg-logo="http://epg.one/img2/2436.png" tvg-rec="3",Baby TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2084/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2084/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="410" tvg-logo="http://epg.one/img2/410.png" tvg-rec="3",Da Vinci orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/1033/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/1033/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2223" tvg-logo="http://epg.one/img2/2223.png" tvg-rec="3",Da Vinci FHD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/1034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/1034/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2239" tvg-logo="http://epg.one/img2/2239.png" tvg-rec="3",Малыш
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/1041/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/1041/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2994" tvg-logo="http://epg.one/img2/2994.png" tvg-rec="7",NickToons HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/849/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/849/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2287" tvg-logo="http://epg.one/img2/2287.png" tvg-rec="7",Радость моя
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/853/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/853/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2437" tvg-logo="http://epg.one/img2/2437.png" tvg-rec="3",Рыжий
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2052/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2052/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2438" tvg-logo="http://epg.one/img2/2438.png" tvg-rec="3",Капитан Фантастика HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2098/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2098/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2440" tvg-logo="http://epg.one/img2/2440.png" tvg-rec="3",Тамыр (Уфа)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2109/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2109/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2442" tvg-logo="http://epg.one/img2/2442.png" tvg-rec="3",Смайл ТВ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2157/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2157/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2757" tvg-logo="http://epg.one/img2/2757.png" tvg-rec="3",Мультиландия
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/5055/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/5055/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="7",Мульт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/921/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/921/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="3",Nickelodeon HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9015/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9015/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="3",Мульт HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9037/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9037/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="66" tvg-logo="http://epg.one/img2/66.png" tvg-rec="3",Уникум HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9077/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9077/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2481" tvg-logo="http://epg.one/img2/2481.png" tvg-rec="3",СТС Kids HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9063/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9063/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="555" tvg-logo="http://epg.one/img2/555.png" tvg-rec="3",Tiji TV orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9180/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9180/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="810" tvg-logo="http://epg.one/img2/810.png" tvg-rec="3",Gulli Girl orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9181/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9181/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="917" tvg-logo="http://epg.one/img2/917.png" tvg-rec="3",Nick Jr. orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9182/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9182/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="923" tvg-logo="http://epg.one/img2/923.png" tvg-rec="3",Детский мир orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9184/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9184/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="494" tvg-logo="http://epg.one/img2/494.png" tvg-rec="3",JimJam orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9185/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9185/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="3",Карусель orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9186/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9186/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2011" tvg-logo="http://epg.one/img2/2011.png" tvg-rec="3",Ani orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9187/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9187/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1332" tvg-logo="http://epg.one/img2/1332.png" tvg-rec="3",Мульт orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9188/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9188/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="929" tvg-logo="http://epg.one/img2/929.png" tvg-rec="3",Cartoonito HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9189/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9189/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1757" tvg-logo="http://epg.one/img2/1757.png" tvg-rec="3",О! orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9190/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9190/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="66" tvg-logo="http://epg.one/img2/66.png" tvg-rec="3",Уникум HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9191/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9191/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="923" tvg-logo="http://epg.one/img2/923.png" tvg-rec="3",Детский мир HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9192/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9192/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2239" tvg-logo="http://epg.one/img2/2239.png" tvg-rec="3",Малыш orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9193/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9193/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2287" tvg-logo="http://epg.one/img2/2287.png" tvg-rec="3",Радость моя orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9194/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9194/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2437" tvg-logo="http://epg.one/img2/2437.png" tvg-rec="3",Рыжий orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9195/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9195/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2438" tvg-logo="http://epg.one/img2/2438.png" tvg-rec="3",Капитан Фантастика HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9196/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9196/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2440" tvg-logo="http://epg.one/img2/2440.png" tvg-rec="3",Тамыр (Уфа) orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9198/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9198/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2442" tvg-logo="http://epg.one/img2/2442.png" tvg-rec="3",Смайл ТВ orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9199/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9199/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2757" tvg-logo="http://epg.one/img2/2757.png" tvg-rec="3",Мультиландия orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9200/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9200/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="3",Nickelodeon orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9260/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9260/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="601" tvg-logo="http://epg.one/img2/601.png" tvg-rec="3",Cartoon Network HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9261/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9261/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="284" tvg-logo="http://epg.one/img2/284.png" tvg-rec="3",Мультимузыка orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9262/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9262/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" tvg-rec="3",В гостях у сказки orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/9263/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/9263/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4728" tvg-logo="http://epg.one/img2/4728.png" tvg-rec="7",CineMan Cartoons 90
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11001/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4729" tvg-logo="http://epg.one/img2/4729.png" tvg-rec="7",CineMan Cartoons Short
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11002/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11002/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4730" tvg-logo="http://epg.one/img2/4730.png" tvg-rec="7",CineMan Cartoons Big
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11003/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11003/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4746" tvg-logo="http://epg.one/img2/4746.png" tvg-rec="7",BCU Multserial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11025/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4756" tvg-logo="http://epg.one/img2/4756.png" tvg-rec="7",BCU Kids HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11035/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11035/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4757" tvg-logo="http://epg.one/img2/4757.png" tvg-rec="7",BCU Kids+ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11036/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11036/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6185" tvg-logo="http://epg.one/img2/6185.png" tvg-rec="0",BCU Kids 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17023/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17023/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4774" tvg-logo="http://epg.one/img2/4774.png" tvg-rec="7",StrahTV Весёлая Карусель HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11057/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11057/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4775" tvg-logo="http://epg.one/img2/4775.png" tvg-rec="7",StrahTV Ералаш HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11058/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11058/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4731" tvg-logo="http://epg.one/img2/4731.png" tvg-rec="7",StrahTV Кроха ТВ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11066/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11066/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4790" tvg-logo="http://epg.one/img2/4790.png" tvg-rec="0",VF VHS Cartoon
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11118/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11118/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="4795" tvg-logo="http://epg.one/img2/4795.png" tvg-rec="0",VF Малыш
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11123/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11123/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1112" tvg-logo="http://epg.one/img2/1112.png" tvg-rec="0",Сказки Зайки HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14150/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14150/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5386" tvg-logo="http://epg.one/img2/5386.png" tvg-rec="0",Yosso TV Kids
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14173/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14173/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5387" tvg-logo="http://epg.one/img2/5387.png" tvg-rec="0",Yosso TV Союзмульт
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14178/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14178/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7154" tvg-logo="http://epg.one/img2/7154.png" tvg-rec="0",Yosso TV Наше Детское
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19433/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19433/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5548" tvg-logo="http://epg.one/img2/5548.png" tvg-rec="0",Liberty Пиксар FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15092/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15092/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5549" tvg-logo="http://epg.one/img2/5549.png" tvg-rec="0",Liberty Дисней FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15093/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15093/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6178" tvg-logo="http://epg.one/img2/6178.png" tvg-rec="0",Liberty Бебимульт FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17027/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17027/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6229" tvg-logo="http://epg.one/img2/6229.png" tvg-rec="0",Liberty Мульт UKR 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18044/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18044/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="0",Liberty Мульт 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18051/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18051/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1107" tvg-logo="http://epg.one/img2/1107.png" tvg-rec="0",Карусель +7 (Владивосток)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15340/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15340/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="7984" tvg-logo="http://epg.one/img2/7984.png" tvg-rec="0",Карусель +3 (Омск)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15436/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15436/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="1107" tvg-logo="http://epg.one/img2/1107.png" tvg-rec="0",Карусель +7
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15442/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15442/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="0",Карусель +0 (Элиста)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15453/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15453/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5995" tvg-logo="http://epg.one/img2/5995.png" tvg-rec="0",VF Мультуб
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15520/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15520/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0",VF Новогодние мультфильмы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15523/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15523/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6162" tvg-logo="http://epg.one/img2/6162.png" tvg-rec="0",VF Скуби-Ду
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17007/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6251" tvg-logo="http://epg.one/img2/6251.png" tvg-rec="0",Magic Disney HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/18064/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18064/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="108" tvg-logo="http://epg.one/img2/108.png" tvg-rec="0",MYTV Kids
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19409/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19409/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="6848" tvg-logo="http://epg.one/img2/6848.png" tvg-rec="0",BCU Little HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19425/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19425/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="8823" tvg-logo="http://epg.one/img2/8823.png" tvg-rec="0",VeleS Kids
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31646/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31646/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="8828" tvg-logo="http://epg.one/img2/8828.png" tvg-rec="0",StrahTV Том и Джерри
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31721/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31721/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="2757" tvg-logo="http://epg.one/img2/2757.png" tvg-rec="0",Мультиландия HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31910/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31910/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11360" tvg-logo="http://epg.one/img2/11360.png" tvg-rec="0",Весёлые малыши HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31918/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31918/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="740" tvg-logo="http://epg.one/img2/740.png" tvg-rec="0",Карусель (Ставрополь)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31930/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31930/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11599" tvg-logo="http://epg.one/img2/11599.png" tvg-rec="0",Venera.TV Детский мир 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30150/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30150/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11554" tvg-logo="http://epg.one/img2/11554.png" tvg-rec="0",Venera.TV Воскресное утро 90х
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30152/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30152/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11555" tvg-logo="http://epg.one/img2/11555.png" tvg-rec="0",Venera.TV Фиксики
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30153/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30153/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11556" tvg-logo="http://epg.one/img2/11556.png" tvg-rec="0",Venera.TV Вуди Вудпекер
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30154/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30154/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11557" tvg-logo="http://epg.one/img2/11557.png" tvg-rec="0",Venera.TV Вспыш и чудо-машинки
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30155/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30155/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11558" tvg-logo="http://epg.one/img2/11558.png" tvg-rec="0",Venera.TV Утиные истории
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30156/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30156/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11559" tvg-logo="http://epg.one/img2/11559.png" tvg-rec="0",Venera.TV Три кота
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30157/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30157/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11560" tvg-logo="http://epg.one/img2/11560.png" tvg-rec="0",Venera.TV Свинка Пеппа
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30158/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30158/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11561" tvg-logo="http://epg.one/img2/11561.png" tvg-rec="0",Venera.TV Peppa Pig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30159/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30159/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11562" tvg-logo="http://epg.one/img2/11562.png" tvg-rec="0",Venera.TV Простоквашино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30160/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30160/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11563" tvg-logo="http://epg.one/img2/11563.png" tvg-rec="0",Venera.TV Ну, погоди!
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30161/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30161/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11601" tvg-logo="http://epg.one/img2/11601.png" tvg-rec="0",Venera.TV Том и Джерри 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30162/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30162/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11564" tvg-logo="http://epg.one/img2/11564.png" tvg-rec="0",Venera.TV Тимон и Пумба
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30164/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30164/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11565" tvg-logo="http://epg.one/img2/11565.png" tvg-rec="0",Venera.TV Суперкрошки
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30165/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30165/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11566" tvg-logo="http://epg.one/img2/11566.png" tvg-rec="0",Venera.TV Смурфики
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30166/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30166/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11567" tvg-logo="http://epg.one/img2/11567.png" tvg-rec="0",Venera.TV Щенячий патруль
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30167/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30167/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11568" tvg-logo="http://epg.one/img2/11568.png" tvg-rec="0",Venera.TV Смешарики
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30168/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30168/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11569" tvg-logo="http://epg.one/img2/11569.png" tvg-rec="0",Venera.TV Симпсоны
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30169/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30169/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11570" tvg-logo="http://epg.one/img2/11570.png" tvg-rec="0",Venera.TV Розовая пантера
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30170/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30170/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11571" tvg-logo="http://epg.one/img2/11571.png" tvg-rec="0",Venera.TV Рик и Морти
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30171/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30171/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11572" tvg-logo="http://epg.one/img2/11572.png" tvg-rec="0",Venera.TV Рапунцель
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30172/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30172/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11573" tvg-logo="http://epg.one/img2/11573.png" tvg-rec="0",Venera.TV Пчёлка Майя
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30173/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30173/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11574" tvg-logo="http://epg.one/img2/11574.png" tvg-rec="0",Venera.TV Панда и Антилопа
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30174/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30174/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11575" tvg-logo="http://epg.one/img2/11575.png" tvg-rec="0",Venera.TV Охотники за привидениями
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30175/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30175/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11576" tvg-logo="http://epg.one/img2/11576.png" tvg-rec="0",Venera.TV Очень странные делишки
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30176/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30176/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11577" tvg-logo="http://epg.one/img2/11577.png" tvg-rec="0",Venera.TV Мишки Гамми
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30177/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30177/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11578" tvg-logo="http://epg.one/img2/11578.png" tvg-rec="0",Venera.TV Мини-мишки
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30178/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30178/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11579" tvg-logo="http://epg.one/img2/11579.png" tvg-rec="0",Venera.TV Микки Маус
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30179/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30179/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11580" tvg-logo="http://epg.one/img2/11580.png" tvg-rec="0",Venera.TV Маша и Медведь
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30180/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30180/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11581" tvg-logo="http://epg.one/img2/11581.png" tvg-rec="0",Venera.TV Даша-путешественница
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30181/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30181/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11582" tvg-logo="http://epg.one/img2/11582.png" tvg-rec="0",Venera.TV Леди Баг и Супер-Кот
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30182/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30182/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11583" tvg-logo="http://epg.one/img2/11583.png" tvg-rec="0",Venera.TV Крепыш и команда
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30183/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30183/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11584" tvg-logo="http://epg.one/img2/11584.png" tvg-rec="0",Venera.TV Корги по имени Моко
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30184/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30184/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11585" tvg-logo="http://epg.one/img2/11585.png" tvg-rec="0",Venera.TV Губка Боб
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30186/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30186/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11586" tvg-logo="http://epg.one/img2/11586.png" tvg-rec="0",Venera.TV Гриффины
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30187/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30187/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11587" tvg-logo="http://epg.one/img2/11587.png" tvg-rec="0",Venera.TV Еноты
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30188/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30188/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11588" tvg-logo="http://epg.one/img2/11588.png" tvg-rec="0",Venera.TV Енотки. Первые слова
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30189/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30189/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11589" tvg-logo="http://epg.one/img2/11589.png" tvg-rec="0",Venera.TV Экстрасенсы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30190/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30190/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11590" tvg-logo="http://epg.one/img2/11590.png" tvg-rec="0",Venera.TV Чип и Дейл
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30191/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30191/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11591" tvg-logo="http://epg.one/img2/11591.png" tvg-rec="0",Venera.TV Чудеса на виражах
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30192/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30192/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11592" tvg-logo="http://epg.one/img2/11592.png" tvg-rec="0",Venera.TV Бивис и Батт-Хед
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30193/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30193/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11593" tvg-logo="http://epg.one/img2/11593.png" tvg-rec="0",Venera.TV Аладдин
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30194/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30194/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11594" tvg-logo="http://epg.one/img2/11594.png" tvg-rec="0",Venera.TV Барбоскины
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30195/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30195/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11595" tvg-logo="http://epg.one/img2/11595.png" tvg-rec="0",Venera.TV Подводная одиссея
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30196/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30196/index.m3u8
 #EXTINF:0  group-title="GRAND PLUS | MY KIDS" tvg-id="11596" tvg-logo="http://epg.one/img2/11596.png" tvg-rec="0",Venera.TV 101 далматинец
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/30198/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/30198/index.m3u8
 
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7235" tvg-logo="http://epg.one/img/7235.png" tvg-rec="0",Q Arena HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20061/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20061/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7236" tvg-logo="http://epg.one/img/7236.png" tvg-rec="0",Q League HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20062/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20062/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7238" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 FHD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20065/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20065/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="5891" tvg-logo="http://epg.one/img/5891.png" tvg-rec="0",Q Sport.KG HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15238/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15238/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="4734" tvg-logo="http://epg.one/img/4734.png" tvg-rec="7",StrahTV WWE Russian
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/11056/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/11056/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/6554/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6554/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19430/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19430/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19432/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19432/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/19431/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/19431/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9648" tvg-logo="http://epg.one/img/9648.png" tvg-rec="0",Megogo Спорт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31612/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31612/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9868" tvg-logo="http://epg.one/img/9868.png" tvg-rec="0",Megogo Футбол 4 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31613/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31613/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9869" tvg-logo="http://epg.one/img/9869.png" tvg-rec="0",Megogo Футбол 5 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31614/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31614/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9400" tvg-logo="http://epg.one/img/9400.png" tvg-rec="0",Sky Sports Tennis HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/6546/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6546/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9392" tvg-logo="http://epg.one/img/9392.png" tvg-rec="0",Megogo Гонг HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31503/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31503/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9393" tvg-logo="http://epg.one/img/9393.png" tvg-rec="0",Megogo Футбол 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31504/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31504/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9394" tvg-logo="http://epg.one/img/9394.png" tvg-rec="0",Megogo Футбол 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31505/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31505/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9395" tvg-logo="http://epg.one/img/9395.png" tvg-rec="0",Megogo Футбол 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31483/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31483/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7238" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7239" tvg-logo="http://epg.one/img/7239.png" tvg-rec="0",Setanta Sports 2 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16025/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="3",Setanta Sports 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/271/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/271/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="6861" tvg-logo="http://epg.one/img/6861.png" tvg-rec="3",Setanta Sports 1 orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/5069/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/5069/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="3",Setanta Sports 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/270/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/270/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2630" tvg-logo="http://epg.one/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/2399/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/2399/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2370" tvg-logo="http://epg.one/img/2370.png" tvg-rec="3",Setanta Sports FHD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/272/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/272/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="6860" tvg-logo="http://epg.one/img/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/5068/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/5068/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="0",Setanta Sports 1 HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/6541/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6541/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="0",Setanta Sports 2 HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/6542/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6542/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="0",Setanta Sports 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/6543/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6543/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="0",Setanta Sports 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/6544/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6544/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9649" tvg-logo="http://epg.one/img/9649.png" tvg-rec="0",Окко Event 7
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31450/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31450/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9650" tvg-logo="http://epg.one/img/9650.png" tvg-rec="0",Окко Event 8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31451/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31451/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9651" tvg-logo="http://epg.one/img/9651.png" tvg-rec="0",Окко Event 9
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31452/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31452/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9652" tvg-logo="http://epg.one/img/9652.png" tvg-rec="0",Окко Event 10
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31453/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31453/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9653" tvg-logo="http://epg.one/img/9653.png" tvg-rec="0",Окко Event 11
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31454/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31454/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9654" tvg-logo="http://epg.one/img/9654.png" tvg-rec="0",Окко Event 12
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31457/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31457/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9655" tvg-logo="http://epg.one/img/9655.png" tvg-rec="0",Окко Event 13
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31458/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31458/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9656" tvg-logo="http://epg.one/img/9656.png" tvg-rec="0",Окко Event 14
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31459/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31459/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9843" tvg-logo="http://epg.one/img/9843.png" tvg-rec="0",Окко Event 15
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31463/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31463/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9853" tvg-logo="http://epg.one/img/9853.png" tvg-rec="0",Окко Event 16
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31522/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31522/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9854" tvg-logo="http://epg.one/img/9854.png" tvg-rec="0",Окко Event 17
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31523/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31523/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9855" tvg-logo="http://epg.one/img/9855.png" tvg-rec="0",Окко Event 18
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31524/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31524/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9856" tvg-logo="http://epg.one/img/9856.png" tvg-rec="0",Окко Event 19
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31525/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31525/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9857" tvg-logo="http://epg.one/img/9857.png" tvg-rec="0",Окко Event 20
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31526/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31526/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9858" tvg-logo="http://epg.one/img/9858.png" tvg-rec="0",Окко Event 21
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31527/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31527/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9859" tvg-logo="http://epg.one/img/9859.png" tvg-rec="0",Окко Event 22
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31528/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31528/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9860" tvg-logo="http://epg.one/img/9860.png" tvg-rec="0",Окко Event 23
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31529/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31529/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9861" tvg-logo="http://epg.one/img/9861.png" tvg-rec="0",Окко Event 24
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31530/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31530/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9862" tvg-logo="http://epg.one/img/9862.png" tvg-rec="0",Окко Event 25
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31531/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31531/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9863" tvg-logo="http://epg.one/img/9863.png" tvg-rec="0",Окко Event 26
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31532/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31532/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9864" tvg-logo="http://epg.one/img/9864.png" tvg-rec="0",Окко Event 27
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31533/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31533/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9865" tvg-logo="http://epg.one/img/9865.png" tvg-rec="0",Окко Event 28
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31534/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31534/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9866" tvg-logo="http://epg.one/img/9866.png" tvg-rec="0",Окко Event 29
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31535/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31535/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20135/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20135/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20138/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20138/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7238" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16026/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16026/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY SPORT" tvg-id="7239" tvg-logo="http://epg.one/img/7239.png" tvg-rec="0",Setanta Sports 2 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16025/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16025/index.m3u8
 
 
 
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7573" tvg-logo="http://epg.one/img/7573.png" tvg-rec="7",VF Легенды Ретро ФМ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/10067/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/10067/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6135" tvg-logo="http://epg.one/img/6135.png" tvg-rec="0",VF Музыкальный Новый год!
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16140/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16140/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7552" tvg-logo="http://epg.one/img/7552.png" tvg-rec="0",VF Modern Talking
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14004/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14004/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7553" tvg-logo="http://epg.one/img/7553.png" tvg-rec="0",VF Britney Spears
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14005/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5985" tvg-logo="http://epg.one/img/5985.png" tvg-rec="0",VF Музыка
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15512/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15512/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5986" tvg-logo="http://epg.one/img/5986.png" tvg-rec="0",VF Music
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/15516/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/15516/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6169" tvg-logo="http://epg.one/img/6169.png" tvg-rec="0",VF Rap
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17034/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6170" tvg-logo="http://epg.one/img/6170.png" tvg-rec="0",VF Хит-парад
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/17036/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/17036/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5290" tvg-logo="http://epg.one/img/5290.png" tvg-rec="0",Z!Music HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14138/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14138/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5371" tvg-logo="http://epg.one/img/5371.png" tvg-rec="0",VB Dance Hits of 90s
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14154/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14154/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5372" tvg-logo="http://epg.one/img/5372.png" tvg-rec="0",VB Русская Попса 80х-90х
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14155/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14155/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5373" tvg-logo="http://epg.one/img/5373.png" tvg-rec="0",VB Russian Dance Hits of 90s
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/14156/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/14156/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6008" tvg-logo="http://epg.one/img/6008.png" tvg-rec="0",VB Best Live Performances
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16003/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16003/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6009" tvg-logo="http://epg.one/img/6009.png" tvg-rec="0",VB Romantic and Ballads
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16014/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16014/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="6010" tvg-logo="http://epg.one/img/6010.png" tvg-rec="0",Радио LoveIsRadio.by HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/16015/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/16015/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7176" tvg-logo="http://epg.one/img/7176.png" tvg-rec="0",VB Eurodance Hits 90s
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20000/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20000/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="5997" tvg-logo="http://epg.one/img/5997.png" tvg-rec="0",#ё HD (Самара)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20162/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20162/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7887" tvg-logo="http://epg.one/img/7887.png" tvg-rec="0",BOX RU.RAP HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20171/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20171/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="7888" tvg-logo="http://epg.one/img/7888.png" tvg-rec="0",VB MTV Old Россия HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/20174/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/20174/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8805" tvg-logo="http://epg.one/img/8805.png" tvg-rec="0",VB Greatest Hits
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31622/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31622/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8806" tvg-logo="http://epg.one/img/8806.png" tvg-rec="0",VB Yo! MTV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31623/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31623/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8807" tvg-logo="http://epg.one/img/8807.png" tvg-rec="0",VeleS Dj Set
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31639/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31639/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MY MUSIC" tvg-id="8808" tvg-logo="http://epg.one/img/8808.png" tvg-rec="0",VeleS Магнитофон
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/31645/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/31645/index.m3u8
 
 
 
@@ -37297,7 +37444,60 @@ http://141.95.55.143/CH3517/index.m3u8
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="Aggregator - Axenov / Эротика",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",BangU
+http://169.150.223.25/BangU/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",DORCEL
+http://77.46.130.252:99/dorcel
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Dorcel HD
+http://79.127.207.193:80/DorcelHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",DorcelHD
+http://169.150.223.25/DorcelHD/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",FrenchLover
+http://169.150.223.25/FrenchLover/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Hustler HD
+http://79.127.207.193:80/Hustler/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Hustler HD
+http://169.150.223.25/Hustler/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",penthouse2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 1
+http://79.127.207.193:80/PinkErotic1/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 2
+http://79.127.207.193:80/PinkErotic2/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 3
+http://79.127.207.193:80/PinkErotic3/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 4
+http://79.127.207.193:80/PinkErotic4/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 5
+http://79.127.207.193:80/PinkErotic5/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 6
+http://79.127.207.193:80/PinkErotic6/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 7
+http://79.127.207.193:80/PinkErotic7/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Pink Erotic 8
+http://79.127.207.193:80/PinkErotic8/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic1
+http://169.150.223.25/PinkErotic1/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic2
+http://169.150.223.25/PinkErotic2/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic3
+http://169.150.223.25/PinkErotic3/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic4
+http://169.150.223.25/PinkErotic4/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic5
+http://169.150.223.25/PinkErotic5/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic6
+http://169.150.223.25/PinkErotic6/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic7
+http://169.150.223.25/PinkErotic7/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",PinkErotic8
+http://169.150.223.25/PinkErotic8/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Private HD
+http://169.150.223.25/Private/index.m3u8
+#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Private TV
+http://79.127.207.193:80/Private/playlist.m3u8
 
 
 #EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.1
