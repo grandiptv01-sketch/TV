@@ -234,18 +234,126 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 
 
 
-#EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-id="russian-musicbox"  tvg-logo="http://epg.one/img2/2409.png" ,Russian MusicBoxᴴᴰ
-http://92.63.106.41/ptv/trico/ch.php?id=534&token=freshtv
-#EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-id="1hd" ,1HD
-http://92.63.106.41/24hp/stream.php?id=110
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="bcu-action" , BCU Action HD
+https://tinyurl.com/24e6oqy8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="bcu-catastrophe" , BCU Catastrophe HD
+https://tinyurl.com/29n8e6k3
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="bcu-cinema" , BCU Cinema HD
+https://tinyurl.com/2ygahhxm
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="otr"  tvg-logo="http://rafail1982.uz/logo/ОТР.png" ,ОТР
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="pervy"  tvg-logo="http://1lot.tv/ch/1101.png" ,ПЕРВЫЙ КАНАЛ
+http://serv30.vintera.tv:8081/restream/1_old/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjUgMTo0OToyMyBQTSZoYXNoX3ZhbHVlPTVDZkpPbWo5L3dvM2tqNnQ5dDQvK3c9PSZ2YWxpZG1pbnV0ZXM9NDgw
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="pervy"  tvg-logo="http://1lot.tv/ch/1101.png" ,ПЕРВЫЙ КАНАЛ
+http://serv30.vintera.tv:8081/restream/1_old/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="pervy"  tvg-logo="http://1lot.tv/ch/1101.png" ,ПЕРВЫЙ КАНАЛ
+http://serv30.vintera.tv:8081/restream/1_old/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="ntv"  tvg-logo="http://epg.one/img2/898.png" ,Ю SD
+http://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="yu"  tvg-logo="http://epg.one/img2/898.png" ,Ю SD
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="yu" ,Ю SD
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-logo="https://logo-iptvpro.com/logo/mtv_classic_m.png" ,MTV Classic
+http://185.160.192.64:80/patjos/7787/328856
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="mtv-live-us"  tvg-logo="https://logo-iptvpro.com/logo/mtv_live_m.png" ,MTV Live
+http://185.160.192.64:80/patjos/7787/328855
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="mtv-us"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTVᴴᴰ USA
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="mtv-uk"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTV UK FD
+http://161.123.116.21:8080/Clarence/Clarence1/402779
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="mtv-live-us"  tvg-logo="https://iptvx.one/picons/mtv-live-us.png" ,MTV Liveᴴᴰ
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="la-minor"   $ExtFilter="ГЕДЕМ",Live Музыка
+http://hubtv.ru/index.php?stream=aHR0cDovLzMxLjE0OC40OC4xNTo4MC9MYS1NaW5vcl9UVi9pbmRleC5tM3U4
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="muzyka-pervogo"  tvg-logo="http://only4.tv/ch/823.png" ,Музыка Первогоᴴᴰ
+http://s06.wsbof.com:8090/s/9b6f8047/muzyka-pervogo-hd/video.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="song-tv-ru"  tvg-logo="https://smotret.tv/images/song-tv.webp" ,Song TV Россия SD
+https://songtv.hls.iptvdc.com/web-russia/lhigh/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="song-tv-ru"  tvg-logo="http://1lot.tv/ch/7757.png"   tvg-name="SONGTV Russia",Song TV Россияᴴᴰ
+https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/9078.png"   $ExtFilter="ГЕДЕМ",Arm Toon SD
+http://timeshift.arpinet.am/236/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/9078.png" ,ARM TOON SD
+http://185.57.68.33/236/mpegts
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="nauka-20"  tvg-logo="http://rafail1982.uz/logo/Наука HD.png" ,Наука HD
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="russky-illuzion" ,Русский Иллюзион
+https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="domkino-premium"  tvg-logo="http://epg.one/img2/2020.png" ,Дом Кино Премиум
+https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="domkino-int" ,Дом Кино International
+https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="telekafe" ,Телекафе
+https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="russky-roman"  tvg-logo="https://iptvx.one/picons/russky-roman.png" ,Русский роман HD
+http://s06.wsbof.com:8090/s/9b6f8047/russkij-roman-hd-orig.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="amedia-premium" ,Amedia Premium HD
+https://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="rodnoe-kino" ,Родное Кино
+https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
+https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinoseria" ,Киносерия
+https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinosemiya" ,Киносемья
+https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinokomedia" ,Кинокомедия
+https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinomiks" ,Киномикс
+https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinoxit" ,Кинохит
+https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское
+https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="muzhskoe-kino" ,Мужское Кино
+https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="tv1000-action" ,viju TV1000 Action
+https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="tv1000" ,viju TV1000
+https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="kinosvidanie" ,Киносвидание
+https://fs.uplink.kz/kinosvidanie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="tvxxi" ,ТВ 21
+https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="texno-24" ,Т24
+https://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="lubimoe-kino" ,Любимое Кино
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way HD
+http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="qostanai-kz"  tvg-logo="https://iptvx.one/picons/qostanai-kz.png"   tvg-name="Qostanai",Qostanai
+https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="xabar"  tvg-logo="http://1lot.tv/ch/8966.png" ,Хабарᴴᴰ 🇰🇿
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" ,*Kino Actionᴴᴰ
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/31813/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" ,*Kino Comedyᴴᴰ
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/31814/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" ,*Kino Premiereᴴᴰ
+http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/31815/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="euronews"  tvg-logo="https://iptvx.one/picons/euronews.png" ,EuroNews SD
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" ,DWᴴᴰ Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png"   $ExtFilter="ГЕДЕМ",DWᴴᴰ Russian
+http://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" ,DWᴴᴰ Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://epg.one/img2/2142.png" ,Настоящее Времяᴴᴰ
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://1lot.tv/ch/5503.png" ,Настоящее Времяᴴᴰ
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="sts" ,СТС
+https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/4654.png" ,MIXMᴴᴰ
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-logo="http://epg.one/img2/6787.png" ,555 SD
+#EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-logo="http://epg.one/img2/6787.png" ,555 
 http://trk555.tv:8888/live
-#EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-logo="http://1lot.tv/ch/11188.png" ,Alpha Funnyᴴᴰ
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1group-title="GRAND PLUS | TEST TV"  tvg-logo="http://1lot.tv/ch/11188.png" ,Alpha Funnyᴴᴰ
-https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk.webp"   tvg-name="Кино ВК",ВК Киноᴴᴰ
 rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk2.webp"   tvg-name="Кино ВК 2",ВК Кино 2ᴴᴰ
@@ -256,32 +364,15 @@ rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxP
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/11186.png" ,Alpha Cinemaᴴᴰ
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="bcu-media"  tvg-logo="http://1lot.tv/ch/6807.png" ,*BEST FILMSᴴᴰ
-https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="atv-kinoman"  tvg-logo="http://epg.one/img2/2393.png" ,ATV Kinoman SD
-http://185.57.68.33/237/mpegts
+
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="domashny-int" ,Домашний International
 https://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="rentv-int"  tvg-logo="https://iptvx.one/picons/rentv-int.png" ,Рен ТВ International
 https://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="horrortv"  tvg-logo="https://epg.iptvx.one/picons/horrortv.png" ,Horror TV HD
-https://kino.zunotv.workers.dev/horror_hd/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="542"  tvg-logo="http://epg.one/img2/542.png" ,Кинохит
-https://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="462"  tvg-logo="http://epg.one/img2/462.png" ,Киносвидание 
-https://kino.zunotv.workers.dev/kinosvidanie_hd/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="987"  tvg-logo="http://epg.one/img2/987.png" ,Киносемья
-https://kino.zunotv.workers.dev/kinosemya_hd/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="566"  tvg-logo="http://epg.one/img2/566.png" ,Кинопремьера
-https://kino.zunotv.workers.dev/kinopremera_hd/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="485"  tvg-logo="http://epg.one/img2/485.png" ,Наше Новое Кино
-https://kino.zunotv.workers.dev/nashe_novoe_kino_hd/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="1584"  tvg-logo="http://epg.one/img2/1584.png" ,Мужское Кино
-https://kino.zunotv.workers.dev/muzhskoe_kino_hd/index.m3u8
+
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="lubimoe-kino" ,Любимое кино
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="trashtv"  tvg-logo="http://epg.one/img2/3361.png" ,Trash HD
-https://woobl.ru/platform24.php?id=4830&p=index.m3u8
+
 #EXTINF:-1 group-title="GRAND PLUS | TEST TV"  tvg-id="romance" ,Romance
 http://46.32.176.50/worldfashion/index.m3u8
 
@@ -705,6 +796,1051 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 #EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",ZEE Bangla HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
+\
+
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoazia"  tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200"   tvg-name="Сити Эдем - КиноАзия",КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoazia"  tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" ,КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200"   tvg-name="Сити Эдем - КиноАрт",КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="http://i.imgur.com/67CWCtz.png" ,КиноАрт
+http://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200"   tvg-name="Сити Эдем - КиноДетектив",КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" ,КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200"   tvg-name="Сити Эдем - КиноДрама",КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://iptvcinema.ru/channels/citykinodrama1.png" ,КиноДрама
+http://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoklas"  tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200"   tvg-name="Сити Эдем - КиноКлассика",КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoklas"  tvg-logo="https://iptvcinema.ru/channels/citykinoclassica1.png" ,КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinokomedia"  tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200"   tvg-name="Сити Эдем - КиноКомедия",КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinokomedia"  tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" ,КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinomist"  tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200"   tvg-name="Сити Эдем - КиноМистика",КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinomist"  tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" ,КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-telenov"  tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200"   tvg-name="Сити Эдем - ТелеНовелла",ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-telenov"  tvg-logo="http://i.imgur.com/mT5liTh.png" ,ТелеНовелла
+http://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinosem"  tvg-logo="https://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png?md5=kLpY1uGGkH0trfmazgJBCA&expires=1727773200"   tvg-name="Сити Эдем - КиноСемья",КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinosem"  tvg-logo="http://i.imgur.com/YoWOZMx.png" ,КиноСемья
+http://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200"   tvg-name="Сити Эдем - КиноФантастика",КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://iptvcinema.ru/channels/citykinofantastica1.png" ,КиноФантастика
+http://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoact"  tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200"   tvg-name="Сити Эдем - КиноЭкшен",КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoact"  tvg-logo="https://iptvcinema.ru/channels/citykinoaction1.png" ,КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="34246"  tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000"   tvg-name="Сити Эдем ТВ", Сити Эдем ТВ
+https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://iptvcinema.ru/channels/cityedem1.png" ,Сити Эдем ТВ
+http://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/X9kACKi.png" ,Сити Эдем ТВ
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "   tvg-name="Сити Эдем - Рождественский",Рождественский
+https://cityeden.catcast.tv/content/46503/index.m3u8?token=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://iptvcinema.ru/channels/citykinodoc1.png" ,КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="http://i.imgur.com/itRbMX3.png" ,КиноДок
+http://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/HPWevWb.png" ,Meditation Music
+https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="classic-music"  tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" ,Classic Music
+http://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" ,Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/V3MTfyc.png"   tvg-name="Сити Эдем — СиртакиТВ",Сиртаки ТВ
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" ,Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/38Q5L5W.png" ,Бирма Play
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/ozEqob9.png"   tvg-name="Сити Эдем Плей",Сити Эдем Плей
+https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/ozEqob9.png" ,Сити Эдем Плей
+https://autopilot.catcast.tv/content/34100/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png" ,РецептыГурмана
+https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg"  tvg-logo="https://www.cityeden.info/logotv/logotip_receptygurmana1.png" ,Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" ,МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" ,МедЗдрав
+https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" ,АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" ,АвтоГид
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200" ,КиноАзия SD*
+http://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200" ,ТелеНовелла SD
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" ,КиноАзия SD*
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" ,КиноАзия SD*
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноАзия
+https://v2.catcast.tv/content/34393/index.m3u8?token=4820860489c08aa659ffb33c92358a39
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200" ,КиноАрт SD*
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" ,КиноАрт SD*
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" ,КиноАрт SD*
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноАрт
+https://v2.catcast.tv/content/38398/index.m3u8?token=4f43f1832ce7645999a99aa4670c4ba2
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200" ,КиноДетектив SD*
+http://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" ,КиноДетектив SD*
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" ,КиноДетектив SD*
+https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" ,КиноДетектив
+https://v2.catcast.tv/content/41327/index.m3u8?token=9dee1ad992f598e46ab870bb47bd31f7
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png" ,Кино Детектив
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200" ,КиноДрама SD*
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" ,КиноДрама SD*
+https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноДрама
+https://v2.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200" ,КиноКлассика HD
+http://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200" ,КиноКлассика SD
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200" ,КиноКлассика SD
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200"   $ExtFilter="колобок",КиноКлассика SD
+https://autopilot.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноКлассика
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200" ,КиноКомедия SD*
+http://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" ,КиноКомедия SD*
+https://autopilot.catcast.tv/content/41331/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" ,КиноКомедия SD*
+https://autopilot.catcast.tv/content/41331/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" ,КиноКомедия SD*
+https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg"  tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png" ,КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="111"  tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png" ,КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8?token=22d0b42156955624bde6b2e92120f392
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200" ,КиноМистика*
+http://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="http://only4.tv/ch/9857.png" ,КиноМистика*
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" ,КиноМистика*
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" ,КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?bw943199057684.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" ,КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" ,КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png" ,КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8?token=f63a7cb2c071fdd698891b0dce1d9fa3
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png?md5=kLpY1uGGkH0trfmazgJBCA&expires=1727773200" ,КиноСемья*
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png?md5=kLpY1uGGkH0trfmazgJBCA&expires=1727773200" ,КиноСемья*
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png?md5=kLpY1uGGkH0trfmazgJBCA&expires=1727773200" ,КиноСемья*
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg" ,КиноСемья
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200" ,КиноФантастика SD*
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" ,КиноФантастика SD*
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноФантастика
+https://v2.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200" ,КиноЭкшен SD*
+http://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" ,КиноЭкшен SD*
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" ,КиноЭкшен SD*
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" ,КиноЭкшен
+https://v2.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" ,ТелеНовелла SD
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="9kanal-israel"  tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200" ,ТелеНовелла SD
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200" ,ТелеНовелла SD
+http://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,City Eden Play HD
+http://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "   tvg-name="Сити Эдем — БирмаПлей",БирмаПлей
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_music"  tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" ,Бирма Play HD*
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_music"  tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" ,СиртакиТВ SD*
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,Sirtaki SD
+http://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" ,Classic Music SD*
+https://autopilot.catcast.tv/content/47400/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_music"  tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" ,Classic Music SD*
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="meditation-music"  tvg-logo="https://i.imgur.com/HPWevWb.png" ,Meditation Music SD*
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_music"  tvg-logo="https://i.imgur.com/HPWevWb.png" ,Meditation Music SD*
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноДок SD*
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноДок SD*
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,КиноДок SD
+https://autopilot.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i.imgur.com/X9kACKi.png" ,Сити Эдем ТВ SD
+https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000" ,Сити Эдем ТВ SD
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000" ,Сити Эдем ТВ SD
+https://autopilot.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="no_epg_cinema"  tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000" ,Сити Эдем ТВ SD
+https://autopilot.catcast.tv/content/34246/index.m3u8?token=f8bbfeb3fa5cc915d9973fee341f72a9
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000" ,Сити Эдем ТВ
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=loganet
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" ,МедЗдрав SD*
+http://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,Рецепты Гурмана
+http://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,АвтоГид SD
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,СИТИ ЭДЕМ Киноновелла SD
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,СИТИ ЭДЕМ Киноэкшен SD
+http://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200"   tvg-name="Сити Эдем - КиноФантастика",Сити Эдем - КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200"   tvg-name="Сити Эдем - КиноАрт",Сити Эдем - КиноАрт
+https://autopilot.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/City Eden " ,City Eden AutoGid
+http://cityeden.catcast.tv/content/47515/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2024-09-29/28/29/2829eb8fb8255f87880c22269840dbd4.jpg" ,EARTH NATURE
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809418&extension=ts&play_token=fGU5uSmroS
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2d/8a/2d8a8c907dbb73073599001bc8c9b4d8.jpg" ,EUROPE TOWNS
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809422&extension=ts&play_token=7AAYrveZI9
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/78/e6/78e6107c83f9930a03e48fd0240859a1.jpg" ,FLOWER
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809417&extension=ts&play_token=qFqzqqH1x7
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg" ,FOREST
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809416&extension=ts&play_token=wiyidhj1q7
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg" ,FOREST AMERICAN
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809423&extension=ts&play_token=Mw1ztKUjie
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/ec/62/ec62a116bb2e1320fbd89fb433eea909.jpg" ,INSPIRATIONAL MOTIVATIONAL
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809421&extension=ts&play_token=DaeFuEqjVJ
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/34/f6/34f6507b30ae4a747b11821304e6f1f0.jpg" ,MORNING RELAXING
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809420&extension=ts&play_token=mAgj8avirK
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/08/d0/08d0485c5371f760f1f46986054dde80.jpg" ,NATURE RELAXATION
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809419&extension=ts&play_token=6kBZOPRsST
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg" ,SNOW WINTER
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809415&extension=ts&play_token=cOhTyUpMxT
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/10/17/1017237de47e769c39708710bb89d188.jpg" ,STARDUST
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809414&extension=ts&play_token=bldhF9Pnge
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg" ,THE OCEAN
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809413&extension=ts&play_token=kLqYwz5vPu
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg" ,TROPICAL BEACH
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809412&extension=ts&play_token=yTgGztkTZA
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2024-11-24/1a/fa/1afaefabdaa0b6180082adac8e6e2efb.jpg" ,AUSTRALIA
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809428&extension=ts&play_token=vKhRQTM0Iv
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2024-11-06/9d/4d/9d4db32c1fccd887099050905e6ca7a2.jpg" ,ICELAND
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809430&extension=ts&play_token=FxyC4h8Y8T
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/19/d5/19d547d9f665a02f80f31cacb2238e7c.jpg" ,ITALY
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809427&extension=ts&play_token=9owHfEAxUK
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/29/31/29318086e00da1c865da25131f866d4f.jpg" ,MOROCCO
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809431&extension=ts&play_token=c2VfStrqPK
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2025-08-31/16/b4/16b466e289f38aedbd6088284fe8def6.jpg" ,NORWAY
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809429&extension=ts&play_token=vFaeVsc8ve
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2024-09-29/1e/99/1e99ee863752854d4a29ee44a1dc2a16.jpg" ,SWITZERLAND
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809426&extension=ts&play_token=otmGk6stNZ
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/15/53/15532340cc15ab3f3bf363f040896708.jpg" ,TURKEY
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809425&extension=ts&play_token=pkndDGcyb0
+#EXTINF:-1  group-title="GRAND PLUS/RELAX TV "  tvg-logo="https://pic.rtbcdn.ru/video/74/6d/746d5d1ba9c1c3a1259d166b73dec7a9.jpg" ,VIETNAM
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809424&extension=ts&play_token=RF00XLfesJ
+
+
+
+
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+http://dmi3y-tv6.ru/hls/CH_MAMONTENOK.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+https://sirius.greenhosting.ru/MamontRu/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+http://85.192.10.173/MamontRu/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+http://dijital.rafail1982.uz/hls/MamonRu/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="multimania-lv"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="multimania-lv"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="multimania-lv"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="multimania-lv"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+http://dmi3y-tv6.ru/hls/CH_MULTIMANIYA.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="pingvin-lolo" ,Пингвин
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="pingvin-lolo" ,Пингвин
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="pingvin-lolo" ,Пингвин
+http://dijital.rafail1982.uz/hls/pingvinru/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="pingvin-lolo" ,Пингвин
+http://dmi3y-tv6.ru/hls/CH_PINGVIN_LOLO.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://sun1-18.userapi.com/impg/3wTKbWOkV40EusaPbjXEDyi6UeHh1BkBbcobyA/LcdG8FnorVw.jpg?size=320x180&quality=95&sign=581d7a81262031a49b0af97e9659b062&c_uniq_tag=G27jnOh4kGwgfio3IEIblHNg8CUJKNC7KhJcbWxAfqA&type=video_thumb"   tvg-name="Детский 0+",VK Детский 0+ᴴᴰ
+rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://sun1-55.userapi.com/impg/KJT4FluspgwcXkWOnIBaDEzqTjniK8RxUoi3XQ/h0bSMWyPVUo.jpg?size=320x180&quality=95&sign=03dd9196a2dd8614691ab26ae9eb71a0&c_uniq_tag=oyxwBVop7HfYzGp7xvlkDSHV2QaSvafOzc-SKlc4hDE&type=video_thumb"   tvg-name="Детский 6+",VK Детский 6+ᴴᴰ
+rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb"   tvg-name="Мульт Развивайка",VK Мульт Развивайкаᴴᴰ
+rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb"   tvg-name="Мульт Развивайка",VK Мульт Развивайкаᴴᴰ
+rtmp://vkvsd69.okcdn.ru/playback/9617415285537?stkn=c3xFITyET9hWVhzOauNBmXkqvc4EmpLHuIPymPixanZ_ZCSdPyOzAThYxRBPDfoYbrZMsNN5P7M&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500" ,Ключайкаᴴᴰ
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500"   tvg-name="Ключайка",Ключайкаᴴᴰ
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" ,CHD TVᴴᴰ
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" ,Чип и Дейлᴴᴰ
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://oktv.uz/Channels/ch_3017.png" ,Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/8025.png" ,Маша и Медведь
+https://live20.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/8025.png" ,Маша и Медведь
+https://glb.bozztv.com/glb/ushba79/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://images.iptv.rt.ru/images/c6u74jbir4sslltto9g0.jpg"   $ExtFilter="колобок",Маша и Медведь (EN)
+https://glb.bozztv.com/glb/ushba78/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://veranzo.ru/other/icons/Детское Кино.png" ,СССР МУЛЬТЫ
+https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/8115.png" ,ЕРАЛАШ SD
+https://rpn3.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://oktv.uz/Channels/ch_3087.png" ,Мультфильмы 24/7 SD
+http://kinowalk.hopto.org/mezontrop_live
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://img.catcast.tv/uploads/31102020/logos/39373-5f9dbfc65b650.png" ,JETIX
+http://foxkids-online.ru/hls/test.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://smotret.tv/images/fox-kids.jpg"   audio-track="rus",Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140"   tvg-name="FoxKids-Remastered",FoxKids Remasteredᴴᴰ
+http://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="http://epg.one/img2/7826.png" ,Disney Channel SD
+http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://pic.rutubelist.ru/user/79/02/79026df1c0ab34c9f7eeb50533c8298e.jpg?size=s"   tvg-name="NikNik-TV",NikNik.TV SD
+rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult" ,NikNik.TV SD
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult" ,JTX Online SD
+http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://jtx-online.ru/randomlogo/36.png"   tvg-name="JTX Online",JTX Online SD
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://pic.rtbcdn.ru/video/2024-12-17/a0/43/a043f227f5730b843bc9bb827bce8bde.jpg?width=500" ,Mr.Bean Cartoonᴴᴰ
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc7fgOzI6ZPVFjFNmO4mtw&e=2065265033&scheme=https
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://pic.rtbcdn.ru/video/2024-12-17/a0/43/a043f227f5730b843bc9bb827bce8bde.jpg?width=500"   tvg-name="Mr.Bean Cartoon",Mr.Bean Cartoonᴴᴰ
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=dwMWI9TXbyv3GPsGlPCGiw&e=2071743859&scheme=https
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="kultura"  tvg-logo="https://img.catcast.tv/uploads/02102025/logos/49655-68de26fa1df20.png"   tvg-name="Futurama", Futurama
+rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg" ,BIGS BUGS BUNNY
+https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png"   tvg-name="ЮЖНЫЙ ПАРК",ЮЖНЫЙ ПАРК SD
+rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png"   tvg-name="ЮЖНЫЙ ПАРК",ЮЖНЫЙ ПАРК SD
+rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://polinka.top/uploads/posts/2023-06/1686658317_polinka-top-p-griffini-kartinki-krasivo-10.jpg"   tvg-name="ГРИФФИНЫ", ГРИФФИНЫ SD
+rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13"   tvg-name="РИК И МОРТИ",РИК И МОРТИ SD
+rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://i.pinimg.com/736x/5a/44/8f/5a448f18a0d67d14fa8059fe533db32c.jpg"   tvg-name="АМЕРИКАНСКИЙ ПАПАША",АМЕРИКАНСКИЙ ПАПАША SD
+rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://kinowalk.hopto.org/web/image/271/128x128?unique=2026-04-19%2006:49:49.005553&access_token=bfdd2f15-29dc-4a9f-9fd9-8c88201c1357"   tvg-name="MAKARSTRIM",MAKARSTRIM
+http://kinowalk.hopto.org/makarstrim_live
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 1",Cartoon Head TV 1ᴴᴰ
+rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 2",Cartoon Head TV 2ᴴᴰ
+rtmp://vkvsd60.okcdn.ru/playback/14060848557054?stkn=dPIS_1oqnIEuzshSCF2n-I2rHMWJtuaV8ynjujqQMHN_46y8TxiDA_05tyxY8AemFYcGW7XPvCBu&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 3",Cartoon Head TV 3
+rtmp://vkvsd273.okcdn.ru/playback/14089189272383?stkn=FierR1aDJ6pcyhqVXA4WKVG_BqWJxBtMjpC3mM3sm9OwX5xhiGISnr92bFW_SHVWflKj1-UnZbEG&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 3",Cartoon Head TV 3ᴴᴰ
+rtmp://vkvsd266.okcdn.ru/playback/14929384647507?stkn=KrTLNe1YP24yQvInxR0oSscqUzXuLFJJl9BGdr6DUH-5wu-4l8rBqkc85iK0BmljAPQUv55l9BWc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 4",Cartoon Head TV 4
+rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 5",Cartoon Head TV 5
+rtmp://vkvsd254.okcdn.ru/playback/13579930184561?stkn=ZNzANBd1DgzBAnlORAm2BoUCCTtMVMrjyruaxwiXSoeOvZXk9ciYjkgomnoAjIshsv2j7U6rfJhC&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 6",Cartoon Head TV 6ᴴᴰ
+rtmp://vkvsd216.okcdn.ru/playback/14643073526732?stkn=8Z3zoYCi6eAwQHIui4O0TiR_yaQkdAjULmZMEFci0oIV9mntNdEiR7RXE2XOnt6T7KgUysDCWLAZ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV 7",Cartoon Head TV 7ᴴᴰ
+rtmp://vkvsd244.okcdn.ru/playback/14261855857452?stkn=bd-7IN0MylhlmR7LPl1fHpOLGnPG-eb7wSGWlrGFRNPd7sfZxbM3Xu_5Zo_aqk12XVDSMj3AQief&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s"   tvg-name="Cartoon Head TV Полнометражки!",Cartoon Head TV Полнометражкиᴴᴰ
+rtmp://vkvsd62.okcdn.ru/playback/15605286185795?stkn=0BfhzaS79rBPIuIp3ITDJ69MiJyoRjR4EFbewyaQ3Mgc8XQQP1HrUXEHAegtQLK3Wqxjdr4ma7JT&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM" ,Колобок
+http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba80/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="zal-10-tricolor" ,Советские Мультфильмы
+https://tinyurl.com/aleks-u-romki-47/18135/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="zal-11-tricolor" ,Смешарики
+https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://psv4.userapi.com/s/v1/d2/vOgU4cV83mPY4AaRlGGFrHv5jwGcI5K9QCUJVv00aNrQklaJ_8LMCPV6fwFeKwtXdITMcXSbXjw4aTfWIKpMv1BPN0aJafxK3jN0Ggav_pQyTshmKv1sjgTe88FIvtYizOq3CqJDuEJr/15_Animation.png"   tvg-name="15+ Animation",15+ Animation HD
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://i.postimg.cc/GhhhyngG/freelive.png"   tvg-name="Кино FreeLive 2",Кино FreeLive 2 HD
+rtmp://vkvsd71.okcdn.ru/playback/14604821867372?stkn=IyJ2fSMR0lSuC-Pa2HL9fNS5yPLJMVN801VSiVvCbqsTJ6RTfhh8_Ak3uA0ho6iB4ozLv3xCB0QI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult"  tvg-logo="https://headicon.trovo.live/user/i6kn6bqaaaaaa26nce37k75hc4.jpeg"   tvg-name="spiraltv",SpiralTV SD
+https://liveplay.trovo.live/live/73846_115315783_115315783.flv?bizid=73846&txSecret=11b7949ef2254be8014432d87ad558a3&txTime=6a0984c7&_bmlj_t=ChxFT1liK0c4cGNaVDZqRGJzeHBjZ0p1RUIrdG89EiQ5M2YwNGQ5Ny1iMjllLTQzODAtYjUwOC1kNWNmYmU4NzdhZTgaHjExNTMxNTc4M18xMTUzMTU3ODNfMTc3ODQwMzg5OCDDpoHQBiiP%2BMQ3Mhk3Mzg0Nl8xMTUzMTU3ODNfMTE1MzE1NzgzQg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehIyMjE4ODYwNTQ0MjYwNTA0MTGQAQQ%3D&playScene=innerSite&pvid=221886054426050411&_f_=1778406216559
+#EXTINF:-1  group-title="GRAND PLUS/STREAM"  tvg-id="no_epg_mult" ,Tempus Stream
+https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "З"
+https://edge-b-01.ctc.ru/vod/hls/fta/AIMijmgdia6jQqEyDeEukg/ddf164a3bdf520bd33892ed7145dc0c2-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Муж на щас
+https://edge-b-01.ctc.ru/vod/hls/fta/GqiNKLuFa9V0nLpINCQ-jA/4b7da84c49ebe5a9fc13bc166045d4cc-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Шубный приговор
+https://edge-b-01.ctc.ru/vod/hls/fta/hhVRKJxnnzW9A554s1LfKA/afef73e28cae50a3746ea7ef6bb424a0-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Против ома нет приема
+https://edge-b-04.ctc.ru/vod/hls/fta/qu_J1Yf33ZLpe3_BWdB8Jg/5f138c6572982e65302a87aa87fea381-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Бубновый тюз
+https://edge-b-01.ctc.ru/vod/hls/fta/gPz98lSMcou9J7R4CUdJ1A/d67e7f8b13532e905f76bf31007aa627-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "И"
+https://edge-b-04.ctc.ru/vod/hls/fta/ts56VwuqrXVQJgX3fJdzHA/43ba141c8b12c7eb0fa92d9e74699823-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "К"
+https://edge-b-01.ctc.ru/vod/hls/fta/B9Hn2N9qlEejGA2iY3lP3Q/906c9a3336057553d8cae2d5c420eccb-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Лето это маленькая жесть
+https://edge-b-01.ctc.ru/vod/hls/fta/wV8GsEe1R_iWZT4m5gCbTA/743a7aeb538da270f5f3d836ab7402b4-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Нервное сентября
+https://edge-b-01.ctc.ru/vod/hls/fta/aQWUHfllNrUW8_ta11uIyw/87c743d676e25af5b5a1e02feebaf31e-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Л"
+https://edge-b-01.ctc.ru/vod/hls/fta/tZPnUt_mh9jlJ_BfIjX3_g/d1331f6dbe31840f1946a24726e539c3-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "М"
+https://edge-b-01.ctc.ru/vod/hls/fta/d00-YjLKP9j0exfAqOcWFA/50edd62d16e6361e64b2888d4a3faa32-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Н"
+https://edge-b-01.ctc.ru/vod/hls/fta/sfHPbSXHv03vg8cujZzfmA/b6e861431ac895acce5bbfa7078ed1e8-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "О"
+https://edge-b-02.ctc.ru/vod/hls/fta/-vvhu6I8WPTyosTXVQTOIg/dc051f4aba823038e4a829e2d8e9c1f0-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "П"
+https://edge-b-02.ctc.ru/vod/hls/fta/sh8zqOwF3Grmhlc5qN25RQ/a2787a048c319cb3399ac8e33bd451fc-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Чем торт не шутит
+https://edge-b-04.ctc.ru/vod/hls/fta/Gno60CMORkUcOU99Mq6N5A/34fc00b8d9ef407332cd69804e31fdee-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Елка дети два ствола
+https://edge-b-02.ctc.ru/vod/hls/fta/ABHwjOITqX-1nVKdsxdsPQ/b69ea343421863b0cf3825ba3d1f0bbc-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Люди икс иэль
+https://edge-b-04.ctc.ru/vod/hls/fta/0s04mOmdfQNEefe_WDe6Lg/1bf859f2b66f823be5027d2a03d15bb1-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Р"
+https://edge-b-04.ctc.ru/vod/hls/fta/1J8cRnHnBMIEOIJVL-tq7A/d8e0acbcbc6c58973e9c0548f4eb5ea6-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Утомленные солярием
+https://edge-b-04.ctc.ru/vod/hls/fta/vu1RVsBFOlAVb2kdaJgfRA/c33e50de4e32f892842d954d106f782f-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "С"
+https://edge-b-04.ctc.ru/vod/hls/fta/8-e9AIQKOlPpB710pmyZ5A/51dad8fd3a4b5ff2368855b5a554fdde-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Т"
+https://edge-b-04.ctc.ru/vod/hls/fta/kWEKTeJUvIouhfbzgIp7Jw/f1174fdf6d09e0a5ca299d0dcaa40492-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "У"
+https://edge-k-02.ctc.ru/vod/hls/fta/aoGB_6iQRliWTsjP6qEpzg/5af6bdb2bd1d6754e23e097ecf2dfb60-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Ф"
+https://edge-k-02.ctc.ru/vod/hls/fta/49-rc6mBbFFKyjSgq0bMxQ/598b96ef98bb220a8b6bddb2107a72c3-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Х"
+https://edge-b-02.ctc.ru/vod/hls/fta/gkkwmn2thIqamXAZwIdd0g/a8d4dc382d6a6aa95eb47e0af0b66131-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Дело пахнет мандарином
+https://edge-b-02.ctc.ru/vod/hls/fta/tV37MBdTbuwz8pT5Ab60CQ/c3add792b42b2ba98040ffd3be7eae5f-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Заливной огонек
+https://edge-b-02.ctc.ru/vod/hls/fta/KD-IafgOQSHgsRxOY5fUyw/d05ed3c3ab1adbed070c3fd1bd2ff3e4-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Спорная помощь
+https://edge-b-02.ctc.ru/vod/hls/fta/7n3j7JhZSSXBSXoHRPKa8A/96ac92b0033a86769de79f371124027d-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,В семье не без народа
+https://edge-b-04.ctc.ru/vod/hls/fta/QUtVirQODM8I_iDhVQ_vPQ/719c1397679adc50d274bf1fea924c1c-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Ц"
+https://edge-b-04.ctc.ru/vod/hls/fta/1RSKtaMn1aoRKRDB-5_m7w/1a6859bf76e35b3cd5b27a9c5552ad63-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Азбука уральских пельменей "Ч"
+https://edge-b-04.ctc.ru/vod/hls/fta/iTDfPy83fqFakBRvJQtE9w/f464eee1e834e1fd3a348633ef43d5ac-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Мужик ТВгда прав
+https://edge-b-02.ctc.ru/vod/hls/fta/1wJSOTBBqdvd5HO55441-Q/3ba8b6bf2cadb2e9dfc9daf38feba7b6-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Шерше ляфамов
+https://edge-b-02.ctc.ru/vod/hls/fta/cQO9mbWVUBzmxBD8TXi4uw/1f755fef2902e4d6900c09c696ec913e-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Все возрасты покорны
+https://edge-b-02.ctc.ru/vod/hls/fta/HD5i1U-Cuj2qfxkKa6UO9A/6de303f9f9edbc493b8ec42a5d6da36e-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Кто в доме хозяин
+https://edge-b-02.ctc.ru/vod/hls/fta/-6u733N9XVr7wkuJG6t9ww/8699e8c5e144889dde733a020a1d2440-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,В большой семье
+https://edge-b-02.ctc.ru/vod/hls/fta/OIu5jg7E-BJALyVn0sPJpg/64b4ce665a17c97088712dcce8dfe2b3-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Все по закону
+https://edge-b-02.ctc.ru/vod/hls/fta/XagzdqSy58GWgJ2OSmyqog/f1ed91b3681e635fa6c9298c5b734950-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Дело техники
+https://edge-b-02.ctc.ru/vod/hls/fta/kTzZUTo-UDbEQGkGeIzD_A/c93cc7a3aeb0d8d47cd86b30d4afdb7c-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Высокие отношения
+https://edge-b-02.ctc.ru/vod/hls/fta/KlJDXad3u5mHi6T9lGxrOw/9ba1f0078b9392247929b22a2014e542-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Многоролевые игры
+https://edge-b-02.ctc.ru/vod/hls/fta/nTbhMyzNWxF4fBuBjLd2Ag/ec9c6db4295442142b3356fb93cbe2cd-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,И тебя вылечат
+https://edge-b-02.ctc.ru/vod/hls/fta/idjumsSwgo6Jr6oswoklDA/bfa19b527e490272dbd50bff83712e83-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,По уши в искусстве
+https://edge-b-02.ctc.ru/vod/hls/fta/9rORkApolAdlmB2h1ZHvVA/d4926d0567b4eb4a273584e06c79c40c-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Не в деньгах счастье
+https://edge-b-02.ctc.ru/vod/hls/fta/lAb0SmPlsOvSlVcp52QZfg/9facd7f21b29ac5c3515bfc9619142f3-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Час расплаты
+https://edge-b-02.ctc.ru/vod/hls/fta/IgYem6NCTxKz28b9y-kvOQ/a844c9e28bdc959d4272068ec60c5fdc-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Незванный гость
+https://edge-b-02.ctc.ru/vod/hls/fta/NSGtqtM0tfK92G86B_l9Xw/36d337c3d06c7fb9b56eb9370fa4bb9a-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Разные семейки
+https://edge-b-02.ctc.ru/vod/hls/fta/X1VASjk9oMT6QHiItpWc5g/df1a9d60d155e2b438d3bbaf3a3c23a3-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,По семейным обстоятельствам
+https://edge-b-02.ctc.ru/vod/hls/fta/Rs_iTdKphxwiuaqJc1pJpw/9107652dbb299117caa5cfbb56a4a1bd-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Много мужчин
+https://edge-b-02.ctc.ru/vod/hls/fta/ZhX-fNRIfdYfoHWXUQYWxA/28a4ead4e3c0e2fe6a87d9c416f93b00-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Трудности перевода
+https://edge-b-02.ctc.ru/vod/hls/fta/ZtWdAGDzWjR53mzV-g9y3Q/8575d4304ef4f1ce02185c433fbd264c-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Не сельский час
+https://edge-b-05.ctc.ru/vod/hls/fta/AGuX_6izEXRXlCriLZPx9w/2fd678e34a156921c44a2f20648e4447-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Мыльная опера
+https://edge-b-05.ctc.ru/vod/hls/fta/2_QlSe09aeTM4jevPSMj_g/2373a341fd2c32b0a4e297b38cfaa589-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Прям как дети
+https://edge-b-05.ctc.ru/vod/hls/fta/Tpn6WoAmNLZ00TxZAU11FQ/63c65c93e01a3f67e61917d300c0f2cb-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Бабушкин нубук
+https://edge-b-05.ctc.ru/vod/hls/fta/vfDlAqOxA-HB3sW0USsU4w/d90d15d3b66135f658cf88263590a8ec-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Не случайное знакомство
+https://edge-b-05.ctc.ru/vod/hls/fta/OTMeRc_RTOp6x36aCGZnag/f78ce0cb76195ec75eb94da3bd55c788-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Без вины виноватые
+https://edge-b-05.ctc.ru/vod/hls/fta/2bWKU4w9zz_qVd97KnHpNA/0217eac2bf9e74d058ae1726e49f716b-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/УРАЛЬСКИЕ ПЕЛЬМЕНИ" ,Место встречи изменить...
+https://edge-b-05.ctc.ru/vod/hls/fta/rHslGB_x9pTGs3hU_4bcUQ/c98d840261c87f8adf6b6987240a84e2-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
+
+
+
+
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 1 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e01_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 2 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e02_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 3 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e03_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 4 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e04_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 5 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e05_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 6 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e06_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 7 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e07_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 8 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e08_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 9 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e09_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 1 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e01_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 2 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e02_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 3 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e03_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 4 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e04_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 5 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e05_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 6 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e06_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 7 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e07_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 8 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e08_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 9 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e09_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 1 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e01_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 2 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e02_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 3 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e03_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 4 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e04_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 5 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e05_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 6 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e06_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 7 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e07_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 8 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e08_720.mp4
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 9 СЕРИЯ 
+https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e09_720.mp4
+
+
+
+
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Mix
+https://radiorecord.hostingradio.ru/rus64.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/2step_image600_colored_fill.png" ,2-step
+https://radiorecord.hostingradio.ru/2step96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/2010_image600_colored_fill.png" ,10's Dance
+https://radiorecord.hostingradio.ru/201096.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/cadillac_image600_colored_fill.png" ,60's Dance
+https://radiorecord.hostingradio.ru/cadillac96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/1970_image600_colored_fill.png" ,70's Dance
+https://radiorecord.hostingradio.ru/197096.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/a-state-of-trance_image600_colored_fill.png" ,A State of Trance
+https://radiorecord.hostingradio.ru/asot96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/afro_image600_colored_fill.png" ,Afro House
+https://radiorecord.hostingradio.ru/afro96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/ambient_image600_colored_fill.png" ,Ambient
+https://radiorecord.hostingradio.ru/ambient96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/armin_image600_colored_fill.png" ,Armin van Buuren
+https://radiorecord.hostingradio.ru/armin96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/jackin_image600_gray_outline.png" ,Bass House
+https://radiorecord.hostingradio.ru/jackin96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/beach_image600_colored_fill.png" ,Beach Party
+https://radiorecord.hostingradio.ru/beach96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/bighits_image600_colored_fill.png" ,Big Hits
+https://radiorecord.hostingradio.ru/bighits96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/yo_image600_gray_outline.png" ,Black Rap
+https://radiorecord.hostingradio.ru/yo96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/brks_image600_gray_outline.png" ,Breaks
+https://radiorecord.hostingradio.ru/brks96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/chillhouse_image600_colored_fill.png" ,Chill House
+https://radiorecord.hostingradio.ru/chillhouse96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/chil_image600_colored_fill.png" ,Chill-Out
+https://radiorecord.hostingradio.ru/chil96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/christmas-chill_image600_colored_fill.png" ,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/christmas-radio_image600_colored_fill.png" ,Christmas
+https://radiorecord.hostingradio.ru/christmas96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/complextro_image600_gray_outline.png" ,Complextro
+https://radiorecord.hostingradio.ru/complextro96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/drumhits_image600_gray_outline.png" ,D'n'B Classics
+https://radiorecord.hostingradio.ru/drumhits96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/dj-gvozd_image600_colored_fill.png" ,DJ Gvozd
+https://radiorecord.hostingradio.ru/djgvozd96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/tsvetkov_image600_colored_fill.png" ,DJ Цветкоff
+https://radiorecord.hostingradio.ru/tsvetkov96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/dc_image600_colored_fill.png" ,Dancecore
+https://radiorecord.hostingradio.ru/dc96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/darkside_image600_colored_fill.png" ,Darkside
+https://radiorecord.hostingradio.ru/darkside96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/guetta_image600_colored_fill.png" ,David Guetta
+https://radiorecord.hostingradio.ru/guetta96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/deep_image600_gray_outline.png" ,Deep
+https://radiorecord.hostingradio.ru/deep96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/discofunk_image600_gray_outline.png" ,Disco/Funk
+https://radiorecord.hostingradio.ru/discofunk96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/dream_image600_gray_outline.png" ,Dream Dance
+https://radiorecord.hostingradio.ru/dream96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/dream-pop_image600_colored_fill.png" ,Dream Pop
+https://radiorecord.hostingradio.ru/dreampop96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/dub_image600_gray_outline.png" ,Dubstep
+https://radiorecord.hostingradio.ru/dub96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/edmhits_image600_colored_fill.png" ,EDM Classics
+https://radiorecord.hostingradio.ru/edmhits96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/club_image600_gray_outline.png" ,EDM
+https://radiorecord.hostingradio.ru/club96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/elect_image600_gray_outline.png" ,Electro
+https://radiorecord.hostingradio.ru/elect96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/eurodance_image600_colored_fill.png" ,Eurodance
+https://radiorecord.hostingradio.ru/eurodance96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/feel_image600_colored_fill.png" ,Feel
+https://radiorecord.hostingradio.ru/feel96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/live-dj-sets_image600_colored_fill.png" ,Festivals
+https://radiorecord.hostingradio.ru/livedjsets96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/fbass_image600_gray_outline.png" ,Future Bass
+https://radiorecord.hostingradio.ru/fbass96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/fut_image600_gray_outline.png" ,Future House
+https://radiorecord.hostingradio.ru/fut96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/futurerave_image600_colored_fill.png" ,Future Rave
+https://radiorecord.hostingradio.ru/futurerave96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/goa_image600_colored_fill.png" ,GOA/PSY
+https://radiorecord.hostingradio.ru/goa96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/groovetribal_image600_gray_outline.png" ,Groove/Tribal
+https://radiorecord.hostingradio.ru/groovetribal96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/hbass_image600_gray_outline.png" ,Hard Bass
+https://radiorecord.hostingradio.ru/hbass96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/teo_image600_gray_outline.png" ,Hardstyle
+https://radiorecord.hostingradio.ru/teo96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/houseclss_image600_gray_outline.png" ,House Classics
+https://radiorecord.hostingradio.ru/houseclss96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/househits_image600_colored_fill.png" ,House Hits
+https://radiorecord.hostingradio.ru/househits96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/hypno_image600_gray_outline.png" ,Hypnotic
+https://radiorecord.hostingradio.ru/hypno96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/ibiza_image600_gray_outline.png" ,Innocence
+https://radiorecord.hostingradio.ru/ibiza96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/jungle_image600_colored_fill.png" ,Jungle
+https://radiorecord.hostingradio.ru/jungle96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/lady-waks_image600_colored_fill.png" ,Lady Waks
+https://radiorecord.hostingradio.ru/ladywaks96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/latina_image600_colored_fill.png" ,Latina Dance
+https://radiorecord.hostingradio.ru/latina96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_colored_fill.png" ,Liquid Funk
+https://radiorecord.hostingradio.ru/liquidfunk96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/lo-fi-house_image600_colored_fill.png" ,Lo-Fi House
+https://radiorecord.hostingradio.ru/lofihouse96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/lofi_image600_gray_outline.png" ,Lo-Fi
+https://radiorecord.hostingradio.ru/lofi96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/martingarrix_image600_colored_fill.png" ,Martin Garrix
+https://radiorecord.hostingradio.ru/martingarrix96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/mashup_image600_colored_fill.png" ,Mashup
+https://radiorecord.hostingradio.ru/mashup96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/mix_image600_gray_outline.png" ,Megamix
+https://radiorecord.hostingradio.ru/mix96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/melodic_image600_colored_fill.png" ,Melodic Techno
+https://radiorecord.hostingradio.ru/melodic96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/mt_image600_colored_fill.png" ,Midtempo
+https://radiorecord.hostingradio.ru/mt96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/mini_image600_colored_fill.png" ,Minimal/Tech
+https://radiorecord.hostingradio.ru/mini96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/mmbt_image600_colored_fill.png" ,Moombahton
+https://radiorecord.hostingradio.ru/mmbt96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/nejtrinobaur_image600_colored_fill.png" ,Nejtrino & Baur
+https://radiorecord.hostingradio.ru/nejtrinobaur96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/neurofunk_image600_colored_fill.png" ,Neurofunk
+https://radiorecord.hostingradio.ru/neurofunk96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/nu-dance_image600_colored_fill.png" ,Nu Dance
+https://radiorecord.hostingradio.ru/nudance96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/tecktonik_image600_gray_outline.png" ,Old School
+https://hls-01-radiorecord.hostingradio.ru/record-rap/96/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/oliverheldens_image600_colored_fill.png" ,Oliver Heldens
+https://radiorecord.hostingradio.ru/oliverheldens96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/organic_image600_colored_fill.png" ,Organic
+https://radiorecord.hostingradio.ru/organic96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/party-24-7_image600_colored_fill.png" ,Party 24/7
+https://radiorecord.hostingradio.ru/party96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/phonk_image600_colored_fill.png" ,Phonk
+https://radiorecord.hostingradio.ru/phonk96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/ps_image600_gray_outline.png" ,Pirate Station
+https://radiorecord.hostingradio.ru/ps96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/progr_image600_colored_fill.png" ,Progressive
+https://radiorecord.hostingradio.ru/progr96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/rapclassics_image600_colored_fill.png" ,Rap Classics
+https://radiorecord.hostingradio.ru/rapclassics96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/rap_image600_colored_fill.png" ,Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/rave_image600_colored_fill.png" ,Rave FM
+https://radiorecord.hostingradio.ru/rave96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/record_image600_colored_fill.png" ,Record
+https://radiorecord.hostingradio.ru/rr_main96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/1980_image600_colored_fill.png" ,Record 80-х
+https://radiorecord.hostingradio.ru/198096.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/record00_image600_colored_fill.png" ,Record 00-х
+https://radiorecord.hostingradio.ru/200096.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/recordclassix_image600_colored_fill.png" ,Record Classix
+https://radiorecord.hostingradio.ru/classix96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/recordclubshow_image600_colored_fill.png" ,Record Club Show
+https://radiorecord.hostingradio.ru/clubshow96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/gold_image600_colored_fill.png" ,Record Gold
+https://radiorecord.hostingradio.ru/gold96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/reggae_image600_colored_fill.png" ,Reggae
+https://radiorecord.hostingradio.ru/reggae96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/rmx_image600_gray_outline.png" ,Remix
+https://radiorecord.hostingradio.ru/rmx96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/rock_image600_gray_outline.png" ,Rock
+https://radiorecord.hostingradio.ru/rock96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/russiangold_image600_gray_outline.png" ,Russian Gold
+https://radiorecord.hostingradio.ru/russiangold96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/russianhits_image600_colored_fill.png" ,Russian Hits
+https://radiorecord.hostingradio.ru/russianhits96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/rus_image600_gray_outline.png" ,Russian Mix
+https://radiorecord.hostingradio.ru/rus96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/summer-dance_image600_colored_fill.png" ,Summer Dance
+https://radiorecord.hostingradio.ru/summerparty96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/summerlounge_image600_colored_fill.png" ,Summer Lounge
+https://radiorecord.hostingradio.ru/summerlounge96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/synth_image600_gray_outline.png" ,Synthwave
+https://radiorecord.hostingradio.ru/synth96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/top-100-edm_image600_colored_fill.png" ,TOP 100 EDM
+https://radiorecord.hostingradio.ru/top100edm96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/techouse_image600_colored_fill.png" ,Tech House
+https://radiorecord.hostingradio.ru/techouse96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/techno_image600_colored_fill.png" ,Techno
+https://radiorecord.hostingradio.ru/techno96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/technopop_image600_colored_fill.png" ,Technopop
+https://radiorecord.hostingradio.ru/technopop96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/tecktonik_image600_colored_fill.png" ,Tecktonik
+https://radiorecord.hostingradio.ru/tecktonik96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/tiesto_image600_colored_fill.png" ,Tiesto
+https://radiorecord.hostingradio.ru/tiesto96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/trancehits_image600_gray_outline.png" ,Trance Classics
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/trancehouse_image600_gray_outline.png" ,Trancehouse
+https://radiorecord.hostingradio.ru/trancehouse96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/tm_image600_gray_outline.png" ,Trancemission
+https://radiorecord.hostingradio.ru/tm96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/trap_image600_gray_outline.png" ,Trap
+https://radiorecord.hostingradio.ru/trap96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/trop_image600_gray_outline.png" ,Tropical
+https://radiorecord.hostingradio.ru/trop96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/uk-garage_image600_colored_fill.png" ,UK Garage
+https://radiorecord.hostingradio.ru/ukgarage96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/ultra_image600_colored_fill.png" ,Ultra Music Festival
+https://radiorecord.hostingradio.ru/ultra96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/uplift_image600_colored_fill.png" ,Uplifting
+https://radiorecord.hostingradio.ru/uplift96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/vip_image600_colored_fill.png" ,VIP House
+https://radiorecord.hostingradio.ru/vip96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/workout_image600_colored_fill.png" ,Workout
+https://radiorecord.hostingradio.ru/workout96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/deti_image600_colored_fill.png" ,Веснушка FM
+https://radiorecord.hostingradio.ru/deti96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/gast_image600_gray_outline.png" ,Гастарбайтер FM
+https://radiorecord.hostingradio.ru/gast96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/gop_image600_gray_outline.png" ,Гоп FM
+https://radiorecord.hostingradio.ru/gop96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/pump_image600_colored_fill.png" ,Колбасный Цех
+https://radiorecord.hostingradio.ru/pump96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/mf_image600_gray_outline.png" ,Маятник Фуко
+https://radiorecord.hostingradio.ru/mf96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/mdl_image600_colored_fill.png" ,Медляк FM
+https://radiorecord.hostingradio.ru/mdl96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/hype_image600_colored_fill.png" ,На Хайпе
+https://radiorecord.hostingradio.ru/hype96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/nashashlyki_image600_colored_fill.png" ,На шашлыки!
+https://radiorecord.hostingradio.ru/nashashlyki96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/naft_image600_colored_fill.png" ,Нафталин FM
+https://radiorecord.hostingradio.ru/naft96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/rv19_image600_colored_fill.png" ,Руки Вверх!
+https://radiorecord.hostingradio.ru/rv96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/ruszima_image600_colored_fill.png" ,Русская Зима
+https://radiorecord.hostingradio.ru/ruszima96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/symph_image600_colored_fill.png" ,Симфония FM
+https://radiorecord.hostingradio.ru/symph96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/skazki_image600_colored_fill.png" ,Сказки MC
+https://radiorecord.hostingradio.ru/skazki96.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" ,Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1  group-title="GRAND PLUS/РЕКОРД"  tvg-id="no_epg_music"  tvg-logo="https://www.radiorecord.ru/upload/stations_images/khity-vsekh-vremen_image600_colored_fill.png" ,Хиты всех времен
+https://radiorecord.hostingradio.ru/alltimers96.aacp
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_radio"  tvg-logo="https://pcradio.ru/images/stations/61b09c56ceec1.jpg" ,DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Afrovibes
+http://dfm.hostingradio.ru/afrovibes96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Armin Van Buuren
+http://dfm.hostingradio.ru/avburren96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Avicii
+http://dfm.hostingradio.ru/avicii96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Bass House
+http://dfm.hostingradio.ru/basshouse96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Breakbeat
+http://dfm.hostingradio.ru/breakbeat96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Calvin Harris
+http://dfm.hostingradio.ru/harris96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Chill
+http://dfm.hostingradio.ru/dfmchill96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Club
+http://dfm.hostingradio.ru/dfmclub96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Dance Gold 1990s
+http://dfm.hostingradio.ru/dancegold9096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Dance Gold 2000s
+http://dfm.hostingradio.ru/dancegold0096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Dance Gold 2010s
+http://dfm.hostingradio.ru/dancegold1096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Dance Gold 2020s
+http://dfm.hostingradio.ru/dancegold2096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Dancehall
+http://dfm.hostingradio.ru/dancehall96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Daft Punk
+https://hls-01-dfm.hostingradio.ru/daftpunk/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,David Guetta
+http://dfm.hostingradio.ru/guetta96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Deep
+http://dfm.hostingradio.ru/dfmdeep96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Disco
+http://dfm.hostingradio.ru/disco96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Disco 90s
+http://dfm.hostingradio.ru/disc9096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Drum
+http://dfm.hostingradio.ru/drum96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Hands Up
+http://dfm.hostingradio.ru/handsup96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,House Mafia
+http://dfm.hostingradio.ru/housemafia96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Ibiza
+https://hls-01-dfm.hostingradio.ru/ibiza/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Igromania
+https://hls-01-dfm.hostingradio.ru/igromania/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Insomnia
+http://dfm.hostingradio.ru/insomnia96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Festivals Gold
+http://dfm.hostingradio.ru/festivalgold96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Future Bass
+http://dfm.hostingradio.ru/futurebass96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Gangsta Deep
+http://dfm.hostingradio.ru/gangstadeep96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Garrix
+https://hls-01-dfm.hostingradio.ru/garrix/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Global Dance
+https://hls-01-dfm.hostingradio.ru/globaldance/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,GorIllaz
+https://hls-01-dfm.hostingradio.ru/gorillaz/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Kalian Rap
+https://hls-01-dfm.hostingradio.ru/kalianrap/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,KPop
+http://dfm.hostingradio.ru/kpop96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Liquid Funk
+http://dfm.hostingradio.ru/liquid96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,LoFi
+https://hls-01-dfm.hostingradio.ru/lofi/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Martin Garrix
+http://dfm.hostingradio.ru/garrix96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Neuro Flow
+http://dfm.hostingradio.ru/neuroflow96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Organic House
+http://dfm.hostingradio.ru/organichouse96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Party
+http://dfm.hostingradio.ru/dfmparty96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pioner
+https://hls-01-dfm.hostingradio.ru/pioneer/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pop Dance
+http://dfm.hostingradio.ru/popdance96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pop Gold 1990s
+http://dfm.hostingradio.ru/popgold9096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pop Gold 2000s
+http://dfm.hostingradio.ru/popgold0096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pop Gold 2010s
+http://dfm.hostingradio.ru/popgold1096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pop Gold 2020s
+http://dfm.hostingradio.ru/popgold2096.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Psy Trance
+http://dfm.hostingradio.ru/psytrance96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Pump
+http://dfm.hostingradio.ru/pump96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Rap
+http://dfm.hostingradio.ru/dfmrap96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Remake
+http://dfm.hostingradio.ru/remake96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Russian Dance
+http://dfm.hostingradio.ru/dfmrusdance96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Russian Gold
+http://dfm.hostingradio.ru/russiangold96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Russian Rave
+http://dfm.hostingradio.ru/russianrave96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Sad Dance
+http://dfm.hostingradio.ru/saddance96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Savannah Beat
+http://dfm.hostingradio.ru/savanbeat96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Scooter
+https://hls-01-dfm.hostingradio.ru/scooter/320/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Skrillex
+http://dfm.hostingradio.ru/skrillex96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Slap Bass
+http://dfm.hostingradio.ru/slapbass96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Tech House
+http://dfm.hostingradio.ru/techhouse96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,The Prodigy
+http://dfm.hostingradio.ru/prodigy96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Tiesto
+http://dfm.hostingradio.ru/tiesto96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Trance
+http://dfm.hostingradio.ru/trance96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://iptvx.one/picons/radio-dfm.png" ,Trap
+http://dfm.hostingradio.ru/dfmtrap96.aacp
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d2/9vcbUeD29Zg_qY98CJNLp5zY8-0dqpHVD1JcC11kdbntG3tR1tElIy5LniO2oJAzluQWbOaOzU3Y-lFHAKyGd4Ob8dOvH0uRUDBuqKgVrqo2l2hyYw3d2jY2y83UbkONCfJqG4CoMdHE/Kizug-TV-Dfm.jpg" ,Грустный Дэнс
+https://stream06.pcradio.ru/rad_rudfgrudnc-med
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://psv4.userapi.com/s/v1/d2/9vcbUeD29Zg_qY98CJNLp5zY8-0dqpHVD1JcC11kdbntG3tR1tElIy5LniO2oJAzluQWbOaOzU3Y-lFHAKyGd4Ob8dOvH0uRUDBuqKgVrqo2l2hyYw3d2jY2y83UbkONCfJqG4CoMdHE/Kizug-TV-Dfm.jpg" ,Дискач 90-х
+https://stream06.pcradio.ru/dfm_diskach90s-med
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Dance FM
+https://a7.radioheart.io:9025/RH57075
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Absolute Trance
+http://prmstrm.1.fm:8000/trance
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Amsterdam Trance
+http://prmstrm.1.fm:8000/atr
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Circuit Pride
+http://prmstrm.1.fm:8000/circuitpride
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Club Time
+http://aachd.stream.tb-group.fm:80/clt-hd.aac
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Dance One
+http://prmstrm.1.fm:8000/dance
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Dubstep Forward
+http://prmstrm.1.fm:8000/dubstep
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,High Voltage
+http://prmstrm.1.fm:8000/highvoltage
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" ,Replay
+http://aachd.stream.tb-group.fm:80/rp-hd.aac
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ" ,Technobase
+http://mp3.stream.tb-group.fm/tb.mp3
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://logo.pp.ru/storage/images/channels/1138f9406df9e5ab552c9dfbe8a81333.png?d=1752000907" ,PULSRADIO 90's
+https://sc4.gergosnet.com/puls90HD.mp3
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://logo.pp.ru/storage/images/channels/1138f9406df9e5ab552c9dfbe8a81333.png?d=1752000907" ,PULSRADIO CLUB
+https://sc4.gergosnet.com/mxHD.mp3
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://logo.pp.ru/storage/images/channels/1138f9406df9e5ab552c9dfbe8a81333.png?d=1752000907" ,PULSRADIO DANCE
+https://sc4.gergosnet.com/pulsHD.mp3
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_music"  tvg-logo="https://logo.pp.ru/storage/images/channels/1138f9406df9e5ab552c9dfbe8a81333.png?d=1752000907" ,PULSRADIO TRANCE
+https://sc4.gergosnet.com/pulstranceHD.mp3
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://radiogoose.ru/res/logo/radiogoose.png" ,РАДИО ГУСЬ
+https://stream.radiogoose.ru/listen/radiogoose/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-gus-oldskul.png" ,ГУСЬ.Олдскул
+https://stream.radiogoose.ru/listen/oldschool/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://radiopotok.ru/f/station_webp/512/2413.webp" ,ГУСЬ.Рус
+https://stream.radiogoose.ru/listen/rus/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-goose-diphaus.png" ,ГУСЬ.Дипхаус
+https://stream.radiogoose.ru/listen/deep/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosebigroom.webp" ,ГУСЬ.Бигрум
+https://stream.radiogoose.ru/listen/bigroom/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogooserock.webp" ,ГУСЬ.Рок
+https://stream.radiogoose.ru/listen/rock/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosephonk.webp" ,ГУСЬ.Фонк
+https://stream.radiogoose.ru/listen/phonk/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogooseelectro.webp" ,ГУСЬ.Электро
+https://stream.radiogoose.ru/listen/electro/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosemidtempo.webp" ,ГУСЬ.Мидтемпо
+https://stream.radiogoose.ru/listen/midtempo/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosednb.webp" ,ГУСЬ.Драм
+https://stream.radiogoose.ru/listen/dnb/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosetrance.webp" ,ГУСЬ.Транс
+https://stream.radiogoose.ru/listen/trance/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosedancecore.webp" ,ГУСЬ.Денскор
+https://stream.radiogoose.ru/listen/dancecore/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogooseharddance.webp" ,ГУСЬ.Хардденс
+https://stream.radiogoose.ru/listen/harddance/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiogoosehardstyle.webp" ,ГУСЬ.Хардстайл
+https://stream.radiogoose.ru/listen/hardstyle/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://www.radiobells.com/stations/radiomoscowmadness.webp" ,ГУСЬ.Хардкор
+https://stream.radiogoose.ru/listen/hardcore/play
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-id="no_epg_radio"  tvg-logo="https://psv4.userapi.com/s/v1/d2/EV1QeyuE8tj9L5XhBZlXku5BelsGTnM0MJZYbgKZszMILQjMUleIZsPhycmodbqBFcBnS3aOpbGPw777a__Oy9OgMkquRJiFlgc2oiMJ9M1HppxunXIokVD1KlOP0IfT9ouwfGya3zd-/cok_fm.png" , СОК FM
+https://sokfm.ru/listen/online/320
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://vtrnk.online/images/logovtrnk.png" ,ВТРНК Radio Show
+https://vtrnk.online/radio_stream
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://volna.top/logoradio/remixfm.svg?v=404" ,Remix FM
+https://hls.volna.top/radio/remixfm.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://volna.top/logoradio/megadance.svg?v=404" ,M Dance
+https://hls.volna.top/radio/megadance.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://volna.top/logoradio/musicbox.svg?v=404" ,MUSICBOX RADIO
+https://hls.volna.top/radio/musicbox.m3u8
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://radiopotok.ru/f/station/512/1369.png" ,Kamchatka LIVE - Dance Radio
+https://kamchatkalive.ru:8103/dance
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://psv4.userapi.com/s/v1/d/jHXzqRDVe_jYPxvbf3Vbg3CtvQEtXBuyxE5o8Mlye7LHVKCxpFslvnCn5OPUhXecuM1Lw0g6GMRPZIqAve5KG7aa7j6WI3LFAOx2f3Z_xDEHiJyoNUebPA/MR.png" ,M&R Dance Radio
+https://listen7.myradio24.com/9083
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://psv4.userapi.com/s/v1/d/vJqSQjPh2fz-aFjdqpdc8PHUQNh89yUmjeQtV_FIcIDcrGVGf8rte0_BiY5CZV1zLfRcp3v2flzpTezoVoyR9-rWdP4bwEaXDwXAusk-xFpRk6yqjDfIUA/mega-dance.png" ,RADIO Mega Dance
+http://188.134.10.11:8010/live
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://avatars.mds.yandex.net/get-music-misc/70683/remix_fm-225/1000x1000" ,Радио Remix
+http://radio-remix.ru:8000/radio
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://radiopotok.ru/f/station_webp/512/2500.webp" ,DANCE FM
+https://listen3.myradio24.com/dmfm
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://cdn.promodj.com/legacy/i/pdj_logo_310x310.png" ,PromoDJ FM - Klubb
+http://radio.promodj.com:8000/klubb-192
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202107/26/405ddc31ac50d61134d4338702b22021.jpg" ,NRJ Trance
+https://srv01.gpmradio.ru/stream/trust/mp3/128/19?token=kizug
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/4c56ca5c47a53c6c1fb612db1322feb2.jpg" ,NRJ Drum & Bass
+https://srv01.gpmradio.ru/stream/pro/aac/64/6?token=kizug
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/534f490b7f42698d0ffdc0818ebc28a9.jpg" ,NRJ Tech House
+https://srv01.gpmradio.ru/stream/trust/mp3/128/170?token=kizug
+#EXTINF:-1 group-title="GRAND PLUS/ДФМ"  tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/image/8ec052811b6312986874c33e5912e34d.jpg" ,NRJ Techno
+https://srv01.gpmradio.ru/stream/trust/mp3/128/18?token=kizug
+
 
 
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="pervy-kanal-eurasia-kz"  tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7f/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE%29.png/revision/latest?cb=20241102114813&format=original&path-prefix=ru" ,Первый канал Евразия 
@@ -737,11 +1873,11 @@ http://80.72.179.162:8086/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-logo="https://dl.dropbox.com/scl/fi/59013hqnkxesgy8wumvpb/2026-04-14-100340.png?rlkey=6gy2qiw201pjerzajfx4gy2n9&dl=0" ,УТРК Таласᴴᴰ 🇰🇬
 http://34.92.173.115/utrk_talas/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="utrk-madanyat-kg"  tvg-logo="https://iptvx.one/picons/utrk-madanyat-kg.png" ,УТРК Маданият 🇰🇬
-http://s.only4.tv/8377/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8377/mono.m3u8?token=Zv84H3fPJu
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="utrk-kg"  tvg-logo="https://i.ibb.co/VJ7cPRH/Xp5clCA.png" ,УТРКᴴᴰ 🇰🇬
-http://s.only4.tv/8376/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8376/mono.m3u8?token=Zv84H3fPJu
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="utrk-sport-kg"  tvg-logo="https://iptvx.one/picons/ktrk-sport.png" ,Спортᴴᴰ 🇰🇬
-http://s.only4.tv/8381/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8381/mono.m3u8?token=Zv84H3fPJu
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-logo="https://dl.dropbox.com/scl/fi/1sblc795p0iuouoay3znu/2026-04-05-205323.png?rlkey=vvgs10h9f0sxoai3qz647anq2&dl=0" ,7 канал SD 🇰🇬
 http://212.112.106.117:8086/0.m3u8
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-logo="https://dl.dropbox.com/scl/fi/0bhx6c2ob8aaj6xzgxhe3/2026-04-04-212814.png?rlkey=q0bdr63o5s6zinjnf1yxplt63&dl=0" ,8 каналᴴᴰ 🇰🇬
@@ -753,13 +1889,13 @@ http://77.235.26.137:8086/0.m3u8
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="no_epg"  tvg-logo="https://dl.dropbox.com/scl/fi/jb7c3z9j1iyrzltgtg0iw/2026-04-05-210316.png?rlkey=3na6r1scnfwwjnn71dms8vytg&dl=0" ,Nur TVᴴᴰ 🇰🇬
 http://146.120.213.172:8086/0.m3u8
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="lubimy-kg"  tvg-logo="https://iptvx.one/picons/lubimy-kg.png" ,Любимый SD 🇰🇬
-http://s.only4.tv/8378/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8378/mono.m3u8?token=Zv84H3fPJu
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-logo="https://otv.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3NlbWVpbnlpLnBuZw==?width=340&height=192&quality=93" ,Семейный 🇰🇬
-http://s.only4.tv/8380/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8380/mono.m3u8?token=Zv84H3fPJu
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="cinemax"  tvg-logo="https://iptvx.one/picons/cinemax-kg.png" ,Cinemax SD
-http://s.only4.tv/8382/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8382/mono.m3u8?token=Zv84H3fPJu
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="no_epg"  tvg-logo="http://asiatv.kg/wp-content/uploads/2021/10/cropped-cropped-cropped-logotipkd-1.png" ,Asia TVᴴᴰ 🇰🇬
-http://s.only4.tv/8375/mono.m3u8?token=Uqxoga1IGq
+http://s.only4.tv/8375/mono.m3u8?token=Zv84H3fPJu
 
 #EXTINF:-1 group-title="GRAND PLUS |KG 2"  tvg-id="tv1-kg-hd"  tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" ,TV1 KGᴴᴰ 🇰🇬
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
@@ -7083,34 +8219,19 @@ http://kinowalk.hopto.org/svamix_live
 #EXTINF:-1 tvg-name="Ser51" tvg-logo="https://kinowalk.hopto.org/web/image/301/128x128?unique=2026-05-09%2014:30:15.379504&access_token=6549f249-3ce0-48ff-a1fc-9111afd71407", Ser51
 #EXTGRP:GRAND IPTV/ Kinowalk Production
 http://kinowalk.hopto.org/ser51_live
-#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
 
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="427" tvg-logo="http://epg.one/img2/427.png",Пятый канал
-http://cdn.kubteltv.workers.dev/?ID=423
-
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="18" tvg-logo="http://epg.one/img2/18.png",РЕН ТВ
-http://cdn.kubteltv.workers.dev/?ID=376
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="79" tvg-logo="http://epg.one/img2/79.png",СТС
-http://cdn.kubteltv.workers.dev/?ID=377
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="304" tvg-logo="http://epg.one/img2/304.png",Домашний
-http://cdn.kubteltv.workers.dev/?ID=378
 #EXTINF:-1 g group-title="GRAND PLUS | KUBTELECOM" audio-track="rus" , Че
 http://31148.rafail1982.uz/Che/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="1598" tvg-logo="http://epg.one/img2/1598.png",Че!
-http://cdn.kubteltv.workers.dev/?ID=24
+
 
 
 #EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="1037" tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=353
 
 #EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="1570" tvg-logo="http://epg.one/img2/1570.png",Русский детектив
 http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
-#EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="994" tvg-logo="http://epg.one/img2/994.png",Русский бестселлер
-https://kino.zunotv.workers.dev/russkij_bestseller/index.m3u8
+
 #EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="1620" tvg-logo="http://epg.one/img2/1620.png",Русская Комедия
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:0  group-title="GRAND PLUS | KUBTELECOM" tvg-id="834" tvg-logo="http://epg.one/img2/834.png",Дом Кино
@@ -7452,185 +8573,6 @@ http://cdn.kubteltv.workers.dev/?ID=454
 #EXTINF:-1  group-title="GRAND PLUS | KUBTEL TV" ,Ювелирочка HD
 http://cdn.kubteltv.workers.dev/?ID=453
 
-
-
-
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="pervy-pl2" ,Первый канал (+2)
-https://stream.zuno-tv.workers.dev/channel/9091/769dda33/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="pervy-pl4" ,Первый канал (+4)
-https://stream.zuno-tv.workers.dev/channel/9091/n57169a4c/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="pervy-pl6" ,Первый канал (+6)
-https://stream.zuno-tv.workers.dev/channel/9091/n57169a0e/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl1" ,Россия 1 (+1)
-https://stream.zuno-tv.workers.dev/channel/9091/n5d4bb32d/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl2" ,Россия 1 (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/1edf0438/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl3" ,Россия 1 (+3)
-https://stream.zuno-tv.workers.dev/channel/9090/6226106/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl4" ,Россия 1 (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/1edf0476/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl5" ,Россия 1 (+5)
-https://stream.zuno-tv.workers.dev/channel/9090/n352eff50/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl6" ,Россия 1 (+6)
-https://stream.zuno-tv.workers.dev/channel/9090/1edf04b4/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl8" ,Россия 1 (+8)
-https://stream.zuno-tv.workers.dev/channel/9090/4c6e7a31/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rossia1-pl9" ,Россия 1 (+9)
-https://stream.zuno-tv.workers.dev/channel/9090/4c6e7a50/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="ntv-pl2" ,НТВ (+2)
-https://stream.zuno-tv.workers.dev/channel/9091/34151a29/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="ntv-pl4" ,НТВ (+4)
-https://stream.zuno-tv.workers.dev/channel/9091/34151a67/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="ntv-pl7" ,НТВ (+7)
-https://stream.zuno-tv.workers.dev/channel/9091/34151ac4/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="kultura-pl2" ,Россия К (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n34fdf611/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="kultura-pl4" ,Россия К (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n34fdf5d3/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="kultura-pl7" ,Россия К (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n34fdf576/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tvcentr-pl4" ,ТВЦ (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/797d434f/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tvcentr-pl7" ,ТВЦ (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/797d4352/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rentv-pl2" ,Рен ТВ (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n632916ea/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rentv-pl4" ,Рен ТВ (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n2272ecfb/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="rentv-pl7" ,Рен ТВ (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n2272ecf8/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="sts-pl2" ,СТС (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n12cd810a/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="sts-pl4" ,СТС (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n12cd80cc/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="sts-pl7" ,СТС (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n12cd806f/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="domashny-pl2" ,Домашний (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/1807d3b7/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="domashny-pl4" ,Домашний (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/1807d3b9/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="domashny-pl4" ,Домашний (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/1807d3bc/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tv3-ru-pl2" ,ТВ3 (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/5204b6f3/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tv3-ru-pl4" ,ТВ3 (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/5204b731/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tv3-ru-pl7" ,ТВ3 (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/5204b78e/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="piatnica-pl2" ,Пятница (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n64007e6c/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="piatnica-pl4" ,Пятница (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n64007e2e/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="piatnica-pl4" ,Пятница (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n2bb57401/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="zvezda-pl2" ,Звезда (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n472715db/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="zvezda-pl4" ,Звезда (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n4727159d/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="zvezda-pl7" ,Звезда (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n47271540/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="mir-pl2" ,Мир (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n2ce68a8e/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="mir-pl4" ,Мир (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n2ce68a50/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="mir-pl7" ,Мир (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n2ce689f3/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tnt-pl2" ,ТНТ (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/4e495c2f/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tnt-pl4" ,ТНТ4 (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="tnt-pl7" ,ТНТ (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="che-pl2" ,Че! (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/1769f2d8/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="che-pl4" ,Че! (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/762d7641/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="che-pl7" ,Че! (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/762d769e/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV",Муз ТВ (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/2badb3be/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV",Муз ТВ (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/2badb3fc/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV",Муз ТВ (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/2badb459/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="yu-pl2" ,Ю (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/548e46a8/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="yu-pl4" ,Ю (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/548e46e6/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="yu-pl7" ,Ю (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/548e4743/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="2na2-pl2" ,2x2 (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n3b8237d6/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="2na2-pl4" ,2x2 (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n3b823798/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="2na2-pl7" ,2x2 (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n3b82373b/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV",Солнце (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n3a70dbd0/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV",Солнце (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n3a70db92/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV",Солнце (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n3a70db35/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="karusel-pl2" ,Карусель (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/47f7f280/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="karusel-pl4" ,Карусель (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/47f7f2be/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="karusel-pl7" ,Карусель (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/47f7f31b/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="super-pl2" ,Суббота (+2)
-https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa92/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="super-pl4" ,Суббота (+4)
-https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa54/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | PLUS TV" tvg-id="super-pl7" ,Суббота (+7)
-https://stream.zuno-tv.workers.dev/channel/9090/n60b4a9f7/index.m3u8
-
-
-
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="tv1000"   audio-track="rus",viju TV1000 FD
-http://46.53.208.4/live/5107.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="tv1000-action"   audio-track="rus",viju TV1000 Action FD
-http://46.53.208.4/live/5106.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="viju-tv1000-romantica"   audio-track="rus",viju TV1000 Romantica FD
-http://46.53.208.4/live/3111.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="viju-tv1000-novella"   audio-track="rus",viju TV1000 Новелла HD
-http://46.53.208.4/live/545.m3u8
-
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="viju-tv1000-novella"  tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" ,viju TV1000 Новелла HD
-http://92.63.106.41/24hp/stream.php?id=8308
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="tv1000-russkoe-kino"  tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" ,viju TV1000 Русское HD
-http://92.63.106.41/24hp/stream.php?id=489
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="vip-comedy"  tvg-logo="https://iptvx.one/picons/vip-comedy.png" ,viju+ Comedy HD
-http://92.63.106.41/24hp/stream.php?id=194
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="vip-megahit"  tvg-logo="https://iptvx.one/picons/vip-megahit.png" ,viju+ Megahit HD
-http://92.63.106.41/24hp/stream.php?id=195
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="vip-premiere"  tvg-logo="https://iptvx.one/picons/vip-premiere.png" ,viju+ Premiere HD
-http://92.63.106.41/24hp/stream.php?id=196
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="vip-serial"  tvg-logo="https://iptvx.one/picons/vip-serial.png" ,viju+ Serial HD
-http://92.63.106.41/24hp/stream.php?id=3592
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="indiyskoe-kino"  tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" ,Индийское кино
-http://92.63.106.41/24hp/stream.php?id=62
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinokomedia"  tvg-logo="https://iptvx.one/picons/kinokomedia.png" ,Кинокомедия HD
-http://92.63.106.41/24hp/stream.php?id=3738
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinomiks"  tvg-logo="https://iptvx.one/picons/kinomiks.png" ,Киномикс
-http://92.63.106.41/24hp/stream.php?id=167
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinopremiera-hd"  tvg-logo="https://iptvx.one/picons/kinopremiera.png"   tvg-name="Кинопремьера HD",Кинопремьера HD
-http://92.63.106.41/24hp/stream.php?id=183
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinosvidanie" ,Киносвидание HD
-http://92.63.106.41/24hp/stream.php?id=526
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinosemiya"  tvg-logo="https://iptvx.one/picons/kinosemia.png" ,Киносемья HD
-http://92.63.106.41/24hp/stream.php?id=528
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinouzhas"  tvg-logo="https://iptvx.one/picons/kinouzhas.png" ,Киноужас HD
-http://92.63.106.41/24hp/stream.php?id=259
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinouzhas"  tvg-logo="https://iptvx.one/picons/kinouzhas.png" ,Киноужас HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/9033/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="kinoxit"  tvg-logo="https://iptvx.one/picons/kinoxit.png"   tvg-name="Кинохит HD",Кинохит HD
-http://92.63.106.41/24hp/stream.php?id=534
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="muzhskoe-kino"  tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" ,Мужское кино HD
-http://92.63.106.41/24hp/stream.php?id=148
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="nashe-novoe-kino"  tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" ,Наше Новое Кино HD
-http://92.63.106.41/24hp/stream.php?id=3739
-#EXTINF:-1  group-title="GRAND PLUS | VIJU TV"  tvg-id="rodnoe-kino"  tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" ,Родное кино
-http://92.63.106.41/24hp/stream.php?id=12
 
 
 #EXTINF:-1,viju TV1000 русское
@@ -37528,91 +38470,6 @@ http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 http://169.150.223.25/Private/index.m3u8
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",Private TV
 http://79.127.207.193:80/Private/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe 60FPS
-http://vipl.one/low/yuk2tepx4zs9/1684.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Anal
-http://vipl.one/low/yuk2tepx4zs9/1685.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Blondes
-http://vipl.one/low/yuk2tepx4zs9/1686.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Blowjob
-http://vipl.one/low/yuk2tepx4zs9/1687.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Cinema
-http://vipl.one/low/yuk2tepx4zs9/1688.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Cosplay
-http://vipl.one/low/yuk2tepx4zs9/1689.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Ebony
-http://vipl.one/low/yuk2tepx4zs9/1690.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Gays
-http://vipl.one/low/yuk2tepx4zs9/1691.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Gloryhole
-http://vipl.one/low/yuk2tepx4zs9/1692.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Henati
-http://vipl.one/low/yuk2tepx4zs9/1693.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Japanese
-http://vipl.one/low/yuk2tepx4zs9/1694.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Lesbians
-http://vipl.one/low/yuk2tepx4zs9/1695.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Massage
-http://vipl.one/low/yuk2tepx4zs9/1696.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Milf
-http://vipl.one/low/yuk2tepx4zs9/1697.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Russian Teens
-http://vipl.one/low/yuk2tepx4zs9/1698.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Orgy
-http://vipl.one/low/yuk2tepx4zs9/1699.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Pregnant
-http://vipl.one/low/yuk2tepx4zs9/1700.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Shemales
-http://vipl.one/low/yuk2tepx4zs9/1701.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Solo
-http://vipl.one/low/yuk2tepx4zs9/1702.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Step Family
-http://vipl.one/low/yuk2tepx4zs9/1703.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe 4K UHD
-http://vipl.one/low/yuk2tepx4zs9/1704.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe VIP 4K 60FPS
-http://vipl.one/low/yuk2tepx4zs9/1705.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe BBW
-http://vipl.one/low/yuk2tepx4zs9/1706.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe BabySitter
-http://vipl.one/low/yuk2tepx4zs9/1707.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe BDSM
-http://vipl.one/low/yuk2tepx4zs9/1708.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Big Cock
-http://vipl.one/low/yuk2tepx4zs9/1709.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Brunette
-http://vipl.one/low/yuk2tepx4zs9/1710.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe CheerLeader
-http://vipl.one/low/yuk2tepx4zs9/1711.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Cuckold
-http://vipl.one/low/yuk2tepx4zs9/1712.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Creampie
-http://vipl.one/low/yuk2tepx4zs9/1713.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Fake Taxi
-http://vipl.one/low/yuk2tepx4zs9/1714.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Foot Fetish
-http://vipl.one/low/yuk2tepx4zs9/1715.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Fisting
-http://vipl.one/low/yuk2tepx4zs9/1716.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe GangBang
-http://vipl.one/low/yuk2tepx4zs9/1717.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Parody
-http://vipl.one/low/yuk2tepx4zs9/1718.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe POV
-http://vipl.one/low/yuk2tepx4zs9/1719.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Public Agent
-http://vipl.one/low/yuk2tepx4zs9/1720.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe RedHeads
-http://vipl.one/low/yuk2tepx4zs9/1721.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Schoolgirl
-http://vipl.one/low/yuk2tepx4zs9/1722.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-#EXTINF:-1 group-title="GRAND PLUS | EROLUX", EroLuxe Asian
-http://vipl.one/low/yuk2tepx4zs9/1723.m3u8?%7CUser-Agent=http-user-agent=Mozilla/5.0%20iPhone;%20CPU%20iPhone%20OS%2018_6%20like%20Mac%20OS%20X%20AppleWebKit/605.1.15%20KHTML,%20like%20Gecko%20CriOS/139.0.7258.76%20Mobile/15E148%20Safari/604.1
-
-
 
 
 #EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.1
