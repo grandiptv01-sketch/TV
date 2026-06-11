@@ -2,12 +2,289 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/10}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/11}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6821 1351 1689",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+#EXTINF:-1 ggroup-title="GRAND PLUS | FIFA 2026 RU" audio-track="rus",Futbol TV
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1010/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" ggroup-title="GRAND PLUS | FIFA 2026 RU" audio-track="rus",Sport UZ HD
+#EXTVLCOPT:http-user-agent=TiviMate
+https://stream8.cinerama.uz/1004/tracks-v1a2/mono.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png" ,Матч!
+http://cdn.kubteltv.workers.dev/?ID=3
+#EXTINF:-1  group-title=""GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png" ,Матч! HD
+http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU", Матч! ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! ТВ
+http://45.145.32.13:20440/match/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",Матч ТВ
+http://91.221.252.12:82/tv109
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! ФУТБОЛ 1 HD
+http://91.221.252.12:82/tv111
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Футбол 1 HD
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 1
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 2
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 3
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Премьер
+http://iptv46.mcx-ix.ru:8077/nash-football/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Премьер HD
+http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Футбол 2 HD
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Футбол 3 HD
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | FIFA 2026 RU",FOX SPORTS 1
+http://45.167.255.254:8010/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | FIFA 2026 RU",FOX SPORTS 2
+http://45.167.255.254:8010/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | FIFA 2026 RU",FOX SPORTS 3
+http://45.167.255.254:8010/play/a047/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! БОЕЦ
+http://91.221.252.12:82/tv110
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! ФУТБОЛ 2 HD
+http://91.221.252.12:82/tv112
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ ПРЕМЬЕР HD
+http://91.221.252.12:82/tv114
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! ФУТБОЛ 3 HD
+http://91.221.252.12:82/tv113
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇦🇷[coming]
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇧🇷[coming]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://66.102.126.10:8000/play/a076/index.m3u8
+http://103.204.43.87:8080/live/1/1/266.m3u8
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://66.102.126.10:8000/play/a022/index.m3u8
+http://103.204.43.87:8080/live/1/1/264.m3u8
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇵🇰[coming]
+http://103.204.43.87:8080/live/1/1/313.m3u8
+#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 [coming]
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/gJPjOzZspNALkaCOt9A-rA/e/1781247247/4000/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/zLkgv2dLTO7statqxXEUSg/e/1781247248/4001/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/kl_yIOWd8wrpiNqnJlYUuA/e/1781247249/1408/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/JkiJYQoy0Q-ZHbBm5J2cCg/e/1781247250/1001/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/tUbUKuwqWcqjZAnXqSP5JQ/e/1781247251/1002/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/bpZkOx6PPjIZ8JTuRJWfAQ/e/1781247252/1003/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/jTi7MxqLZ-3ALzmLR3BxmA/e/1781247255/1011/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/iIDngEedLZamkolX8v9uTg/e/1781247257/1286/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/oBeNbmJ0z5SEb5t_zMS4fA/e/1781247257/1014/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/fGoQCMWPUbuTWjX0acSQEA/e/1781247258/1216/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/ygh0PNGZvL8e4W5YUdgVyw/e/1781247259/1012/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/pZ2VfJkVbO81MsxKp-kBMA/e/1781247260/1217/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/b8LGyYJf1WwUg6VOBUR9uQ/e/1781247264/1221/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg", DasturxonTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/UvsxJrnrtoEDMlP50eCJeA/e/1781247265/1206/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/O-tgg4Jj7rwR-0f1zYvj_Q/e/1781247265/1007/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/O2MxY65uMWFB_SdUFXkooQ/e/1781247266/1205/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/mKpXWmHRnuKDYXjkHAQnhQ/e/1781247267/1008/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/xA7DJGlL-n0VzuApy-koMg/e/1781247268/1005/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/cuesbc6pawuutPrCGSzfwg/e/1781247269/1013/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/iArxwJoDQtW9jy35Jfwdhw/e/1781247270/1009/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/2V0uIziaO2KGxQk9QDKk7w/e/1781247271/1209/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/eEcxFJUkoqAtELPBB1qnFA/e/1781247272/1006/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/g4zCHrRFOxbUNxy3nGlEwQ/e/1781247273/1015/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/5IMwyAW0e9cV42VJVK8Vlw/e/1781247274/1204/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/nJ-4B8RupGEQz0Qvk9634w/e/1781247275/4007/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/J_mAzsjo1wetJFMhPC0SRQ/e/1781247276/4008/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/rCjPRHCOffZoDFYHvUaTjg/e/1781247277/1220/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/bxX2EuRxcAztaViGLmPToA/e/1781247277/1457/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/usW-BFgO-sfMyg19vU8Nww/e/1781247278/1458/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/E4tC8b4QB9i1uxGaRenp-w/e/1781247279/1460/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/OlGl-kwALHEdFNYKMpKYPA/e/1781247280/1461/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/M-VhdbL_1tv1Q8uKL2V-ZA/e/1781247281/1462/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/TZbcNHDTBKZWnBMq3SBN-w/e/1781247282/1463/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/XKHj97vY3mM0u0-AhnWdJQ/e/1781247283/1464/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/55KqHLvN4Dq5sZZdvk_nvg/e/1781247284/1465/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/4HMp9wSd8GFA8MJatAyFMQ/e/1781247285/1466/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/DJggpu8ZosWzjQ9al9bHrg/e/1781247286/1467/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Bukhara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/Qw8vzx6zJEP33YSQyHGEmw/e/1781247287/1459/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Samarkand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/GaiY8nBXBMQEEcegCh58ww/e/1781247287/1468/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/mReNQK-vqw7CqebjgLybwA/e/1781247288/4012/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/gWUS8Zwas2V5-X740zd4yg/e/1781247289/1469/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/XWH5MRKFld-SMoszF9WlaA/e/1781247290/1470/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/HJP-ChblzLpcz7PrRu57Hw/e/1781247291/1494/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/KZCXZUyIOJxFm1aMc7C0wg/e/1781247292/1486/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/J7lXpBXqRe5QbGOuMdtKVQ/e/1781247293/1485/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/oT8sfG8brxGhByytdSYgKQ/e/1781247294/1488/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/3Vtuq43FvxMURdv8PATNyA/e/1781247295/1489/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/6N8cdya8qdlLHRvGw5QUpg/e/1781247296/1495/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/ee9fuOzsoOw0BpmxaJLCWQ/e/1781247297/1496/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/b4EGTXC6E0mma6sdQ59ieA/e/1781247298/1491/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/27sHMQZsnpMAsTAqecqktg/e/1781247298/1492/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/_2x3vvTZYMvXztHf4KhLHw/e/1781247299/1490/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/I-fR_3ATzxrS6ihCgU5upg/e/1781247300/1285/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/v9MGL6wtmVyMA3t9ERu3ww/e/1781247301/1497/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/QRXYb8_2gWHRbG8Ck7Gj8Q/e/1781247302/1301/index.m3u8?ip=2.59.161.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/wI4Jyzqq3HMyS11TgUfhug/e/1781247303/1499/index.m3u8?ip=2.59.161.252
 
 
 
@@ -604,165 +881,6 @@ http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇦🇷[coming]
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇧🇷[coming]
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇮🇳[coming]
-http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇮🇳[coming]
-http://66.102.126.10:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://66.102.126.10:8000/play/a076/index.m3u8
-http://103.204.43.87:8080/live/1/1/266.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://66.102.126.10:8000/play/a022/index.m3u8
-http://103.204.43.87:8080/live/1/1/264.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇵🇰[coming]
-http://103.204.43.87:8080/live/1/1/313.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 [coming]
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",News 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SATV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",BanglaVision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Bijoy TV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",MAASRANGA HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Bangla TV
-http://116.204.149.16/banglatv/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-http://116.204.149.16/rtvhd/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Duronto
-http://103.204.43.87:8080/live/1/1/290.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",NICK BANGLA
-http://103.204.43.87:8080/live/1/1/275.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Sonic Bangla
-http://103.204.43.87:8080/live/1/1/274.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Makka🔴Live
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Madina 🔴Live
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Madani TV Bangla
-http://103.204.43.87:8080/live/1/1/304.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://stvlive.net:8080/sonyaath/index.m3u8
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Sony Max HD
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", SONY MAX 2
-http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Gazi TV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",NAGORIK HD
-http://198.195.239.50:8095/nagorik/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",T Sports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",A Sports HD
-http://103.204.43.87:8080/live/1/1/309.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",PTV Sports
-http://103.204.43.87:8080/live/1/1/313.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Willow
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FOX SPORTS 501 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
-
-‎
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SKY SPORTS CRICKET
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SONY SPORTS 1HD
-http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SONY SPORTS 2 HD 🅰️
-http://103.204.43.87:8080/live/1/1/304.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SONY SPORTS 2 HD 🅱️
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",SONY SPORTS 5 HD
-http://66.102.126.10:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Star Sports 1 HD
-http://103.204.43.87:8080/live/1/1/258.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Star Sports 2 HD
-http://103.204.43.87:8080/live/1/1/255.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",STAR SPORTS SELECT 1 HD
-http://103.204.43.87:8080/live/1/1/244.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",STAR SPORTS SELECT 2 HD
-http://103.204.43.87:8080/live/1/1/243.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#https://cdn-2.pishow.tv/live/226/master.m3u8
-http://103.180.212.191:3500/live/250.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Discovery HD Bengali
-http://103.159.180.34:5001/live/3428.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026", Discovery Bengali
-http://103.159.180.34:5001/live/573.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",STABLE-SPORTS TV
-http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Toffee {premium}
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Prince [2026]
-https://yellow-flower-41fc.cinepixserver00.workers.dev/1:/22-5-26/ottboxbd.COM%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%202026%20Bengali%20ORG%201080p%20WEB-DL%20x264.mkv
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Domm [2026]
-https://yellow-flower-41fc.cinepixserver00.workers.dev/1:/21-5-26/Domm%202026%20Bengali%20(ORG)%201080p%20WEB-DL%20x264%20ESubs.mkv
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Rakkhosh [2026]
-http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20SIAM/Rakkhosh%20(2026)%20Bengali%20720p%20HD-Camrip.mp4
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Bonolota Express [2026]
-http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",STABLE-SPORTS TV
-http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",Colors Bangla HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",ZEE Bangla HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
-
 \
 
 #EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoazia"  tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200"   tvg-name="Сити Эдем - КиноАзия",КиноАзия
@@ -1272,59 +1390,59 @@ https://edge-b-05.ctc.ru/vod/hls/fta/rHslGB_x9pTGs3hU_4bcUQ/c98d840261c87f8adf6b
 
 
 
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 1 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 1 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e01_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 2 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 2 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e02_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 3 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 3 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e03_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 4 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 4 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e04_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 5 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 5 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e05_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 6 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 6 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e06_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 7 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 7 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e07_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 8 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 8 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e08_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 1 СЕЗОН 9 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 1 СЕЗОН 9 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s01e09_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 1 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 1 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e01_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 2 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 2 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e02_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 3 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 3 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e03_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 4 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 4 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e04_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 5 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 5 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e05_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 6 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 6 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e06_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 7 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 7 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e07_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 8 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 8 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e08_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 2 СЕЗОН 9 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 2 СЕЗОН 9 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s02e09_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 1 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 1 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e01_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 2 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 2 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e02_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 3 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 3 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e03_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 4 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 4 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e04_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 5 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 5 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e05_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 6 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 6 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e06_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 7 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 7 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e07_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 8 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 8 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e08_720.mp4
-#EXTINF:-1  group-title="GRAND PLUS/М Д Ж" 3 СЕЗОН 9 СЕРИЯ 
+#EXTINF:-1  group-title="GRAND PLUS/М Д Ж", 3 СЕЗОН 9 СЕРИЯ 
 https://svd.kvb.cool/video_mp4/serials/MirDrJvachka/58bedbaf575eb2686d56f53a08ed4d76/s03e09_720.mp4
 
 
@@ -4248,546 +4366,6 @@ http://31.131.141.195:8000/play/1080/index.m3u8
 http://31.131.141.195:8000/play/1030/index.m3u8
 
 
-
-
-
-
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",360 Novosti
-http://217.174.229.136:8000/play/a02a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",360 Подмосковье
-http://217.174.229.136:8000/play/a07l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",8 Канал
-http://217.174.229.136:8000/play/a00g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A HABER
-http://217.174.229.136:8000/play/a0e9
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A HABER HD
-http://217.174.229.136:8000/play/a0ee
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A SPOR
-http://217.174.229.136:8000/play/a0ea
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",A SPOR HD
-http://217.174.229.136:8000/play/a0ef
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ASFTV
-http://217.174.229.136:8000/play/a0f3
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ASFTV
-http://217.174.229.136:8000/play/a0es
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ATV
-http://217.174.229.136:8000/play/a0e8
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ATV HD
-http://217.174.229.136:8000/play/a0ed
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Akıllı TV
-http://217.174.229.136:8000/play/a0f1
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 1
-http://217.174.229.136:8000/play/a07p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 2
-http://217.174.229.136:8000/play/a084
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia 2 HD
-http://217.174.229.136:8000/play/a078
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Black
-http://217.174.229.136:8000/play/a00r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Hit HD
-http://217.174.229.136:8000/play/a041
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Premium HD
-http://217.174.229.136:8000/play/a07y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Red
-http://217.174.229.136:8000/play/a00p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Red HD
-http://217.174.229.136:8000/play/a077
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Amedia Sci-Fi
-http://217.174.229.136:8000/play/a00q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BABY TIME
-http://217.174.229.136:8000/play/a024
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BLOOMBERGHT HD
-http://217.174.229.136:8000/play/a0e4
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE
-http://217.174.229.136:8000/play/a02g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE CLASSIC
-http://217.174.229.136:8000/play/a02c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE DELUXE
-http://217.174.229.136:8000/play/a02i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE ETHNO
-http://217.174.229.136:8000/play/a02j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE FRESH
-http://217.174.229.136:8000/play/a02f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE HITS
-http://217.174.229.136:8000/play/a02b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE ROCK
-http://217.174.229.136:8000/play/a02e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE Russkiy Hit
-http://217.174.229.136:8000/play/a02h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE SHLYAGER
-http://217.174.229.136:8000/play/a02d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV
-http://217.174.229.136:8000/play/a07s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV Classic
-http://217.174.229.136:8000/play/a056
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",BRIDGE TV Русский Хит
-http://217.174.229.136:8000/play/a08u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Bolt
-http://217.174.229.136:8000/play/a055
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",CBC Sport TV HD
-http://217.174.229.136:8000/play/a04k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",CNN TÜRK
-http://217.174.229.136:8000/play/a0ep
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Curiosity Stream
-http://217.174.229.136:8000/play/a09l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",D anadolu
-http://217.174.229.136:8000/play/a0ez
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Da Vinci
-http://217.174.229.136:8000/play/a03m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Demirören Medya
-http://217.174.229.136:8000/play/a0ey
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Dream Türk
-http://217.174.229.136:8000/play/a0et
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",EKİNTÜRK TV
-http://217.174.229.136:8000/play/a0f6
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",EURO D HD
-http://217.174.229.136:8000/play/a0eu
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Extreme
-http://217.174.229.136:8000/play/a08q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Fashion HD
-http://217.174.229.136:8000/play/a089
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Gagsnetwork
-http://217.174.229.136:8000/play/a09c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Gulli Girl
-http://217.174.229.136:8000/play/a09t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",HABERTURK HD
-http://217.174.229.136:8000/play/a0e3
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Idman TV HD
-http://217.174.229.136:8000/play/a04e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Info Card (test)
-http://217.174.229.136:8000/play/a0f0
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KANAL 7 HD
-http://217.174.229.136:8000/play/a0ek
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KHL
-http://217.174.229.136:8000/play/a07q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",KHL Prime HD
-http://217.174.229.136:8000/play/a07x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",LEOMAX24
-http://217.174.229.136:8000/play/a03l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",LUXURY
-http://217.174.229.136:8000/play/a026
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Lider Haber TV
-http://217.174.229.136:8000/play/a0f4
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",NANO
-http://217.174.229.136:8000/play/a027
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",NTV Kazakstan
-http://217.174.229.136:8000/play/a020
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",O2TV
-http://217.174.229.136:8000/play/a08s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ocean
-http://217.174.229.136:8000/play/a086
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Plan B HD
-http://217.174.229.136:8000/play/a08l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RBC TV CHANNEL
-http://217.174.229.136:8000/play/a028
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RT DOC HD
-http://217.174.229.136:8000/play/a022
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RT Region SD
-http://217.174.229.136:8000/play/a021
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RTG HD
-http://217.174.229.136:8000/play/a045
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RTG TV
-http://217.174.229.136:8000/play/a07r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RUMELİ TV
-http://217.174.229.136:8000/play/a0er
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",RUMELİ TV
-http://217.174.229.136:8000/play/a0f5
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ru TV
-http://217.174.229.136:8000/play/a034
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",SHOW HD
-http://217.174.229.136:8000/play/a0e2
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",SHOW MAX HD
-http://217.174.229.136:8000/play/a0e5
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",START World
-http://217.174.229.136:8000/play/a09a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Shopping Live
-http://217.174.229.136:8000/play/a00h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Silk Way
-http://217.174.229.136:8000/play/a04w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Star Family
-http://217.174.229.136:8000/play/a04u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TELE 1 HD
-http://217.174.229.136:8000/play/a0ew
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV 8 INT
-http://217.174.229.136:8000/play/a0ev
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV XXI
-http://217.174.229.136:8000/play/a06w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TV2
-http://217.174.229.136:8000/play/a0eq
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Telekanal 360
-http://217.174.229.136:8000/play/a029
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Terra
-http://217.174.229.136:8000/play/a032
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Terra HD
-http://217.174.229.136:8000/play/a039
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",TiJi
-http://217.174.229.136:8000/play/a09k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Torre Ricca
-http://217.174.229.136:8000/play/a025
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ULKE TV HD
-http://217.174.229.136:8000/play/a0el
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",VKUS
-http://217.174.229.136:8000/play/a023
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",minikaCOCUK
-http://217.174.229.136:8000/play/a0eb
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",minikaGO
-http://217.174.229.136:8000/play/a0ec
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju History
-http://217.174.229.136:8000/play/a03r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju Nature
-http://217.174.229.136:8000/play/a03s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000
-http://217.174.229.136:8000/play/a03p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 action
-http://217.174.229.136:8000/play/a03o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 romantica
-http://217.174.229.136:8000/play/a04b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 новелла
-http://217.174.229.136:8000/play/a03w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju TV1000 русское
-http://217.174.229.136:8000/play/a03n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Comedy
-http://217.174.229.136:8000/play/a040
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Megahit
-http://217.174.229.136:8000/play/a03z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Planet
-http://217.174.229.136:8000/play/a048
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Premiere
-http://217.174.229.136:8000/play/a03y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Serial
-http://217.174.229.136:8000/play/a049
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",viju+ Sport
-http://217.174.229.136:8000/play/a03t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",БСТ
-http://217.174.229.136:8000/play/a05j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",БелРос
-http://217.174.229.136:8000/play/a051
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Бобёр
-http://217.174.229.136:8000/play/a05q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Большая Азия
-http://217.174.229.136:8000/play/a038
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",В гостях у сказки
-http://217.174.229.136:8000/play/a02u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Витрина ТВ
-http://217.174.229.136:8000/play/a00s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Восток
-http://217.174.229.136:8000/play/a033
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Глазами Туриста HD
-http://217.174.229.136:8000/play/a043
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Детский
-http://217.174.229.136:8000/play/a035
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Детский Мир
-http://217.174.229.136:8000/play/a088
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Диалоги о рыбалке
-http://217.174.229.136:8000/play/a08w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикая охота HD
-http://217.174.229.136:8000/play/a08k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикая рыбалка HD
-http://217.174.229.136:8000/play/a08j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дикий
-http://217.174.229.136:8000/play/a05b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Доктор
-http://217.174.229.136:8000/play/a036
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дом кино
-http://217.174.229.136:8000/play/a05f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний
-http://217.174.229.136:8000/play/a00l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний (+2)
-http://217.174.229.136:8000/play/a07v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Домашний (+4)
-http://217.174.229.136:8000/play/a01q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Дон 24
-http://217.174.229.136:8000/play/a05g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЕГЭ
-http://217.174.229.136:8000/play/a05h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Еврокино
-http://217.174.229.136:8000/play/a092
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Европа Плюс
-http://217.174.229.136:8000/play/a08c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Живая Природа HD
-http://217.174.229.136:8000/play/a044
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Живи активно HD
-http://217.174.229.136:8000/play/a09i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЗВЕЗДА ПЛЮС
-http://217.174.229.136:8000/play/a05p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Загородная жизнь
-http://217.174.229.136:8000/play/a082
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Зал суда
-http://217.174.229.136:8000/play/a09b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда
-http://217.174.229.136:8000/play/a03j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда (+2)
-http://217.174.229.136:8000/play/a074
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Звезда (+7)
-http://217.174.229.136:8000/play/a07c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Зоопарк
-http://217.174.229.136:8000/play/a02l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ИНДИЙСКОЕ КИНО
-http://217.174.229.136:8000/play/a02v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Известия
-http://217.174.229.136:8000/play/a08a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Иллюзион +
-http://217.174.229.136:8000/play/a02m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Индия
-http://217.174.229.136:8000/play/a09x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Инфоканал Телекарта
-http://217.174.229.136:8000/play/a03b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КВН ТВ
-http://217.174.229.136:8000/play/a02r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОМИКС HD
-http://217.174.229.136:8000/play/a046
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОПРЕМЬЕРА HD
-http://217.174.229.136:8000/play/a09h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",КИНОСВИДАНИЕ
-http://217.174.229.136:8000/play/a059
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Карусель
-http://217.174.229.136:8000/play/a03g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Катунь 24
-http://217.174.229.136:8000/play/a02q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинеко
-http://217.174.229.136:8000/play/a02s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинеко HD
-http://217.174.229.136:8000/play/a02w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино 24
-http://217.174.229.136:8000/play/a06y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино ТВ (+4)
-http://217.174.229.136:8000/play/a083
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кино ТВ HD
-http://217.174.229.136:8000/play/a047
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Киноман
-http://217.174.229.136:8000/play/a02p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Киносемья HD
-http://217.174.229.136:8000/play/a085
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кинохит HD
-http://217.174.229.136:8000/play/a057
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ключ
-http://217.174.229.136:8000/play/a07z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Конный мир
-http://217.174.229.136:8000/play/a02t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Курай
-http://217.174.229.136:8000/play/a05i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Кухня ТВ
-http://217.174.229.136:8000/play/a07o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ЛОТ-регион
-http://217.174.229.136:8000/play/a037
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Любимое кино
-http://217.174.229.136:8000/play/a050
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Лёва HD
-http://217.174.229.136:8000/play/a08e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",МУЖСКОЕ КИНО
-http://217.174.229.136:8000/play/a07i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",МУЗ ТВ
-http://217.174.229.136:8000/play/a00n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Майдан
-http://217.174.229.136:8000/play/a094
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мама
-http://217.174.229.136:8000/play/a071
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч ТВ
-http://217.174.229.136:8000/play/a03e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч ТВ HD
-http://217.174.229.136:8000/play/a01s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 1
-http://217.174.229.136:8000/play/a010
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 2
-http://217.174.229.136:8000/play/a011
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч Футбол 3
-http://217.174.229.136:8000/play/a012
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Матч! Премьер
-http://217.174.229.136:8000/play/a00o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир
-http://217.174.229.136:8000/play/a04y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир 24
-http://217.174.229.136:8000/play/a00w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир Увлечений
-http://217.174.229.136:8000/play/a05c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мир сериала
-http://217.174.229.136:8000/play/a087
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Москва 24
-http://217.174.229.136:8000/play/a07k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мосфильм. Золотая коллекция
-http://217.174.229.136:8000/play/a07d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Моя Планета
-http://217.174.229.136:8000/play/a06v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Моя планета HD
-http://217.174.229.136:8000/play/a07b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мужской
-http://217.174.229.136:8000/play/a081
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мульт
-http://217.174.229.136:8000/play/a06x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Мульт HD
-http://217.174.229.136:8000/play/a042
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НВВ
-http://217.174.229.136:8000/play/a07g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НИК
-http://217.174.229.136:8000/play/a07h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НСТВ
-http://217.174.229.136:8000/play/a070
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ
-http://217.174.229.136:8000/play/a03f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ (+2)
-http://217.174.229.136:8000/play/a07n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ (+7)
-http://217.174.229.136:8000/play/a08p
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ HD
-http://217.174.229.136:8000/play/a08m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Право
-http://217.174.229.136:8000/play/a08h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Сериал
-http://217.174.229.136:8000/play/a08i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",НТВ Стиль
-http://217.174.229.136:8000/play/a08g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наука
-http://217.174.229.136:8000/play/a06u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наука HD
-http://217.174.229.136:8000/play/a07a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Наше новое кино
-http://217.174.229.136:8000/play/a08f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ОТВ (Екатеринбург)
-http://217.174.229.136:8000/play/a08t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ОТВ Челябинск БУЛАТ
-http://217.174.229.136:8000/play/a095
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Общественное ТВ России
-http://217.174.229.136:8000/play/a09v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Охота и Рыбалка
-http://217.174.229.136:8000/play/a02y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый Вегетарианский
-http://217.174.229.136:8000/play/a08y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал
-http://217.174.229.136:8000/play/a03c
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал (+2)
-http://217.174.229.136:8000/play/a00t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Первый канал HD
-http://217.174.229.136:8000/play/a09g
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Петербург 5 канал
-http://217.174.229.136:8000/play/a03u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Петербург 5 канал (+2)
-http://217.174.229.136:8000/play/a098
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пингвин
-http://217.174.229.136:8000/play/a05o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Победа
-http://217.174.229.136:8000/play/a09j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Продвижение (Сибирь)
-http://217.174.229.136:8000/play/a054
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пятница
-http://217.174.229.136:8000/play/a09d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Пятница (+7)
-http://217.174.229.136:8000/play/a01w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РБК
-http://217.174.229.136:8000/play/a07m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН
-http://217.174.229.136:8000/play/a03h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+2)
-http://217.174.229.136:8000/play/a097
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+4)
-http://217.174.229.136:8000/play/a01o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",РЕН (+7)
-http://217.174.229.136:8000/play/a07f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Родное кино
-http://217.174.229.136:8000/play/a05d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 1
-http://217.174.229.136:8000/play/a03d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 1 (+2)
-http://217.174.229.136:8000/play/a00u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия HD
-http://217.174.229.136:8000/play/a031
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия К
-http://217.174.229.136:8000/play/a07e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русская История
-http://217.174.229.136:8000/play/a09q
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Бестселлер
-http://217.174.229.136:8000/play/a04x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Детектив
-http://217.174.229.136:8000/play/a04t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский Роман
-http://217.174.229.136:8000/play/a04s
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Русский иллюзион
-http://217.174.229.136:8000/play/a090
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС
-http://217.174.229.136:8000/play/a03i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС (+2)
-http://217.174.229.136:8000/play/a07u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС (+7)
-http://217.174.229.136:8000/play/a07t
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",СТС Love
-http://217.174.229.136:8000/play/a00m
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сапфир
-http://217.174.229.136:8000/play/a02o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сапфир HD
-http://217.174.229.136:8000/play/a02x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Сарафан
-http://217.174.229.136:8000/play/a06z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Синема HD
-http://217.174.229.136:8000/play/a079
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Совершенно секретно
-http://217.174.229.136:8000/play/a08r
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Солнце
-http://217.174.229.136:8000/play/a00d
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Союз
-http://217.174.229.136:8000/play/a00e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Спас
-http://217.174.229.136:8000/play/a09e
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Суббота
-http://217.174.229.136:8000/play/a03v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Т24
-http://217.174.229.136:8000/play/a076
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТВ Центр Москва
-http://217.174.229.136:8000/play/a09w
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТВ-3
-http://217.174.229.136:8000/play/a00v
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНВ Планета
-http://217.174.229.136:8000/play/a09y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ
-http://217.174.229.136:8000/play/a03k
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ (+2)
-http://217.174.229.136:8000/play/a09u
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ (+4)
-http://217.174.229.136:8000/play/a01h
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ HD
-http://217.174.229.136:8000/play/a08n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ Music
-http://217.174.229.136:8000/play/a00j
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",ТНТ4
-http://217.174.229.136:8000/play/a00x
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Тайны Галактики
-http://217.174.229.136:8000/play/a080
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Татарстан Новый Век
-http://217.174.229.136:8000/play/a09f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Театр
-http://217.174.229.136:8000/play/a05l
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Телеканал 2x2
-http://217.174.229.136:8000/play/a00y
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Туган Тел
-http://217.174.229.136:8000/play/a072
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Футбол
-http://217.174.229.136:8000/play/a08o
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Чаваш Ен
-http://217.174.229.136:8000/play/a05a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Че ТВ
-http://217.174.229.136:8000/play/a02z
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Шансон ТВ
-http://217.174.229.136:8000/play/a05n
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ю ТВ
-http://217.174.229.136:8000/play/a00i
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Ювелирочка
-http://217.174.229.136:8000/play/a00f
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Altyn Asyr
-http://217.174.229.136:8000/play/a002
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Yaslyk
-http://217.174.229.136:8000/play/a003
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Miras
-http://217.174.229.136:8000/play/a004
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmenistan
-http://217.174.229.136:8000/play/a005
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmen Owazy
-http://217.174.229.136:8000/play/a009
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Asgabat
-http://217.174.229.136:8000/play/a008
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Turkmenistan Sport
-http://217.174.229.136:8000/play/a00a
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Arkadag
-http://217.174.229.136:8000/play/a00b
-#EXTINF:-1 group-title="GRAND IPTV/ TURKMENTELECOM",Россия 24
-http://217.174.229.136:8000/play/a00k
 
 
 
@@ -8278,10 +7856,7 @@ http://cdn.kubteltv.workers.dev/?ID=1
 http://cdn.kubteltv.workers.dev/?ID=2
 #EXTINF:-1  group-title="GRAND PLUS | KUBTEL TV"  tvg-id="rossia1"  tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-1HD.png" ,Россия 1 HD
 http://cdn.kubteltv.workers.dev/?ID=422
-#EXTINF:-1  group-title="GRAND PLUS | KUBTEL TV"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png" ,Матч!
-http://cdn.kubteltv.workers.dev/?ID=3
-#EXTINF:-1  group-title="GRAND PLUS | KUBTEL TV"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png" ,Матч! HD
-http://cdn.kubteltv.workers.dev/?ID=419
+
 #EXTINF:-1  group-title="GRAND PLUS | KUBTEL TV"  tvg-id="ntv"  tvg-logo="http://tv.kubtel.ru/tv_icon/ntv.png" ,НТВ
 http://cdn.kubteltv.workers.dev/?ID=4
 #EXTINF:-1  group-title="GRAND PLUS | KUBTEL TV"  tvg-id="ntv"  tvg-logo="http://tv.kubtel.ru/tv_icon/ntvHD.png" ,НТВ HD
@@ -13606,14 +13181,6 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31613/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 5 HD.png" group-title="GRAND PLUS | SPORT 3",  Megogo Футбол 5 HD
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31614/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="GRAND PLUS | SPORT 3",  Матч! Футбол 2
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="GRAND PLUS | SPORT 3",  Матч! Футбол 1
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="GRAND PLUS | SPORT 3",  Матч! Футбол 3
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | SPORT 3",  Trace Sport Stars
 http://s8.rafail1982.uz/1274/tracks-v1a1a1/mono.m3u8
@@ -13878,8 +13445,6 @@ http://213.169.39.30:5210
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | РОССИЯ TUVA", Матч ТВ
-http://tv.tuva.ru/machtv/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | РОССИЯ TUVA", Звезда (+4)
 http://vod.tuva.ru/zvezda/index.m3u8
@@ -18676,11 +18241,6 @@ http://45.145.32.13:20440/mmatv/index.m3u8?token=test
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  КХЛ ТВ
 http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
 
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч HD
-http://45.145.32.13:20440/match_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч ТВ
-http://45.145.32.13:20440/match/index.m3u8?token=test
 
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Арена
 http://45.145.32.13:20440/match_arena/index.m3u8?token=test
@@ -18700,23 +18260,6 @@ http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Страна
 http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Футбол 1
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Футбол 1 HD
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Футбол 2
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Футбол 2 HD
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Футбол 3
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч! Футбол 3 HD
-http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Мир баскетбола
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
@@ -18729,8 +18272,7 @@ http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
 
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  МАТЧ ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  Матч ТВ
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="GRAND PLUS| СПОРТ",  Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
@@ -18947,20 +18489,6 @@ http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  sport- Арена HD
 http://iptv46.mcx-ix.ru:8077/arena_hd/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  sport- Премьер
-http://iptv46.mcx-ix.ru:8077/nash-football/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  sport- Премьер HD
-http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  sport- Футбол 1 HD
-http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  sport- Футбол 2 HD
-http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  sport- Футбол 3 HD
-http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  КХЛ HD
 http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
@@ -19421,12 +18949,7 @@ http://185.236.230.212:9982/play/a0ax
 http://190.60.56.41:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| СПОРТ 2",ESPN 5
 http://190.60.56.41:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| СПОРТ 2",FOX SPORTS 1
-http://45.167.255.254:8010/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| СПОРТ 2",FOX SPORTS 2
-http://45.167.255.254:8010/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| СПОРТ 2",FOX SPORTS 3
-http://45.167.255.254:8010/play/a047/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| СПОРТ 2",Deportes TVC
 http://45.195.15.240:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| СПОРТ 2",TELEFE
