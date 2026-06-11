@@ -605,10 +605,6 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFOgVbG.png" tvg-name="4ever Cinema" group-title="GRAND PLUS | SKYGO TEST",4ever Cinema
-https://iptv.prosto.tv/ch42/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783523108&st=Asr1KmKTqcqldcTO-GvddA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ5oaeU.png" tvg-name="4ever Music" group-title="Music",4ever Music
-https://iptv.prosto.tv/ch132/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=41545bc9645b3681&uid=9szoe89y&cs_track=false&e=1783162962&st=bprjJC1msNDEIjna-uUQjw
 #EXTINF:-1  group-title="GRAND PLUS | TEST TV" tvg-id="otr"  tvg-logo="http://rafail1982.uz/logo/ОТР.png" ,ОТР
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8
 
@@ -720,7 +716,14 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/
 
 
 
-
+#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
+https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV Bazmoc
+https://s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV LIFEFUCK
+https://s70378.cdn.ngenix.net/filmzone/2/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
+https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="14" group-title="RUZIEV MY TV +" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/645/645.png", BOX GURMAN HD
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgkCRoapp1v6-Jat8clQ05Xk1pq4vCygsHO9femEGQ_dBtHK41lDLjKryDjLMuanr5DDUXbPyiGmd809g5qgYRECKMaEby4lAC95x1Ga5HpAK7OvqZt7hD_06jv6n-EgehAn5aopy4J7-Mg3L7f2kvsDUwUYosRNeJGT24FtY2YlIdOwVww5CaKsVv7XfShLjAz5ZGZk-LZY8VdbqwdxkOnI4MuGPqZpOj03kHYQkeGfF-vIMeFY45jHyRw_FIYhEs&token=MjIyMjoyMjIyMjI=
 
@@ -895,16 +898,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",15+ Music 
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
-https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Bazmoc
-https://s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV LIFEFUCK
-https://s70378.cdn.ngenix.net/filmzone/2/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
-https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
-https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+
+#
 #EXTINF:-1 group-title="RUZIEV MY TV +" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
 http://91.186.196.185/hls/hotels/stream.m3u8
 
@@ -1080,131 +1075,105 @@ https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 \
 
 
-#EXTINF:-1 tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",CNBC MONGOLIA
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",BLOOMBERG MONGOLIA
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vCdEBZo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCdEBZo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",МАЛЧИН
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",EDU TV
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAYZSgx.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAYZSgx.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",ASIANBOX
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On6ggLe.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N2z3EZC.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjdOaya.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0RGbRI.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YBVZoDd.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v1mHG5x.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1mHG5x.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",C1
 https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E9wAUrT.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9wAUrT.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",EKH ORON
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",5 INTERNATIONAL
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GztOajC.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GztOajC.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",CHANNEL 11
 https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3MMJMd.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Lnog.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MN25
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RdRd0to.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdRd0to.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNB
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PHlj84Q.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PHlj84Q.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNB WORLD
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2JbqbPY.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JbqbPY.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",NTV HD
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EzODUBO.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzODUBO.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",ONTV SPORT
 https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3fvpwn.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3fvpwn.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6hxJgl.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6hxJgl.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",STAR
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA"VTV
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bza9r7U.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bza9r7U.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TM
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EguOdxW.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EguOdxW.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TV8
 https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFteAgd.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFteAgd.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TV9
 https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIRMYYd.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIRMYYd.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",UBS
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tsUTI.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tsUTI.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",ULZEII TV
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBjk9oF.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iBZVvtW.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBZVvtW.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",SoyonGegeeruulegc
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnlngRZ.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Parlament
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://dumatv.iptv2022.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mzJJ3y.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nf7GRXb.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yib6dM2.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yib6dM2.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",CinemaTV
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeO1Zb4.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeO1Zb4.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Moviebox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oqXpve.jpg" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2oqXpve.jpg" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Eagle NEWS
 https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO MANGOLIA",ETV
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gMVqbwU.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMVqbwU.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNC TV
 https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vhyMb9D.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",AUTO TV
 https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",AUTO TV
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",CNBC MN
 https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z18PSIo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z18PSIo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",GANDAN TV
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Es5FX4z.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Es5FX4z.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",AG RUTV
 https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNB FAMILY
 https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNB FAMILY
 https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KUvJzUD.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUvJzUD.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNB2
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WeugJBE.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WeugJBE.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",NeigMGL
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Popcorn
 https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Popcorn
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CnLxehv.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnLxehv.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",SuldTV
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WSvUsxy.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSvUsxy.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TV4
 https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" GO TEST,like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"   group-title="GRAND PLUS | SKYGO MANGOLIA",,TV7
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TV7
 https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KiYSln.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mwiC0RG.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsCOnBW.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
-https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Khugjim HIT
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"" group-title="GRAND PLUS | SKYGO TEST",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO TEST"
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Khugjim HIT
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 
 
