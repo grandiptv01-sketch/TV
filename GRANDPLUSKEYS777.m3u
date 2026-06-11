@@ -1075,7 +1075,7 @@ https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 \
 
 
-#EXTINF:-1 tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",CNBC MONGOLIA
+#EXTINF:-1 tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75"  group-title="GRAND PLUS | SKYGO MANGOLIA",CNBC MONGOLIA
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",BLOOMBERG MONGOLIA
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
@@ -1110,7 +1110,7 @@ https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6hxJgl.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",STAR
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA"VTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",VTV
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bza9r7U.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TM
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
@@ -1135,7 +1135,7 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2oqXpve.jpg" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",Eagle NEWS
 https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="GRAND PLUS | SKYGO MANGOLIA",ETV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png"group-title="GRAND PLUS | SKYGO MANGOLIA",ETV
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMVqbwU.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",MNC TV
 https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
@@ -1166,7 +1166,7 @@ https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSvUsxy.png" tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TV4
 https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"   group-title="GRAND PLUS | SKYGO MANGOLIA",,TV7
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"   group-title="GRAND PLUS | SKYGO MANGOLIA",TV7
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36"  group-title="GRAND PLUS | SKYGO MANGOLIA",TV7
 https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8
