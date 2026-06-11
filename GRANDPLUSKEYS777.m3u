@@ -23,6 +23,17 @@ http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/10015/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title="GRAND PLUS | FIFA 2026 RU"",SPORT UZ
 https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
 
+#EXTINF:-1 group-title=" GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://s8.rafail1982.uz/1286/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title=" GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/iIDngEedLZamkolX8v9uTg/e/1781247257/1286/tracks-v1a2/mono.m3u8
+
+
+#EXTINF:-1 group-title=" GRAND PLUS | FIFA 2026 RU tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/iIDngEedLZamkolX8v9uTg/e/1781247257/1286/tracks-v1a2/timeshift_rel-512.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU", Futbol TV
 http://s8.rafail1982.uz/1018/tracks-v1a1a1/mono.m3u8
 
