@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/11 23.30}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/11 23.50}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -20,16 +20,26 @@ http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/10020/index.m3u8
 #EXTINF:0,МАТЧ! Футбол 1 HD 50
 #EXTGRP: GRAND PLUS | FIFA 2026 RU
 http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/10015/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title="GRAND PLUS | FIFA 2026 RU"",SPORT UZ
-https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
 
-#EXTINF:-1 group-title=" GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD 1
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  ZorTV TURON
+http://10.80.8.12:4022/udp/234.30.30.74:3074
+
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  UzSport TURON
+http://10.80.8.12:4022/udp/234.30.30.14:3014
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  futbol tv TURON
+http://10.80.8.12:4022/udp/234.30.30.17:3017
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://s8.rafail1982.uz/1286/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title=" GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD 2
+http://s8.rafail1982.uz/1286/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png" group-titleGRAND PLUS | FIFA 2026 RU", Zo'r TV HD UZ
+http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream9.itv.uz/t/iIDngEedLZamkolX8v9uTg/e/1781247257/1286/tracks-v1a2/mono.m3u8
-
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream1.itv.uz/1286/tracks-v1a2/index.m3u8
 
 #EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -13462,8 +13472,6 @@ http://s8.rafail1982.uz/1217/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png" group-title="GRAND PLUS| RAFAIL UZ", Milliy TV HD UZ
 http://s8.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png" group-title="GRAND PLUS| RAFAIL UZ", Zo'r TV HD UZ
-http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
 
 
 #EXTINF:-1  group-title="GRAND PLUS| RAFAIL UZ", Futbol
@@ -26956,8 +26964,6 @@ http://10.80.8.12:4022/udp/234.30.30.12:3012
 #EXTINF:-1 group-title="GRAND+ | TURON TV",  Toshkent
 http://10.80.8.12:4022/udp/234.30.30.13:3013
 
-#EXTINF:-1 group-title="GRAND+ | TURON TV",  UzSport
-http://10.80.8.12:4022/udp/234.30.30.14:3014
 
 #EXTINF:-1 group-title="GRAND+ | TURON TV",  Navo
 http://10.80.8.12:4022/udp/234.30.30.15:3015
@@ -26965,8 +26971,6 @@ http://10.80.8.12:4022/udp/234.30.30.15:3015
 #EXTINF:-1 group-title="GRAND+ | TURON TV",  Kinoteatr
 http://10.80.8.12:4022/udp/234.30.30.16:3016
 
-#EXTINF:-1 group-title="GRAND+ | TURON TV",  Oilaviy
-http://10.80.8.12:4022/udp/234.30.30.17:3017
 
 #EXTINF:-1 group-title="GRAND+ | TURON TV",  O'zbekiston 24
 http://10.80.8.12:4022/udp/234.30.30.19:3019
@@ -26992,8 +26996,6 @@ http://10.80.8.12:4022/udp/234.30.30.69:3069
 #EXTINF:-1 group-title="GRAND+ | TURON TV",  Milliy TV
 http://10.80.8.12:4022/udp/234.30.30.111:3111
 
-#EXTINF:-1 group-title="GRAND+ | TURON TV",  ZorTV
-http://10.80.8.12:4022/udp/234.30.30.74:3074
 
 #EXTINF:-1 group-title="GRAND+ | TURON TV",  Sevimli
 http://10.80.8.12:4022/udp/234.30.30.75:3075
