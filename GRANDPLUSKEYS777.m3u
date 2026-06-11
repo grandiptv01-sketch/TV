@@ -11,8 +11,15 @@ http://sc4.gergosnet.com/pulstranceHD.mp3
 
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png",Матч!
 http://cdn.kubteltv.workers.dev/?ID=3
-#EXTINF:-1 group-title=""GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png",Матч! HD
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png",Матч! HD
 http://cdn.kubteltv.workers.dev/?ID=419
+
+#EXTINF:0,МАТЧ! HD 50
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/10020/index.m3u8
+#EXTINF:0,МАТЧ! Футбол 1 HD 50
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/10015/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title="GRAND PLUS | FIFA 2026 RU"",SPORT UZ
 https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
 
@@ -171,6 +178,33 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12251/ind
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/2720.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Sport 4 FHD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12252/index.m3u8
+
+#EXTINF:0,beIN Sports Max 1 FullHD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19062/index.m3u8
+#EXTINF:0,beIN Sports Max 2 FullHD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19063/index.m3u8
+#EXTINF:0,beIN Sports Haber HD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19064/index.m3u8
+#EXTINF:0,beIN Sports Max 1 HD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19065/index.m3u8
+#EXTINF:0,beIN Sports Max 2 HD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19066/index.m3u8
+#EXTINF:0,TRT SPOR HD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19067/index.m3u8
+#EXTINF:0,TRT SPOR 2 HD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19068/index.m3u8
+#EXTINF:0,A SPOR HD
+#EXTGRP: GRAND PLUS | FIFA 2026 RU
+http://sahri4x5.tvclub.xyz/iptv/3H98G67KZ9HAS9/19069/index.m3u8
+
+
 
 
 
