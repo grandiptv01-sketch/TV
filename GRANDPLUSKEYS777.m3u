@@ -10,15 +10,18 @@ http://sc4.gergosnet.com/pulsHD.mp3
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title=" group-title="GRAND PLUS | FIFA 2026 RU"",SPORT UZ
+https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
+
 #EXTINF:-1 ggroup-title="GRAND PLUS | FIFA 2026 RU" audio-track="rus",Futbol TV
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1010/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" ggroup-title="GRAND PLUS | FIFA 2026 RU" audio-track="rus",Sport UZ HD
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1004/tracks-v1a2/mono.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png" ,Матч!
+#EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png",Матч!
 http://cdn.kubteltv.workers.dev/?ID=3
-#EXTINF:-1  group-title=""GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png" ,Матч! HD
+#EXTINF:-1  group-title=""GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png",Матч! HD
 http://cdn.kubteltv.workers.dev/?ID=419
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -31,7 +34,7 @@ http://45.145.32.13:20440/match_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! ТВ
 http://45.145.32.13:20440/match/index.m3u8?token=test
 
-#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",Матч ТВ
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",Матч! ТВ
 http://91.221.252.12:82/tv109
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! ФУТБОЛ 1 HD
 http://91.221.252.12:82/tv111
@@ -41,7 +44,7 @@ http://45.145.32.13:20440/match_football1/index.m3u8?token=test
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 1 HD
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 
-#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Футбол 1 HD
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU", МАТЧ!Футбол 1 HD
 http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 1
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
@@ -65,24 +68,19 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="GRAND PLUS | FIFA 2026 RU",  Матч! Футбол 3
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Премьер
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU", МАТЧ!Премьер
 http://iptv46.mcx-ix.ru:8077/nash-football/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Премьер HD
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  МАТЧ!Премьер HD
 http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
 
 
-#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Футбол 2 HD
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  МАТЧ!Футбол 2 HD
 http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  sport- Футбол 3 HD
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU", МАТЧ!Футбол 3 HD
 http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | FIFA 2026 RU",FOX SPORTS 1
-http://45.167.255.254:8010/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | FIFA 2026 RU",FOX SPORTS 2
-http://45.167.255.254:8010/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS | FIFA 2026 RU",FOX SPORTS 3
-http://45.167.255.254:8010/play/a047/index.m3u8
+
 
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! БОЕЦ
 http://91.221.252.12:82/tv110
@@ -93,26 +91,86 @@ http://91.221.252.12:82/tv114
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",МАТЧ! ФУТБОЛ 3 HD
 http://91.221.252.12:82/tv113
 
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇦🇷[coming]
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",FIFA World Cup 2026 🇦🇷[coming]
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇧🇷[coming]
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",FIFA World Cup 2026 🇧🇷[coming]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://66.102.126.10:8000/play/a076/index.m3u8
-http://103.204.43.87:8080/live/1/1/266.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",#http://66.102.126.10:8000/play/a022/index.m3u8
-http://103.204.43.87:8080/live/1/1/264.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 🇵🇰[coming]
-http://103.204.43.87:8080/live/1/1/313.m3u8
-#EXTINF:-1 group-title="GRAND PLUS |FIFA WORLD CUP 2026",FIFA World Cup 2026 [coming]
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",FIFA World Cup 2026 FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/3639.png"  group-title="GRAND PLUS | FIFA 2026 RU", CTV Toronto CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6496/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3620.png"  group-title="GRAND PLUS | FIFA 2026 RU", Sportsnet East HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6477/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/3621.png"  group-title="GRAND PLUS | FIFA 2026 RU", Sportsnet West HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6478/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/3622.png"  group-title="GRAND PLUS | FIFA 2026 RU", Sportsnet Pacific HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6479/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/3663.png"  group-title="GRAND PLUS | FIFA 2026 RU", TSN 1 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6521/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/3664.png"  group-title="GRAND PLUS | FIFA 2026 RU", TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6522/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/4558.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Fox Sports 1 HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/7322/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/4559.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Fox Sports 2 HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/7323/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2884.png" group-title="GRAND PLUS | FIFA 2026 RU", beIN Sports 1 HD FR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2499/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2885.png" group-title="GRAND PLUS | FIFA 2026 RU", beIN Sports 2 HD FR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2500/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2886.png" group-title="GRAND PLUS | FIFA 2026 RU", beIN Sports 3 HD FR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2501/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3047.png"  group-title="GRAND PLUS | FIFA 2026 RU",  beIN Sports 1 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6123/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3048.png"  group-title="GRAND PLUS | FIFA 2026 RU",  beIN Sports 3 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6124/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3049.png"  group-title="GRAND PLUS | FIFA 2026 RU",  beIN Sports 4 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6125/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3050.png"  group-title="GRAND PLUS | FIFA 2026 RU",  beIN Sports 5 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6126/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3051.png"  group-title="GRAND PLUS | FIFA 2026 RU",  beIN Sports 6 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6127/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/3052.png"  group-title="GRAND PLUS | FIFA 2026 RU",  beIN Sports 7 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6128/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2684.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Sport 1 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12249/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2683.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Sport 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12250/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2719.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Sport 3 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12251/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2720.png"  group-title="GRAND PLUS | FIFA 2026 RU",  Sport 4 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12252/index.m3u8
+
+
+
+
+
 
 
 
@@ -1999,8 +2057,7 @@ https://stream9.itv.uz/t/Hu8QYUpRncvaPuCVRxloWA/e/1759836416/1001/tracks-v1a1/ti
 https://stream9.itv.uz/t/gLMorTRF--E59dGQt6Yrcg/e/1759836315/1011/tracks-v1a1/timeshift_rel-5716.m3u8
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ MEDIABAY TV",RUXOR TV
 https://stream9.itv.uz/t/d5tuUfgXkE9sOSwWHlvHEA/e/1759837108/4008/tracks-v1a1/timeshift_rel-2309.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title="GRAND IPTV/ MEDIABAY TV",SPORT UZ
-https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/f744f167d51aa312b72c9a021bc1ac07.webp" group-title="GRAND IPTV/ MEDIABAY TV",TOSHKENT
 https://stream9.itv.uz/t/Eyt5nv0EMu3S1tPXNVoSvw/e/1759836609/1003/tracks-v1a1/timeshift_rel-13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/d680f45e0ee6347837af3230cab76359.webp" group-title="GRAND IPTV/ MEDIABAY TV",YOSHLAR
@@ -36504,12 +36561,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/1108/inde
 #EXTINF:-1 tvg-logo="http://epg.one/img/2128.png" group-title="GRAND PLUS| USA",  CNBC HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/962/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/4558.png" group-title="GRAND PLUS| USA",  Fox Sports 1 HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/7322/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/4559.png" group-title="GRAND PLUS| USA",  Fox Sports 2 HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/7323/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.one/img/4560.png" group-title="GRAND PLUS| USA",  CBS Sports Network HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/7324/index.m3u8
 
@@ -36910,14 +36961,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6475/inde
 #EXTINF:-1 tvg-logo="http://epg.one/img/3619.png" group-title="GRAND PLUS| CANADA", Game TV CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6476/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/3620.png" group-title="GRAND PLUS| CANADA", Sportsnet East HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6477/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/3621.png" group-title="GRAND PLUS| CANADA", Sportsnet West HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6478/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/3622.png" group-title="GRAND PLUS| CANADA", Sportsnet Pacific HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6479/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/3624.png" group-title="GRAND PLUS| CANADA", Golf Channel HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6481/index.m3u8
@@ -36954,8 +36997,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6494/inde
 #EXTINF:-1 tvg-logo="http://epg.one/img/3638.png" group-title="GRAND PLUS| CANADA", Makeful CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6495/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/3639.png" group-title="GRAND PLUS| CANADA", CTV Toronto CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6496/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/3640.png" group-title="GRAND PLUS| CANADA", CBC Toronto CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6497/index.m3u8
@@ -37014,11 +37055,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6517/inde
 #EXTINF:-1 tvg-logo="http://epg.one/img/3662.png" group-title="GRAND PLUS| CANADA", History Television CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6520/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/3663.png" group-title="GRAND PLUS| CANADA", TSN 1 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6521/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/3664.png" group-title="GRAND PLUS| CANADA", TSN 3 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6522/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/3665.png" group-title="GRAND PLUS| CANADA", CPAC French CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6523/index.m3u8
@@ -37048,9 +37084,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6538/inde
 
 
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/2884.png" group-title="GRAND PLUS| FRANCE", beIN Sports 1 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2499/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.one/img/2981.png" group-title="GRAND PLUS| FRANCE", Cine+ Frisson HD FR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6003/index.m3u8
 
@@ -37075,11 +37108,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6151/inde
 #EXTINF:-1 tvg-logo="http://epg.one/img/3042.png" group-title="GRAND PLUS| FRANCE", Paris Premiere HD FR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6146/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/2885.png" group-title="GRAND PLUS| FRANCE", beIN Sports 2 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2500/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2886.png" group-title="GRAND PLUS| FRANCE", beIN Sports 3 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2501/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/2887.png" group-title="GRAND PLUS| FRANCE", Canal+ Sport HD FR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2502/index.m3u8
@@ -37379,17 +37407,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12247/ind
 #EXTINF:-1 tvg-logo="http://epg.one/img/4311.png" group-title="GRAND PLUS| ISRAEL",  Nat Geo Wild FHD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12248/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/2684.png" group-title="GRAND PLUS| ISRAEL",  Sport 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12249/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2683.png" group-title="GRAND PLUS| ISRAEL",  Sport 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12250/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2719.png" group-title="GRAND PLUS| ISRAEL",  Sport 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12251/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2720.png" group-title="GRAND PLUS| ISRAEL",  Sport 4 FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12252/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/3992.png" group-title="GRAND PLUS| ISRAEL",  5Sport Gold HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/12254/index.m3u8
@@ -37844,23 +37861,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/31645/ind
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2131.png" group-title="GRAND PLUS | عربي",  Al Jazeera QA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/960/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3047.png" group-title="GRAND PLUS | عربي",  beIN Sports 1 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6123/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3048.png" group-title="GRAND PLUS | عربي",  beIN Sports 3 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6124/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3049.png" group-title="GRAND PLUS | عربي",  beIN Sports 4 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6125/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3050.png" group-title="GRAND PLUS | عربي",  beIN Sports 5 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6126/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3051.png" group-title="GRAND PLUS | عربي",  beIN Sports 6 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6127/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3052.png" group-title="GRAND PLUS | عربي",  beIN Sports 7 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/6128/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2895.png" group-title="GRAND PLUS | عربي", YAS Sports AE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/2511/index.m3u8
 
