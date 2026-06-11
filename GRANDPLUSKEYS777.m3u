@@ -976,102 +976,78 @@ http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NfqhdBC.png" tvg-name="ABC 7 Washington DC (WJLA) (1080p)"group-title="GRAND PLUS | ABC NEWS",ABC 7 Washington DC (WJLA) (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NfqhdBC.png" tvg-name="ABC 7 Washington DC (WJLA) (1080p)"group-title="GRAND PLUS | ABC NEWS",ABC 7 Washington DC FHD
 https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/WMURCurrentLogo.png" tvg-name="ABC 9 Manchester NH (WMUR-TV) (720p)" group-title="GRAND PLUS | ABC NEWS",ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/WMURCurrentLogo.png" tvg-name="ABC 9 Manchester NH (WMUR-TV) (720p)" group-title="GRAND PLUS | ABC NEWS",ABC 9 Manchester NH HD
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="ABC 9 Orlando FL (WFTV) (720p)" group-title="GRAND PLUS | ABC NEWS",ABC 9 Orlando FL (WFTV) (720p)
-https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="ABC 9 Tucson AZ (KGUN) (720p)"group-title="GRAND PLUS | ABC NEWS",ABC 9 Tucson AZ (KGUN) (720p)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="ABC 9 Tucson AZ (KGUN) (720p)"group-title="GRAND PLUS | ABC NEWS",ABC 9 Tucson AZ HD
 https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQ33TVM.png" tvg-name="ABC Australia (1080p)"group-title="GRAND PLUS | ABC NEWS",ABC Australia (1080p)
-http://103.154.3.101:5001/live/2782.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-name="ABC Entertains (720p)" group-title="GRAND PLUS | ABC NEWS",ABC Entertains (720p)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-name="ABC Entertains (720p)" group-title="GRAND PLUS | ABC NEWS",ABC Entertains HD
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" tvg-name="ABC Kids" group-title="GRAND PLUS | ABC NEWS",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-name="ABC News (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-name="ABC News (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News HD
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live (1080p) [Geo-blocked]" group-title="GRAND PLUS | ABC NEWS",ABC News Live (1080p) [Geo-blocked]
-https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 1 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 1 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 10 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 10 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 2 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 2 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 3 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 3 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 4 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 4 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 5 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 5 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 6 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 6 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 7 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 7 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 8 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 8 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-name="ABC News Live 9 (720p)" group-title="GRAND PLUS | ABC NEWS",ABC News Live 9 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV ACT (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV ACT (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV ACT (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV ACT HD
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV NSW (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV NSW (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV NSW (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV NSW HD
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV NT (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV NT (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV NT (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV NT HD
 https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png" tvg-name="ABC TV Plus (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV Plus (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png" tvg-name="ABC TV Plus (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV FAMILY HD
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV QLD (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV QLD (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV QLD (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV QLD HD
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV SA (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV SA (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV SA (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV SA HD
 https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV TAS (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV TAS (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV TAS (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV TAS HD
 https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV VIC (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV VIC (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV VIC (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV VIC HD
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV WA (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV WA (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPVQSjM.png" tvg-name="ABC TV WA (720p)"group-title="GRAND PLUS | ABC NEWS",ABC TV WA HD
 https://c.mjh.nz/abc-wa.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="ABC WWAY 3" group-title="GRAND PLUS | ABC NEWS",ABC WWAY 3
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-name="ABC-TV Paraguay" group-title="GRAND PLUS | ABC NEWS",ABC-TV Paraguay
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8#EXTINF:-1 tvg-name="AfroLand African (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand African (1080p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-name="AfroLand African (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand African FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6075
-#EXTINF:-1 tvg-name="Afroland AfroKiddos (720p)"group-title="GRAND PLUS | ABC NEWS",Afroland AfroKiddos (720p)
+#EXTINF:-1 tvg-name="Afroland AfroKiddos (720p)"group-title="GRAND PLUS | ABC NEWS",Afroland AfroKiddos HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16484
-#EXTINF:-1 tvg-name="AfroLand Black Experience (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Black Experience (1080p)
+#EXTINF:-1 tvg-name="AfroLand Black Experience (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Black Experience FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6101
-#EXTINF:-1 tvg-name="AfroLand Comedy (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Comedy (1080p)
+#EXTINF:-1 tvg-name="AfroLand Comedy (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Comedy FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068
-#EXTINF:-1 tvg-name="AfroLand Crime (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Crime (1080p)
+#EXTINF:-1 tvg-name="AfroLand Crime (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Crime FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6070
-#EXTINF:-1 tvg-name="Afroland Documentary (814p)"group-title="GRAND PLUS | ABC NEWS",Afroland Documentary (814p)
+#EXTINF:-1 tvg-name="Afroland Documentary (814p)"group-title="GRAND PLUS | ABC NEWS",Afroland Documentary FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071
-#EXTINF:-1 tvg-name="AfroLand Drama (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Drama (720p)
+#EXTINF:-1 tvg-name="AfroLand Drama (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Drama FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6067
-#EXTINF:-1 tvg-name="AfroLand Faith (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Faith (720p)
+#EXTINF:-1 tvg-name="AfroLand Faith (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Faith HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6077
-#EXTINF:-1 tvg-name="AfroLand Family (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Family (720p)
+#EXTINF:-1 tvg-name="AfroLand Family (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Family HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6072
-#EXTINF:-1 tvg-name="Afroland Featured (948p)"group-title="GRAND PLUS | ABC NEWS",Afroland Featured (948p)
+#EXTINF:-1 tvg-name="Afroland Featured (948p)"group-title="GRAND PLUS | ABC NEWS",Afroland Featured FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6057
-#EXTINF:-1 tvg-name="AfroLand Nollywood (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Nollywood (720p)
+#EXTINF:-1 tvg-name="AfroLand Nollywood (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Nollywood HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6076
-#EXTINF:-1 tvg-name="AfroLand Romance (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Romance (1080p)
+#EXTINF:-1 tvg-name="AfroLand Romance (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Romance FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074
-#EXTINF:-1 tvg-name="AfroLand Thriller (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Thriller (720p)
+#EXTINF:-1 tvg-name="AfroLand Thriller (720p)"group-title="GRAND PLUS | ABC NEWS",AfroLand Thriller HD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6073
-#EXTINF:-1 tvg-name="Afroland Top 10 (948p)"group-title="GRAND PLUS | ABC NEWS",Afroland Top 10 (948p)
+#EXTINF:-1 tvg-name="Afroland Top 10 (948p)"group-title="GRAND PLUS | ABC NEWS",Afroland Top 10 FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098
-#EXTINF:-1 tvg-name="AfroLandTV (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLandTV (1080p)
+#EXTINF:-1 tvg-name="AfroLandTV (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLandTV FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=844
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jvnkrEF.png" tvg-name="AfroLandTV (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLandTV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jvnkrEF.png" tvg-name="AfroLandTV (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLandTV 
 https://alt-al.otteravision.com/alt/al/al.m3u8
-#EXTINF:-1 tvg-name="AfroLandTV WW (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLandTV WW (1080p)
+#EXTINF:-1 tvg-name="AfroLandTV WW (1080p)"group-title="GRAND PLUS | ABC NEWS",AfroLandTV WW FHD
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=15235
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fWlLvRA.png" tvg-name="Afroturk TV (1080p)"group-title="GRAND PLUS | ABC NEWS",Afroturk TV (1080p)
-https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+
 \
 
 
@@ -1177,131 +1153,95 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mybingechannel.co.uk/wp-content/uploads/2023/02/mbc-logo-for-website.png" tvg-name="MBC (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC (1080p)
-https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1 (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC 1 (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1 (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC 1 FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1 Egypt (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC 1 Egypt (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1 Egypt (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC 1 Egypt FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1 USA (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC 1 USA (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1 USA (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC 1 USA FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-name="MBC 3 USA (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC 3 USA (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-name="MBC 3 USA (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC 3 USA FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-name="MBC 4 (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC 4 (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-name="MBC 4 (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC 4 FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-name="MBC 5 (1080p)"group-title="GRAND PLUS | MBC MTV NICK",MBC 5 (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-name="MBC 5 (1080p)"group-title="GRAND PLUS | MBC MTV NICK",MBC 5 FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RRc23ra.png" tvg-name="MBC America (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC America (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRc23ra.png" tvg-name="MBC America (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC America FHD
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqRWpUu.png" tvg-name="MBC Andong (안동 MBC) (360p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Andong (안동 MBC) (360p) [Not 24/7]
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-name="MBC Bollywood (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC Bollywood (1080p) [Geo-blocked]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-name="MBC Bollywood (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC Bollywood FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jiFOYi5.png" tvg-name="MBC Busan (부산MBC) (360p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Busan (부산MBC) (360p) [Not 24/7]
-https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lthyx2P.png" tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lthyx2P.png" tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Chuncheon 
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uR0gScb.png" tvg-name="MBC Chungbuk (MBC 충북) (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uR0gScb.png" tvg-name="MBC Chungbuk (MBC 충북) (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Chungbuk HD
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LlYQR8m.png" tvg-name="MBC Daegu (대구 MBC) (480p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Daegu (대구 MBC) (480p) [Not 24/7]
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" tvg-name="MBC Daejeon (대전 MBC) (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCbvAiM.png" tvg-name="MBC Daejeon (대전 MBC) (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Daejeon HD
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-name="MBC Drama (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Drama (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-name="MBC Drama (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Drama FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q20rqnX.png" tvg-name="MBC Drama (480p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC Drama (480p) [Geo-blocked]
-http://mytv.dothome.co.kr/ch/catv/26.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-name="MBC Drama USA (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Drama USA (1080p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-name="MBC Drama USA (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Drama USA FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lF8UxvR.png" tvg-name="MBC FM (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC FM (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lF8UxvR.png" tvg-name="MBC FM (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC FM FHD
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGsKCH3.png" tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGsKCH3.png" tvg-name="MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Gangwon FHD
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wmGJgYh.png" tvg-name="MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
-https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ronb1JP.png" tvg-name="MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" tvg-name="MBC Iraq (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Iraq (1080p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" tvg-name="MBC Iraq (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Iraq FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JM4rxGU.png" tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Jeju (제주 MBC) (352p) [Not 24/7]
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3C57SwN.png" tvg-name="MBC Jeonju (450p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Jeonju (450p)
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o2elx0u.png" tvg-name="MBC Masr (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr (1080p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2elx0u.png" tvg-name="MBC Masr (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHo7Gtn.png" tvg-name="MBC Masr 2 (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr 2 (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHo7Gtn.png" tvg-name="MBC Masr 2 (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr 2 FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-name="MBC Masr Drama (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr Drama (1080p)
+#EXTINF:-1 tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-name="MBC Masr Drama (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr Drama FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o2elx0u.png" tvg-name="MBC Masr USA (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr USA (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2elx0u.png" tvg-name="MBC Masr USA (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Masr USA FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oraHc0.png" tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oraHc0.png" tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Mokpo HD
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" tvg-name="MBC Mood (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Mood (1080p)
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" tvg-name="MBC Mood (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Mood FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" tvg-name="MBC Mood (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Mood (1080p)
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" tvg-name="MBC Mood (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Mood FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" tvg-name="MBC Net (480p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",MBC Net (480p) [Geo-blocked]
-http://mytv.dothome.co.kr/ch/catv/28.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-name="MBC Persia (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Persia (1080p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-name="MBC Persia (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC Persia FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540" tvg-name="MBC TV (576p)" group-title="GRAND PLUS | MBC MTV NICK",MBC TV (576p)
-https://mumt03.tangotv.in/MBCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VSuYsn.png" tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VSuYsn.png" tvg-name="MBC Yeosu (여수 MBC) (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MBC Yeosu FHD
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-name="MBC+ Drama (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC+ Drama (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-name="MTV (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MTV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-name="MBC+ Drama (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MBC+ Drama FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-name="MTV (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MTV (1080p)
 http://103.72.101.252:8080/live/248.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-name="MTV [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MTV [Not 24/7]
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-name="MTV [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MTV [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7294/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxNCiAk.png" tvg-name="MTV Ava (720p)" group-title="GRAND PLUS | MBC MTV NICK",MTV Ava (720p)
-https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zgUPYdv.png" tvg-name="MTV Chontales (720p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MTV Chontales (720p) [Not 24/7]
-https://altair.hostingnica.net/hls/mtv_stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ky70brA.png" tvg-name="MTV Guyana (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MTV Guyana (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ky70brA.png" tvg-name="MTV Guyana (1080p) [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",MTV Guyana 
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-name="MTV HD (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MTV HD (1080p)
-http://149.71.34.166:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" tvg-name="MTV Lebanon (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MTV Lebanon (1080p)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" tvg-name="MTV Lebanon (1080p)" group-title="GRAND PLUS | MBC MTV NICK",MTV Lebanon FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rmV8LO1.png" tvg-name="MTV Sub (720p)" group-title="GRAND PLUS | MBC MTV NICK",MTV Sub (720p)
-https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 tvg-name="MTV TV" group-title="GRAND PLUS | MBC MTV NICK",MTV TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO8ShOK.png" tvg-name="MTV Uutiset (720p)"group-title="GRAND PLUS | MBC MTV NICK",MTV Uutiset (720p)
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C5rQbBM.png" tvg-name="MTV3 (720p)" group-title="GRAND PLUS | MBC MTV NICK",MTV3 (720p)
-https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nick Germany (1080p) [Geo-blocked]" group-title="GRAND PLUS | MBC MTV NICK",Nick Germany (1080p) [Geo-blocked]
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" tvg-name="Nick HD+ (1080p)" group-title="GRAND PLUS | MBC MTV NICK",Nick HD+ (1080p)
-http://103.72.101.252:8080/live/1226.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon (1080p)
-https://xykt-fix.github.io/iptv/streams/SP57.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon (1080p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon FR FHD
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" tvg-name="Nickelodeon (576p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png" tvg-name="Nickelodeon (576p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon RU
 http://195.64.140.147:10121/121
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" tvg-name="Nickelodeon (576p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon (576p)
-http://149.71.34.166:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon 
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/6972/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon Asia Indonesia (720p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon Asia Indonesia (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon Asia Indonesia (720p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon Asia Indonesia HD
 http://202.169.224.202:8800/udp/239.9.1.17:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon Global (576p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon Global (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon Global (576p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon Global 
 http://46.149.191.217:9011/play/a018
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-name="Nickelodeon Junior (1080p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon Junior (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-name="Nickelodeon Junior (1080p)" group-title="GRAND PLUS | MBC MTV NICK",Nickelodeon Junior 
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-logo="https://x1co.com.br/logo.png" tvg-name="NickOnline (576p)" group-title="GRAND PLUS | MBC MTV NICK",NickOnline (576p)
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-name="Nicktoons [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",Nicktoons [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-name="Nicktoons [Not 24/7]" group-title="GRAND PLUS | MBC MTV NICK",Nicktoons 
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/849/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" tvg-name="NickToons Brasil (480p)" group-title="GRAND PLUS | MBC MTV NICK",NickToons Brasil (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" tvg-name="NickToons Brasil (480p)" group-title="GRAND PLUS | MBC MTV NICK",NickToons Brasil (
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qvxbvk9B/20260422-174151.png" tvg-name="NickWeb (720p)" group-title="GRAND PLUS | MBC MTV NICK",NickWeb (720p)
-https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
+
 
 
 #EXTINF:-1  group-title="GRAND PLUS/City Eden "  tvg-id="cityedem-kinoazia"  tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200"   tvg-name="Сити Эдем - КиноАзия",КиноАзия
