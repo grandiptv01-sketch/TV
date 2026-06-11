@@ -9,20 +9,25 @@ http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6821 1351 1689",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title=" group-title="GRAND PLUS | FIFA 2026 RU"",SPORT UZ
+#EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png",Матч!
+http://cdn.kubteltv.workers.dev/?ID=3
+#EXTINF:-1 group-title=""GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png",Матч! HD
+http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/k33n26/iptv2/main/logos/medium/b344ce5698ca6e5c26fcd6b392aecce7.webp" group-title="GRAND PLUS | FIFA 2026 RU"",SPORT UZ
 https://stream9.itv.uz/t/EbO9UWuxHhEUHe_q9Bj_0Q/e/1759836672/1004/tracks-v1a1/timeshift_rel-74.m3u8
 
+#EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU", Futbol TV
+http://s8.rafail1982.uz/1018/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" group-title="GRAND PLUS | FIFA 2026 RU", Sport UZ HD
+http://s8.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 ggroup-title="GRAND PLUS | FIFA 2026 RU" audio-track="rus",Futbol TV
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1010/tracks-v1a2/mono.m3u8
+https://stream2.cinerama.uz/1010/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" ggroup-title="GRAND PLUS | FIFA 2026 RU" audio-track="rus",Sport UZ HD
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1004/tracks-v1a2/mono.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!.png",Матч!
-http://cdn.kubteltv.workers.dev/?ID=3
-#EXTINF:-1  group-title=""GRAND PLUS | FIFA 2026 RU"  tvg-id="match-tv"  tvg-logo="http://tv.kubtel.ru/tv_icon/match!HD.png",Матч! HD
-http://cdn.kubteltv.workers.dev/?ID=419
+https://stream2.cinerama.uz/1004/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU",  Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | FIFA 2026 RU", Матч! ТВ
@@ -13117,8 +13122,6 @@ http://s8.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png" group-title="GRAND PLUS| RAFAIL UZ", Toshkent UZ
 http://s8.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" group-title="GRAND PLUS| RAFAIL UZ", Sport UZ HD
-http://s8.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dunyo bo`ylab UZ.png" group-title="GRAND PLUS| RAFAIL UZ", Dunyo bo`ylab UZ
 http://s8.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
@@ -13153,8 +13156,6 @@ http://s8.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png" group-title="GRAND PLUS| RAFAIL UZ", Zo'r TV HD UZ
 http://s8.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
 
-#EXTINF:-1  group-title="GRAND PLUS| RAFAIL UZ", Futbol TV
-http://s8.rafail1982.uz/1018/tracks-v1a1a1/mono.m3u8
 
 #EXTINF:-1  group-title="GRAND PLUS| RAFAIL UZ", Futbol
 http://s8.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
