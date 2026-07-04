@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/07/04 ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/07/04 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -2463,7 +2463,58 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mon
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:0 tvg-id="ch030" tvg-name="MTV Europe" tvg-logo="http://rus.hls.gd/images/chIcons/30.png" tvg-rec="0", MTV Europe
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch030/mono.m3u8?token=swaco64.v2_f6GrjEJqZxM-XmVTigl8v-zeB21N97IndGz6RjDEYOvxMzLxoPRfQdaud_yuRJYAUbLJ9eB8
+#EXTINF:0 tvg-id="ch2766" tvg-name="MTV Base HD" tvg-logo="http://rus.hls.gd/images/chIcons/2766.png" tvg-rec="0", MTV Base HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch2766/mono.m3u8?token=swaco64.v2_WmD3GFrVf9ZsbYUFhSmAVThVzhZok8k3brkxe2znoZF-btAIIJFb92d3tyjpDWDYeqtgHPJlcjs
+#EXTINF:0 tvg-id="ch2752" tvg-name="MTV Idol HD" tvg-logo="http://rus.hls.gd/images/chIcons/2752.png" tvg-rec="0", MTV Idol HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch2752/mono.m3u8?token=swaco64.v2_-LCqN9qqhwZHSp8lq3MtJeXRMNRwiTTqA1jWJ61Zsbz7Hge_KUH4-X8V9iQ5H80M8f6-ZsVv7Qg
+#EXTINF:0 tvg-id="ch2758" tvg-name="MTV Pulse HD" tvg-logo="http://rus.hls.gd/images/chIcons/2758.png" tvg-rec="0", MTV Pulse HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch2758/mono.m3u8?token=swaco64.v2_Cpqnf3H7rDOpAplecXy2Hb8kqCCVKoHGwwBB_8FzDNr5Pfj8BObY7LVcn-hEli7Ll-zQ8uhGMbo
+#EXTINF:0 tvg-id="ch3896" tvg-name="MTV Hits HD" tvg-logo="http://rus.hls.gd/images/chIcons/3896.png" tvg-rec="0", MTV Hits HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3896/mono.m3u8?token=swaco64.v2_YMbnc-W-1Fi4yo477EP3BVOSGDQsXyE9bKhB933KWvxBMwToqLFfMK1hr-FQdooj77MeFSN0GSs
+#EXTINF:0 tvg-id="ch3895" tvg-name="MTV Club HD" tvg-logo="http://rus.hls.gd/images/chIcons/3895.png" tvg-rec="0", MTV Club HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3895/mono.m3u8?token=swaco64.v2_ujFJuCAMqQOW8ZZTL546PmvN6Yt5CUwTZkgorgccNsQri5gD5F4Sv_DbyfRbOHYTqu34ZFr44dY
+#EXTINF:0 tvg-id="ch3915" tvg-name="MTV Dance HD" tvg-logo="http://rus.hls.gd/images/chIcons/3915.png" tvg-rec="0", MTV Dance HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3915/mono.m3u8?token=swaco64.v2_3RR1I_NT6y2trgr61U5ZbreRV9B0wzu_2AKUGApm8C3vf2Ibq6LiyxJzq0gudPVyti3pWATRd1s
+#EXTINF:0 tvg-id="ch3916" tvg-name="MTV 80s HD" tvg-logo="http://rus.hls.gd/images/chIcons/3916.png" tvg-rec="0", MTV 80s HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3916/mono.m3u8?token=swaco64.v2__OCPW5aOjsyQ6WH80ya6RD7dyVa0HszPzfSp6HJ6C-9-pR0wK71RD15L0nddgNu1EB7EzVKytAI
+#EXTINF:0 tvg-id="ch3917" tvg-name="MTV 90s HD" tvg-logo="http://rus.hls.gd/images/chIcons/3917.png" tvg-rec="0", MTV 90s HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3917/mono.m3u8?token=swaco64.v2_ci96bR-GGOYIxx4DYekF2QECavzkM2BB-C_DpeF_gBAHHDPtcNM_N3pTEdr4IG1oCtdWKSTapz4
+#EXTINF:0 tvg-id="ch3918" tvg-name="MTV 00s HD" tvg-logo="http://rus.hls.gd/images/chIcons/3918.png" tvg-rec="0", MTV 00s HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3918/mono.m3u8?token=swaco64.v2_rDqbbou7bgzSzaYMrWshXCu9jU1NdfJPvvokpjEhJGhMJyXIY-HguPyM3lAHlFCmtweeTw65Wk8
+#EXTINF:0 tvg-id="ch3919" tvg-name="MTV OMG HD" tvg-logo="http://rus.hls.gd/images/chIcons/3919.png" tvg-rec="0", MTV OMG HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3919/mono.m3u8?token=swaco64.v2_vVcwa-Zbqv0HiE6luYQ9OxzrgHMepNNPibr7_9cL3TqME7gskhCvLgPqsot_rqZ_MHFXLyA3UZ8
+#EXTINF:0 tvg-id="ch3920" tvg-name="MTV Rocks HD" tvg-logo="http://rus.hls.gd/images/chIcons/3920.png" tvg-rec="0", MTV Rocks HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3920/mono.m3u8?token=swaco64.v2_S11A640FMMQWlWvfx-u1CVCYsOI2XbojSCqBaomJ4Xpb2mEdfbqMhgOlUSTWkd85-Tq3rXR45JA
+#EXTINF:0 tvg-id="ch3921" tvg-name="MTV Brand New HD" tvg-logo="http://rus.hls.gd/images/chIcons/3921.png" tvg-rec="0", MTV Brand New HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3921/mono.m3u8?token=swaco64.v2_7nQJh52d-oKLLaG_wBSzjATer_AkKSzQeUZfKIRytWBXcT5DKrTu-zJtO5MnRsbTkOaLkLV6yI8
+#EXTINF:0 tvg-id="ch3922" tvg-name="MTV Classic HD" tvg-logo="http://rus.hls.gd/images/chIcons/3922.png" tvg-rec="0", MTV Classic HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3922/mono.m3u8?token=swaco64.v2_CkVSzQlzPv9l8ArSyYg0hlivbrjKr0RkU--5Ul8C5-WF8xF4iLnOJuHiQylh_qkw49S5ETzekYc
+#EXTINF:0 tvg-id="ch3923" tvg-name="MTV Music 24 HD" tvg-logo="http://rus.hls.gd/images/chIcons/3923.png" tvg-rec="0", MTV Music 24 HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3923/mono.m3u8?token=swaco64.v2_c0gzJQF2_G9aw2p6ljELueXjeV8VAKpiP9Nr7hW55yUHaXAq4uh0MR8ToWScIIq1qx2oe7CV-cY
+#EXTINF:0 tvg-id="ch3924" tvg-name="MTV Gold HD" tvg-logo="http://rus.hls.gd/images/chIcons/3924.png" tvg-rec="0", MTV Gold HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3924/mono.m3u8?token=swaco64.v2_uaT7VJ9n4pHy7kBBEfLeAh2e9Ei1XfHhOgBe-1ZL0v2iNz08vtHQ_igZpc6wR_ExmYNFiYFevrg
+#EXTINF:0 tvg-id="ch3594" tvg-name="MTV Shows HD" tvg-logo="http://rus.hls.gd/images/chIcons/3594.png" tvg-rec="0", MTV Shows HD
+#EXTGRP:RUZIEV TEAM TV MTV
+http://ru7.hls.gd/ch3594/mono.m3u8?token=swaco64.v2_U2rDy5XoYDpNTqWXoSQyF74-52MQg5-anwRUR7oiuBqccfxIhoRMJerN00xoJDS2rwEZGRgORcY
+#EXTINF:0 tvg-id="ch020" tvg-name="МУЗ" tvg-logo="http://rus.hls.gd/images/chIcons/20.png" tvg-rec="0", МУЗ
 
 
 
@@ -2505,7 +2556,7 @@ http://sochinskayatrk.ru:2015/43Kanal/mpegts
 https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
 #EXTINF:-1group-title="RUZIEV MY TV +",ATV Bazmoc
 https://s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV LIFEFUCK
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV LifeHack
 https://s70378.cdn.ngenix.net/filmzone/2/index.m3u8
 #EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
 https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
@@ -2532,11 +2583,11 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 #EXTINF:-1 group-title="RUZIEV MY TV +"  tvg-id="romance" ,Vesna
 http://46.32.176.50/worldfashion/index.m3u8
 #EXTINF:-1  group-title="RUZIEV MY TV +" ,DIZI
-http://tv.ttk.mx:9189
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Cinema
-http://tv.ttk.mx:9053
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
@@ -2801,144 +2852,14 @@ https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/1
 #EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Urbano TV
 https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/4.m3u8
 
-#EXTINF:-1 group-title="GRAND IPTV/FR",SYFY
+#EXTINF:-1 group-title="RUZIEV MY TV +",SYFY
 http://99.27.51.147:8080/SYFY/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/FR",Cine Classic
+#EXTINF:-1 group-title="RUZIEV MY TV +",Cine Classic
 http://99.27.51.147/CineClassic/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/FR",CineFrisson
+#EXTINF:-1 group-title="RUZIEV MY TV +",CineFrisson
 http://99.27.51.147:8080/CineFrisson/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/FR",CineFamily
+#EXTINF:-1 group-title="RUZIEV MY TV +",CineFamily
 http://99.27.51.147:8080/CineFamiz/index.m3u8
-
-#EXTINF:-1 group-title="GRAND IPTV/FR",TF1
-http://173.229.4.239:5004/auto/v1
-#EXTINF:-1 group-title="GRAND IPTV/FR",France 2
-http://173.229.4.239:5004/auto/v2
-#EXTINF:-1 group-title="GRAND IPTV/FR",France 3
-http://173.229.4.239:5004/auto/v3
-#EXTINF:-1 group-title="GRAND IPTV/FR",France 4
-http://173.229.4.239:5004/auto/v4
-#EXTINF:-1 group-title="GRAND IPTV/FR",France 5
-http://173.229.4.239:5004/auto/v5
-
-
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",ANTENA HD
-http://91.246.72.88:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Alfa TVP
-http://91.246.72.88:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",ESKA TV
-http://91.246.72.88:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Fokus TV
-http://91.246.72.88:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",PULS 2
-http://91.246.72.88:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polo TV
-http://91.246.72.88:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat
-http://91.246.72.88:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat News Polityka
-http://91.246.72.88:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Stopklatka TV
-http://91.246.72.88:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Super Polsat
-http://91.246.72.88:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Cinemax HD
-http://81.15.109.89:8001/play/Cinemax
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disco Polo Music
-http://81.15.109.89:8001/play/DiscoPoloMusic2
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disco Polo Music
-http://81.15.109.89:8001/play/DiscoPoloMusic
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney Channel HD
-http://81.15.109.89:8001/play/DisneyChannel2
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney Channel HD
-http://81.15.109.89:8001/play/DisneyChannel
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney Junior
-http://81.15.109.89:8001/play/DisneyJunior
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney XD
-http://81.15.109.89:8001/play/DisneyXD
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Dla Ciebie TV
-http://81.15.109.89:8001/play/DlaCiebieTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Eska Rock HD
-http://81.15.109.89:8001/play/EskaRock
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Eska TV Extra HD
-http://81.15.109.89:8001/play/EskaTVExtra
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Fightklub HD
-http://81.15.109.89:8001/play/Fightklub
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Film Cafe
-http://81.15.109.89:8001/play/FilmCafe
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",HBO HD
-http://81.15.109.89:8001/play/HBO
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",HOME TV
-http://81.15.109.89:8001/play/HomeTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",ID Poland HD
-http://81.15.109.89:8001/play/IDPoland
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",MTV 90s
-http://81.15.109.89:8001/play/MTV90s
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Mango
-http://81.15.109.89:8001/play/Mango
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Mezzo TV
-http://81.15.109.89:8001/play/MezzoTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",NOVELAS+
-http://81.15.109.89:8001/play/Novelas
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",NUTA GOLD
-http://81.15.109.89:8001/play/NutaGold
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",NUTA TV
-http://81.15.109.89:8001/play/NutaTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Nat Geo People HD
-http://81.15.109.89:8001/play/NatGeoPeople
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Novela Tv
-http://81.15.109.89:8001/play/a02n
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Novela Tv
-http://81.15.109.89:8001/play/NovelaTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",POWER TV
-http://81.15.109.89:8001/play/PowerTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polonia 1
-http://81.15.109.89:8001/play/Polonia1
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Jim Jam
-http://81.15.109.89:8001/play/PolsatJimJam
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat News Polityka HD
-http://81.15.109.89:8001/play/PolsatNewsPolityka
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Rodzina HD
-http://81.15.109.89:8001/play/PolsatRodzina
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Seriale HD
-http://81.15.109.89:8001/play/PolsatSeriale
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Viasat Explore HD
-http://81.15.109.89:8001/play/PolsatViasatExplore
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Viasat Nature HD
-http://81.15.109.89:8001/play/PolsatViasatNature
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat X HD
-http://81.15.109.89:8001/play/PolsatX
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",SZLAGIER TV
-http://81.15.109.89:8001/play/SzlagierTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Science Poland HD
-http://81.15.109.89:8001/play/SciencePoland
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Sportklub HD
-http://81.15.109.89:8001/play/Sportklub
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",TELE 5
-http://81.15.109.89:8001/play/Tele5
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",TV Okazje
-http://81.15.109.89:8001/play/TVOkazje
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVC
-http://81.15.109.89:8001/play/TVC
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVC SUPER
-http://81.15.109.89:8001/play/TVCSuper
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVP HD
-http://81.15.109.89:8001/play/TVP
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVP INFO HD
-http://81.15.109.89:8001/play/TVPInfo
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Turbo Xtra Poland HD
-http://81.15.109.89:8001/play/TurboXtraPoland
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Vox Music TV HD
-http://81.15.109.89:8001/play/VoxMusicTV
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Water Planet
-http://81.15.109.89:8001/play/WaterPlanet
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",Wydarzenia 24 HD
-http://81.15.109.89:8001/play/Wydarzenia24
-#EXTINF:-1 group-title="GRAND IPTV/POLAND",teleTOON+ HD
-http://81.15.109.89:8001/play/Teletoon
-
-
-
 
 
 
@@ -40172,7 +40093,372 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/15202/ind
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5681.png" group-title="GRAND PLUS | عربي", Al Hadath AE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/15203/index.m3u8
 
-
+#EXTINF:0 tvg-id="ch049" tvg-name="Русская ночь" tvg-logo="http://rus.hls.gd/images/chIcons/49.png" tvg-rec="0", Русская ночь
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch049/mono.m3u8?token=swaco64.v2_srpgcS0AE2RwIdXUex28nmnIxFSMAFfUI2N8F4ws1uXV_prZBRCduDhNJ48Z1pscHM4FDciT
+#EXTINF:0 tvg-id="ch050" tvg-name="Playboy" tvg-logo="http://rus.hls.gd/images/chIcons/50.png" tvg-rec="0", Playboy
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch050/mono.m3u8?token=swaco64.v2_fp6uySXFJXRvdeEVvQDEzcK07F1YETzXnHTaqYunQjnP76rsHkC4IkvIELtl_dM5wXSxvoU1
+#EXTINF:0 tvg-id="ch094" tvg-name="Private TV HD" tvg-logo="http://rus.hls.gd/images/chIcons/94.png" tvg-rec="0", Private TV HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch094/mono.m3u8?token=swaco64.v2_AWLuBN5GEzgVkpWeBdfRqpJ2HJcjzdDrWzDSYZ6QoK6yvA-TnhhCtdKnJ3fyQuQUjZ25QS-4
+#EXTINF:0 tvg-id="ch093" tvg-name="Brazzers TV HD" tvg-logo="http://rus.hls.gd/images/chIcons/93.png" tvg-rec="0", Brazzers TV HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch093/mono.m3u8?token=swaco64.v2_qS1T7S-R6oql0JekkSD6nYyPAjXyZNB1Hx_REA6UJ1zZOSrLk5yIYC1-RDoceYXnz7vSyH4S
+#EXTINF:0 tvg-id="ch096" tvg-name="Hustler HD" tvg-logo="http://rus.hls.gd/images/chIcons/96.png" tvg-rec="0", Hustler HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch096/mono.m3u8?token=swaco64.v2_CqLbPULJrT0Yvy-oNDrqsKR-m3S8Xsb1CUyDjRaKdL8NjwsKdh97iBosZwijoU7GVm5LxLxx
+#EXTINF:0 tvg-id="ch097" tvg-name="Dorcel HD" tvg-logo="http://rus.hls.gd/images/chIcons/97.png" tvg-rec="0", Dorcel HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch097/mono.m3u8?token=swaco64.v2_w503-1xYK6l7I3QZEqPBlq419taC6BzfeaiKID50nBagVZFcTe5ga7_Urxap89hy_2RmAKOU
+#EXTINF:0 tvg-id="ch381" tvg-name="Penthouse Gold HD" tvg-logo="http://rus.hls.gd/images/chIcons/381.png" tvg-rec="0", Penthouse Gold HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch381/mono.m3u8?token=swaco64.v2_HS8ik3DKZVGrz0MF7DgVqT0RHfgzBHNhZCUMxAvDi-YVkSdbd0r_bSz4Wq-vqOARDgpdvOgOaQ
+#EXTINF:0 tvg-id="ch819" tvg-name="Penthouse Passion HD" tvg-logo="http://rus.hls.gd/images/chIcons/819.png" tvg-rec="0", Penthouse Passion HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch819/mono.m3u8?token=swaco64.v2_jMiipVLAOsdRUV0wc3cdWS5UgA7CzheGvJPr2vKWFP6pDf_bjROZEktMhDOlvUqelBJ2K8zOOg
+#EXTINF:0 tvg-id="ch791" tvg-name="Penthouse Quickies HD" tvg-logo="http://rus.hls.gd/images/chIcons/791.png" tvg-rec="0", Penthouse Quickies HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch791/mono.m3u8?token=swaco64.v2_9mGINvY9RJZHApABoTonRC1BpZ4wgQRJkWdLaYWelPJwGL339OaX2cJjfvtrFXUBIgDSH2xTnw
+#EXTINF:0 tvg-id="ch826" tvg-name="Vivid Red HD" tvg-logo="http://rus.hls.gd/images/chIcons/826.png" tvg-rec="0", Vivid Red HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch826/mono.m3u8?token=swaco64.v2_s_f3gvXUSepRPgGmniupQZ_1loQo2N05Quxf3XlFd9j-70KFbhQsJKs7xKfGRD8Jpq_xW7tYGA
+#EXTINF:0 tvg-id="ch805" tvg-name="Vivid Touch" tvg-logo="http://rus.hls.gd/images/chIcons/805.png" tvg-rec="0", Vivid Touch
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch805/mono.m3u8?token=swaco64.v2_rW4XvbuyGpQjAMvujeYo3gxOAHcXwOjCBfbP4_YyY5IlE0Pvw5WfNa2x9idwAqvjc7GQvcDTiQ
+#EXTINF:0 tvg-id="ch842" tvg-name="Dusk HD" tvg-logo="http://rus.hls.gd/images/chIcons/842.png" tvg-rec="0", Dusk HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch842/mono.m3u8?token=swaco64.v2_KupZqG6pbXTxFvLfgH34pSJE4vKCy8VvEbKsmVunoaUXevzptwZ0bfyU-0Swaqwhfs0bxTbgyQ
+#EXTINF:0 tvg-id="ch380" tvg-name="Pornbox A Girls Knows" tvg-logo="http://rus.hls.gd/images/chIcons/380.png" tvg-rec="0", Pornbox A Girls Knows
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch380/mono.m3u8?token=swaco64.v2_HMcex0AvE7EsPsk_zcza0p3nkJno3bu81lZBnPGQzkpgDr9DN2eGJs_Vnyp0tRLUvyGzpAdKwQ
+#EXTINF:0 tvg-id="ch248" tvg-name="Pornbox Adult Time" tvg-logo="http://rus.hls.gd/images/chIcons/248.png" tvg-rec="0", Pornbox Adult Time
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch248/mono.m3u8?token=swaco64.v2_hMbmi9N3OyZ_G4ZF5Kcmhii673WeNFNA1hIqaAUWE2J1MYhcmNsFnjvy4MJrn9zRFY9VockXlw
+#EXTINF:0 tvg-id="ch810" tvg-name="Pornbox All Group Sex" tvg-logo="http://rus.hls.gd/images/chIcons/810.png" tvg-rec="0", Pornbox All Group Sex
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch810/mono.m3u8?token=swaco64.v2_SMc7JHuzVs1e1XNU8HvMGBWPiKCSoDOJ6MW6huhjfiFP1CdnrA87BK0VhCGeTZGCF3L_8YSmtA
+#EXTINF:0 tvg-id="ch793" tvg-name="Pornbox Bums Bus" tvg-logo="http://rus.hls.gd/images/chIcons/793.png" tvg-rec="0", Pornbox Bums Bus
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch793/mono.m3u8?token=swaco64.v2_KpR9L3tUEjrheZODnUPgt66uJetltDT1DWOVKfxAQTyTNOpOlBOfsyBYKaZTHeVXffGsId02nw
+#EXTINF:0 tvg-id="ch051" tvg-name="Pornbox Babes" tvg-logo="http://rus.hls.gd/images/chIcons/51.png" tvg-rec="0", Pornbox Babes
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch051/mono.m3u8?token=swaco64.v2_ubMRVBc4lXLD6Tz2k98MVC9WPtPD_PfWnNtdqT5gsiRIxUXZpyatC1s7-Sa8PHECW1SQ8xwV
+#EXTINF:0 tvg-id="ch792" tvg-name="Pornbox Bratty Sis" tvg-logo="http://rus.hls.gd/images/chIcons/792.png" tvg-rec="0", Pornbox Bratty Sis
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch792/mono.m3u8?token=swaco64.v2_oRz6U8xpu-kfkPeQSyQ5NrJCf8P1TZOJvz25CZ3U0rdxgu4FeOtXroqj1LpwbXlaXKm-I_44FQ
+#EXTINF:0 tvg-id="ch246" tvg-name="Pornbox Blacked" tvg-logo="http://rus.hls.gd/images/chIcons/246.png" tvg-rec="0", Pornbox Blacked
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch246/mono.m3u8?token=swaco64.v2_cT3Jd5PQdBdOO-EYY7QwQic9lP605J1wEnAF2Jvg5MAdofXvp91xe_py4ygKqHlFImHFZ7lylA
+#EXTINF:0 tvg-id="ch053" tvg-name="Pornbox Cum 4K" tvg-logo="http://rus.hls.gd/images/chIcons/53.png" tvg-rec="0", Pornbox Cum 4K
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch053/mono.m3u8?token=swaco64.v2_s7LSUQxskyheO-rtPZdC5269CHMyk16MWTiWqfL34VwxkAEA9w8PiK0vXOM5eabvzlHtHWHD
+#EXTINF:0 tvg-id="ch795" tvg-name="Pornbox Casting Couch" tvg-logo="http://rus.hls.gd/images/chIcons/795.png" tvg-rec="0", Pornbox Casting Couch
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch795/mono.m3u8?token=swaco64.v2_4mczxbjGJBHwUACh4qnTupiuIJXrO3sP5ibhrrlgx3exi9RXPKR_7ZcmIhGu5o3mdJ18qn1F2w
+#EXTINF:0 tvg-id="ch377" tvg-name="Pornbox Dogfart Network" tvg-logo="http://rus.hls.gd/images/chIcons/377.png" tvg-rec="0", Pornbox Dogfart Network
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch377/mono.m3u8?token=swaco64.v2_IPpVYyV-_COq0TKMs8DSir23fLuyDk8ITgNJt_WoBr7C7quCmtjP0D9OYRtMVcbOGvasWyRUTw
+#EXTINF:0 tvg-id="ch376" tvg-name="Pornbox DDF Busty" tvg-logo="http://rus.hls.gd/images/chIcons/376.png" tvg-rec="0", Pornbox DDF Busty
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch376/mono.m3u8?token=swaco64.v2_YvH7uknQKE1zwgmqOqEHU5gD1IOi-ZUK9hLupLJvMHZpeBJ_gv_CTLqZBMjNoP7OZkQ3S0R-jg
+#EXTINF:0 tvg-id="ch291" tvg-name="Pornbox Diabolic" tvg-logo="http://rus.hls.gd/images/chIcons/291.png" tvg-rec="0", Pornbox Diabolic
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch291/mono.m3u8?token=swaco64.v2_CwcGWSGk9MnKBRwJBEdGYGAoBu9lqPkj0_A1IuXih1jePLskDc_rt0zisH_S_8oyxBihWDvCWA
+#EXTINF:0 tvg-id="ch052" tvg-name="Pornbox Gender X Films" tvg-logo="http://rus.hls.gd/images/chIcons/52.png" tvg-rec="0", Pornbox Gender X Films
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch052/mono.m3u8?token=swaco64.v2_r6dyBJlvqkAd2wqba1gh6O0rnwNHLfUjKfJhZR5U_YjneO5BhdEC8KKI3xxbEI3DvAmGgo6Y
+#EXTINF:0 tvg-id="ch801" tvg-name="Pornbox Family Strokes" tvg-logo="http://rus.hls.gd/images/chIcons/801.png" tvg-rec="0", Pornbox Family Strokes
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch801/mono.m3u8?token=swaco64.v2_QdfVuiPzJLEE2C_FpgmvmapgfNriZPMQIqxIDTVkcprHkk5m19nB8Wtml_NqjoqRu4VVjw6j2A
+#EXTINF:0 tvg-id="ch803" tvg-name="Pornbox Fake Taxi" tvg-logo="http://rus.hls.gd/images/chIcons/803.png" tvg-rec="0", Pornbox Fake Taxi
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch803/mono.m3u8?token=swaco64.v2_Sup4LEVDDY4CewsYJLtRnLRvLffWpzr2bC3Uy90GGjG5KgzizeMzFdwElc-YIxt77uN6TuILoA
+#EXTINF:0 tvg-id="ch794" tvg-name="Pornbox Fake Hostel" tvg-logo="http://rus.hls.gd/images/chIcons/794.png" tvg-rec="0", Pornbox Fake Hostel
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch794/mono.m3u8?token=swaco64.v2_T89z8fGkN-myyHd1_d0Y_WkpyMYmMh2ifpQjsqH1vubEj1dh1DCW5yTSMb7xzj0i_enpQs3tLA
+#EXTINF:0 tvg-id="ch799" tvg-name="Pornbox First Anal Quest" tvg-logo="http://rus.hls.gd/images/chIcons/799.png" tvg-rec="0", Pornbox First Anal Quest
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch799/mono.m3u8?token=swaco64.v2_FuE4F6Q8d76TIe9eduNlKzddnJbs2tplTWLoqEyBFjCf13w6O2HHed7Zh9k21MeqIh_9z_3gsA
+#EXTINF:0 tvg-id="ch798" tvg-name="Pornbox Fit 18" tvg-logo="http://rus.hls.gd/images/chIcons/798.png" tvg-rec="0", Pornbox Fit 18
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch798/mono.m3u8?token=swaco64.v2_D6vWPpUsFk8oIWGl0dx__HK0TGVbRywgbtLRkBkeRFB17QmgyRWtKhaQkPBd6gGTBISyRq4Xdg
+#EXTINF:0 tvg-id="ch800" tvg-name="Pornbox Fapadoo" tvg-logo="http://rus.hls.gd/images/chIcons/800.png" tvg-rec="0", Pornbox Fapadoo
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch800/mono.m3u8?token=swaco64.v2_VuGrwnc-6Xv-gj3BQXmjXzt7RYeauTOSm7PxS2oH0ff5dR9IVD9N3MJn6UXja5BO7C-B2f9SiA
+#EXTINF:0 tvg-id="ch824" tvg-name="Pornbox Holed" tvg-logo="http://rus.hls.gd/images/chIcons/824.png" tvg-rec="0", Pornbox Holed
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch824/mono.m3u8?token=swaco64.v2_5FRHnymZs117_1rstkD1dazRSx1_t2QfOw2LoyBKoUhUuh6tPU7yadgKY4GCyZhs-WhzkH1MyA
+#EXTINF:0 tvg-id="ch250" tvg-name="Pornbox Hentained" tvg-logo="http://rus.hls.gd/images/chIcons/250.png" tvg-rec="0", Pornbox Hentained
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch250/mono.m3u8?token=swaco64.v2_YtGrZ07b1wJVefarLSLRuLFr1ymm3zto7shul39TDhMsilgi_pC0hjWlS__tQ5I1s7zUNZLrgw
+#EXTINF:0 tvg-id="ch249" tvg-name="Pornbox Jules Jordan" tvg-logo="http://rus.hls.gd/images/chIcons/249.png" tvg-rec="0", Pornbox Jules Jordan
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch249/mono.m3u8?token=swaco64.v2_bMA7kDxs2yGbAgyzkGVIRjzV96Ct7WjpQRoEqg0A9WEg4cBrVTviBeC3DGdc3MT6vqMNRtxE4w
+#EXTINF:0 tvg-id="ch290" tvg-name="Pornbox Jays Pov" tvg-logo="http://rus.hls.gd/images/chIcons/290.png" tvg-rec="0", Pornbox Jays Pov
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch290/mono.m3u8?token=swaco64.v2_MERqUZvv6f8-1yZjYKsfl7hUo2y6D3A1nlbJbABSXF38mRlMjGXySu_9FEuJrsxIEAbSr4YihA
+#EXTINF:0 tvg-id="ch375" tvg-name="Pornbox Jesh By Jesh" tvg-logo="http://rus.hls.gd/images/chIcons/375.png" tvg-rec="0", Pornbox Jesh By Jesh
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch375/mono.m3u8?token=swaco64.v2_CJc3O3HPPsyWtscp3hPxP3LNgGS6s6XXoq3bMkcz593B2KwWDX6sMP7dm0LMW-tniR8_2b9SPw
+#EXTINF:0 tvg-id="ch823" tvg-name="Pornbox Interracial Pass" tvg-logo="http://rus.hls.gd/images/chIcons/823.png" tvg-rec="0", Pornbox Interracial Pass
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch823/mono.m3u8?token=swaco64.v2_0oA4DQwaaShUfcO4lRJhAvoodJenhJEE03XYOhuUmbj-8n6sW7rK0i2UOa3ohJbXU2vzoWJ2HQ
+#EXTINF:0 tvg-id="ch289" tvg-name="Pornbox Kinky Family" tvg-logo="http://rus.hls.gd/images/chIcons/289.png" tvg-rec="0", Pornbox Kinky Family
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch289/mono.m3u8?token=swaco64.v2_KTKGcQIRMXBPeoFsItoTGuzS3zNK-lueWNoiXMk1tSF49m_kSg-FxUO-LZt5OCqZcPxSVYn2nQ
+#EXTINF:0 tvg-id="ch809" tvg-name="Pornbox Lets Do It" tvg-logo="http://rus.hls.gd/images/chIcons/809.png" tvg-rec="0", Pornbox Lets Do It
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch809/mono.m3u8?token=swaco64.v2_3cvgkl3BhB_Ac3vTf7S41rD6x_MvINizISoWAxQ_XM8fzuoBGv7kwh0dYVeokCbhzZxUhfRorQ
+#EXTINF:0 tvg-id="ch813" tvg-name="Pornbox Love Her Feet" tvg-logo="http://rus.hls.gd/images/chIcons/813.png" tvg-rec="0", Pornbox Love Her Feet
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch813/mono.m3u8?token=swaco64.v2_r5HxDlQqDlEUehJQd9LYpNCiRxXSlxsNHAyvt8FZMX_gAMnbEHV3Ep26MfKjn0xJ0QGvq0FrZA
+#EXTINF:0 tvg-id="ch807" tvg-name="Pornbox Love Home Porn" tvg-logo="http://rus.hls.gd/images/chIcons/807.png" tvg-rec="0", Pornbox Love Home Porn
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch807/mono.m3u8?token=swaco64.v2_zwmlnL5W4WbqRHSWo9Gld0PQAfeGe1ViLVcsQrsB8-8mbP8knjWt1CsXsqzSNYMJGKHpdRx7zw
+#EXTINF:0 tvg-id="ch850" tvg-name="Pornbox Massage Rooms" tvg-logo="http://rus.hls.gd/images/chIcons/850.png" tvg-rec="0", Pornbox Massage Rooms
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch850/mono.m3u8?token=swaco64.v2_kRUZksIdqVKfejG0GZDgPa2AyloiQ-QqVTy0oZrCwRSn073Hq4kNaj21wVtMlONKN9NE0xZoiQ
+#EXTINF:0 tvg-id="ch815" tvg-name="Pornbox My Tiny Wish" tvg-logo="http://rus.hls.gd/images/chIcons/815.png" tvg-rec="0", Pornbox My Tiny Wish
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch815/mono.m3u8?token=swaco64.v2_3Y1YY9YWezIMXbbp3AqoZ5Bz03Aj20bsLS7SW8WyiW4hlmq9FLB0vlIt89CBAMtV8DS2TLV2_w
+#EXTINF:0 tvg-id="ch817" tvg-name="Pornbox My Family Pies" tvg-logo="http://rus.hls.gd/images/chIcons/817.png" tvg-rec="0", Pornbox My Family Pies
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch817/mono.m3u8?token=swaco64.v2_ShbjcYDqE20am-h4CMG8_EaKX6b1BFZGNo4ZCadKgIXZYtvDKelGtmDFIQkEPPdztK5Fc-PD6w
+#EXTINF:0 tvg-id="ch806" tvg-name="Pornbox Must Not Fap" tvg-logo="http://rus.hls.gd/images/chIcons/806.png" tvg-rec="0", Pornbox Must Not Fap
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch806/mono.m3u8?token=swaco64.v2_Y3kokCB7d244mUMTVE9OeT3lLnv-NUJASo1212kiPT3M5Ztc5gbsHhY9EsuQqX4ffwfK6Ktr2A
+#EXTINF:0 tvg-id="ch292" tvg-name="Pornbox Model Media Asia" tvg-logo="http://rus.hls.gd/images/chIcons/292.png" tvg-rec="0", Pornbox Model Media Asia
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch292/mono.m3u8?token=swaco64.v2_9f0Q6ziV49m6U3PShDVSISMFd379SPeYwHQ_RXql8myKh3cnJHpfBn1rEsk6KnWUh-lIN1H0Nw
+#EXTINF:0 tvg-id="ch816" tvg-name="Pornbox Mom Teach Sex" tvg-logo="http://rus.hls.gd/images/chIcons/816.png" tvg-rec="0", Pornbox Mom Teach Sex
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch816/mono.m3u8?token=swaco64.v2_8pNcq23GSRmDjFq0BCB2XnSuPoM4bKL0gFQaSA_BHuahHuDUscnFBUE9gfdtC74uOoqj099XhQ
+#EXTINF:0 tvg-id="ch802" tvg-name="Pornbox Mamacitaz" tvg-logo="http://rus.hls.gd/images/chIcons/802.png" tvg-rec="0", Pornbox Mamacitaz
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch802/mono.m3u8?token=swaco64.v2_hXR5HPIsPqwvKqsKPAtYBY9iKR0cn5l7_SU6zfmgBM0urgI2V9gqX1L_f3tXGA1WL385OD_tcg
+#EXTINF:0 tvg-id="ch814" tvg-name="Pornbox My Dirty Hobby" tvg-logo="http://rus.hls.gd/images/chIcons/814.png" tvg-rec="0", Pornbox My Dirty Hobby
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch814/mono.m3u8?token=swaco64.v2_7yYlZymZhRk27As5lAqkCPhWANi-I8G5MitiSwg_W1MFSoHABg7E1zZ79uXoLqK-G-hfTt9xTw
+#EXTINF:0 tvg-id="ch247" tvg-name="Pornbox Pornochic" tvg-logo="http://rus.hls.gd/images/chIcons/247.png" tvg-rec="0", Pornbox Pornochic
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch247/mono.m3u8?token=swaco64.v2_NYJ-eFbLqIcdiEcdF7N7rrjQexmTbgoyZ-QU1uNo9I8x7AiyFi9uY_6_sfVjLBO2oqoM5H1LBw
+#EXTINF:0 tvg-id="ch797" tvg-name="Pornbox Public Agent" tvg-logo="http://rus.hls.gd/images/chIcons/797.png" tvg-rec="0", Pornbox Public Agent
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch797/mono.m3u8?token=swaco64.v2_jTwFbgVZFSLLasH7fvJYuwaAIzgcGVk_rARUmNiYaB8H36vcjAM-2YmLw50j6Hl7XOhE6ggsXw
+#EXTINF:0 tvg-id="ch820" tvg-name="Pornbox Passion" tvg-logo="http://rus.hls.gd/images/chIcons/820.png" tvg-rec="0", Pornbox Passion
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch820/mono.m3u8?token=swaco64.v2_TTMnv8kl8HNvyrZ6nyqqzv4cKmkwV_x68voNLMxSY2Q9wnYLHgTOKH-EAzSUrn2r2M56-mgz0w
+#EXTINF:0 tvg-id="ch804" tvg-name="Pornbox Pure Mature" tvg-logo="http://rus.hls.gd/images/chIcons/804.png" tvg-rec="0", Pornbox Pure Mature
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch804/mono.m3u8?token=swaco64.v2_nLX0-Q181tZBF6dZeKjhMzUIGfEjT5ypzr7k-LkIJQNFzIhRF28v14R0tIzXRtazaBNAZmU9Ig
+#EXTINF:0 tvg-id="ch812" tvg-name="Pornbox Princess Cum" tvg-logo="http://rus.hls.gd/images/chIcons/812.png" tvg-rec="0", Pornbox Princess Cum
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch812/mono.m3u8?token=swaco64.v2_gHnZMaTV2X1YCGxDYi44uFGPt-dBC9QVH-T4BYu48el4zRlpFOsVmCwy6N1o0XpIsPAiC11klA
+#EXTINF:0 tvg-id="ch811" tvg-name="Pornbox Real Dirty Videos" tvg-logo="http://rus.hls.gd/images/chIcons/811.png" tvg-rec="0", Pornbox Real Dirty Videos
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch811/mono.m3u8?token=swaco64.v2_URGr0TB8rzFjQcNdh0GoowSd25dxwyUBZ_lmpYT32b6i-VhSputY39qzOfc2et26xJfh-1IzKg
+#EXTINF:0 tvg-id="ch821" tvg-name="Pornbox Reality Junkies" tvg-logo="http://rus.hls.gd/images/chIcons/821.png" tvg-rec="0", Pornbox Reality Junkies
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch821/mono.m3u8?token=swaco64.v2_fnPga-2LddPFnj9uutmCljdrUQK6WJMh0n1966ajjnYwWfbzUQF9X6jOAlttiUXoTKHpHlxXOw
+#EXTINF:0 tvg-id="ch822" tvg-name="Pornbox Reality Kings" tvg-logo="http://rus.hls.gd/images/chIcons/822.png" tvg-rec="0", Pornbox Reality Kings
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch822/mono.m3u8?token=swaco64.v2_aix2LeK3_UH-qmb5ptNeF7c6FXKvHUgS_dDUynCzOD8_YGGsZZH18stMK1Colrm4QNYna67LMQ
+#EXTINF:0 tvg-id="ch796" tvg-name="Pornbox Slim 4K" tvg-logo="http://rus.hls.gd/images/chIcons/796.png" tvg-rec="0", Pornbox Slim 4K
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch796/mono.m3u8?token=swaco64.v2_sY859f3-zHyL6l2INyskKBU-Fj9cNNVIm_7YBlygPVhnvoEhdt2L5xtH2sdm7KM38n4esB5O1g
+#EXTINF:0 tvg-id="ch818" tvg-name="Pornbox Strokies" tvg-logo="http://rus.hls.gd/images/chIcons/818.png" tvg-rec="0", Pornbox Strokies
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch818/mono.m3u8?token=swaco64.v2_WoG7n6g1o5BK43_1pd23ir-PDjeVvC-PG5nhi0DapjsAuVOvAtpwSMGqunUeJxApwPnPHrL5uw
+#EXTINF:0 tvg-id="ch825" tvg-name="Pornbox True Amatuers" tvg-logo="http://rus.hls.gd/images/chIcons/825.png" tvg-rec="0", Pornbox True Amatuers
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch825/mono.m3u8?token=swaco64.v2_Q4KOmw70_M0rlNBZFulS3mK3PUILu-KSUmLBdmwe3BUONH5h2LnmzEloOjt_04tyyWHAy9zDPw
+#EXTINF:0 tvg-id="ch851" tvg-name="Pornbox Elsa Jean Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/851.png" tvg-rec="0", Pornbox Elsa Jean Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch851/mono.m3u8?token=swaco64.v2_OMrvW6-xNdlk-otfqxKS30w1W_786NurHFzYDsHBWaPjFqt8Z_R4GgGgVBOLQbu6nO16BfR9fw
+#EXTINF:0 tvg-id="ch808" tvg-name="Pornbox Riley Reid Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/808.png" tvg-rec="0", Pornbox Riley Reid Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch808/mono.m3u8?token=swaco64.v2_yL9hOUEuzPj6Kndur2d13CNsE5pKiNTd7_KiRUPEKRZYUo0-p79Yu95RnmehQbNfFUi6xGullQ
+#EXTINF:0 tvg-id="ch836" tvg-name="Pornbox Adriana Chechik Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/836.png" tvg-rec="0", Pornbox Adriana Chechik Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch836/mono.m3u8?token=swaco64.v2_QMJMC3HVrDARkDtGjDnEajAWTb1Syp9N8litxOC-zdhj7dDrJuRHT8pLeNkvJrd0BzBDjvYQJg
+#EXTINF:0 tvg-id="ch837" tvg-name="Pornbox Dani Jensen Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/837.png" tvg-rec="0", Pornbox Dani Jensen Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch837/mono.m3u8?token=swaco64.v2_ol7UD0TZtnK5HCi0yqNrKZZKXhP77U7UnW8L4UpVVj_21CkmXKcI9UtW0Ynb_UeCTYe67hzbnA
+#EXTINF:0 tvg-id="ch838" tvg-name="Pornbox Gina Gerson Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/838.png" tvg-rec="0", Pornbox Gina Gerson Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch838/mono.m3u8?token=swaco64.v2_BdthUVUD-XMfZRXC8SanVBcOkK6qHq0UdbAOGr6W98lEKf06J1BRybQby_TKcUSsikUJ-mHnwQ
+#EXTINF:0 tvg-id="ch839" tvg-name="Pornbox Luxurygirl Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/839.png" tvg-rec="0", Pornbox Luxurygirl Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch839/mono.m3u8?token=swaco64.v2_7OnwkG173y_YWc6dFfYbMGxXovFT9HckqcwRvs-K4sBReUv6M7h8jsnXGdCX6s84j4kcIWMWfQ
+#EXTINF:0 tvg-id="ch840" tvg-name="Pornbox Mia Malkova Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/840.png" tvg-rec="0", Pornbox Mia Malkova Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch840/mono.m3u8?token=swaco64.v2_ilOEnAdkuKFEEc1m15ni6Wc9SUD21C7AKyLLt3bWyT3IdjlDDzjw6WEF6VPLgCCoFzn-J83heQ
+#EXTINF:0 tvg-id="ch841" tvg-name="Pornbox Lisa Ann Pornstar" tvg-logo="http://rus.hls.gd/images/chIcons/841.png" tvg-rec="0", Pornbox Lisa Ann Pornstar
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch841/mono.m3u8?token=swaco64.v2_RdTSqmJfm4bopfVHbY_uImqWmt1BdswoPqvFvvnFOBrJSN4fXDaNKp2AeCkuRgAda9deHMsr7w
+#EXTINF:0 tvg-id="ch1507" tvg-name="Sex View 4K" tvg-logo="http://rus.hls.gd/images/chIcons/1507.png" tvg-rec="0", Sex View 4K
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch1507/mono.m3u8?token=swaco64.v2_IWY2SzuXKSeMQoejyQ_Vj-dnWZQxaBjPIfK78XIjhX-zhYT5FVSfiLBoy1Une6TYqkhNATSQBQw
+#EXTINF:0 tvg-id="ch1893" tvg-name="Sex View Gay" tvg-logo="http://rus.hls.gd/images/chIcons/1893.png" tvg-rec="0", Sex View Gay
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch1893/mono.m3u8?token=swaco64.v2_BdaRgBAH4Isrl7hu9jZNSz4oWoab0enW4MxO8CAIhPFRIZ9VO25Ju20GloYAfLXQ8XqrNWNRMdo
+#EXTINF:0 tvg-id="ch655" tvg-name="Eromania 4K" tvg-logo="http://rus.hls.gd/images/chIcons/655.png" tvg-rec="0", Eromania 4K
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch655/mono.m3u8?token=swaco64.v2_3TwwTjSKQBmAO0VzUHaMIpoXVl3MApZbQz6o-KGDnunn0XmXkXk8WJhvAyJOx5ZCjp5CFl2p9Q
+#EXTINF:0 tvg-id="ch1546" tvg-name="BCU Charm HD" tvg-logo="http://rus.hls.gd/images/chIcons/1546.png" tvg-rec="3", BCU Charm HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch1546/mono.m3u8?token=swaco64.v2_XLrn-0UUxjfL2zNqjBhYo7YYJUgOpJ2Ira-QHqlsZjcka6DgQp8ttPLJsQ__Uk9XCMBmhEIAJXE
+#EXTINF:0 tvg-id="ch1756" tvg-name="Liberty Эротика FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1756.png" tvg-rec="3", Liberty Эротика FHD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch1756/mono.m3u8?token=swaco64.v2_WVGKS5Zq2hHwAdZcRltTGXLvYgd4V5n0y0GInitdRvUBeH73HoA1YZNGGNHp0uFds_tTtkTLeuw
+#EXTINF:0 tvg-id="ch1302" tvg-name="Yosso TV Sexy" tvg-logo="http://rus.hls.gd/images/chIcons/1302.png" tvg-rec="3", Yosso TV Sexy
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch1302/mono.m3u8?token=swaco64.v2_xjdhFvr51fNdvM2t_SUtrJzKYD0arHpZ2ZOJoK8kPKU0PeEpa8ueUqgja-j5q7X4MZfMt3kHvMs
+#EXTINF:0 tvg-id="ch3179" tvg-name="Sky High Sex HD" tvg-logo="http://rus.hls.gd/images/chIcons/3179.png" tvg-rec="0", Sky High Sex HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3179/mono.m3u8?token=swaco64.v2_CGQqEPcBA7x4cQpBYiUsTZt4v1XDXJ4UAmkOyyvvfQ_Cdg4Db3nd0YA9Pnt-HPckKuwemx1mKK0
+#EXTINF:0 tvg-id="ch3100" tvg-name="CineMan XXX FHD" tvg-logo="http://rus.hls.gd/images/chIcons/3100.png" tvg-rec="0", CineMan XXX FHD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3100/mono.m3u8?token=swaco64.v2_TMh5RsbGHnHL6rUINUO1j9rYZmssP9k_xNX5zmfwQCmgcgE4ZdLlRI1_cexJfbWWulM0LJYW6l0
+#EXTINF:0 tvg-id="ch3101" tvg-name="CineMan XXX2 FHD" tvg-logo="http://rus.hls.gd/images/chIcons/3101.png" tvg-rec="0", CineMan XXX2 FHD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3101/mono.m3u8?token=swaco64.v2_RhtxxpnlbNp0ILJUYVWGoEjs-tLceAfvMvazMQ-hk9cM9aGvjtkdhzFOzlWxkXIxAcpj8FVQHXA
+#EXTINF:0 tvg-id="ch3181" tvg-name="Velilla TV Adult Channel HD" tvg-logo="http://rus.hls.gd/images/chIcons/3181.png" tvg-rec="0", Velilla TV Adult Channel HD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3181/mono.m3u8?token=swaco64.v2_-0KNQMB6VQvbGF1CLaBmZVkgtam4q_Gj2-k2JbwqCi0EXAcTaS9Ld-H6vMc5-12wMyHeaQVOjow
+#EXTINF:0 tvg-id="ch1987" tvg-name="Pink X" tvg-logo="http://rus.hls.gd/images/chIcons/1987.png" tvg-rec="0", Pink X
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch1987/mono.m3u8?token=swaco64.v2_uYjk4fbVXvG8MfnqeeCxU0uJwrzShCZSuhz1wqLKW9OWJmczUiuzfxKeAf33j5-B4TRFaUFqxR8
+#EXTINF:0 tvg-id="ch2896" tvg-name="EroLuxe Blondes" tvg-logo="http://rus.hls.gd/images/chIcons/2896.png" tvg-rec="0", EroLuxe Blondes
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2896/mono.m3u8?token=swaco64.v2_DDkH8ZjbDO4GUBDLRbq2r8XiDMOKph1-9AC30iiF2TwvPw5Jjd-VQbrt6jAxwTaLF63fK5ubkzM
+#EXTINF:0 tvg-id="ch2897" tvg-name="EroLuxe Anal" tvg-logo="http://rus.hls.gd/images/chIcons/2897.png" tvg-rec="0", EroLuxe Anal
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2897/mono.m3u8?token=swaco64.v2_pXPUVgA_yLDPvZCCl5bfAMESFuw7nnIjI7fKJ4yifOCEwAy-O6FQJGiWRJjNzLparEsWUkh1XK8
+#EXTINF:0 tvg-id="ch2898" tvg-name="EroLuxe Blowjob" tvg-logo="http://rus.hls.gd/images/chIcons/2898.png" tvg-rec="0", EroLuxe Blowjob
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2898/mono.m3u8?token=swaco64.v2_Vsw3f0QnQw9K4Q4sj5L8WBO6WXgF065zuQ3-whYGiY_78rM37V8MERIiX1o7CwE-J9Q5xStBYNg
+#EXTINF:0 tvg-id="ch2899" tvg-name="EroLuxe Cinema" tvg-logo="http://rus.hls.gd/images/chIcons/2899.png" tvg-rec="0", EroLuxe Cinema
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2899/mono.m3u8?token=swaco64.v2_EZ_zjpmKQi_0a-UW4xPevJqM3iO-u6D5B-eHBNdCMr3wXaeYqe7kr35SwJCF2X_74AEIwM37hPc
+#EXTINF:0 tvg-id="ch2900" tvg-name="EroLuxe Cosplay" tvg-logo="http://rus.hls.gd/images/chIcons/2900.png" tvg-rec="0", EroLuxe Cosplay
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2900/mono.m3u8?token=swaco64.v2_qnNObedQauwOcY1cbe026uqUQizGEhLLJUxQDfK8xSVqh7v-xz7vrH70SIKJCe8Pa47omNqfbwo
+#EXTINF:0 tvg-id="ch2901" tvg-name="EroLuxe Ebony" tvg-logo="http://rus.hls.gd/images/chIcons/2901.png" tvg-rec="0", EroLuxe Ebony
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2901/mono.m3u8?token=swaco64.v2_uwzdb7SIuR0gt9cV1Y3Sd-GkYjBqJNqXlkiFmOZYqiVf5hxcGahAjjqAm-BtWLjyFgNDwYysHfo
+#EXTINF:0 tvg-id="ch2902" tvg-name="EroLuxe Gays" tvg-logo="http://rus.hls.gd/images/chIcons/2902.png" tvg-rec="0", EroLuxe Gays
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2902/mono.m3u8?token=swaco64.v2_08lrlU0CsSGEXfPxP0I674M_q3rQAvBAF0Yaen0A6d6ooadUWugEn6wgZ5zM1Cp3qfsw4S7HtAI
+#EXTINF:0 tvg-id="ch2903" tvg-name="EroLuxe Gloryhole" tvg-logo="http://rus.hls.gd/images/chIcons/2903.png" tvg-rec="0", EroLuxe Gloryhole
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2903/mono.m3u8?token=swaco64.v2_TL6e8_TuFRflDcA3xK2twyIG7OtsiTisy8MBWM618Q6IfLRKeJaqjBHxH_a1zma5sNZEnhqOGGI
+#EXTINF:0 tvg-id="ch2904" tvg-name="EroLuxe Henati" tvg-logo="http://rus.hls.gd/images/chIcons/2904.png" tvg-rec="0", EroLuxe Henati
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2904/mono.m3u8?token=swaco64.v2_iWVFNp-nPTxeIsXK2bh6C3LILdoahVpVvp7LYeR6P8t4Buvlns647ak0_-d1RgYWaqkQYapepHQ
+#EXTINF:0 tvg-id="ch2905" tvg-name="EroLuxe Japanese" tvg-logo="http://rus.hls.gd/images/chIcons/2905.png" tvg-rec="0", EroLuxe Japanese
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2905/mono.m3u8?token=swaco64.v2_gL4KhoXMZEQLnwQ6j_0qm5Zn2-0guC6DeXtPCHmlk8ZxFtTzk2ppAcQr5jCg_G1tKlb8O4T1w3o
+#EXTINF:0 tvg-id="ch2906" tvg-name="EroLuxe Orgy" tvg-logo="http://rus.hls.gd/images/chIcons/2906.png" tvg-rec="0", EroLuxe Orgy
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2906/mono.m3u8?token=swaco64.v2_rhWPesbv0LBLqEnG1Av8bqBtWKpqlsHP-f6Ma-Lp2z0dePBA-pI28JHPFdXkgK_UpeCantOautM
+#EXTINF:0 tvg-id="ch2907" tvg-name="EroLuxe Massage" tvg-logo="http://rus.hls.gd/images/chIcons/2907.png" tvg-rec="0", EroLuxe Massage
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2907/mono.m3u8?token=swaco64.v2__3Meq8AK6wvG_0iwMDyGJnvx1t_JhKMEyPlQAp-hTUyND2KCsmlJW-AMSC_5YQDd9p3ESedI4tg
+#EXTINF:0 tvg-id="ch2908" tvg-name="EroLuxe Lesbians" tvg-logo="http://rus.hls.gd/images/chIcons/2908.png" tvg-rec="0", EroLuxe Lesbians
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2908/mono.m3u8?token=swaco64.v2_KMFtFZhct805-n5tNN-5RhQ_FntwGaoI23heTwnCE6kcIHIySnO3LOUy8VABY3b6vXHz6-c61Xg
+#EXTINF:0 tvg-id="ch2909" tvg-name="EroLuxe Milf" tvg-logo="http://rus.hls.gd/images/chIcons/2909.png" tvg-rec="0", EroLuxe Milf
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2909/mono.m3u8?token=swaco64.v2_tp6DSp1zBlFcrqvMdFKcHvEoP65aQF9-Iz-_pBr_ZEBCoWrpyACO1fAr0h0tXMD3v2Fi2qxYAeQ
+#EXTINF:0 tvg-id="ch2910" tvg-name="EroLuxe Step Family" tvg-logo="http://rus.hls.gd/images/chIcons/2910.png" tvg-rec="0", EroLuxe Step Family
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2910/mono.m3u8?token=swaco64.v2_JWyrXIIvPqUU7YshhrhiLvVOiInxxsgOeBWC4dXutbx7jjudpoHjOGTUxEY1KuMDADj5KGO8-4A
+#EXTINF:0 tvg-id="ch2911" tvg-name="EroLuxe Solo" tvg-logo="http://rus.hls.gd/images/chIcons/2911.png" tvg-rec="0", EroLuxe Solo
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2911/mono.m3u8?token=swaco64.v2_Kzool2JUp_xDQjOrTlHLfXoq6i5y7CQ-SZ-h6dRZvO4kfp_dpFN9hX04SWhpJNrtsC1M7GqdNvQ
+#EXTINF:0 tvg-id="ch2912" tvg-name="EroLuxe 60FPS" tvg-logo="http://rus.hls.gd/images/chIcons/2912.png" tvg-rec="0", EroLuxe 60FPS
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2912/mono.m3u8?token=swaco64.v2_0Qq2O9phPFOrraNzhKDmvX08YfSaEtZOsohcXXwQkzSuuA6an_lGPFmh7fpyym-JSRB78GEDmIA
+#EXTINF:0 tvg-id="ch2913" tvg-name="EroLuxe Shemales" tvg-logo="http://rus.hls.gd/images/chIcons/2913.png" tvg-rec="0", EroLuxe Shemales
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2913/mono.m3u8?token=swaco64.v2_sZ7NiUMyvYTaLxtCzt9NkPDFWCk0oe17NomnWtybKPGtepU1vKL1TnoWu8VjDII5Y0FntF03M74
+#EXTINF:0 tvg-id="ch2914" tvg-name="EroLuxe Russian Teens" tvg-logo="http://rus.hls.gd/images/chIcons/2914.png" tvg-rec="0", EroLuxe Russian Teens
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2914/mono.m3u8?token=swaco64.v2_lyIxiiC_bJbVaslUoiNsaSv-Bny_wGqvkoL2OLduM3ZrZ9YQ4tJhDapee2gW6XcUvu_NN1DcaCc
+#EXTINF:0 tvg-id="ch2915" tvg-name="EroLuxe Pregnant" tvg-logo="http://rus.hls.gd/images/chIcons/2915.png" tvg-rec="0", EroLuxe Pregnant
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2915/mono.m3u8?token=swaco64.v2_V6I7rF9yBZjJXyWpOImau-Wz4iHgboJ0RZxj4YuJ7KWzImKZSM4lnSsy1CXoPI1bq2HXTc5Di9o
+#EXTINF:0 tvg-id="ch2936" tvg-name="EroLuxe 4K UHD" tvg-logo="http://rus.hls.gd/images/chIcons/2936.png" tvg-rec="0", EroLuxe 4K UHD
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2936/mono.m3u8?token=swaco64.v2_3uzyk82HmDafMN7iOfrKZR3dSTtEnbru6DaW9nky7F-pP8gNdQgijdLd7Vdy-IFslPZWA2DQgVw
+#EXTINF:0 tvg-id="ch2937" tvg-name="EroLuxe VIP 4K 60FPS" tvg-logo="http://rus.hls.gd/images/chIcons/2937.png" tvg-rec="0", EroLuxe VIP 4K 60FPS
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2937/mono.m3u8?token=swaco64.v2_O7uipYTLaCAZXfA-DAVrz6O7CprvujmTXVGhb4T7DHwWRa1eKQbbapzMez9kQ24WvAIrlLBT7ew
+#EXTINF:0 tvg-id="ch2938" tvg-name="EroLuxe B.B.W." tvg-logo="http://rus.hls.gd/images/chIcons/2938.png" tvg-rec="0", EroLuxe B.B.W.
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2938/mono.m3u8?token=swaco64.v2_aQPIfQuiPDXC0RQmyvo_oLGkcczgJayDoP65ubkEld-9cZy3getnbSiImVzY37Hy-mpDLmcuf08
+#EXTINF:0 tvg-id="ch2939" tvg-name="EroLuxe BabySitter" tvg-logo="http://rus.hls.gd/images/chIcons/2939.png" tvg-rec="0", EroLuxe BabySitter
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2939/mono.m3u8?token=swaco64.v2_uxdcEray3UpFjlifkJ23yhgCtJCfDu6fwMaykyiCLPibBlYhDoJiTtLMp4nM53pltVvUkuECw94
+#EXTINF:0 tvg-id="ch2940" tvg-name="EroLuxe B.D.S.M." tvg-logo="http://rus.hls.gd/images/chIcons/2940.png" tvg-rec="0", EroLuxe B.D.S.M.
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2940/mono.m3u8?token=swaco64.v2_mFoCvoD3tcMbVlX2sS3c4xv4oV9HcFam2QbUhiOlLJNQySH_nNjO6z9n5Sin9hT1vsFf2deRPvE
+#EXTINF:0 tvg-id="ch2941" tvg-name="EroLuxe Big Cock" tvg-logo="http://rus.hls.gd/images/chIcons/2941.png" tvg-rec="0", EroLuxe Big Cock
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2941/mono.m3u8?token=swaco64.v2_4zJBTSOBcsH8aLD6M6vCzhL_7oDl5WEbbVxJ0KpHCtbvNhycGoX42rpW-IpdBsGwFsa26pL51Vc
+#EXTINF:0 tvg-id="ch2942" tvg-name="EroLuxe Brunette" tvg-logo="http://rus.hls.gd/images/chIcons/2942.png" tvg-rec="0", EroLuxe Brunette
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2942/mono.m3u8?token=swaco64.v2_ZX3wHu3flwfRnSlEpu1rL_t-YI36GTrbgxoyPasFZNVvKb3v6uOPb4awk3QMVSdRowZRULmT1Cc
+#EXTINF:0 tvg-id="ch2943" tvg-name="EroLuxe CheerLeader" tvg-logo="http://rus.hls.gd/images/chIcons/2943.png" tvg-rec="0", EroLuxe CheerLeader
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2943/mono.m3u8?token=swaco64.v2_HlL0k0hQzs6yvKK44J96fXGc7o4KRDGvzSXVr99T-ujoGuuWR8O9fJf7PjHJyleYk7-NC_BMaac
+#EXTINF:0 tvg-id="ch2944" tvg-name="EroLuxe Cuckold" tvg-logo="http://rus.hls.gd/images/chIcons/2944.png" tvg-rec="0", EroLuxe Cuckold
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2944/mono.m3u8?token=swaco64.v2_Wz5vbWWgth0u8cHsq6c6_HVj31Y-mk1btzg_rK3AY9sriI59nQI_UTa8ko1jSUaoufJVJ81M6bA
+#EXTINF:0 tvg-id="ch2945" tvg-name="EroLuxe Creampie" tvg-logo="http://rus.hls.gd/images/chIcons/2945.png" tvg-rec="0", EroLuxe Creampie
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2945/mono.m3u8?token=swaco64.v2_MGw9xcnkuHjCmN1qCO8Dhck8GRWwSAUhW0tl-Tn60Ea9S6FRAPYkD2cQJJ-UcGKanz1zKmxQlyU
+#EXTINF:0 tvg-id="ch2946" tvg-name="EroLuxe Fake Taxi" tvg-logo="http://rus.hls.gd/images/chIcons/2946.png" tvg-rec="0", EroLuxe Fake Taxi
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2946/mono.m3u8?token=swaco64.v2_0UBa6XB8RQEiTrp4YKFQ2WHh9JFwfnqa1fsxqKAplYZsU1d1hoGgyTTG2E09nzRrPcpO6rIe25A
+#EXTINF:0 tvg-id="ch2947" tvg-name="EroLuxe Foot Fetish" tvg-logo="http://rus.hls.gd/images/chIcons/2947.png" tvg-rec="0", EroLuxe Foot Fetish
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2947/mono.m3u8?token=swaco64.v2_BWsMt3In2Kp6sDgLpKo3E-mowY3BG6qhplZFWEfROCuflWHuYF6zSMgfmafSObNwy50EC_folk0
+#EXTINF:0 tvg-id="ch2948" tvg-name="EroLuxe Fisting" tvg-logo="http://rus.hls.gd/images/chIcons/2948.png" tvg-rec="0", EroLuxe Fisting
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2948/mono.m3u8?token=swaco64.v2_GeyPzlS18_XiiXV5zskZX-JVELM3BPXubX-UoKc3dCdm5NvqWX2J0KR4GQnY38MdANh6PDjedxQ
+#EXTINF:0 tvg-id="ch2949" tvg-name="EroLuxe GangBang" tvg-logo="http://rus.hls.gd/images/chIcons/2949.png" tvg-rec="0", EroLuxe GangBang
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2949/mono.m3u8?token=swaco64.v2_-hz6hglB1iBx9hwhbpBkDPefFHF3K7yt9vST5eeM3bNb6PWJ5fBFBpIDYTqnR-ipBp46gKoDhrY
+#EXTINF:0 tvg-id="ch2950" tvg-name="EroLuxe Parody" tvg-logo="http://rus.hls.gd/images/chIcons/2950.png" tvg-rec="0", EroLuxe Parody
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2950/mono.m3u8?token=swaco64.v2_Xor4caQ2V1kxZcZkfb4CeLbNAURibgPlVPN6J2sUNFIljmSJni8AdgVCctL4hj3HqAD2qyHWd6g
+#EXTINF:0 tvg-id="ch2951" tvg-name="EroLuxe P.O.V." tvg-logo="http://rus.hls.gd/images/chIcons/2951.png" tvg-rec="0", EroLuxe P.O.V.
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2951/mono.m3u8?token=swaco64.v2_ZT-NGfwwCST1S9_sMNYzVVHb7oDoMZhatvbWTHPQKwF2JeRDplXKQSQhxwov4ccQtiqhTPA2rf8
+#EXTINF:0 tvg-id="ch2952" tvg-name="EroLuxe Public Agent" tvg-logo="http://rus.hls.gd/images/chIcons/2952.png" tvg-rec="0", EroLuxe Public Agent
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2952/mono.m3u8?token=swaco64.v2_OPdlDlW0a8GEQatwoj-JkYs-D0Z_FAP-1pXyIXeHR1tFjNmhuX9mnwO6ETZv5beOTXXt4cOHYnM
+#EXTINF:0 tvg-id="ch2953" tvg-name="EroLuxe RedHeads" tvg-logo="http://rus.hls.gd/images/chIcons/2953.png" tvg-rec="0", EroLuxe RedHeads
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2953/mono.m3u8?token=swaco64.v2_BRc1DDULNrsJT6Kl6fdItBrSs1Tk7qQv4B1nYvmrec1RE9SEu3m2V1UJDTGRiFe_0mcmDiTt_dg
+#EXTINF:0 tvg-id="ch2954" tvg-name="EroLuxe Schoolgirl" tvg-logo="http://rus.hls.gd/images/chIcons/2954.png" tvg-rec="0", EroLuxe Schoolgirl
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2954/mono.m3u8?token=swaco64.v2_ePyyWKjZSFDppO-E6-LYh7NFncFPkmzge5IwU4hnedzRBokYvOqT-_qeQP_POkECPDaecgfc5kI
+#EXTINF:0 tvg-id="ch2955" tvg-name="EroLuxe Asian" tvg-logo="http://rus.hls.gd/images/chIcons/2955.png" tvg-rec="0", EroLuxe Asian
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch2955/mono.m3u8?token=swaco64.v2_jUBmKRAnzVnWOqWTISyXjCCp8ErVpzrtHoWLDTy94xQKa-SQDYrwany45YKMisoUGUbYx-Q-Stg
+#EXTINF:0 tvg-id="ch3787" tvg-name="TVPlay WorldXXX" tvg-logo="http://rus.hls.gd/images/chIcons/3787.png" tvg-rec="0", TVPlay WorldXXX
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3787/mono.m3u8?token=swaco64.v2_EIvH3-hZcK0tag6WY_USSGQL814cmyeEtGXc5TWiJYa2mGLoTpKtebfZnMsb9dMIDEipJiQuF8M
+#EXTINF:0 tvg-id="ch3788" tvg-name="TVPlay НашеXXX" tvg-logo="http://rus.hls.gd/images/chIcons/3788.png" tvg-rec="0", TVPlay НашеXXX
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3788/mono.m3u8?token=swaco64.v2_ronJ4iuiTiN2POthobYM9ckIZdNUUnstFoUsiFR1Xo9uYSk3LheOFlgOg6r7_y-mfrUmmQIM-vw
+#EXTINF:0 tvg-id="ch3789" tvg-name="TVPlay МультыXXX" tvg-logo="http://rus.hls.gd/images/chIcons/3789.png" tvg-rec="0", TVPlay МультыXXX
+#EXTGRP:RUZIEV TEAM TV ADULT
+http://ru7.hls.gd/ch3789/mono.m3u8?token=swaco64.v2_duufAIAVVPDit65-htGR7dhSqH9H0vWEq72tyA-WGlqBZZaqqytAdVlzmxwy6odQ_nR_s9ayEE0
 
 
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="Aggregator - Axenov / Эротика",Exxxxotica
