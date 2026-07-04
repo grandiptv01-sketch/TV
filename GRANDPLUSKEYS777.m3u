@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/06/28}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/07/04 ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -175,6 +175,1381 @@ http://sahri4x5.tvclub.xyz/iptv/VXNKCFHC676EY3/19068/index.m3u8
 #EXTINF:0,A SPOR HD
 #EXTGRP: GRAND PLUS | FIFA 2026 RU
 http://sahri4x5.tvclub.xyz/iptv/VXNKCFHC676EY3/19069/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="ch3433" tvg-name="TEAM NewMovie HD" tvg-logo="http://rus.hls.gd/images/chIcons/3433.png" tvg-rec="7", TEAM NewMovie HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3433/mono.m3u8?token=swaco64.v2_zpUirXwQ6HTbcU9K4xs1g-g0CVIlxaWTG4xJRjmIZGwC6hSY0G7aH8GUpPOANd18PHXRgl5c7ag
+#EXTINF:0 tvg-id="ch3434" tvg-name="TEAM RuKino HD" tvg-logo="http://rus.hls.gd/images/chIcons/3434.png" tvg-rec="7", TEAM RuKino HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3434/mono.m3u8?token=swaco64.v2_ZQmZbrI1SHXDF0tTl2Zh8uRkUE28eoyx34KcYL1XU2We7f4v9mGR9CLXSsU3llB0rq7hYEQ-8ng
+#EXTINF:0 tvg-id="ch3446" tvg-name="TEAM WSeries HD" tvg-logo="http://rus.hls.gd/images/chIcons/3446.png" tvg-rec="7", TEAM WSeries HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3446/mono.m3u8?token=swaco64.v2_YlGOv3NfglrGIVEwXkhn73kgUvpds7jU7mjPb8q2gUpkhGKr2m87sTmAJphPsUPiqbRcxkwawLs
+#EXTINF:0 tvg-id="ch3445" tvg-name="TEAM RuSerial HD" tvg-logo="http://rus.hls.gd/images/chIcons/3445.png" tvg-rec="7", TEAM RuSerial HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3445/mono.m3u8?token=swaco64.v2_cxLE6okH637Ri4fTv01OoJ-5sSPBjwGb-qI-9VFT8h4RxlxvKI7yOF03ceCmQsAg0BiLxH1X158
+#EXTINF:0 tvg-id="ch3447" tvg-name="TEAM TRSeries HD" tvg-logo="http://rus.hls.gd/images/chIcons/3447.png" tvg-rec="7", TEAM TRSeries HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3447/mono.m3u8?token=swaco64.v2_jEK3QCeNqB-ZoU54jskAvIBL67P0bjkxq4Lt2GOdeDLwqyAJo4gmBPpbzu0FkI2T0gdbBFA_4J4
+#EXTINF:0 tvg-id="ch3701" tvg-name="TEAM Agatha HD" tvg-logo="http://rus.hls.gd/images/chIcons/3701.png" tvg-rec="7", TEAM Agatha HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3701/mono.m3u8?token=swaco64.v2_oQDqgSZfxDMK_VgCXb7kWvUUe4UVJLQn4spq-m-oaQlFFQRLiiuc6jLWikf4ymjEuKQuZZ_IJDs
+#EXTINF:0 tvg-id="ch3702" tvg-name="TEAM Spaceopera HD" tvg-logo="http://rus.hls.gd/images/chIcons/3702.png" tvg-rec="7", TEAM Spaceopera HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3702/mono.m3u8?token=swaco64.v2_rwr7Q7Ml1HhFWjCq8GY6cwbsnN3n68YptQBqmTmfz2R_pvbA5hgxMpy2PrviNVu2eJRUszQHBl4
+#EXTINF:0 tvg-id="ch3703" tvg-name="TEAM StarTrek HD" tvg-logo="http://rus.hls.gd/images/chIcons/3703.png" tvg-rec="7", TEAM StarTrek HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3703/mono.m3u8?token=swaco64.v2_7KgQMjL8dacpzViSKZJpGLuKabcq6XbUio1X8toVr8yrAJ2eKG8uaxdr2vchERvrtQwEpTat_Uw
+#EXTINF:0 tvg-id="ch3704" tvg-name="TEAM StarWars HD" tvg-logo="http://rus.hls.gd/images/chIcons/3704.png" tvg-rec="7", TEAM StarWars HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3704/mono.m3u8?token=swaco64.v2_H6dBeefq4hnXVgMjq51G1lzCV_wgXRjgcTqhDbcuFaAfjkJAl75D1CDdaBGo-ZkcGhEqTjWVSlk
+#EXTINF:0 tvg-id="ch2154" tvg-name="TEAM Bollywood HD" tvg-logo="http://rus.hls.gd/images/chIcons/2154.png" tvg-rec="7", TEAM Bollywood HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2154/mono.m3u8?token=swaco64.v2_t0tGoyA19XQry-t98ihnUapUznYcAM3g-86mgKaE68TAistfHNCNoG2Fn2ypd516wgNgR-dUpdE
+#EXTINF:0 tvg-id="ch3835" tvg-name="TEAM Darkverse HD" tvg-logo="http://rus.hls.gd/images/chIcons/3835.png" tvg-rec="7", TEAM Darkverse HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3835/mono.m3u8?token=swaco64.v2_aDz1-4_1qk6phUj_Ky7uEq_fDaWNbTk118_-QwGgibVKWpU8sFvd1c5Jki0hx-ul3HdkhqVnXRI
+#EXTINF:0 tvg-id="ch3853" tvg-name="TEAM Mystix HD" tvg-logo="http://rus.hls.gd/images/chIcons/3853.png" tvg-rec="7", TEAM Mystix HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3853/mono.m3u8?token=swaco64.v2_SIbYHZCVYk8RU-GScVt_w-c69gODghgs-nQUd-PDzf8ixxIg0KwYBT6JyxJ9gneLnRVsv_mliuI
+#EXTINF:0 tvg-id="ch3850" tvg-name="TEAM Back 90s HD" tvg-logo="http://rus.hls.gd/images/chIcons/3850.png" tvg-rec="7", TEAM Back 90s HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3850/mono.m3u8?token=swaco64.v2_v_wJxob4CD7D4qODvINanHxaMXha0FuKrXb8wEE19Ml1ftoGdMxwuiWpxVrQDxTD9KjufTqutD4
+#EXTINF:0 tvg-id="ch3852" tvg-name="TEAM Crime24 HD" tvg-logo="http://rus.hls.gd/images/chIcons/3852.png" tvg-rec="7", TEAM Crime24 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3852/mono.m3u8?token=swaco64.v2_MZi-_2dDUhplRBxh_EIjzt3PpQHl8XhY1rEg2j_KCc90Oxy-521U8G8dc2QBAnY8mHXclb3Q9wQ
+#EXTINF:0 tvg-id="ch3854" tvg-name="TEAM ClinicX HD" tvg-logo="http://rus.hls.gd/images/chIcons/3854.png" tvg-rec="7", TEAM ClinicX HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3854/mono.m3u8?token=swaco64.v2_dQKZKUU0deJ-tVTB-l0zjqu_otqufMKHMG85s1Wq_Rib5fG4y2wvzS6SwGBoMWra-BfAb5Qn7Wk
+#EXTINF:0 tvg-id="ch3870" tvg-name="TEAM MedikTV HD" tvg-logo="http://rus.hls.gd/images/chIcons/3870.png" tvg-rec="7", TEAM MedikTV HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3870/mono.m3u8?token=swaco64.v2_UpoTo_0F7Gac-742Cya4WE5rJ5DyXvO5f28ei1yY9RgQ9v1ZKBE2YTUnEEgTOIkBPO8Vu6JNJpk
+#EXTINF:0 tvg-id="ch3851" tvg-name="TEAM Friendshow HD" tvg-logo="http://rus.hls.gd/images/chIcons/3851.png" tvg-rec="7", TEAM Friendshow HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3851/mono.m3u8?token=swaco64.v2_BJHf56ie9XfJiJM1NtaE9RdVGwefsF10S_0EeDcY4ORldWSAvcfkaF5QVWvvgkiwdERJj0DqDaY
+#EXTINF:0 tvg-id="ch3874" tvg-name="TEAM Marvel HD" tvg-logo="http://rus.hls.gd/images/chIcons/3874.png" tvg-rec="7", TEAM Marvel HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3874/mono.m3u8?token=swaco64.v2_mMPJMGRXbCI1XP6rPWzp9iQnBYxNlHawd4fNRKHn1WIAyPvQauoT8VV0PxPmwuMRJXdmW3ydyL8
+#EXTINF:0 tvg-id="ch3383" tvg-name="TEAM NextGen HD" tvg-logo="http://rus.hls.gd/images/chIcons/3383.png" tvg-rec="7", TEAM NextGen HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3383/mono.m3u8?token=swaco64.v2_OfCQajuFdGG1OcLfgIOKK45VWkQb2BJtXS-SbuzrBBHlJgYuBujTNueLlH0P6qf8zEo0biI5h1E
+#EXTINF:0 tvg-id="ch3384" tvg-name="TEAM Эпоха 60 HD" tvg-logo="http://rus.hls.gd/images/chIcons/3384.png" tvg-rec="7", TEAM Эпоха 60 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3384/mono.m3u8?token=swaco64.v2_cRoxn1P621j_Eefiff5ZCFWp05naxt6RMsx74tzoapMg7y6Ufw5VRjojJC5ZfJGONa9tev7MtQY
+#EXTINF:0 tvg-id="ch3393" tvg-name="TEAM Эпоха 70 HD" tvg-logo="http://rus.hls.gd/images/chIcons/3393.png" tvg-rec="7", TEAM Эпоха 70 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3393/mono.m3u8?token=swaco64.v2_8vCsm-FLnWJnGF4xbDetU_KjKEMqpGBlFqAJhJUtIisUUivIL2vnryGJhNK3mcTNVahu15BTrdc
+#EXTINF:0 tvg-id="ch3903" tvg-name="TEAM Эпоха 80 HD" tvg-logo="http://rus.hls.gd/images/chIcons/3903.png" tvg-rec="7", TEAM Эпоха 80 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3903/mono.m3u8?token=swaco64.v2_dW4UXlW9e5yp3da8RZAL2QQg14oMzBvIFTUtVj1IHtnQqzlCgDET64IqBmbAkYVpqACesnNm3Fs
+#EXTINF:0 tvg-id="ch3392" tvg-name="TEAM След" tvg-logo="http://rus.hls.gd/images/chIcons/3392.png" tvg-rec="7", TEAM След
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3392/mono.m3u8?token=swaco64.v2_x4RnteS1qNZFsk9oKxHQAs1hGkbSVaN-ss4gN0RFoOWgMt2DMYlTDb74O4i6ZxFJ5Do1Fe5tOYo
+#EXTINF:0 tvg-id="ch3900" tvg-name="TEAM Bigbang HD" tvg-logo="http://rus.hls.gd/images/chIcons/3900.png" tvg-rec="7", TEAM Bigbang HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3900/mono.m3u8?token=swaco64.v2_Apm2CCfW5VVj_5zIz-66Q4rOMK1jA2GmyWZ7tNsvSWn1Le4cc3kHvx7fhwQq5awd3V5ZjIqPMMY
+#EXTINF:0 tvg-id="ch3901" tvg-name="TEAM RetroTV HD" tvg-logo="http://rus.hls.gd/images/chIcons/3901.png" tvg-rec="7", TEAM RetroTV HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3901/mono.m3u8?token=swaco64.v2_iZGjdBXHSGk4NL18zid-x7Q0FugyPDgMvAY1H7lM0HX0tjh9YYroErTYd4wLcZ5EUVyqq2RK_gQ
+#EXTINF:0 tvg-id="ch3902" tvg-name="TEAM Mini HD" tvg-logo="http://rus.hls.gd/images/chIcons/3902.png" tvg-rec="7", TEAM Mini HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3902/mono.m3u8?token=swaco64.v2_nxScl-QYf_15iytdLxgWb1gbObnPvobFfto4n69k8-oQiV3KU53fjZ_u77LIl38o6a4L5NAOUtk
+#EXTINF:0 tvg-id="ch3926" tvg-name="TEAM Game Of Thrones HD" tvg-logo="http://rus.hls.gd/images/chIcons/3926.png" tvg-rec="7", TEAM Game Of Thrones HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3926/mono.m3u8?token=swaco64.v2_WxTtMKKiW9nO8HfD8x6YHHd6Hfy4R9xAG0ilYvbk-c0IwqvbzI9tbARt8EYLDvyiWvkjuamttxk
+#EXTINF:0 tvg-id="ch4028" tvg-name="TEAM C.S.I. HD" tvg-logo="http://rus.hls.gd/images/chIcons/4028.png" tvg-rec="7", TEAM C.S.I. HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4028/mono.m3u8?token=swaco64.v2_jnGIP6HH2vKQ0NLEVXB4ToruNnKWLxdedqwDM8GDsqhPT8potwBEE2sE4LFZeEImLqOXw2Yyy3g
+#EXTINF:0 tvg-id="ch4029" tvg-name="TEAM Доктор Кто HD" tvg-logo="http://rus.hls.gd/images/chIcons/4029.png" tvg-rec="7", TEAM Доктор Кто HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4029/mono.m3u8?token=swaco64.v2_eGvXZO51QzU2dLgUrTqlwuznkjmVGMdYe_FRs4mmd3Nate7N5fgIfKMA3Maht5HKbRDWc-bXUt0
+#EXTINF:0 tvg-id="ch3907" tvg-name="TEAM Comedy Club HD" tvg-logo="http://rus.hls.gd/images/chIcons/3907.png" tvg-rec="7", TEAM Comedy Club HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3907/mono.m3u8?token=swaco64.v2_70YHZsA9b8xXINcg8t5fGB-bjntuO4_GwxKJE8iFrkNrOLpzr3d-9C8S0NGEHClexyfxtzw-4ec
+#EXTINF:0 tvg-id="ch3909" tvg-name="TEAM Пельмени HD" tvg-logo="http://rus.hls.gd/images/chIcons/3909.png" tvg-rec="7", TEAM Пельмени HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3909/mono.m3u8?token=swaco64.v2_kvd3Lfm2V1RyeulQnEDowFEkpjaARivEU2d-qpQ4nFEV4MJXPgeiXq8AVtYs39M7xr8-DGLoLw8
+#EXTINF:0 tvg-id="ch4030" tvg-name="TEAM Woman HD" tvg-logo="http://rus.hls.gd/images/chIcons/4030.png" tvg-rec="7", TEAM Woman HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4030/mono.m3u8?token=swaco64.v2_BL9gK8cI02rpPN-2DaUoF5bTHZqpK1E5tXSrK1IrmPQK727SuUtlEjDuSe-_INXMzY3JZ79Yk1k
+#EXTINF:0 tvg-id="ch4031" tvg-name="TEAM Подвиг HD" tvg-logo="http://rus.hls.gd/images/chIcons/4031.png" tvg-rec="7", TEAM Подвиг HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4031/mono.m3u8?token=swaco64.v2_YQ38qQoOcloKmKz2IPVJOXnYuGpQbgf-SkbtRYtBBfkST7mrWD3-yxVW08gm283Yq17h1mzvIRg
+#EXTINF:0 tvg-id="ch4037" tvg-name="TEAM RuComedy HD" tvg-logo="http://rus.hls.gd/images/chIcons/4037.png" tvg-rec="7", TEAM RuComedy HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4037/mono.m3u8?token=swaco64.v2_uujfFH0LNunjhJ42AAS_YzaMIdHBWQ9MYG2Qo3ibwnwHg7QgQaHTaK8NXQOoUTKwnV5VIe56ZHg
+#EXTINF:0 tvg-id="ch4038" tvg-name="TEAM Actions HD" tvg-logo="http://rus.hls.gd/images/chIcons/4038.png" tvg-rec="7", TEAM Actions HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4038/mono.m3u8?token=swaco64.v2_nNt85NvYiZdq8Bv6_cptpmgqIwK0wHMR16zKFVlqJLEFCnCIZSpyJrjaQRpKnHu6D67T_PSnN-Q
+#EXTINF:0 tvg-id="ch4039" tvg-name="TEAM Comedic HD" tvg-logo="http://rus.hls.gd/images/chIcons/4039.png" tvg-rec="7", TEAM Comedic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4039/mono.m3u8?token=swaco64.v2_Q7Y80BuPdequI96xQZ28KDliX1iGfMJT-3U7SqkeU49RFDfUKPOwXOA-KpKVMAQPy24-kBPLzbI
+#EXTINF:0 tvg-id="ch4032" tvg-name="TEAM Знай Наших HD" tvg-logo="http://rus.hls.gd/images/chIcons/4032.png" tvg-rec="7", TEAM Знай Наших HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4032/mono.m3u8?token=swaco64.v2_t9RlwLQxvw3G2MuFKTpa-p4OpzJrAtz0j2fzWCFRhzfP684PO-o-TPNlxWE943j5sRA7zftTqnU
+#EXTINF:0 tvg-id="ch4092" tvg-name="TEAM AntiHero HD" tvg-logo="http://rus.hls.gd/images/chIcons/4092.png" tvg-rec="7", TEAM AntiHero HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4092/mono.m3u8?token=swaco64.v2_bsy_Un-dYfs5p24FLou7l4-dyFLXwhIkbLryMU68o1YoIG7WeKIE5tHe0y1lVdrR05KzLWY92eE
+#EXTINF:0 tvg-id="ch4093" tvg-name="TEAM CircusTV HD" tvg-logo="http://rus.hls.gd/images/chIcons/4093.png" tvg-rec="7", TEAM CircusTV HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4093/mono.m3u8?token=swaco64.v2_sDulP69UYbl99VX0WXyGwBsf-QmglsC4lke3YxvScPyqIPB4b9lB_dk2GI4bkmzxoZw7glb4UZM
+#EXTINF:0 tvg-id="ch4045" tvg-name="TEAM DetectTV HD" tvg-logo="http://rus.hls.gd/images/chIcons/4045.png" tvg-rec="7", TEAM DetectTV HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4045/mono.m3u8?token=swaco64.v2_CPIhMAjjP_GbpHq1IMftccoxIawFnRQPYIiwClB2YJ1HoajTfVJRG2SQc8EPM5CjfZfrs_gW2_U
+#EXTINF:0 tvg-id="ch4049" tvg-name="TEAM RuDetectTV HD" tvg-logo="http://rus.hls.gd/images/chIcons/4049.png" tvg-rec="7", TEAM RuDetectTV HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4049/mono.m3u8?token=swaco64.v2_ws49CNT385XYoErl_RMSilRmO4Cwz4AylHoCXNbRia_LaumRZTwk4IokQg1dY6iFFgt35zQAtXs
+#EXTINF:0 tvg-id="ch4105" tvg-name="TEAM Симпсоны HD" tvg-logo="http://rus.hls.gd/images/chIcons/4105.png" tvg-rec="7", TEAM Симпсоны HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4105/mono.m3u8?token=swaco64.v2_oWdu2Q3yM_ujtIyKSqAzzYe9Vrf91ypIz6DBrfLbse3MCX6MsHWeWBvOKVNKo066TfLHm5u2lWo
+#EXTINF:0 tvg-id="ch769" tvg-name="BCU Action HD" tvg-logo="http://rus.hls.gd/images/chIcons/769.png" tvg-rec="3", BCU Action HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch769/mono.m3u8?token=swaco64.v2_n0DnvUEF4EzYzSIqsROrp3RDQiw3dmk6fKyjt3-9VrUzmEGDE0ArfXLJ4rKVaAhsZms1mO94uA
+#EXTINF:0 tvg-id="ch770" tvg-name="BCU Catastrophe HD" tvg-logo="http://rus.hls.gd/images/chIcons/770.png" tvg-rec="3", BCU Catastrophe HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch770/mono.m3u8?token=swaco64.v2_qWjB1r-3AvtuKk1HHCjUPjzinQkVGqIiweL9_MklBxVyjYruZBhfhtsMhYpU1rKB6AIyDCaixw
+#EXTINF:0 tvg-id="ch771" tvg-name="BCU Cinema HD" tvg-logo="http://rus.hls.gd/images/chIcons/771.png" tvg-rec="3", BCU Cinema HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch771/mono.m3u8?token=swaco64.v2_9C-Kte86JEvZ3sBMey7BsJ0BumtS2AjguwkKJCR7Sjdg5Oyikeh2hIkfVY1VDZaWHHMnWVM_hg
+#EXTINF:0 tvg-id="ch834" tvg-name="BCU Cinema+ HD" tvg-logo="http://rus.hls.gd/images/chIcons/834.png" tvg-rec="3", BCU Cinema+ HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch834/mono.m3u8?token=swaco64.v2_OgzCmuOB3OTptGyNPEjarfBDebQ_bovkKm4E5qm8ca4xXwgK74dT7c0WHsXwSnCxY0x1Kez07w
+#EXTINF:0 tvg-id="ch1000" tvg-name="BCU Comedy HD" tvg-logo="http://rus.hls.gd/images/chIcons/1000.png" tvg-rec="3", BCU Comedy HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1000/mono.m3u8?token=swaco64.v2_81iVT2R_HZwuflevwTSpW5797Y1XlZAlN4OsVoiLpdZCtNjGXTiEAoYywTKAM8FhwqaMg-d1tBg
+#EXTINF:0 tvg-id="ch773" tvg-name="BCU Fantastic HD" tvg-logo="http://rus.hls.gd/images/chIcons/773.png" tvg-rec="3", BCU Fantastic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch773/mono.m3u8?token=swaco64.v2_vyxaY-rsPRQnmttkcXL7nDwZuiWQqOFGeSjcVKwT7zn0TS3WoLP198ZHF_bZjJyeW33cCkUfdg
+#EXTINF:0 tvg-id="ch774" tvg-name="BCU Filmystic HD" tvg-logo="http://rus.hls.gd/images/chIcons/774.png" tvg-rec="3", BCU Filmystic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch774/mono.m3u8?token=swaco64.v2_uVYKsuInp3Rm9gphpGvVDrpiHHhjLaVCqaaMlYOc-w1qV8inzvMwNatFgX7Ms3nocq9b06hZlQ
+#EXTINF:0 tvg-id="ch776" tvg-name="BCU Kinorating HD" tvg-logo="http://rus.hls.gd/images/chIcons/776.png" tvg-rec="3", BCU Kinorating HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch776/mono.m3u8?token=swaco64.v2_WX1uwHojc7yaiWnRZhzaCnW-vPpEqaZzuBHp8COIt1qnDm22iTDXkQfz0EHSEebuJNTRF9WtOw
+#EXTINF:0 tvg-id="ch311" tvg-name="BCU Marvel HD" tvg-logo="http://rus.hls.gd/images/chIcons/311.png" tvg-rec="3", BCU Marvel HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch311/mono.m3u8?token=swaco64.v2_Fxh9JcrBhjkZKizhy8NENS7foqzzFPJefK9klwFJSJ_ijknNe6Pg9uLhphUElwyrbRPyEjvBqQ
+#EXTINF:0 tvg-id="ch835" tvg-name="BCU Stars HD" tvg-logo="http://rus.hls.gd/images/chIcons/835.png" tvg-rec="3", BCU Stars HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch835/mono.m3u8?token=swaco64.v2_hBHKaLrUnyc488yn4PftcC5X8vaCnZSIeFTlbTN1u0Cr4ZHF98M4_Voq4lhaeOIo9gOg4oRh6A
+#EXTINF:0 tvg-id="ch785" tvg-name="BCU Reality HD" tvg-logo="http://rus.hls.gd/images/chIcons/785.png" tvg-rec="3", BCU Reality HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch785/mono.m3u8?token=swaco64.v2_nzgek-0ZJ22Ka0MHGnxQTJIX9RFnWoAFoIuSSv0xLzyBUxs0oGq1zmlFN66U55Uoq2NQ57Uzsg
+#EXTINF:0 tvg-id="ch2743" tvg-name="BCU Reality OLD HD" tvg-logo="http://rus.hls.gd/images/chIcons/2743.png" tvg-rec="3", BCU Reality OLD HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2743/mono.m3u8?token=swaco64.v2_n6Sk5iof8Z9oCSL-rNIJaxg72aqxvgfYIiUxXgrEVkAmMkmKiBpBHS6sEBDHkyJ6N6Z0KYpChpE
+#EXTINF:0 tvg-id="ch778" tvg-name="BCU Premiere HD" tvg-logo="http://rus.hls.gd/images/chIcons/778.png" tvg-rec="3", BCU Premiere HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch778/mono.m3u8?token=swaco64.v2_vq7wiaVq__TbSgCrbPN_O5E30YcCltdccVpezpWrLtqyk0dsOtYEoTh4OpMhefMElQ750LnXCw
+#EXTINF:0 tvg-id="ch782" tvg-name="BCU Premiere 1 HD" tvg-logo="http://rus.hls.gd/images/chIcons/782.png" tvg-rec="3", BCU Premiere 1 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch782/mono.m3u8?token=swaco64.v2_rceFQ0kHw-k3pa9e-6VynJJiasACsfpxWHAyyckKmGs28Y1eJRGNqqWrgxNcG7wSVP68Y7Q35g
+#EXTINF:0 tvg-id="ch783" tvg-name="BCU Premiere 2 HD" tvg-logo="http://rus.hls.gd/images/chIcons/783.png" tvg-rec="3", BCU Premiere 2 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch783/mono.m3u8?token=swaco64.v2_6Kp2djxtxn7cL3p2ptnkBCQAFrP0O5EUNigsEaD0VEr52zyUjLkYS7d1e-42d39OLFn2f6WiXQ
+#EXTINF:0 tvg-id="ch784" tvg-name="BCU Premiere 3 HD" tvg-logo="http://rus.hls.gd/images/chIcons/784.png" tvg-rec="3", BCU Premiere 3 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch784/mono.m3u8?token=swaco64.v2_U9A3_FpWRhzq449HWH7Y2k01nT6rylnJtz3VT-ruV1EQaiqJAKOR2dqXzfW_PcyHeqHRTIyTIA
+#EXTINF:0 tvg-id="ch779" tvg-name="BCU Romantic HD" tvg-logo="http://rus.hls.gd/images/chIcons/779.png" tvg-rec="3", BCU Romantic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch779/mono.m3u8?token=swaco64.v2_HkXQE8zSOaovonJo83ktW9t4wiRu98uRRfvkwr2uAgtCO0_HJI8yAq1G4eFM6IL3YQqfUhHU4w
+#EXTINF:0 tvg-id="ch1545" tvg-name="BCU Romantic OLD" tvg-logo="http://rus.hls.gd/images/chIcons/1545.png" tvg-rec="3", BCU Romantic OLD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1545/mono.m3u8?token=swaco64.v2_-AYKmcbaJII75Wd6Cvo-sJAOiqHya0-_cUJVM-wTCpNUg2UYKHjIgO4zy1qGa7LNHob-JGcMvV0
+#EXTINF:0 tvg-id="ch775" tvg-name="BCU History HD" tvg-logo="http://rus.hls.gd/images/chIcons/775.png" tvg-rec="3", BCU History HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch775/mono.m3u8?token=swaco64.v2_KL_jYFn7psAoL5eKsdl9ff6MyHmEOcoorHBChtUvOvSCW9ZoI4oWLTytBgi8CRgcgLxlcDy7TQ
+#EXTINF:0 tvg-id="ch780" tvg-name="BCU Russian HD" tvg-logo="http://rus.hls.gd/images/chIcons/780.png" tvg-rec="3", BCU Russian HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch780/mono.m3u8?token=swaco64.v2_XS9Sksh5_UIOT2_N6y0Oz-TDnGjQ6wGFi6L0t28YgUnR8XpOeqHJ1KjkyzdUSLR_MCsivZ2bOQ
+#EXTINF:0 tvg-id="ch2744" tvg-name="BCU Russia 90s HD" tvg-logo="http://rus.hls.gd/images/chIcons/2744.png" tvg-rec="3", BCU Russia 90s HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2744/mono.m3u8?token=swaco64.v2_cwc4ijkJ-JYbfociqjNWIp-MuNeZ5uex3FdPCUJWtwxMRZH2WSOqn95EVaQiqHdDTqoM_8J354U
+#EXTINF:0 tvg-id="ch781" tvg-name="BCU VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/781.png" tvg-rec="3", BCU VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch781/mono.m3u8?token=swaco64.v2_epKeAQL9plelW4WbzpBqt3BSx5v8X6HFVhRrwUzJTZ50eUqEbHUgfAKYFvONIjlASV5unMMD6A
+#EXTINF:0 tvg-id="ch788" tvg-name="BCU RUSerial HD" tvg-logo="http://rus.hls.gd/images/chIcons/788.png" tvg-rec="3", BCU RUSerial HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch788/mono.m3u8?token=swaco64.v2_OPtpK4aaIMo_APHXPCpzNh-Ga6f4ED4X0YHDyVP6fZ-3XZn5R81KQV145E8g_UnVJS67QBm6cQ
+#EXTINF:0 tvg-id="ch789" tvg-name="BCU СССР HD" tvg-logo="http://rus.hls.gd/images/chIcons/789.png" tvg-rec="3", BCU СССР HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch789/mono.m3u8?token=swaco64.v2_SjkgJC3zRGgPQ0amGInwIxL8weWakIeGWgGFrBVJ1HpTX1KiXQeslJYn4MXY6F5WmcFgA41Btw
+#EXTINF:0 tvg-id="ch790" tvg-name="BCU Media HD" tvg-logo="http://rus.hls.gd/images/chIcons/790.png" tvg-rec="3", BCU Media HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch790/mono.m3u8?token=swaco64.v2_102TTkyIt87nkaLVJaF3zY3jeYRp6bEH4CQdqQsIUtmtWL69QEDk264UjADrUU-Z96ahcaIBlQ
+#EXTINF:0 tvg-id="ch590" tvg-name="BCU Media OLD" tvg-logo="http://rus.hls.gd/images/chIcons/590.png" tvg-rec="3", BCU Media OLD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch590/mono.m3u8?token=swaco64.v2_cS1sws4nn8MywhAnbIlhDAFveGGYyQZ7n41d9cFlzZSyM1u7EguYqxARuwVorgCFEMKCFg8j9g
+#EXTINF:0 tvg-id="ch1026" tvg-name="BCU Cosmo HD" tvg-logo="http://rus.hls.gd/images/chIcons/1026.png" tvg-rec="3", BCU Cosmo HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1026/mono.m3u8?token=swaco64.v2_hAjWCRlxiEgpX6vkqq7wLFnabUtB2dlCB8UXt-TUPx7kwh-9ihlq_Vu5bFgoTwFDg7zeRAJQ09Q
+#EXTINF:0 tvg-id="ch1429" tvg-name="BCU TruMotion HD" tvg-logo="http://rus.hls.gd/images/chIcons/1429.png" tvg-rec="3", BCU TruMotion HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1429/mono.m3u8?token=swaco64.v2_EqcEhl0SWgXCQfw7i7mJnfdf3y2U0QyY12li5XjNr7K1uVSOi_OPAoMh6nAXJuaPOWtOv1JU3mM
+#EXTINF:0 tvg-id="ch145" tvg-name="BCU Сваты HD" tvg-logo="http://rus.hls.gd/images/chIcons/145.png" tvg-rec="3", BCU Сваты HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch145/mono.m3u8?token=swaco64.v2_htasp9AYP8EoR0N4AOx8Dl5SBdatrufGdDAZTHLIFtRANtT5kBAxvYkosly3Y37SglpdsqGHeA
+#EXTINF:0 tvg-id="ch827" tvg-name="BCU Criminal HD" tvg-logo="http://rus.hls.gd/images/chIcons/827.png" tvg-rec="3", BCU Criminal HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch827/mono.m3u8?token=swaco64.v2_3EhYdwFjatlww7zosDVs1ew3sVOkQr5oEzfLIkUy-nCcx7hHnv_jFHzSGpGKmJ2-cxh9YwM4rQ
+#EXTINF:0 tvg-id="ch1444" tvg-name="BCU Survival HD" tvg-logo="http://rus.hls.gd/images/chIcons/1444.png" tvg-rec="3", BCU Survival HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1444/mono.m3u8?token=swaco64.v2_h5m8LK0rLA-1ycWfW3gyuxbSE5VsnnxBLGBJPFz2nprcogbPbdv7secKjuPIcjNorQO4nL3o_-8
+#EXTINF:0 tvg-id="ch1445" tvg-name="BCU Survival OLD" tvg-logo="http://rus.hls.gd/images/chIcons/1445.png" tvg-rec="3", BCU Survival OLD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1445/mono.m3u8?token=swaco64.v2_SjegonhyY186ZPBfoxyfS4mx4hNX88fmp1qWO3ZUh4RR0eeSdrLG7TmxtA9MwxkcpQhahQIQNV0
+#EXTINF:0 tvg-id="ch1030" tvg-name="CineMan" tvg-logo="http://rus.hls.gd/images/chIcons/1030.png" tvg-rec="3", CineMan
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1030/mono.m3u8?token=swaco64.v2_m_VX6bgCsoDPlivZJw-YYv-mhOld2aSnXsNJKxnArWAeMbxp0x2bme2UZlGazKSVWtJoR_i0EFQ
+#EXTINF:0 tvg-id="ch2142" tvg-name="CineMan Premium" tvg-logo="http://rus.hls.gd/images/chIcons/2142.png" tvg-rec="3", CineMan Premium
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2142/mono.m3u8?token=swaco64.v2_WXPQPN3D-ZRbGTXQyOUXDbFP8VLnlT7I-xa7qyqMHB_IuDvbvVyZ8fu_5qBUKFRLPfTA0xBlFVA
+#EXTINF:0 tvg-id="ch1031" tvg-name="CineMan Top" tvg-logo="http://rus.hls.gd/images/chIcons/1031.png" tvg-rec="3", CineMan Top
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1031/mono.m3u8?token=swaco64.v2_1HkDhIjdqpB4-2Kpxpyjj8nBNF0apLrt2srOl0fNciRgEn9JOp2Gw0CDMp4gSJFUo39gdRO5z_E
+#EXTINF:0 tvg-id="ch1032" tvg-name="CineMan Action" tvg-logo="http://rus.hls.gd/images/chIcons/1032.png" tvg-rec="3", CineMan Action
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1032/mono.m3u8?token=swaco64.v2_uzNmRN6IUvwZPJ3SHSJGlJ5KrZaxqDTmYYk1NaJHpXRhB4x0apxELxxpGEsiK0UrU1R3BZ9qKZw
+#EXTINF:0 tvg-id="ch1033" tvg-name="CineMan Thriller" tvg-logo="http://rus.hls.gd/images/chIcons/1033.png" tvg-rec="3", CineMan Thriller
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1033/mono.m3u8?token=swaco64.v2_l1AiWIOMyQqIDS1s5cdBQ_eWEMsRsGCWUbfRUQQijfVmRkBkEo-QMTQiqPU3asyFm5EiwFNTOoE
+#EXTINF:0 tvg-id="ch1074" tvg-name="CineMan Катастрофы" tvg-logo="http://rus.hls.gd/images/chIcons/1074.png" tvg-rec="3", CineMan Катастрофы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1074/mono.m3u8?token=swaco64.v2_qcfCR9jYNAxr9xLWYnqURZS4FCh4efPKVm2pFPg1pHI5ZWYgheSJSSpgfl-WhhskX7CSApwz4ns
+#EXTINF:0 tvg-id="ch1034" tvg-name="CineMan Melodrama" tvg-logo="http://rus.hls.gd/images/chIcons/1034.png" tvg-rec="3", CineMan Melodrama
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1034/mono.m3u8?token=swaco64.v2_8p8HIT5wGsGYDfY8FK_jL_VKfRtZz529tN7r8RDrXp7yJKeeTvp3sBqCrQMWg2lVzFp67oqcFpg
+#EXTINF:0 tvg-id="ch1035" tvg-name="CineMan Marvel" tvg-logo="http://rus.hls.gd/images/chIcons/1035.png" tvg-rec="3", CineMan Marvel
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1035/mono.m3u8?token=swaco64.v2_AqPee8PJPw9qCX76mJ_ORED6upd0Tw6fJ7pFvzhblqe-npfHjoCrE3pxA2caCbSwpf1KFtqQyBU
+#EXTINF:0 tvg-id="ch1036" tvg-name="CineMan Ужасы" tvg-logo="http://rus.hls.gd/images/chIcons/1036.png" tvg-rec="3", CineMan Ужасы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1036/mono.m3u8?token=swaco64.v2_zFMUYsykhXiw78za5bA2iZCtk_iEtjqjQytryXAIqXep1YhqaGFFoOYtAfaWPEi0lQqI5KGA_7g
+#EXTINF:0 tvg-id="ch1037" tvg-name="CineMan Комедия" tvg-logo="http://rus.hls.gd/images/chIcons/1037.png" tvg-rec="3", CineMan Комедия
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1037/mono.m3u8?token=swaco64.v2_GOoRjojem4-zuEHGMRqswKOYbbvl8meu8WNvarzWfgchxA7YszJuL-4GWMF2PiKbgmOYGLOJ9ss
+#EXTINF:0 tvg-id="ch1038" tvg-name="CineMan VHS" tvg-logo="http://rus.hls.gd/images/chIcons/1038.png" tvg-rec="3", CineMan VHS
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1038/mono.m3u8?token=swaco64.v2_32xOjPuhjrFsUjjF2njly6zOy0KXTI4P2HI8CPEFC77VcV5GwBjEiq4aCQ9bPdtbuEGcZYCLCUM
+#EXTINF:0 tvg-id="ch1039" tvg-name="CineMan РуКино" tvg-logo="http://rus.hls.gd/images/chIcons/1039.png" tvg-rec="3", CineMan РуКино
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1039/mono.m3u8?token=swaco64.v2_Hc4ThmkREKywqK6nd70Qmgx7c5wSGWNAy5o5k97phpNLhQgXf2NTwUyBTUGtaHVa5J6bYrHwj84
+#EXTINF:0 tvg-id="ch1040" tvg-name="CineMan Сваты" tvg-logo="http://rus.hls.gd/images/chIcons/1040.png" tvg-rec="3", CineMan Сваты
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1040/mono.m3u8?token=swaco64.v2_szHxt-HPPLSO7edg5W39VW3Ok0-NJAHFVYvTsrU2nvvDd31yi1RQ4YZo-Fk2SKWQ2OtIxR23Gvs
+#EXTINF:0 tvg-id="ch1325" tvg-name="CineMan Ментовские войны" tvg-logo="http://rus.hls.gd/images/chIcons/1325.png" tvg-rec="3", CineMan Ментовские войны
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1325/mono.m3u8?token=swaco64.v2_dSiOkRk6hkxeD2ZOzzv1My7a-8Qwqukhq7BpgqQxlrjH-y0cNnEphMNoIY3E3Mi8LfrClYFcm7Y
+#EXTINF:0 tvg-id="ch1326" tvg-name="CineMan ПёС" tvg-logo="http://rus.hls.gd/images/chIcons/1326.png" tvg-rec="3", CineMan ПёС
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1326/mono.m3u8?token=swaco64.v2_Tuo0hFUccsNm9beukPCZC26Y6ntP1JG72yp9EUsL6DBQ8Fvw0Y_q4RqdwdY31cFBDDlHdxRVOfY
+#EXTINF:0 tvg-id="ch1327" tvg-name="CineMan Лесник" tvg-logo="http://rus.hls.gd/images/chIcons/1327.png" tvg-rec="3", CineMan Лесник
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1327/mono.m3u8?token=swaco64.v2_VW6VUOsKZOFfzm2exOYfOZ380lgQlGCYEHPNVbwLtfz3-0eXNnyDEr3s86jCcg-X6_nXQYEekkE
+#EXTINF:0 tvg-id="ch1622" tvg-name="CineMan Скорая помощь" tvg-logo="http://rus.hls.gd/images/chIcons/1622.png" tvg-rec="3", CineMan Скорая помощь
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1622/mono.m3u8?token=swaco64.v2_bWT672BFx33aVLiB4VfpPOFALe1U3gAlor_OgKOYGd_fpI-LF8WM53f7ystmtRJfuFkkyvVktFo
+#EXTINF:0 tvg-id="ch2067" tvg-name="CineMan Miniseries" tvg-logo="http://rus.hls.gd/images/chIcons/2067.png" tvg-rec="3", CineMan Miniseries
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2067/mono.m3u8?token=swaco64.v2_2JJAkxdny4SN4Smab6kJ0AtuoU9qU1uZolkCJATcn8z76wLPMFYeCG56goSCNPw-bBm8JxQuQd0
+#EXTINF:0 tvg-id="ch2748" tvg-name="CineMan Криминальные Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/2748.png" tvg-rec="3", CineMan Криминальные Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2748/mono.m3u8?token=swaco64.v2_ZQ2jt0cKJXjBPeyC7C6JFE8kI3KpBU84LUCEkh23zUjbrsRQaA2Kifd4EjZ79av2eiPtV_2RipI
+#EXTINF:0 tvg-id="ch2925" tvg-name="CineMan Комедийные сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/2925.png" tvg-rec="3", CineMan Комедийные сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2925/mono.m3u8?token=swaco64.v2_ftcFIYrkVwk-Bcx1kVwxFpSzpXfyjNgdKcFfVgA3qKigTKpQZqO7ScP2gUF5gfBEE0wx-mV_A70
+#EXTINF:0 tvg-id="ch3131" tvg-name="CineMan Военные Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/3131.png" tvg-rec="3", CineMan Военные Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3131/mono.m3u8?token=swaco64.v2_2Z9QAWX-Quy62ZGkYTjdW5KE2UnxBJBVAsQoMphnxQntfttEAoBFluPXZZuWM4VeJ2PgP_AtKdc
+#EXTINF:0 tvg-id="ch2866" tvg-name="CineMan СССР" tvg-logo="http://rus.hls.gd/images/chIcons/2866.png" tvg-rec="3", CineMan СССР
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2866/mono.m3u8?token=swaco64.v2_SWSuxWolS3B4rGCsmMm1fGlAdmy9lsWGtpYlM1ocqX2JBYxO3sAK0mXHToK8B3AFj0pUgm-WBDY
+#EXTINF:0 tvg-id="ch3925" tvg-name="CineMan Дубляж СССР" tvg-logo="http://rus.hls.gd/images/chIcons/3925.png" tvg-rec="3", CineMan Дубляж СССР
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3925/mono.m3u8?token=swaco64.v2_AXOXRtuCfaLo4_1v8JpBtsEBCEpDz3e1uc3Q5tpsvWaFHjcexq9mL0XZaxpI1Hf0EEpbHEnq8P0
+#EXTINF:0 tvg-id="ch1219" tvg-name="MM NewFilm RU HD" tvg-logo="http://rus.hls.gd/images/chIcons/1219.png" tvg-rec="3", MM NewFilm RU HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1219/mono.m3u8?token=swaco64.v2_z9k0NNVs_OYnmVXZ-uWLz0nTMxbie1q224_YkU5Rb_b8QovYiCEt5n1RYAzQAoQ1_TjbkrZNhgM
+#EXTINF:0 tvg-id="ch1216" tvg-name="MM NewFilm 1 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1216.png" tvg-rec="3", MM NewFilm 1 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1216/mono.m3u8?token=swaco64.v2_z4GMYE11Mh9u3UVb5E8pjVRdJSue3kFGt6yzxJ-QIsMvvLpIBUOg93TQ-poQbiTcNLNH6ZIQhJs
+#EXTINF:0 tvg-id="ch1217" tvg-name="MM NewFilm 2 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1217.png" tvg-rec="3", MM NewFilm 2 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1217/mono.m3u8?token=swaco64.v2_RVHEHvbf26k-JO6S0rzFTzi7iBaVmYWJzOXPH5QvihbXznt9cDO9ZaLJpQAxl_fIddgICzRcKPw
+#EXTINF:0 tvg-id="ch1218" tvg-name="MM NewFilm 3 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1218.png" tvg-rec="3", MM NewFilm 3 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1218/mono.m3u8?token=swaco64.v2_dQ5KnV8HiXvRPIBItUj2nQv4GPXaE2V-s9s61Npvv7WzhGr7ea7A9CZCtWFgwAqOTfyuUsK_p2o
+#EXTINF:0 tvg-id="ch1215" tvg-name="MM Love HD" tvg-logo="http://rus.hls.gd/images/chIcons/1215.png" tvg-rec="3", MM Love HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1215/mono.m3u8?token=swaco64.v2_qgc0k3-UeJnvuQNr0alvDfJL2k5XLJ5F8sH0cIAkYk-yULAzzG0I6SeQ2G3VZrAbvboZjjJJH-4
+#EXTINF:0 tvg-id="ch1222" tvg-name="MM UFO HD" tvg-logo="http://rus.hls.gd/images/chIcons/1222.png" tvg-rec="3", MM UFO HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1222/mono.m3u8?token=swaco64.v2_Yrdil-rrWJUTRhzNdS-x3KbaBUkfTKUxh9Z-KJ7b3E2eUOXddCyAroCCvOTPnJdIn9J6YO2Z540
+#EXTINF:0 tvg-id="ch1214" tvg-name="MM 007 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1214.png" tvg-rec="3", MM 007 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1214/mono.m3u8?token=swaco64.v2_pKLGU4CInfyR3uJii-ID9QCuY3JVK5Y8NC6CnmJMmIhbZsgrCq_9kUDQ4XLPpgdvtbB58CWTl6c
+#EXTINF:0 tvg-id="ch1229" tvg-name="MM Агата Кристи HD" tvg-logo="http://rus.hls.gd/images/chIcons/1229.png" tvg-rec="3", MM Агата Кристи HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1229/mono.m3u8?token=swaco64.v2_dB0OagrWz6IX02f9EPrlVbG-PXqnrJGzz1-ENidivc1PO4SCEC_iT8_i8CkNsVYxDtMlno-xj2Q
+#EXTINF:0 tvg-id="ch1232" tvg-name="MM Боевик Classic HD" tvg-logo="http://rus.hls.gd/images/chIcons/1232.png" tvg-rec="3", MM Боевик Classic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1232/mono.m3u8?token=swaco64.v2_GfdeUarPygcGmHLT4kfGx5OIFSF0yvZwvk1ca-uWYAc4hOuCvF2M84cA6q3uBzU0Oh1RkVt2iq8
+#EXTINF:0 tvg-id="ch1233" tvg-name="MM Боевик HD" tvg-logo="http://rus.hls.gd/images/chIcons/1233.png" tvg-rec="3", MM Боевик HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1233/mono.m3u8?token=swaco64.v2_10ukH0p2__J4AU4U3mP2zeX-2tXjDssIaIhBjcYkTk-cr0SWFPm9FfJlTPVjiqu_ALOAHalLTsQ
+#EXTINF:0 tvg-id="ch1234" tvg-name="MM Вестерн HD" tvg-logo="http://rus.hls.gd/images/chIcons/1234.png" tvg-rec="3", MM Вестерн HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1234/mono.m3u8?token=swaco64.v2_9qVFhacjTyOhy_jWTojYJ9p4WwsABqPFbrDUiy-SuNs9dUoIlhTgv5hU5Wo4_hFDx340wVi4pz0
+#EXTINF:0 tvg-id="ch1237" tvg-name="MM Затмение HD" tvg-logo="http://rus.hls.gd/images/chIcons/1237.png" tvg-rec="3", MM Затмение HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1237/mono.m3u8?token=swaco64.v2_xl-HIyBheGCBA9TYmxza3_wNn2MnhYq1FH7rs3t5vlSLGrasU2qSrGvsMvI-xiN5a4jTek5iO7A
+#EXTINF:0 tvg-id="ch1238" tvg-name="MM История HD" tvg-logo="http://rus.hls.gd/images/chIcons/1238.png" tvg-rec="3", MM История HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1238/mono.m3u8?token=swaco64.v2_bpbDsbwLN6RQ6TNlFuzrV8IQiLt5-2OIBWbDyX2Px7h9WG2wtzF6a4_CjPMMBn3oWnIfK15q1YM
+#EXTINF:0 tvg-id="ch1239" tvg-name="MM Катастрофа HD" tvg-logo="http://rus.hls.gd/images/chIcons/1239.png" tvg-rec="3", MM Катастрофа HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1239/mono.m3u8?token=swaco64.v2_lVmSHroBDkxNYwE1SeCLjRbnxmbjNJrbwoo8MaxB-ogEofsUCS-3vvt6jkzNsABu-DmdHeJLGFU
+#EXTINF:0 tvg-id="ch1241" tvg-name="MM Киберпанк HD" tvg-logo="http://rus.hls.gd/images/chIcons/1241.png" tvg-rec="3", MM Киберпанк HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1241/mono.m3u8?token=swaco64.v2_sC9xYpFu59D-MaFVFSLWytz1Hx0lq9mBK23LRW4BWWEwpct8Sx3nD5lDCWM4qakNvbrpQqBsdJk
+#EXTINF:0 tvg-id="ch1242" tvg-name="MM Комедия Classic HD" tvg-logo="http://rus.hls.gd/images/chIcons/1242.png" tvg-rec="3", MM Комедия Classic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1242/mono.m3u8?token=swaco64.v2_11kho95CA7ZKUyGUeD8ddRUO9W925EfcTi5dNizghLX47CFFGlC2NcXSnxsmFHZoWI8TaDHckWo
+#EXTINF:0 tvg-id="ch1243" tvg-name="MM Комедия HD" tvg-logo="http://rus.hls.gd/images/chIcons/1243.png" tvg-rec="3", MM Комедия HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1243/mono.m3u8?token=swaco64.v2_hi9okZXYmZRUx5eyJMDamy36axOrEld8rANQSDm29cHQe1qw_QKh1gEf3YDJotsqCeUm3dekNm0
+#EXTINF:0 tvg-id="ch1244" tvg-name="MM Криминал HD" tvg-logo="http://rus.hls.gd/images/chIcons/1244.png" tvg-rec="3", MM Криминал HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1244/mono.m3u8?token=swaco64.v2_aved7HPKuNaLsvHtEc5kwg1fFrk9kvHfMKqwNXsCyMi-EvAm03Q9BAWWIGEJ6yhC3t1tKZL9PaE
+#EXTINF:0 tvg-id="ch1245" tvg-name="MM Крутые 90-е HD" tvg-logo="http://rus.hls.gd/images/chIcons/1245.png" tvg-rec="3", MM Крутые 90-е HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1245/mono.m3u8?token=swaco64.v2_Y6812Nc8nZ4TytJPXYgkoWSfpldwGnCfYn8UoG6qBl4v5kBNE8Vwg-bsXU9S9cqk0Z_4UqqWOko
+#EXTINF:0 tvg-id="ch1246" tvg-name="MM Кунг-Фу HD" tvg-logo="http://rus.hls.gd/images/chIcons/1246.png" tvg-rec="3", MM Кунг-Фу HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1246/mono.m3u8?token=swaco64.v2_CQui7dNsPzK7Iut537lmHuarpFuUk9c1U120kiXVh5ol2tjxDME6oe0lvf-4GhhGYXR2a2uOkUM
+#EXTINF:0 tvg-id="ch1249" tvg-name="MM Мифология HD" tvg-logo="http://rus.hls.gd/images/chIcons/1249.png" tvg-rec="3", MM Мифология HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1249/mono.m3u8?token=swaco64.v2_h5ELCTnRwnlrSPvSOJVbYy9lwM_SNC8NgY_8lTMkRsAdj6fajyvd-6n1AaHcrz_PhY2_Me9PWJo
+#EXTINF:0 tvg-id="ch1252" tvg-name="MM Погружение HD" tvg-logo="http://rus.hls.gd/images/chIcons/1252.png" tvg-rec="3", MM Погружение HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1252/mono.m3u8?token=swaco64.v2_9vS-6cqLdARX2XLxqlKBysYH9x8oZe8WabLwP5eAbiZHq-b5xtIgAeTrCTGie03Fn2pBh6PVsNs
+#EXTINF:0 tvg-id="ch1255" tvg-name="MM Роскино HD" tvg-logo="http://rus.hls.gd/images/chIcons/1255.png" tvg-rec="3", MM Роскино HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1255/mono.m3u8?token=swaco64.v2_nTXiR82mlBp__6e1Iqa8h9G4MERy0K7xhPQQKNZV4X95ct9D3poiU7qFA4UGQY4O6zLisMR1Gqg
+#EXTINF:0 tvg-id="ch1250" tvg-name="MM Нуар HD" tvg-logo="http://rus.hls.gd/images/chIcons/1250.png" tvg-rec="3", MM Нуар HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1250/mono.m3u8?token=swaco64.v2_ZMG_aYOsx2CzI7t13dvieG2RtZ0IA0e8NA82bxsHihYIQ7FDplNSKDiHX7VIqZDT2euBfkL7JRw
+#EXTINF:0 tvg-id="ch1254" tvg-name="MM Приключения HD" tvg-logo="http://rus.hls.gd/images/chIcons/1254.png" tvg-rec="3", MM Приключения HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1254/mono.m3u8?token=swaco64.v2_RJ2pKNc6CJVthkKCi0RqLQf5FJdli_zAnWsgQqTmlmfXcgEbSG77uSpOH3wHRuqfOJwspkvSjLA
+#EXTINF:0 tvg-id="ch1230" tvg-name="MM Грайндхаус HD" tvg-logo="http://rus.hls.gd/images/chIcons/1230.png" tvg-rec="3", MM Грайндхаус HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1230/mono.m3u8?token=swaco64.v2_hyIhh1zYQGPAmRLMqTCfgxfk2LVYCxcF-zAizcAN-sb0j4rYCVdlUfnGFudmUjC9ElaHhbiPrSI
+#EXTINF:0 tvg-id="ch1251" tvg-name="MM Ситком 2.0 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1251.png" tvg-rec="3", MM Ситком 2.0 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1251/mono.m3u8?token=swaco64.v2_KmZwaNnxtpKAhez-fAvbCXwh1cHEj2JzXXVZk_et0rUgww-23lUhPcoVCo4okRHFlSa-j1vphk0
+#EXTINF:0 tvg-id="ch1236" tvg-name="MM Воронины HD" tvg-logo="http://rus.hls.gd/images/chIcons/1236.png" tvg-rec="0", MM Воронины HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1236/mono.m3u8?token=swaco64.v2_8xzgrR9pYS1AkkGG8M8JUpq9GxqmXQUm--ly75kO-KpWXG92PmNvRnXpl3j8QWsDeZVnAEhQfIs
+#EXTINF:0 tvg-id="ch1253" tvg-name="MM Полицейский с Рублёвки HD" tvg-logo="http://rus.hls.gd/images/chIcons/1253.png" tvg-rec="3", MM Полицейский с Рублёвки HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1253/mono.m3u8?token=swaco64.v2_tQYDJDO7od-JGk7fp8rGfBb_b73T7SqpzbPeihnlFU3Qul8w_I4DBtZEuoUCplcrRphN_S_KiIc
+#EXTINF:0 tvg-id="ch1256" tvg-name="MM Сваты HD" tvg-logo="http://rus.hls.gd/images/chIcons/1256.png" tvg-rec="3", MM Сваты HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1256/mono.m3u8?token=swaco64.v2_Xr6l3Iu5INKVCDHOAHJhULZO8gy9Inz5gBS3H47U4o5DPgncm2lIbEA9ejSarAWy6t-TlijgShs
+#EXTINF:0 tvg-id="ch1257" tvg-name="MM Ситком HD" tvg-logo="http://rus.hls.gd/images/chIcons/1257.png" tvg-rec="3", MM Ситком HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1257/mono.m3u8?token=swaco64.v2_5Q4pDRGXIzOLO6RabEjA9jd-MGpkv3HzhKbvO6C29boNNbXWhri0sQP-xS6wRNAfkp_v-489uFg
+#EXTINF:0 tvg-id="ch1258" tvg-name="MM Скорость HD" tvg-logo="http://rus.hls.gd/images/chIcons/1258.png" tvg-rec="3", MM Скорость HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1258/mono.m3u8?token=swaco64.v2_GJ-wvuwT9Gq4b8TF67sByKBFMXycehYKoxU9LUql2Y15R-wxwifpKP2GiDH4Y7kq1-l9zI6YTSg
+#EXTINF:0 tvg-id="ch1259" tvg-name="MM Спорт HD" tvg-logo="http://rus.hls.gd/images/chIcons/1259.png" tvg-rec="3", MM Спорт HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1259/mono.m3u8?token=swaco64.v2_K8GMzyiP3l_NQeIH7BG5oO5FHE57huqcS0XnDzdiwnATGUegEktypHaekoBu0QPdsc-1PfFnrG0
+#EXTINF:0 tvg-id="ch1260" tvg-name="MM Стивен Кинг HD" tvg-logo="http://rus.hls.gd/images/chIcons/1260.png" tvg-rec="3", MM Стивен Кинг HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1260/mono.m3u8?token=swaco64.v2_KCsRiZjFZQBYo05lQeea3w2hqN2Jb7byLDNvSvYCmDs_3criODxL8KMTE0QrUSYJsYWh8_ArkW4
+#EXTINF:0 tvg-id="ch1261" tvg-name="MM Супергерои HD" tvg-logo="http://rus.hls.gd/images/chIcons/1261.png" tvg-rec="3", MM Супергерои HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1261/mono.m3u8?token=swaco64.v2_T80fkhXonZcpU-K_n-ua2wUF3nnCILrx7stdXv-mAm1CGRM9-MkyEBX_ghXqbzp_be_OCsWPDzw
+#EXTINF:0 tvg-id="ch1263" tvg-name="MM Триллер HD" tvg-logo="http://rus.hls.gd/images/chIcons/1263.png" tvg-rec="3", MM Триллер HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1263/mono.m3u8?token=swaco64.v2_xFufgIK9fgA1frYpjWJRA3-_gxmNs1OdU6EAeGoGmrBsFcy5WWLFjqhnKplCmvmBvyGl0ll7rmI
+#EXTINF:0 tvg-id="ch1264" tvg-name="MM Ужастик HD" tvg-logo="http://rus.hls.gd/images/chIcons/1264.png" tvg-rec="3", MM Ужастик HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1264/mono.m3u8?token=swaco64.v2_7bAdSetlrSyq0R-igsRgRlUPGKBts9c-Q9VemyfoYr9ae7io8S44NGslQAO2iaxF5gerQUpYfUg
+#EXTINF:0 tvg-id="ch1266" tvg-name="MM Синематограф HD" tvg-logo="http://rus.hls.gd/images/chIcons/1266.png" tvg-rec="3", MM Синематограф HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1266/mono.m3u8?token=swaco64.v2_RElClU1FCcoEOgyyEd6gQeOcmUmLZPfsLxRw9fZl7xk0UL8ykH3lTO_J1efPkBITXyZGfqyc6DI
+#EXTINF:0 tvg-id="ch1267" tvg-name="MM Фантастика HD" tvg-logo="http://rus.hls.gd/images/chIcons/1267.png" tvg-rec="3", MM Фантастика HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1267/mono.m3u8?token=swaco64.v2_xxc_wM-u1YuEx179BE0kWIEN4Q_48b1jxCqvDW9ETfYrVmGSgZ5yHvRxON0h-l4PiWQnmu695fg
+#EXTINF:0 tvg-id="ch1268" tvg-name="MM Фобия HD" tvg-logo="http://rus.hls.gd/images/chIcons/1268.png" tvg-rec="3", MM Фобия HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1268/mono.m3u8?token=swaco64.v2_Ae0LP-swDTP0pEMyzxULt0zXzd9I0voaMLlTlP4Tn0U1J5hkvcuvnLKQgwpxFhIxTRnAyEM8Cq0
+#EXTINF:0 tvg-id="ch1274" tvg-name="MM Семейный 1 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1274.png" tvg-rec="3", MM Семейный 1 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1274/mono.m3u8?token=swaco64.v2_L1qLvNy3_mswOv_wB1WwycPmEIeAwapuP6DGeVfY_2DXAV0ic_3yh2mVon3iqRhogYdofL9bvoU
+#EXTINF:0 tvg-id="ch1270" tvg-name="MM Семейный 2 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1270.png" tvg-rec="3", MM Семейный 2 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1270/mono.m3u8?token=swaco64.v2_6TKgJ2xplzVCGuE90AjrDJgpx8Uv3WqgT6Cj16xmBzDngusXk-X96-SecZFB_agnmCEZY94CCYI
+#EXTINF:0 tvg-id="ch1223" tvg-name="MM USSR 1941-1945 HD" tvg-logo="http://rus.hls.gd/images/chIcons/1223.png" tvg-rec="3", MM USSR 1941-1945 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1223/mono.m3u8?token=swaco64.v2_KIGEp76AwlWiRH1BsMXS8zLqTggJIzBIYmx8jThVP4N-fWQiE-8jtOhp6-lpIXXB6C5CdRTNYXs
+#EXTINF:0 tvg-id="ch1273" tvg-name="MM USSR Детектив HD" tvg-logo="http://rus.hls.gd/images/chIcons/1273.png" tvg-rec="3", MM USSR Детектив HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1273/mono.m3u8?token=swaco64.v2_ZRltkgeupDZSlvw8E___yASumqnfmNe69MrDDx8x7k416koMWN9EqLsCGlG5g_aHY8_Mfcig4NE
+#EXTINF:0 tvg-id="ch1269" tvg-name="MM USSR Приключения HD" tvg-logo="http://rus.hls.gd/images/chIcons/1269.png" tvg-rec="3", MM USSR Приключения HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1269/mono.m3u8?token=swaco64.v2_tCnSrK8oK-Bhhd2uLvcdi54v2i0rKXRJ_fHGEfIAe9spwUMQ30nzsX5a2g7WAA_2OyZ84BOYjQ0
+#EXTINF:0 tvg-id="ch1224" tvg-name="MM USSR Комедия HD" tvg-logo="http://rus.hls.gd/images/chIcons/1224.png" tvg-rec="3", MM USSR Комедия HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1224/mono.m3u8?token=swaco64.v2_JR0ZWYpMUOfdebXy6pJ3wjr2ACDlXgfjbOmi093tYFlrkcYLRluCt_kJxguLMWi4SUcTRZ3Zjdc
+#EXTINF:0 tvg-id="ch1227" tvg-name="MM USSR Фантастика HD" tvg-logo="http://rus.hls.gd/images/chIcons/1227.png" tvg-rec="3", MM USSR Фантастика HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1227/mono.m3u8?token=swaco64.v2_x4KqVyFM9NWjmbl0ziue6iaw4stOQvWDxC-j6BB9-l3OrmuDnEHbTn3HA7T1adCufWrEH5F0O0o
+#EXTINF:0 tvg-id="ch1275" tvg-name="MM Ужасы Classic HD" tvg-logo="http://rus.hls.gd/images/chIcons/1275.png" tvg-rec="3", MM Ужасы Classic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1275/mono.m3u8?token=swaco64.v2_kUEgYdxHNGn_NQLaUPX3ci5WYJ0k_Oe6oXBVrK_Ejz99P5ZQ_jMaQfNvc-3g3et86p2w3kl1HG0
+#EXTINF:0 tvg-id="ch1276" tvg-name="MM Ужасы HD" tvg-logo="http://rus.hls.gd/images/chIcons/1276.png" tvg-rec="3", MM Ужасы HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1276/mono.m3u8?token=swaco64.v2_F1PbspF-PJ9hFK--X2A8LmaZ07AxfoG_N6oUczWjPR8g1fjzNUWX8P79h7puWtn7cj9_WMgX_Nk
+#EXTINF:0 tvg-id="ch1286" tvg-name="MM Celebrity HD" tvg-logo="http://rus.hls.gd/images/chIcons/1286.png" tvg-rec="3", MM Celebrity HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1286/mono.m3u8?token=swaco64.v2_l8SVn6H4hRbnF0a2Cto5yQ7-_1UrmXftP49VdJUNAUcl9Rs7rYX2YsROTUxOndZSkkjjR8I0HzY
+#EXTINF:0 tvg-id="ch1323" tvg-name="MM Classic HD" tvg-logo="http://rus.hls.gd/images/chIcons/1323.png" tvg-rec="3", MM Classic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1323/mono.m3u8?token=swaco64.v2_0tWLYNTH7l7TJmh-_eFJaJk0kiAJDJoBZC3RzjBQp2Y78RD2KlrFRijxE_EnzLy7U03qGCgMLYQ
+#EXTINF:0 tvg-id="ch1324" tvg-name="MM Драма HD" tvg-logo="http://rus.hls.gd/images/chIcons/1324.png" tvg-rec="3", MM Драма HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1324/mono.m3u8?token=swaco64.v2_0OXlz8_gb7cO0F9WUIHLb4waGPugsw9sVEuELaVXuFGUjg9tJuS-3zRteVhfsN7BESunyT1MFUU
+#EXTINF:0 tvg-id="ch1621" tvg-name="MM Translation HD" tvg-logo="http://rus.hls.gd/images/chIcons/1621.png" tvg-rec="3", MM Translation HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1621/mono.m3u8?token=swaco64.v2_UxijPJ7jzlG24uzvL-OqTQIlv9vG0n0jgXfOjPNjqz-DR65pNqPHTGVJS_-PqBJyi-twyqII3Fg
+#EXTINF:0 tvg-id="ch2501" tvg-name="MM Кинофестиваль HD" tvg-logo="http://rus.hls.gd/images/chIcons/2501.png" tvg-rec="3", MM Кинофестиваль HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2501/mono.m3u8?token=swaco64.v2_Nmd__iwF4NYP7rjjKy3AOJhNNr4gyYPk_5la7pX5dIExeWewWBixG7iLNCfEVBNhzQwK5jVLg7k
+#EXTINF:0 tvg-id="ch1288" tvg-name="MS Crime HD" tvg-logo="http://rus.hls.gd/images/chIcons/1288.png" tvg-rec="3", MS Crime HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1288/mono.m3u8?token=swaco64.v2_WOyjNErn1nLuvqnSnCoFv2-yAKb0YPYM-qxgLwkwobKn4lOUMqF2_4ttVmmjlvzgf-dKCI_U0sc
+#EXTINF:0 tvg-id="ch1289" tvg-name="MS Prisons HD" tvg-logo="http://rus.hls.gd/images/chIcons/1289.png" tvg-rec="3", MS Prisons HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1289/mono.m3u8?token=swaco64.v2_8V7mq7jHLRLI56PCCAtbqjmODhJ4RQiTSLYt1PDzM6W0f9_6C9WVlKtYhlGFigJgHMk3ipB5Jbk
+#EXTINF:0 tvg-id="ch1291" tvg-name="MS Young Blood HD" tvg-logo="http://rus.hls.gd/images/chIcons/1291.png" tvg-rec="3", MS Young Blood HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1291/mono.m3u8?token=swaco64.v2_lCfY2ohwdStkxrDk5LqVQMZFRfDqMriqgkVTT0PuvqzbHGAkPFvAU-w2C4nC6VjP19aTjDhy8H8
+#EXTINF:0 tvg-id="ch3038" tvg-name="MS Magic HD" tvg-logo="http://rus.hls.gd/images/chIcons/3038.png" tvg-rec="3", MS Magic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3038/mono.m3u8?token=swaco64.v2_jXLkqUjZNmt9l0TuULbX3unGK39tQH-cObWREbb_BHz2tg-nEtXpi5gwAGj80zPZsD1LeOO7Izs
+#EXTINF:0 tvg-id="ch1297" tvg-name="Yosso TV Grand" tvg-logo="http://rus.hls.gd/images/chIcons/1297.png" tvg-rec="3", Yosso TV Grand
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1297/mono.m3u8?token=swaco64.v2_axqieDtFgfMwDkPlBHgoXc2zMOKiK4aARII4Zo7ngu_DAb6-2WuOW3DRVFnhVlO9lEHP19hNCTE
+#EXTINF:0 tvg-id="ch1298" tvg-name="Yosso TV VHS" tvg-logo="http://rus.hls.gd/images/chIcons/1298.png" tvg-rec="3", Yosso TV VHS
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1298/mono.m3u8?token=swaco64.v2_oO66cow5qHZ3Btnvbmw-JoIEUUzUrFkNEG9L6c77tvOX70eIK75fU4AXLiZ36cOHqSby1NsqdjI
+#EXTINF:0 tvg-id="ch1300" tvg-name="Yosso TV Русские Фильмы" tvg-logo="http://rus.hls.gd/images/chIcons/1300.png" tvg-rec="3", Yosso TV Русские Фильмы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1300/mono.m3u8?token=swaco64.v2_o0m7JKHY4UhspNSaRGabTWqe_7i0vphKqJWgqPtvJWBIh-bnJGcucErCGIRgGJGW2QalHhxxEaE
+#EXTINF:0 tvg-id="ch1301" tvg-name="Yosso TV Советские Фильмы" tvg-logo="http://rus.hls.gd/images/chIcons/1301.png" tvg-rec="3", Yosso TV Советские Фильмы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1301/mono.m3u8?token=swaco64.v2_WzPgR10-QhYOdCLK3mdJavZGIigFP4h9RKXdkklB2ApccUoLBYuC2Cb3_oXw3xEb7UjiLlzKewE
+#EXTINF:0 tvg-id="ch1303" tvg-name="Yosso TV New Кино" tvg-logo="http://rus.hls.gd/images/chIcons/1303.png" tvg-rec="3", Yosso TV New Кино
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1303/mono.m3u8?token=swaco64.v2_3-aCqfhf9VCNYsJYoQYlz0fPlsP3_TzjA57lKPhJe3RFpKbJX-ny4fYwALVkN9JYHw8FqWwjZ1M
+#EXTINF:0 tvg-id="ch1306" tvg-name="Yosso TV Трагичное" tvg-logo="http://rus.hls.gd/images/chIcons/1306.png" tvg-rec="3", Yosso TV Трагичное
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1306/mono.m3u8?token=swaco64.v2_kesG8J03Zxl8mhuxiKO2Lz3glwppn-Q7ktfGSqXS3RhDLsIgd0Zta43Yy5vN7tcW9ducInh5g98
+#EXTINF:0 tvg-id="ch1307" tvg-name="Yosso TV Забавное" tvg-logo="http://rus.hls.gd/images/chIcons/1307.png" tvg-rec="3", Yosso TV Забавное
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1307/mono.m3u8?token=swaco64.v2_jhzQCR5tYBZM0e9_g73uDh-wEzmbI_e0U-aqqrzx0Jhn5xrwOo4h2nq6a-9nbCJnqvoSzQhOP7k
+#EXTINF:0 tvg-id="ch1308" tvg-name="Yosso TV Best" tvg-logo="http://rus.hls.gd/images/chIcons/1308.png" tvg-rec="3", Yosso TV Best
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1308/mono.m3u8?token=swaco64.v2_Q2zd8JRVraIAMvlSWdz6Kj-v5ihXbtyzU-c2cblnH9xDPfU_mTbCHnO4E0ac3Im6GjmZpUB_vrY
+#EXTINF:0 tvg-id="ch1309" tvg-name="Yosso TV Ковбойское" tvg-logo="http://rus.hls.gd/images/chIcons/1309.png" tvg-rec="3", Yosso TV Ковбойское
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1309/mono.m3u8?token=swaco64.v2_Mi8RJrHt0jj2w6OnSakFgqfanH4m2PP9jfgLUU8LK01Ls0uCdbelWiR1wCj5lQT9ERDqcNqPp0s
+#EXTINF:0 tvg-id="ch1310" tvg-name="Yosso TV Adrenaline" tvg-logo="http://rus.hls.gd/images/chIcons/1310.png" tvg-rec="3", Yosso TV Adrenaline
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1310/mono.m3u8?token=swaco64.v2_eXSoSX5Qj8sVzSW83LLeqIsTlaXmjzzQ9Xi9MAwbCXIUpdflgGVDsx7FfIfx20VZ7D3HrrLVDNU
+#EXTINF:0 tvg-id="ch1311" tvg-name="Yosso TV Oblivion" tvg-logo="http://rus.hls.gd/images/chIcons/1311.png" tvg-rec="3", Yosso TV Oblivion
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1311/mono.m3u8?token=swaco64.v2_e36K72BUWhOQ9mWR31f2Tw3jRz7-9Ck5US00DLsBHvBF4vxYruaeB-Vj70GGF8z1CW7KPRcnzi4
+#EXTINF:0 tvg-id="ch1312" tvg-name="Yosso TV Adventure" tvg-logo="http://rus.hls.gd/images/chIcons/1312.png" tvg-rec="3", Yosso TV Adventure
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1312/mono.m3u8?token=swaco64.v2__ygoMGt52XQttUaYAdGCMbjpk5jvszi_e29mi7JFJ6xKqhMfhktwRq4tEIxa-z5MZQ8LlahBKk0
+#EXTINF:0 tvg-id="ch1313" tvg-name="Yosso TV Thriller" tvg-logo="http://rus.hls.gd/images/chIcons/1313.png" tvg-rec="3", Yosso TV Thriller
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1313/mono.m3u8?token=swaco64.v2_55-srJ28HByOvGzR4sALg3uxY8T5TWLD-I0AEbfJYjJOtrfE7FXeLfVdujLhznT8Qkj-dBg0Ix0
+#EXTINF:0 tvg-id="ch2062" tvg-name="Yosso TV Мелодрама" tvg-logo="http://rus.hls.gd/images/chIcons/2062.png" tvg-rec="3", Yosso TV Мелодрама
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2062/mono.m3u8?token=swaco64.v2_8Xo2naKSpM_y1GHGfE2dY4PYNsATOvRZ5x-Wnor4SX9hij6NTOA7fqqK7I_79oycqdEmfP51VTQ
+#EXTINF:0 tvg-id="ch2455" tvg-name="Yosso TV Netflix" tvg-logo="http://rus.hls.gd/images/chIcons/2455.png" tvg-rec="3", Yosso TV Netflix
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2455/mono.m3u8?token=swaco64.v2_kdPVGMJDEFz72lUGW-vmSqRfQwCgafUjdCEfaROU1ceuGNOTpGnGzcpHfkP4zXKjvOd5IjvbVRw
+#EXTINF:0 tvg-id="ch2457" tvg-name="Yosso TV Best 60fps" tvg-logo="http://rus.hls.gd/images/chIcons/2457.png" tvg-rec="3", Yosso TV Best 60fps
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2457/mono.m3u8?token=swaco64.v2_MUeHt2QnesWp2o9U9edapZuRKMOd6-yfq_MRq9yUDzAPXgGd4I6hpKEJruINSeFEJbHgFPkvMwU
+#EXTINF:0 tvg-id="ch3182" tvg-name="Yosso TV Best Box 60fps" tvg-logo="http://rus.hls.gd/images/chIcons/3182.png" tvg-rec="3", Yosso TV Best Box 60fps
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3182/mono.m3u8?token=swaco64.v2_zk80_gaforMsPbvLM4hjg142B8RzZX4Et7OMIVnm7sQEpT-6-NIGkMDpW19DzRJJR-M-wmweSEw
+#EXTINF:0 tvg-id="ch1315" tvg-name="Yosso TV C-Marvel" tvg-logo="http://rus.hls.gd/images/chIcons/1315.png" tvg-rec="3", Yosso TV C-Marvel
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1315/mono.m3u8?token=swaco64.v2_71JcOE_7ZJwGz4z7XmlVCmwb2aMl9KwZ8YErKb6QK1rnC_BU7nD3J7NLfroE7-X0xpC04iyjfd8
+#EXTINF:0 tvg-id="ch1001" tvg-name="Yosso TV C-Inquest" tvg-logo="http://rus.hls.gd/images/chIcons/1001.png" tvg-rec="3", Yosso TV C-Inquest
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1001/mono.m3u8?token=swaco64.v2_5Pth09LFIs2iDGiOGHfiwTNMfBke48WeYjnKbD37MHuCT-Z7-qmLAX1FXZTUeoDIFdzMLO2ILKc
+#EXTINF:0 tvg-id="ch1002" tvg-name="Yosso TV C-Comedy" tvg-logo="http://rus.hls.gd/images/chIcons/1002.png" tvg-rec="3", Yosso TV C-Comedy
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1002/mono.m3u8?token=swaco64.v2_HaS3MKd_DweDBtfzWlZIhlYIAnuqvWawfR8gj457mmfq816X5xlasmtFXj9oOq8GY9uXycZjEOk
+#EXTINF:0 tvg-id="ch1575" tvg-name="Yosso TV C-History HD" tvg-logo="http://rus.hls.gd/images/chIcons/1575.png" tvg-rec="3", Yosso TV C-History HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1575/mono.m3u8?token=swaco64.v2_dSwaWb51rZhl1LKThmaNNtY6dSpJ4lcQyknWUQ7MMMXYkBzPITdG-sE3NyuWA-a1jarO0g5qEVY
+#EXTINF:0 tvg-id="ch394" tvg-name="Yosso TV C-Holiday" tvg-logo="http://rus.hls.gd/images/chIcons/394.png" tvg-rec="7", Yosso TV C-Holiday
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch394/mono.m3u8?token=swaco64.v2_oFM_dXw5xt8TX1MBnbfZE8MR_hnSfexVa89u1-gwLOiHizh2mw8QNGt2t-oUbzk1y9LpbYn8Ng
+#EXTINF:0 tvg-id="ch1556" tvg-name="Magic Action" tvg-logo="http://rus.hls.gd/images/chIcons/1556.png" tvg-rec="3", Magic Action
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1556/mono.m3u8?token=swaco64.v2_wO5gsFNoAj_SgJ5lZ0leFHBHwv5B06CaXq17KFamBEW_BKqGu1izGuFswv41cIdtImoytmjDXCU
+#EXTINF:0 tvg-id="ch2203" tvg-name="Magic Adventure" tvg-logo="http://rus.hls.gd/images/chIcons/2203.png" tvg-rec="3", Magic Adventure
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2203/mono.m3u8?token=swaco64.v2_g1gYFgijdAWETILhm60E_XaxAvE_qoHuduepL3urn3qlAONbDD8MhgLswzw1OnNAdZKcoGcVjlE
+#EXTINF:0 tvg-id="ch1557" tvg-name="Magic Comedy" tvg-logo="http://rus.hls.gd/images/chIcons/1557.png" tvg-rec="3", Magic Comedy
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1557/mono.m3u8?token=swaco64.v2_pxL--Sof01sHsq9VD-cz_5GTiXN9-srDo9XQaYm3PcwmIpJNlW5js-yHppDjlTkUxI2IYzlq0aw
+#EXTINF:0 tvg-id="ch1559" tvg-name="Magic Galaxy" tvg-logo="http://rus.hls.gd/images/chIcons/1559.png" tvg-rec="3", Magic Galaxy
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1559/mono.m3u8?token=swaco64.v2_wUOJhOzCIlRhOfwMtI0JtNkZOkSiE3O6-p3Ou5UjAs9ZrOo0KSfdmrgXpULu791bUkYZ_XqTs5c
+#EXTINF:0 tvg-id="ch1560" tvg-name="Magic Horror" tvg-logo="http://rus.hls.gd/images/chIcons/1560.png" tvg-rec="3", Magic Horror
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1560/mono.m3u8?token=swaco64.v2_UkEh4mxLze1UQ3SZucKARes9zoy6LctfTzGCvDrDfPUw3ED_oVUkb6sgIUmYjUPRnNrbfwxlFt0
+#EXTINF:0 tvg-id="ch992" tvg-name="Magic Russian" tvg-logo="http://rus.hls.gd/images/chIcons/992.png" tvg-rec="3", Magic Russian
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch992/mono.m3u8?token=swaco64.v2_MsXhd8B82iicWCMqaTbC06W219sZ_nT9-QI66konpYW9oqgLPO8GF6X1s2KX0J0qQdqK-q5HMQ
+#EXTINF:0 tvg-id="ch1561" tvg-name="Magic Karate" tvg-logo="http://rus.hls.gd/images/chIcons/1561.png" tvg-rec="3", Magic Karate
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1561/mono.m3u8?token=swaco64.v2_wUIuswi6HDjx7gH5o8JEzXHzKo625tXXA9u9eDxHBf15vqkseGemgskAAnyHGSCYWCld_jrP8Gc
+#EXTINF:0 tvg-id="ch1562" tvg-name="Magic Thriller" tvg-logo="http://rus.hls.gd/images/chIcons/1562.png" tvg-rec="3", Magic Thriller
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1562/mono.m3u8?token=swaco64.v2_pOR6Z0whHAVkpqmHdO9SGd0P6QH-BlS-V1gyanzn0M5oztIfTPuXcR5TbMtJHVTk4IlX1cQUACs
+#EXTINF:0 tvg-id="ch1563" tvg-name="Magic VHS" tvg-logo="http://rus.hls.gd/images/chIcons/1563.png" tvg-rec="3", Magic VHS
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1563/mono.m3u8?token=swaco64.v2_0IQ1Quy0NoKEgUlsMRBaUViETintCbD5W2CvtdGEvD_GVFd6i1-CxXJH18D6JLmluR5TojUfHdM
+#EXTINF:0 tvg-id="ch1581" tvg-name="Magic Love" tvg-logo="http://rus.hls.gd/images/chIcons/1581.png" tvg-rec="3", Magic Love
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1581/mono.m3u8?token=swaco64.v2_xXg11wHXeosJJBwA9ok4r2jw7tRqkFIQf17goeYasnsqJq1U53FxAmLqwIe8DSsfeQHAvFsw4-I
+#EXTINF:0 tvg-id="ch1582" tvg-name="Magic Family" tvg-logo="http://rus.hls.gd/images/chIcons/1582.png" tvg-rec="3", Magic Family
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1582/mono.m3u8?token=swaco64.v2_cIenRzwIYum0YKqgJv9KdRlL-bORjfFz30pFPu-Fckx5QP3mhlE-crOVQw-x2BDGX1vVgHI3Yrs
+#EXTINF:0 tvg-id="ch3223" tvg-name="Magic Premiere" tvg-logo="http://rus.hls.gd/images/chIcons/3223.png" tvg-rec="3", Magic Premiere
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3223/mono.m3u8?token=swaco64.v2_qe1KhHHOwZv-dOvi5XeexjTQSst6_GfUXRkVmW1H5MGrZV3JKPjPslpmIhYWJF9UR7vVpIOFqBY
+#EXTINF:0 tvg-id="ch1721" tvg-name="Fresh Adventure" tvg-logo="http://rus.hls.gd/images/chIcons/1721.png" tvg-rec="3", Fresh Adventure
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1721/mono.m3u8?token=swaco64.v2_r2uBCmpWo4Ix5HLkabjfYsRtUUa8ButpJBRNfk0FrdMCs5Q3Zrle1ye0Vc81G8YCpciRRdQ1H2o
+#EXTINF:0 tvg-id="ch1722" tvg-name="Fresh Cinema" tvg-logo="http://rus.hls.gd/images/chIcons/1722.png" tvg-rec="3", Fresh Cinema
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1722/mono.m3u8?token=swaco64.v2_3So8JrntMGkinUhNDR8ik-Xq6MJpPTV9ZgmeNBLGDca7k3DjurcUggFsPpiq46-mBjBTDRgTFwI
+#EXTINF:0 tvg-id="ch1723" tvg-name="Fresh Comedy" tvg-logo="http://rus.hls.gd/images/chIcons/1723.png" tvg-rec="3", Fresh Comedy
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1723/mono.m3u8?token=swaco64.v2_k7qlEywPofbyLNQQL-DwkE36azxbjHlYXfPdEU0Ab0oF2mA2M0MC1ES0A8QEWxiwGy_lqnA7C2w
+#EXTINF:0 tvg-id="ch1724" tvg-name="Fresh Family" tvg-logo="http://rus.hls.gd/images/chIcons/1724.png" tvg-rec="3", Fresh Family
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1724/mono.m3u8?token=swaco64.v2_nkp3zrdTSllVE8E4rGlq0LhQ3Q7CneXkruerAhLbuOROoC_c5Ekt_1JrLTbTG2XuEc8I1ziPTcs
+#EXTINF:0 tvg-id="ch1725" tvg-name="Fresh Fantastic" tvg-logo="http://rus.hls.gd/images/chIcons/1725.png" tvg-rec="3", Fresh Fantastic
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1725/mono.m3u8?token=swaco64.v2_VakrQZuTzqmcg-MDE_Y8HB__1N7JZKLgWvITTPL2F5A-u_-QW_KrN_ua9Jwow4IWwFpyv2_Ow7A
+#EXTINF:0 tvg-id="ch1726" tvg-name="Fresh Horror" tvg-logo="http://rus.hls.gd/images/chIcons/1726.png" tvg-rec="3", Fresh Horror
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1726/mono.m3u8?token=swaco64.v2_AgAJ0Xou_7Z1-1sxZFJPd_Iq6VGZnm_f82-Si831mg78ILTcDIkQjZYAJ648gLLkPF1bwsoe1Pk
+#EXTINF:0 tvg-id="ch1727" tvg-name="Fresh Premiere" tvg-logo="http://rus.hls.gd/images/chIcons/1727.png" tvg-rec="3", Fresh Premiere
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1727/mono.m3u8?token=swaco64.v2_kSpPuvsxGH7ljEEpNXVkZMLqElpI6_hBbCzmPVAta5lVu9rFjsTi1BuvFzDhn2aUN8lfRp3mJYI
+#EXTINF:0 tvg-id="ch1728" tvg-name="Fresh Rating" tvg-logo="http://rus.hls.gd/images/chIcons/1728.png" tvg-rec="3", Fresh Rating
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1728/mono.m3u8?token=swaco64.v2_Pzx0FMKhuyDqVSOQn73XILSZCC3JdHdfc8ViSCr-i07-4IK47hvkd_0TpqfsKS-r9iPVbH2fU0U
+#EXTINF:0 tvg-id="ch1729" tvg-name="Fresh Romantic" tvg-logo="http://rus.hls.gd/images/chIcons/1729.png" tvg-rec="3", Fresh Romantic
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1729/mono.m3u8?token=swaco64.v2_9FueQ2MVfutlVkGtAu3jtFybQOT7qrzvcrRUtLQRPAeG9JYZQf7oCaYb8TDNr-Wgz8p7YGALG-Y
+#EXTINF:0 tvg-id="ch1730" tvg-name="Fresh Russian" tvg-logo="http://rus.hls.gd/images/chIcons/1730.png" tvg-rec="3", Fresh Russian
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1730/mono.m3u8?token=swaco64.v2_cWPcqy_I-1cqHynWLMrjjmofBm_gQvS_4sLse-GmbbyrE5P7Ln0Qmp7kLzkwughjKCiqqvn_2Uk
+#EXTINF:0 tvg-id="ch1731" tvg-name="Fresh Series" tvg-logo="http://rus.hls.gd/images/chIcons/1731.png" tvg-rec="3", Fresh Series
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1731/mono.m3u8?token=swaco64.v2_i1Z-YR9bfPlSAMZETQPXpjm3lgG-FcVL2Fk-RWoOcxC8NfUMaZdkdeQ7Gv5o_98fB7NsuvHGpAk
+#EXTINF:0 tvg-id="ch1732" tvg-name="Fresh Soviet" tvg-logo="http://rus.hls.gd/images/chIcons/1732.png" tvg-rec="3", Fresh Soviet
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1732/mono.m3u8?token=swaco64.v2_MFxFSLJlVonToFpmQO29VjUZNxxcMgOhDKa1wRMBnR3lfeqXHgJYUAVq7MII3ONzEGzzvp5-nn4
+#EXTINF:0 tvg-id="ch1733" tvg-name="Fresh Thriller" tvg-logo="http://rus.hls.gd/images/chIcons/1733.png" tvg-rec="3", Fresh Thriller
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1733/mono.m3u8?token=swaco64.v2_Ks-MrmPCoYFbO6VBYYrHcJPDycMWICDdND5izHlgNilB-wVWzUM84otFpdGJL36VUIA8KkktmfQ
+#EXTINF:0 tvg-id="ch1734" tvg-name="Fresh Vhs" tvg-logo="http://rus.hls.gd/images/chIcons/1734.png" tvg-rec="3", Fresh Vhs
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1734/mono.m3u8?token=swaco64.v2_IuP81dLOj6nX_ev3DhjSYH59BNEfmErCkkYUa537sB3_KBuRhXauVysEOTxc09dKTqY5xxw6QzY
+#EXTINF:0 tvg-id="ch1741" tvg-name="Liberty DC FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1741.png" tvg-rec="3", Liberty DC FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1741/mono.m3u8?token=swaco64.v2__TD6jeJDohlK1hfb56siKN5T_x7VnLJDJ2AzUIHdNpDJZmK4Ho6IhNE_9t5ykufgM404BfElwRs
+#EXTINF:0 tvg-id="ch1745" tvg-name="Liberty Короткометражный FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1745.png" tvg-rec="3", Liberty Короткометражный FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1745/mono.m3u8?token=swaco64.v2_n84PmIwTDNPVR18cGpWB_4cL10VWmQDfm3QiCnj0-X5cajdqqdCVQIQWnMQVLsxFQJQ7033rKUo
+#EXTINF:0 tvg-id="ch1748" tvg-name="Liberty Мелодрамы FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1748.png" tvg-rec="3", Liberty Мелодрамы FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1748/mono.m3u8?token=swaco64.v2_pDPPYRL1e03bCgP3M6ecyY5XauGHtu1cH3VM6q-WaLG9n655zxr-KasiVL_nzWVuHpDJ_aJQ0Gg
+#EXTINF:0 tvg-id="ch1749" tvg-name="Liberty Боевики FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1749.png" tvg-rec="3", Liberty Боевики FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1749/mono.m3u8?token=swaco64.v2_rQdj5WrgzGkDX3df3-GzOB6wRzLaxgg3jfOy8iYpijdcKFJav2S1VEKR4YyMDftE1pFKqMm3b8I
+#EXTINF:0 tvg-id="ch1752" tvg-name="Liberty Сваты FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1752.png" tvg-rec="3", Liberty Сваты FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1752/mono.m3u8?token=swaco64.v2__9wbKHecO2PSfbIf9vpRZo3zJ5Us1tMXeaAHxM1fz53-SdPo4M038CEJVVse8MLb-45QtjXKbfk
+#EXTINF:0 tvg-id="ch1754" tvg-name="Liberty Комедии FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1754.png" tvg-rec="3", Liberty Комедии FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1754/mono.m3u8?token=swaco64.v2_vY2Cyp80c_VMPleNDuXqBzMY7DxnTv-VyQWmQASrbNoK0kKIdhLmDMirUlNnKMgQ7NUjCiPd9Kc
+#EXTINF:0 tvg-id="ch1755" tvg-name="Liberty Сериалы FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1755.png" tvg-rec="3", Liberty Сериалы FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1755/mono.m3u8?token=swaco64.v2_u3A71wEXbgXyJ5kj_9_efGo7pRd6U4UhM6kJvNyLysLHgzgjlHgmFUj4a8eMTPoYTODEIi-Uya4
+#EXTINF:0 tvg-id="ch1760" tvg-name="Liberty Занавес FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1760.png" tvg-rec="3", Liberty Занавес FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1760/mono.m3u8?token=swaco64.v2_H-YUJa7qxLJxZwU7yi7yHdqcDGQO6vqMbbLmLzK7uUCBp5k8BZMBjQTCe79jq9D5Hf5m-Bt__Jg
+#EXTINF:0 tvg-id="ch1761" tvg-name="Liberty Аниме FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1761.png" tvg-rec="3", Liberty Аниме FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1761/mono.m3u8?token=swaco64.v2_ZeB5-TzCMzz1uLKBwFFxo3B3_fp-dPX_4yFhPF0LHQeHgQuAGCAHnrU0xjWKvGF8IBDuPYrrjYs
+#EXTINF:0 tvg-id="ch1762" tvg-name="Liberty Шоу FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1762.png" tvg-rec="3", Liberty Шоу FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1762/mono.m3u8?token=swaco64.v2_O3VmW3mP2eZSkN_gclY2NQKywTmxOhwAdBrZVUqA4l8rQdMkzXoaxWoAXiGAulxxZuhbbChPiGE
+#EXTINF:0 tvg-id="ch1574" tvg-name="Liberty Fan FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1574.png" tvg-rec="3", Liberty Fan FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1574/mono.m3u8?token=swaco64.v2_3Y9fs1dxky8PuCVAqvcWFbGOO6g5IXV5JQns8dw-Wzm-7WEHpMk24Wli3oNMFE0CTW_xqhWqa3c
+#EXTINF:0 tvg-id="ch1744" tvg-name="Liberty Marvel FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1744.png" tvg-rec="3", Liberty Marvel FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1744/mono.m3u8?token=swaco64.v2_NkxTeEXgRhfSshvzpTA4HoNxDqSN8qP6ycwtbxoCf7bJExkRyRO-d31WgApTlysbsrkaYZFboIk
+#EXTINF:0 tvg-id="ch2341" tvg-name="Liberty Plankton FHD" tvg-logo="http://rus.hls.gd/images/chIcons/2341.png" tvg-rec="3", Liberty Plankton FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2341/mono.m3u8?token=swaco64.v2__gNPXkW1e3M1I9AgSfr2mGdh4QNCjt__W0zGDdzpnZT-lCB7OMCNJFZF55WKgDqL3YsREK8Jorc
+#EXTINF:0 tvg-id="ch1753" tvg-name="Liberty South Park FHD" tvg-logo="http://rus.hls.gd/images/chIcons/1753.png" tvg-rec="3", Liberty South Park FHD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1753/mono.m3u8?token=swaco64.v2_BWS31qMECJlfBiXU2gKPKQ6YwUu_IE-EGfE4bxtkCrqtEKEzFX21oKuzReij5ah5h7M1RQ5bmqE
+#EXTINF:0 tvg-id="ch1978" tvg-name="Sky High Archive HD" tvg-logo="http://rus.hls.gd/images/chIcons/1978.png" tvg-rec="3", Sky High Archive HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1978/mono.m3u8?token=swaco64.v2_84rlGhRyu_XUPt-jkjSW_V5fajS56dpInN0ZFA3fS0H8o1untsos7mghrzGRKPM6odDKlKbk6Lg
+#EXTINF:0 tvg-id="ch1975" tvg-name="Sky High Civil S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1975.png" tvg-rec="3", Sky High Civil S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1975/mono.m3u8?token=swaco64.v2_dnolw2rWcKXTMT8eVHRZ4HO7e0JvSwBHwTv9X-FUCXxAdcXa_Hoc3XeUEQvSuMjtUVfspJ0P2zc
+#EXTINF:0 tvg-id="ch1961" tvg-name="Sky High Undead HD" tvg-logo="http://rus.hls.gd/images/chIcons/1961.png" tvg-rec="3", Sky High Undead HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1961/mono.m3u8?token=swaco64.v2_VcpicmY16K6dSu8imdNjvlzarMPHhr3sspJtKJdYFopSClUs2AhjvDpp_xU-SEe9kGllJ94If8s
+#EXTINF:0 tvg-id="ch1962" tvg-name="Sky High  Fear VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/1962.png" tvg-rec="3", Sky High  Fear VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1962/mono.m3u8?token=swaco64.v2_JeowEYe3sMnzOfC2zhn2Ix6KF3FtRIxUN87cWRODEP3ho86iQJcgloXFL-4IjgHETUptvCk0OXs
+#EXTINF:0 tvg-id="ch1963" tvg-name="Sky High Strike VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/1963.png" tvg-rec="3", Sky High Strike VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1963/mono.m3u8?token=swaco64.v2_BHEhp02K7gQLq1VfxsZHws5ia6IAOwuQRoS854EU8NQdqcV90KjpmI89z9I8DVgm-8hoiaoZOz4
+#EXTINF:0 tvg-id="ch1960" tvg-name="Sky High Neon VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/1960.png" tvg-rec="3", Sky High Neon VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1960/mono.m3u8?token=swaco64.v2_DI6oZSC0xs8g3BdzjIIl2RMKRt7vDtCrb_5E4yVfz5b2dsr1tL3bGWjrHf_uS_p9121otS-hrK0
+#EXTINF:0 tvg-id="ch1964" tvg-name="Sky High Dust S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1964.png" tvg-rec="3", Sky High Dust S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1964/mono.m3u8?token=swaco64.v2_uXXmJKSZA4emVnhvZcLMEEX23tyMoJYIUlB_rCh12nwarctu0TfBpZVCDkkJFPBzY0jB6BAQSHM
+#EXTINF:0 tvg-id="ch1965" tvg-name="Sky High Beyond S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1965.png" tvg-rec="3", Sky High Beyond S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1965/mono.m3u8?token=swaco64.v2_ykuCxvoB5qFXnVcjQPIS4Y7xmz8QFo3Pxxrd6BV5fNAaf1AJ3AaJSKIu5haUXJbU79YCyjKJWFA
+#EXTINF:0 tvg-id="ch1966" tvg-name="Sky High Redroom HD" tvg-logo="http://rus.hls.gd/images/chIcons/1966.png" tvg-rec="3", Sky High Redroom HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1966/mono.m3u8?token=swaco64.v2_6oARaOhYy9U07d4cq_PlzhGjpINYQRuwpWfXtH19066jChqC4honZh7_eGaMaGxM4_NkiZmefq4
+#EXTINF:0 tvg-id="ch1967" tvg-name="Sky High Brick S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1967.png" tvg-rec="3", Sky High Brick S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1967/mono.m3u8?token=swaco64.v2_5bC85UZ90w9zFlnlEZsZMVsHg5jkg3_zjSkq0yqzmBb7qkMQV8LNrmhdPoyHTVJlqBFz218ALEQ
+#EXTINF:0 tvg-id="ch1969" tvg-name="Sky High Firezone HD" tvg-logo="http://rus.hls.gd/images/chIcons/1969.png" tvg-rec="3", Sky High Firezone HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1969/mono.m3u8?token=swaco64.v2_-S8eJeDWj2prIYEqEsNXOIT3JPZ_Hfa7EHZirLwPTaFmipXHwK7FXifP9Yr_uc1uxT-aGWzf2m8
+#EXTINF:0 tvg-id="ch1970" tvg-name="Sky High Scream HD" tvg-logo="http://rus.hls.gd/images/chIcons/1970.png" tvg-rec="3", Sky High Scream HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1970/mono.m3u8?token=swaco64.v2_NsIPAHlqDtF9wJFLZKQFJ5xWKggsEeu3qmo7UXgYPGVvEyKpD2bVSLsWVWoTlNb-6zOXcWlqfHg
+#EXTINF:0 tvg-id="ch1973" tvg-name="Sky High Gunrush HD" tvg-logo="http://rus.hls.gd/images/chIcons/1973.png" tvg-rec="3", Sky High Gunrush HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1973/mono.m3u8?token=swaco64.v2_gs851Ss5iUl_UWm7GW4t4nVuKp2kIVhAdkWOBqX_tohQ8H1Klgm6KnXdmTcZ9MiZNdMvbhNGQpg
+#EXTINF:0 tvg-id="ch1976" tvg-name="Sky High Quant S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1976.png" tvg-rec="3", Sky High Quant S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1976/mono.m3u8?token=swaco64.v2_8_r1v2PpWmVPeoxd9qpEy7v-OLtj0o-yMq-11luTL3N19hNCRAZ0tv7LQQ0nONnWkLykW50dN04
+#EXTINF:0 tvg-id="ch1985" tvg-name="Sky High Tanos S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1985.png" tvg-rec="3", Sky High Tanos S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1985/mono.m3u8?token=swaco64.v2_V0SC3jKxoh8ZSOjRMEZdn9JpjQSujSmdAW6NVtKDFO4gx-LCcE1n3xtgf8CzrZy8hAGxAiM68SA
+#EXTINF:0 tvg-id="ch1958" tvg-name="Sky High BAT S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1958.png" tvg-rec="3", Sky High BAT S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1958/mono.m3u8?token=swaco64.v2_kK5YCpJJLBDzNqVT_WHsAIkivCFQSUheNC-LiYDbqtfk-i-SzW-cMU7DEDMC86FRBAROSovMpRc
+#EXTINF:0 tvg-id="ch1986" tvg-name="Sky High Future HD" tvg-logo="http://rus.hls.gd/images/chIcons/1986.png" tvg-rec="3", Sky High Future HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1986/mono.m3u8?token=swaco64.v2_ZmjiA2YUJ9MuOMtenBNyLP-DjAncsgSUybLktpBnx74nTm4WNS47arWtcdOerf0qXSAG8hzTIn4
+#EXTINF:0 tvg-id="ch1981" tvg-name="Sky High Trace S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1981.png" tvg-rec="3", Sky High Trace S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1981/mono.m3u8?token=swaco64.v2_2UxIuO0leIL4Ks95RCRnvwlh1z2eSiEZB23n48cfFedAbMJVdIWmZcJfo8_nzlVKINForgJdNBM
+#EXTINF:0 tvg-id="ch3707" tvg-name="Sky High Nord S HD" tvg-logo="http://rus.hls.gd/images/chIcons/3707.png" tvg-rec="3", Sky High Nord S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3707/mono.m3u8?token=swaco64.v2_Jn-F61ywNpw6ShYGLm1EfVKGtuW0qu929jroNSMlDFCri9IbWD2BvIyOpxxkWx9fxae1qq8NxIE
+#EXTINF:0 tvg-id="ch3709" tvg-name="Sky High Votum S HD" tvg-logo="http://rus.hls.gd/images/chIcons/3709.png" tvg-rec="3", Sky High Votum S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3709/mono.m3u8?token=swaco64.v2_EWYGNRl8eXnXpld65nsnJcQMtM4ueYoMwgNzaI00gUNAZC1RY36LjYEqmptLvn77zPdpUW_CLAo
+#EXTINF:0 tvg-id="ch3710" tvg-name="Sky High Case VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/3710.png" tvg-rec="3", Sky High Case VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3710/mono.m3u8?token=swaco64.v2_0b5V8JpFvYQZkytMWuTIu2sLs6FekA_V8EReCNBeHFkPyX9XniKkTdysmZC87izz5jAjIIzeEB4
+#EXTINF:0 tvg-id="ch3711" tvg-name="Sky High Mono HD" tvg-logo="http://rus.hls.gd/images/chIcons/3711.png" tvg-rec="3", Sky High Mono HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3711/mono.m3u8?token=swaco64.v2_FUl9dDAh5VLWdBU4eOiyVbH9s6u6VoUPnrWPSfkk6UHUJ74eHnVHm8mcFmdfvjpvfm2Wy1FHT30
+#EXTINF:0 tvg-id="ch3718" tvg-name="Sky High Zippy S HD" tvg-logo="http://rus.hls.gd/images/chIcons/3718.png" tvg-rec="3", Sky High Zippy S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3718/mono.m3u8?token=swaco64.v2_M9QFFjfTU5c3NxT97HdWTO3C8pChz-N8gA5YCO2ayNUs6TctiCTE-Yfw6WVLJBUM7Q32y5Bf7Hs
+#EXTINF:0 tvg-id="ch3719" tvg-name="Sky High Heart S HD" tvg-logo="http://rus.hls.gd/images/chIcons/3719.png" tvg-rec="3", Sky High Heart S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3719/mono.m3u8?token=swaco64.v2_3r9ut-TjTOur0rgRPkRI22IDB40kNg_7tg5dmEuYCrbtBnrTK59ZQp83Hc0AmTqpTTsedf2td3s
+#EXTINF:0 tvg-id="ch3720" tvg-name="Sky High Joke HD" tvg-logo="http://rus.hls.gd/images/chIcons/3720.png" tvg-rec="3", Sky High Joke HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3720/mono.m3u8?token=swaco64.v2_05lIs9ftuEbPNG1M7q2PI4f4eUNQRLm_lG9VlSJ_PsIRRtqyjwIVlsuOJOlRV_pM6lFrxyQ7yqs
+#EXTINF:0 tvg-id="ch1068" tvg-name="Sky High Medy VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/1068.png" tvg-rec="3", Sky High Medy VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1068/mono.m3u8?token=swaco64.v2_d0hRZes-LeBD3OZaDEerB1ggMAPiZGCkos6KWQe53F-IMPyjjPjJdDylvYvTNa8CCTGOMVTKi3s
+#EXTINF:0 tvg-id="ch1069" tvg-name="Sky High Romix HD" tvg-logo="http://rus.hls.gd/images/chIcons/1069.png" tvg-rec="3", Sky High Romix HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1069/mono.m3u8?token=swaco64.v2_JmWFk0TlT42WCd0JNYsVXAp-J0-qWhBLXe5XXQdoqTm7QSX4_v8bnOHt7kMdAFjGtk0p6VYnknM
+#EXTINF:0 tvg-id="ch1070" tvg-name="Sky High RED S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1070.png" tvg-rec="3", Sky High RED S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1070/mono.m3u8?token=swaco64.v2_q8nQIR8Jj9U0rBi_a8nYoTv9x8SWxlnC-5WdlHkiL9QlWO9KzCNeBHjlcDEaNqh8zJaN9dafaWc
+#EXTINF:0 tvg-id="ch1071" tvg-name="Sky High Ring S HD" tvg-logo="http://rus.hls.gd/images/chIcons/1071.png" tvg-rec="3", Sky High Ring S HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1071/mono.m3u8?token=swaco64.v2_4-dINwEz4cxSFuoHhdKTDl2q7Meu1U-HnTPNU24YQyMiebxm9SB6rEtum1KToDxPpMEUwfE7eVY
+#EXTINF:0 tvg-id="ch1072" tvg-name="Sky High Wizz VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/1072.png" tvg-rec="3", Sky High Wizz VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1072/mono.m3u8?token=swaco64.v2_P99tYUNwJqwXHUeAdRluxpfFdVMs5X0AHM_xNTBDeYWQE8tX8siacaywU-56v87VlaiTDv067zU
+#EXTINF:0 tvg-id="ch777" tvg-name="Sky High Woonder HD" tvg-logo="http://rus.hls.gd/images/chIcons/777.png" tvg-rec="3", Sky High Woonder HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch777/mono.m3u8?token=swaco64.v2_kHvEMxP04591HemucEm_Bg7v6Dfojpdzo5R84RdX7KBTDQZwK1N-S1gP6nsz1tWtk5tfW5sdJA
+#EXTINF:0 tvg-id="ch1073" tvg-name="Sky High Dragon HD" tvg-logo="http://rus.hls.gd/images/chIcons/1073.png" tvg-rec="3", Sky High Dragon HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1073/mono.m3u8?token=swaco64.v2_-cWvlStV6zYLgzT4juwQd4wL5KeSBqvuXNQi-HONaT8ynI5YlrvHZ7lRQxhosxeRfYVnyqeyuz0
+#EXTINF:0 tvg-id="ch2281" tvg-name="BOX Anime HD" tvg-logo="http://rus.hls.gd/images/chIcons/2281.png" tvg-rec="3", BOX Anime HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2281/mono.m3u8?token=swaco64.v2_uqPG7dZUMh5d4oVqjFNjjTpTw4DSS3e47BaIK0DXdOzL3oIQp8tmOfk7FjuUmDlKR26Pe6f-_7k
+#EXTINF:0 tvg-id="ch2285" tvg-name="BOX Cyber HD" tvg-logo="http://rus.hls.gd/images/chIcons/2285.png" tvg-rec="3", BOX Cyber HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2285/mono.m3u8?token=swaco64.v2_tr9NYsc8xSxPthLR4TYiW2t8jPdqCivHLxyMaRso2kKbfBBw6GCDtliZeXtDReR8cX1tNdYnc4Y
+#EXTINF:0 tvg-id="ch2287" tvg-name="BOX Fantasy HD" tvg-logo="http://rus.hls.gd/images/chIcons/2287.png" tvg-rec="3", BOX Fantasy HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2287/mono.m3u8?token=swaco64.v2_f5dvjzYrp8jlepPJjQln1dx7m3B8KwhJZ-xj1Ag4KuClpwqtyt9hc0T50gd5Nk5eBUCf-hy67Bg
+#EXTINF:0 tvg-id="ch2290" tvg-name="BOX Gangster HD" tvg-logo="http://rus.hls.gd/images/chIcons/2290.png" tvg-rec="3", BOX Gangster HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2290/mono.m3u8?token=swaco64.v2_oezolqWJd43sPUpDlXdC6yrXj4IGCkxmLuinxbSvg8e7cB9QHsBa3ItJtVwEoRe6Hd_OoVUY9OA
+#EXTINF:0 tvg-id="ch2291" tvg-name="BOX Ghost HD" tvg-logo="http://rus.hls.gd/images/chIcons/2291.png" tvg-rec="3", BOX Ghost HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2291/mono.m3u8?token=swaco64.v2_slteJCmVSKGRwMRNS5FHzjngG23i2c1soXgWyiJSGk-RKJciBhOlY9hTbo_UGhLI_yuEe2dPyvM
+#EXTINF:0 tvg-id="ch2292" tvg-name="BOX Hybrid HD" tvg-logo="http://rus.hls.gd/images/chIcons/2292.png" tvg-rec="3", BOX Hybrid HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2292/mono.m3u8?token=swaco64.v2_rflR8Oht7gYCnD1Yc-3mwubJZv61TZyG-gdCY3rXb9b-nDTUR7eAfrBXWjQGhN94mC-_k3HASZg
+#EXTINF:0 tvg-id="ch2296" tvg-name="BOX Oscar HD" tvg-logo="http://rus.hls.gd/images/chIcons/2296.png" tvg-rec="3", BOX Oscar HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2296/mono.m3u8?token=swaco64.v2_21IZi_bdnALFWs32Fdv--wqypTRcuozu_G_JXfhLl3Uk8bHGfPPMG8pwPcqeRb0DYN3TPVwa4qg
+#EXTINF:0 tvg-id="ch401" tvg-name="BOX Sitcom HD" tvg-logo="http://rus.hls.gd/images/chIcons/401.png" tvg-rec="3", BOX Sitcom HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch401/mono.m3u8?token=swaco64.v2_tqQsm59BsJwjC2-VF7vO4MEiP76FlpWRa_b3Hrm5JphDAmyx4CESSNCI9alDWsZj5DaMHiSjCQ
+#EXTINF:0 tvg-id="ch2301" tvg-name="BOX Serial HD" tvg-logo="http://rus.hls.gd/images/chIcons/2301.png" tvg-rec="3", BOX Serial HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2301/mono.m3u8?token=swaco64.v2_rFEch6Kj32ir3fvH-CZwtsrjZtUAKEkGbIZQwDgO72-nVV5OjCi_r1inlgVb3NWhSUjYEjKFz5I
+#EXTINF:0 tvg-id="ch2302" tvg-name="BOX Spy HD" tvg-logo="http://rus.hls.gd/images/chIcons/2302.png" tvg-rec="3", BOX Spy HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2302/mono.m3u8?token=swaco64.v2_x9OZkkhZixv4NBGZw-YSxggDN4RmeSfWywktFPnR1xfNMdWUb4o9xw82EofohwxcBxzf72mnJKw
+#EXTINF:0 tvg-id="ch2305" tvg-name="BOX Western HD" tvg-logo="http://rus.hls.gd/images/chIcons/2305.png" tvg-rec="3", BOX Western HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2305/mono.m3u8?token=swaco64.v2_wK-bRV0JBCjCCLV9etaXfRE5dgHXGJjuntAmtba5hAp6bGVfBMfwbBUOLuXrC2NXzSpmCBa1JD0
+#EXTINF:0 tvg-id="ch2306" tvg-name="BOX Zombie HD" tvg-logo="http://rus.hls.gd/images/chIcons/2306.png" tvg-rec="3", BOX Zombie HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2306/mono.m3u8?token=swaco64.v2_mHDdwJD-t8GbLqY07ElwdKK_VsqcoZNPKTz-8uUuU0bJEKf4PBh9xTOBWc76uye7GZDLE9rWUz4
+#EXTINF:0 tvg-id="ch2607" tvg-name="BOX Apocalypse HD" tvg-logo="http://rus.hls.gd/images/chIcons/2607.png" tvg-rec="3", BOX Apocalypse HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2607/mono.m3u8?token=swaco64.v2_qfIRv05J4nNoxJ_qRKvD5yY3wYpbM_vPZR6_2JW0iWBZDsdQbKc0W3jINr4F8VTb-0iq_rCmIDQ
+#EXTINF:0 tvg-id="ch3056" tvg-name="BOX Franchise HD" tvg-logo="http://rus.hls.gd/images/chIcons/3056.png" tvg-rec="3", BOX Franchise HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3056/mono.m3u8?token=swaco64.v2_-s1SzUXcsmbsvJGTJEC9AWlSE_JJoBBGtfLsRqFclj1S2kB73AGm89BYvT2AJ9UJEGhkIAUvNdY
+#EXTINF:0 tvg-id="ch2591" tvg-name="VeleS 60FPS" tvg-logo="http://rus.hls.gd/images/chIcons/2591.png" tvg-rec="3", VeleS 60FPS
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2591/mono.m3u8?token=swaco64.v2_Yo_nRToE_EFryXNagVyKEg-ZRgWZRYbgGX_-tzmhx6oz_dJRmGu5apNVos51lTvUXzFPas65hCk
+#EXTINF:0 tvg-id="ch2592" tvg-name="VeleS Кинопленка" tvg-logo="http://rus.hls.gd/images/chIcons/2592.png" tvg-rec="3", VeleS Кинопленка
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2592/mono.m3u8?token=swaco64.v2_To06tf7VPknHo-_LgwyCPHIySqChxYmigkLxqVkcU2N-pWD9h5mz8e867FgINTXt0HqHzO-9Krs
+#EXTINF:0 tvg-id="ch2594" tvg-name="VeleS Киносерия" tvg-logo="http://rus.hls.gd/images/chIcons/2594.png" tvg-rec="3", VeleS Киносерия
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2594/mono.m3u8?token=swaco64.v2_XlaXH614FvDiZ3sMnKSx6Sgt84uWxFeunPBoNCEEY1PXVyKWm4Jvd5Ay_WwT9tER3TNolhImJGI
+#EXTINF:0 tvg-id="ch2595" tvg-name="VeleS Premiere" tvg-logo="http://rus.hls.gd/images/chIcons/2595.png" tvg-rec="3", VeleS Premiere
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2595/mono.m3u8?token=swaco64.v2__1R5q7VX6IJmDSI0olUPKYM3tLb9bx42kvkZSqd1pFXbroW8L7_VyqnGCJGad9JxP8cibsvoqeE
+#EXTINF:0 tvg-id="ch2596" tvg-name="VeleS Страшное" tvg-logo="http://rus.hls.gd/images/chIcons/2596.png" tvg-rec="3", VeleS Страшное
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2596/mono.m3u8?token=swaco64.v2_tnUs0y270X7xAl2WTXABWWYNTBSbT2C7o8QHhpfz2Tj-OzJuKvGJ2ciWdOYrHJrvMRG4sEpcXyo
+#EXTINF:0 tvg-id="ch2597" tvg-name="VeleS СССР" tvg-logo="http://rus.hls.gd/images/chIcons/2597.png" tvg-rec="3", VeleS СССР
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2597/mono.m3u8?token=swaco64.v2_m7x7Ap4YQgU78YGc2ot4krwaYYrfsAMZQRQIuQ33CbwVGug3Xc-4U6aP9y16vUHIe4hLqeeU8qU
+#EXTINF:0 tvg-id="ch2598" tvg-name="VeleS Movie Hits" tvg-logo="http://rus.hls.gd/images/chIcons/2598.png" tvg-rec="3", VeleS Movie Hits
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2598/mono.m3u8?token=swaco64.v2_dZi-DNCyQI3x-V8L_VlCAc3iXzXcrRnecMSRjiRBhC4Xm0QBO-Sp-zC65n-IbiPiXf7aiMbtLV0
+#EXTINF:0 tvg-id="ch2696" tvg-name="Veles Криминальный" tvg-logo="http://rus.hls.gd/images/chIcons/2696.png" tvg-rec="3", Veles Криминальный
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2696/mono.m3u8?token=swaco64.v2_DKRzv7PmMMfAdn7p8qRbvT7C3p6AEhIbapFn0AKFljQ5GuUUxsPF5XdpGZw-0bDB1SyBMi3VUzo
+#EXTINF:0 tvg-id="ch2314" tvg-name="VeleS Комедия" tvg-logo="http://rus.hls.gd/images/chIcons/2314.png" tvg-rec="3", VeleS Комедия
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2314/mono.m3u8?token=swaco64.v2_k648v21m7hxi1cS0O--QPLLIDjf6__Ljf0EQY9Hiwf_uQ7B80tU9OYi6QdTe9YsOl0JHYKtrsKM
+#EXTINF:0 tvg-id="ch2612" tvg-name="VeleS Аниме" tvg-logo="http://rus.hls.gd/images/chIcons/2612.png" tvg-rec="3", VeleS Аниме
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2612/mono.m3u8?token=swaco64.v2_yJtjEOx0ArYKY9d85B0jxQMI8k2vY8Kt4iwkehLUTSv2024r-_rFuqNDCluhXuvvU1WAs8JAjDA
+#EXTINF:0 tvg-id="ch2799" tvg-name="VeleS Триллер" tvg-logo="http://rus.hls.gd/images/chIcons/2799.png" tvg-rec="3", VeleS Триллер
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2799/mono.m3u8?token=swaco64.v2_bV92OPAMWJ6kSj_A1J47K5StK78MqOEDKJA5NMCmBCf9WfXEur2vTkiGqW9Z0T6V747yg3kfuZY
+#EXTINF:0 tvg-id="ch2800" tvg-name="VeleS Семейный" tvg-logo="http://rus.hls.gd/images/chIcons/2800.png" tvg-rec="3", VeleS Семейный
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2800/mono.m3u8?token=swaco64.v2_0h22hUIRdqzy6GcqUf7_OeLmIpta2jwOG1UnBriJba3wWi3kRzG8YlTcsSVVugfMUEbQodaOyxw
+#EXTINF:0 tvg-id="ch2801" tvg-name="VeleS Вестерн" tvg-logo="http://rus.hls.gd/images/chIcons/2801.png" tvg-rec="3", VeleS Вестерн
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2801/mono.m3u8?token=swaco64.v2_azLeu3CR6MXZTYfx6NTAgsyry5d4VMs3fE8038QYLsWf935ophn5pN9OQXJsAE8AmEB7H4j1YVw
+#EXTINF:0 tvg-id="ch2802" tvg-name="VeleS Наше Кино" tvg-logo="http://rus.hls.gd/images/chIcons/2802.png" tvg-rec="3", VeleS Наше Кино
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2802/mono.m3u8?token=swaco64.v2_zwAJlogT2iYBk33wN9EeUsrEwDvjbfB0rqcBRtezRUe-i70A6BFP-CneAMh0XRiYOEC0St0SaU0
+#EXTINF:0 tvg-id="ch3176" tvg-name="VeleS Гоблин" tvg-logo="http://rus.hls.gd/images/chIcons/3176.png" tvg-rec="3", VeleS Гоблин
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3176/mono.m3u8?token=swaco64.v2_8PnPDXfTpgjiJk8nRnrhRHCCsV4g79OXcGQubiTdbnmm7d1h_3lg26ZnnA4lBHY4X5CattU2k80
+#EXTINF:0 tvg-id="ch3078" tvg-name="Veles Новогодний" tvg-logo="http://rus.hls.gd/images/chIcons/3078.png" tvg-rec="3", Veles Новогодний
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3078/mono.m3u8?token=swaco64.v2_2V2oNw-jnqLM_RTfzJWMGVK0_CUs940ewmC_l14jv5P9lxzgZ4rMt2UPfpVWMRMbIKB5QjY5whs
+#EXTINF:0 tvg-id="ch2510" tvg-name="Oasis Action" tvg-logo="http://rus.hls.gd/images/chIcons/2510.png" tvg-rec="3", Oasis Action
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2510/mono.m3u8?token=swaco64.v2_2Yxh0Jj92SCEmiquzLAslP3GujrfHDjmz_1qDZdPxxi5M2mZuRaYLI-2FhsFKmRvUOk7uEN44Ms
+#EXTINF:0 tvg-id="ch2919" tvg-name="Oasis Чечня и Афган" tvg-logo="http://rus.hls.gd/images/chIcons/2919.png" tvg-rec="3", Oasis Чечня и Афган
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2919/mono.m3u8?token=swaco64.v2_R9ebp41j8EZ9ixD5h819HxvI76EPqh-SVeIEGUKJ6PWa7L-uswXWrffLqG_UevDUIrU27YlX3f0
+#EXTINF:0 tvg-id="ch2653" tvg-name="Oasis Comedy" tvg-logo="http://rus.hls.gd/images/chIcons/2653.png" tvg-rec="3", Oasis Comedy
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2653/mono.m3u8?token=swaco64.v2_GtDBnzL_L7TFqWCTJ13QXjyoWnvTR7kut2XigNiaEP2FMhxzyM8g7VDnZY2VEM9A5XJfrgPH1iQ
+#EXTINF:0 tvg-id="ch2688" tvg-name="Oasis Soviet Comedy" tvg-logo="http://rus.hls.gd/images/chIcons/2688.png" tvg-rec="3", Oasis Soviet Comedy
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2688/mono.m3u8?token=swaco64.v2_t_6HfvGrj43xjheezv0IQsGe2kyAcJIdUniWAAQnr12zkfqq8ewyBC4iOe9L_W2aBrrGfoPL3Nw
+#EXTINF:0 tvg-id="ch2649" tvg-name="Oasis Anime" tvg-logo="http://rus.hls.gd/images/chIcons/2649.png" tvg-rec="3", Oasis Anime
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2649/mono.m3u8?token=swaco64.v2_GQiFnRFGQ6thBzRhC23pihbnR1hoItvR5liBF-dlPlcbfWOPel7IuubqXx5cHKU68BeS1zyNIk8
+#EXTINF:0 tvg-id="ch2657" tvg-name="Oasis Detective" tvg-logo="http://rus.hls.gd/images/chIcons/2657.png" tvg-rec="3", Oasis Detective
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2657/mono.m3u8?token=swaco64.v2_mf8kCWy1BPHe2z3HZS2DHmebw6vSE80A8uVavsaPt0f4IeFUneiHQ-n_j2ilbO6xDBff9N5enhQ
+#EXTINF:0 tvg-id="ch2660" tvg-name="Oasis Drama" tvg-logo="http://rus.hls.gd/images/chIcons/2660.png" tvg-rec="3", Oasis Drama
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2660/mono.m3u8?token=swaco64.v2_fh9b8z-KC0tv97AVpNGkLcKBw0587x1zg52TOLDpDrVcnLuNKwL0ShVtD22GmdK0kEt81DqBMZs
+#EXTINF:0 tvg-id="ch2655" tvg-name="Oasis DC" tvg-logo="http://rus.hls.gd/images/chIcons/2655.png" tvg-rec="3", Oasis DC
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2655/mono.m3u8?token=swaco64.v2_7xLFM64He3e-hX22O0OZl9usJmlb5iKScx0kZ6SzKKqqSfpl81HPZEwfRs-6KheICkrGZs_OwOQ
+#EXTINF:0 tvg-id="ch2675" tvg-name="Oasis Marvel" tvg-logo="http://rus.hls.gd/images/chIcons/2675.png" tvg-rec="3", Oasis Marvel
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2675/mono.m3u8?token=swaco64.v2_VqRwf7Rr3VekaWKZcAb9xeKawTa3R_GNVW9rZGcBcYvjv57MkjP6k9XXMchmGplIK7FhmEPkRew
+#EXTINF:0 tvg-id="ch2662" tvg-name="Oasis Family" tvg-logo="http://rus.hls.gd/images/chIcons/2662.png" tvg-rec="3", Oasis Family
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2662/mono.m3u8?token=swaco64.v2_hHTROv2t5uRIMdzbn3rt5W4jmJ0JIptvuNal8a8OVhY5-7Ou1wDcd4Y1O3cZoEZYe9y34d4xCW4
+#EXTINF:0 tvg-id="ch2676" tvg-name="Oasis Мелодрама" tvg-logo="http://rus.hls.gd/images/chIcons/2676.png" tvg-rec="3", Oasis Мелодрама
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2676/mono.m3u8?token=swaco64.v2_Yh8yT07CXXA5O_dZ9iyt-vqGQY2hRVKIarrseVJv4OBhj-WI2FRCl0kNq-6gyoC5KEKYosJEhhg
+#EXTINF:0 tvg-id="ch2666" tvg-name="Oasis Horror" tvg-logo="http://rus.hls.gd/images/chIcons/2666.png" tvg-rec="3", Oasis Horror
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2666/mono.m3u8?token=swaco64.v2_4IwmFgWfh3aK82ZOL1oTvkVRX-2zvnxW9Omofs-tTH_g2l851kh5mTA5qblB6p0dRbImFK3CIhI
+#EXTINF:0 tvg-id="ch2678" tvg-name="Oasis Old Horrors" tvg-logo="http://rus.hls.gd/images/chIcons/2678.png" tvg-rec="3", Oasis Old Horrors
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2678/mono.m3u8?token=swaco64.v2_C-16l55AblZT6-BPqR2ldsnng4h_tI8OiOS5M3kM3e3bqplbSsTUCML4kuhWsk9bGWvNi12tIBM
+#EXTINF:0 tvg-id="ch2654" tvg-name="Oasis Comedy Horrors" tvg-logo="http://rus.hls.gd/images/chIcons/2654.png" tvg-rec="3", Oasis Comedy Horrors
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2654/mono.m3u8?token=swaco64.v2_NUnC7Smsyincv9P02uJQMkRWftpKy2GRb7MtZ1xE3tseeOmJUTndSCNf9FTPOjz3jtpQ-H497rk
+#EXTINF:0 tvg-id="ch2650" tvg-name="Oasis Biography" tvg-logo="http://rus.hls.gd/images/chIcons/2650.png" tvg-rec="3", Oasis Biography
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2650/mono.m3u8?token=swaco64.v2_fJXBkuZlb8M7G8S2RJKpz5XgEGW2SILzzgtmQkrtu4fTGk6Yfluz37bIegE_7M6Vnhy72xXDNT4
+#EXTINF:0 tvg-id="ch2674" tvg-name="Oasis Mafia" tvg-logo="http://rus.hls.gd/images/chIcons/2674.png" tvg-rec="3", Oasis Mafia
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2674/mono.m3u8?token=swaco64.v2_6VQ8EvZavi0hPZYK9G3U6BvQfjXf1cG_JS5bmQ_HqYReAbX_jVh35QHF41Dh6GOqm-_ZfXXcTkw
+#EXTINF:0 tvg-id="ch2663" tvg-name="Oasis Фантастика" tvg-logo="http://rus.hls.gd/images/chIcons/2663.png" tvg-rec="3", Oasis Фантастика
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2663/mono.m3u8?token=swaco64.v2_wwXsznteAwxu0TbwPl0o8mPPV4wp-AQtqiDd6Gvr8lITqiaIsJdXa0whhvQnlSJk9K5HhbSqdCQ
+#EXTINF:0 tvg-id="ch2687" tvg-name="Oasis Тайны Смолвиля" tvg-logo="http://rus.hls.gd/images/chIcons/2687.png" tvg-rec="3", Oasis Тайны Смолвиля
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2687/mono.m3u8?token=swaco64.v2_Z8fGewhmlbdgj98i_osIPZvhAi74hsCQ8rdRw9LL1joxJJYw8_YhWTr0zlmnyXsqla1tZplibO8
+#EXTINF:0 tvg-id="ch1442" tvg-name="Oasis Ufo And Aliens" tvg-logo="http://rus.hls.gd/images/chIcons/1442.png" tvg-rec="3", Oasis Ufo And Aliens
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1442/mono.m3u8?token=swaco64.v2_A7VeatU4PFeou5EWyMJ34Zi-PEXjS7coAz7VI80r00Mw6Bau7bbIpWY70pjpDJPelLacpgfICTo
+#EXTINF:0 tvg-id="ch2647" tvg-name="Oasis Alien and Predator" tvg-logo="http://rus.hls.gd/images/chIcons/2647.png" tvg-rec="3", Oasis Alien and Predator
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2647/mono.m3u8?token=swaco64.v2_VH8v14TAWA2_tSV0hvk2y1dJjtMkVaFb6HtQ4TfptMrXFu-l0Mryk7hPdIWC95a4yY-idNQgj3Q
+#EXTINF:0 tvg-id="ch2652" tvg-name="Oasis Celentano Brando Connery" tvg-logo="http://rus.hls.gd/images/chIcons/2652.png" tvg-rec="3", Oasis Celentano Brando Connery
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2652/mono.m3u8?token=swaco64.v2_9goqiUJt4Wg_-joYYEpy4m6XjKoC-plvAao6aeVx40ccRP14jZcmzprKkJ8I9GjbshkXg5CjGG0
+#EXTINF:0 tvg-id="ch2656" tvg-name="Oasis Demon Slayer and Dororo" tvg-logo="http://rus.hls.gd/images/chIcons/2656.png" tvg-rec="3", Oasis Demon Slayer and Dororo
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2656/mono.m3u8?token=swaco64.v2_SyMb3qISu2aRQjWmbAAGsd14E_m0Kq9NE1KDsZEiJLVNIcQKBt91XEq6ONPjTI5ShkXdUXMnWaw
+#EXTINF:0 tvg-id="ch2686" tvg-name="Oasis Serkan Bolat" tvg-logo="http://rus.hls.gd/images/chIcons/2686.png" tvg-rec="3", Oasis Serkan Bolat
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2686/mono.m3u8?token=swaco64.v2_aFmo85HPMeGddHEFJ-kvQy2fSGfGdB85MnRQS_KXzHTEj8W3Mh9w5CtRqNDlLhO1lXMamySsOiQ
+#EXTINF:0 tvg-id="ch2677" tvg-name="Oasis Миядзаки" tvg-logo="http://rus.hls.gd/images/chIcons/2677.png" tvg-rec="3", Oasis Миядзаки
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2677/mono.m3u8?token=swaco64.v2_OCGRKdcpUqgXWefzvOuGAadB09J_xCfi8aW8VhG_yk7HbXSCcko8s6UsDD0SkRx6dx3bvstkM4M
+#EXTINF:0 tvg-id="ch1443" tvg-name="Oasis In English" tvg-logo="http://rus.hls.gd/images/chIcons/1443.png" tvg-rec="3", Oasis In English
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1443/mono.m3u8?token=swaco64.v2_jzYZzgYcYkhbMLF2P1_Do_Bz8Ezft5Q3R6DKBi7rGdu3RZ51VZNDXPB9MbOMjIR7uiO-t9psfyc
+#EXTINF:0 tvg-id="ch2682" tvg-name="Oasis RUS Драма" tvg-logo="http://rus.hls.gd/images/chIcons/2682.png" tvg-rec="3", Oasis RUS Драма
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2682/mono.m3u8?token=swaco64.v2_zgN6ftkisrGRa3WW1iA4cs-Ujr0ymvxEnMgXlMIU10sRJTOnTklf1HH2JifjgI8XLze-KLhEavw
+#EXTINF:0 tvg-id="ch2681" tvg-name="Oasis RUS Комедии" tvg-logo="http://rus.hls.gd/images/chIcons/2681.png" tvg-rec="3", Oasis RUS Комедии
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2681/mono.m3u8?token=swaco64.v2_nX9jEQrlYUk-W2vY63AVQq0DGHYn9jxchHTZA17qi_sAIQa9rX_47MRm8yJXm02woTe_Ye8D9bQ
+#EXTINF:0 tvg-id="ch2684" tvg-name="Oasis RUS Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/2684.png" tvg-rec="3", Oasis RUS Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2684/mono.m3u8?token=swaco64.v2_pQjVMSl6FB9aoZvFbMETUwmhBUHLfli_mkRWHrbWiiE-mEbz_lP04lTGpaOOHWebjHJd4lSoYh4
+#EXTINF:0 tvg-id="ch2685" tvg-name="Oasis RUS Сериалы Драма" tvg-logo="http://rus.hls.gd/images/chIcons/2685.png" tvg-rec="3", Oasis RUS Сериалы Драма
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2685/mono.m3u8?token=swaco64.v2_GSz6-29HPQ2GT1__ozz9uyxdfcnNcvWZd4YpyFqXCpUI-013CIosZOHhO_Ap-VCvv49-jaTUCxs
+#EXTINF:0 tvg-id="ch2690" tvg-name="Oasis Superheroes Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/2690.png" tvg-rec="3", Oasis Superheroes Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2690/mono.m3u8?token=swaco64.v2_QD5-Ii_0pDHeo7Y0aTGp5tRNvagNNtoNx5-2wXdQdPeTREcpkD4I_3aE8Tdizm86Y0hDoEyDV1I
+#EXTINF:0 tvg-id="ch2667" tvg-name="Oasis Корейские Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/2667.png" tvg-rec="3", Oasis Корейские Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2667/mono.m3u8?token=swaco64.v2_bXIiI4qqMS-UF9NLlgjOcC41snMkPrV9tpK3t1Ok2Sn6kDQJ1zgpu157tc3xotWaXHBa9uhzNrY
+#EXTINF:0 tvg-id="ch2669" tvg-name="Oasis Латиноамериканские Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/2669.png" tvg-rec="3", Oasis Латиноамериканские Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2669/mono.m3u8?token=swaco64.v2_t5nFUazBmXq0YDWOvv8BiGTasR3aNJ2ORTYMOC6zcotLCgnHu1qFE2017-8uPC06Ahzx-BeYrIU
+#EXTINF:0 tvg-id="ch2694" tvg-name="Oasis USA Series" tvg-logo="http://rus.hls.gd/images/chIcons/2694.png" tvg-rec="3", Oasis USA Series
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2694/mono.m3u8?token=swaco64.v2_OfcTs0qpMW4GJkG5OylgMk7B6Zv6AxxEWxrDrGbBVKp8v_mqthJ1Ed9AFX3r4PchHG91MfvlD_E
+#EXTINF:0 tvg-id="ch2918" tvg-name="Oasis UK Series" tvg-logo="http://rus.hls.gd/images/chIcons/2918.png" tvg-rec="3", Oasis UK Series
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2918/mono.m3u8?token=swaco64.v2_cIDmyj3KkE6inpzf7q-6CFcduSn-sIHha3F1d97MdxJ-fg4-THPClzAGTc0DsV8XVrf8LqGN3OA
+#EXTINF:0 tvg-id="ch2668" tvg-name="Oasis Кухня Отель" tvg-logo="http://rus.hls.gd/images/chIcons/2668.png" tvg-rec="3", Oasis Кухня Отель
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2668/mono.m3u8?token=swaco64.v2_GNeWg_mYeTMRBL3E9HkmBMjkSlEFelQR322xZqldCppgiFjBFhKeUWf9MnCHQvC5bqjXVQyzXBs
+#EXTINF:0 tvg-id="ch2920" tvg-name="Oasis Доктор Кто" tvg-logo="http://rus.hls.gd/images/chIcons/2920.png" tvg-rec="3", Oasis Доктор Кто
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2920/mono.m3u8?token=swaco64.v2_swkdbliQMQxRgOJHe9TECJbGh-QXoHvSMVaqzYKFNfCFz7EWlYQPex_0qZ-LvKFYSdInDLQ3hNU
+#EXTINF:0 tvg-id="ch2921" tvg-name="Oasis Саша Таня" tvg-logo="http://rus.hls.gd/images/chIcons/2921.png" tvg-rec="3", Oasis Саша Таня
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2921/mono.m3u8?token=swaco64.v2_aqdVYCZFLr9vRPOTmRTPgsxOVBkQMosoO85-5IW6ktF7bXedmPCXICtknnDkBFw35IjozsUPoEg
+#EXTINF:0 tvg-id="ch2825" tvg-name="KBC-Легендарное HD" tvg-logo="http://rus.hls.gd/images/chIcons/2825.png" tvg-rec="3", KBC-Легендарное HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2825/mono.m3u8?token=swaco64.v2_AY5sEfrZIHBvmKJpRteJas4uYUuk0Sa5aN0uEJGIeH6FPSVoiFmEt1Qu3vFZrSsB44wad_ehRqA
+#EXTINF:0 tvg-id="ch2826" tvg-name="KBC-Кошмарное HD" tvg-logo="http://rus.hls.gd/images/chIcons/2826.png" tvg-rec="3", KBC-Кошмарное HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2826/mono.m3u8?token=swaco64.v2_aX4fCFhajdW7i02rp74Fc2lobTvRuY13Gsm1VNuJBpF-fmf_29RydipNtKsvbAA_tBcqrE4TCFg
+#EXTINF:0 tvg-id="ch2827" tvg-name="KBC-Видак HD" tvg-logo="http://rus.hls.gd/images/chIcons/2827.png" tvg-rec="3", KBC-Видак HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2827/mono.m3u8?token=swaco64.v2_v0zqRjEp42DprG8jJbPtq-BxybPttA1JFFRoYyZU5ok4UOkPXDAqzlrGKJom0U4Z9jZI-6PFUms
+#EXTINF:0 tvg-id="ch2828" tvg-name="KBC-ДрамаTic HD" tvg-logo="http://rus.hls.gd/images/chIcons/2828.png" tvg-rec="3", KBC-ДрамаTic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2828/mono.m3u8?token=swaco64.v2_KGuBEZGKNtoCfedczJg0brH4PWeM79nGr1Cspzt5RChasca1v3Bf8_FrgZHHuxZ0H1SSBvOa96U
+#EXTINF:0 tvg-id="ch2831" tvg-name="KBC-Elite comedys HD" tvg-logo="http://rus.hls.gd/images/chIcons/2831.png" tvg-rec="3", KBC-Elite comedys HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2831/mono.m3u8?token=swaco64.v2_1NoEFytzu5yvjTse6qldbsEoKT8VIGt0nwGObBGXfz_LGufNUDBBiNaeMpZ3JuOAXxg1d55CKzA
+#EXTINF:0 tvg-id="ch2832" tvg-name="KBC-Family Animation HD" tvg-logo="http://rus.hls.gd/images/chIcons/2832.png" tvg-rec="3", KBC-Family Animation HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2832/mono.m3u8?token=swaco64.v2_EEfCJFoHH0_eFpaZWaXdlyBp4DDlvTmFwEALzmebaGlT5ctSS8fWMLaxSTohcgT0zVfn8goTqTA
+#EXTINF:0 tvg-id="ch2833" tvg-name="KBC-Russian Комедия HD" tvg-logo="http://rus.hls.gd/images/chIcons/2833.png" tvg-rec="3", KBC-Russian Комедия HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2833/mono.m3u8?token=swaco64.v2_1VX0tGhnt9_CImcaYLLNd0mqCMS0sWCjsepynBpl30BXbkzttwaj0FLGnviqKmFnNoXBhpLz3vE
+#EXTINF:0 tvg-id="ch2834" tvg-name="KBC-В.О.В. HD" tvg-logo="http://rus.hls.gd/images/chIcons/2834.png" tvg-rec="3", KBC-В.О.В. HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2834/mono.m3u8?token=swaco64.v2_Gsg0xbKTYAePQ9oRhaIJaMazVVCvuZfL4Qax6cN9eS86hDmGElyeW4vcr4W7FrCSgRw-Ywmjmw8
+#EXTINF:0 tvg-id="ch2835" tvg-name="KBC-Страна СССР HD" tvg-logo="http://rus.hls.gd/images/chIcons/2835.png" tvg-rec="3", KBC-Страна СССР HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2835/mono.m3u8?token=swaco64.v2_ZIzAiThOIY4mu3LEmYtUDtgDz968aEeRR207nUfqEK4Ony5GxKsMn7pEnRTkJMRLVxkSf8pJUv8
+#EXTINF:0 tvg-id="ch2836" tvg-name="KBC-Шпионское HD" tvg-logo="http://rus.hls.gd/images/chIcons/2836.png" tvg-rec="3", KBC-Шпионское HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2836/mono.m3u8?token=swaco64.v2__BF-aBoXO_KinBkcmJYkLQb1R_JHQP9cLmnaK0fPnAWrbiE0cYb1fZBP7qusdSc38dxgkNTHQxw
+#EXTINF:0 tvg-id="ch2837" tvg-name="KBC-Comics HD" tvg-logo="http://rus.hls.gd/images/chIcons/2837.png" tvg-rec="3", KBC-Comics HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2837/mono.m3u8?token=swaco64.v2_IGQ4UYJFXHFjflOJLWsU6h88zNvDfZ-dRRxcten196fsB9BBmkJrwLzBPj3JKwA-n8EdJl6tDo4
+#EXTINF:0 tvg-id="ch2838" tvg-name="KBC-Аниме HD" tvg-logo="http://rus.hls.gd/images/chIcons/2838.png" tvg-rec="3", KBC-Аниме HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2838/mono.m3u8?token=swaco64.v2_cp4eTANNOZUZA0kNr5MNuFWkrwIPysRtO2Ei5XY9feSD3_N6BJ9M9g0-CpvwgrTIuQmlzPAwFgs
+#EXTINF:0 tvg-id="ch2839" tvg-name="KBC-History HD" tvg-logo="http://rus.hls.gd/images/chIcons/2839.png" tvg-rec="3", KBC-History HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2839/mono.m3u8?token=swaco64.v2_03J4NoWqkM7Hp9w3fZIupI_i7b65qCta5YEqAAZcz1gwqemF4VKPe4NnEQCpGAJu_lkS1DAVOBA
+#EXTINF:0 tvg-id="ch2840" tvg-name="KBC-Fantastic HD" tvg-logo="http://rus.hls.gd/images/chIcons/2840.png" tvg-rec="3", KBC-Fantastic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2840/mono.m3u8?token=swaco64.v2_4cICbmHUsQIfY1ox7KlEuwAicodrfEjWTkswg23tg-fJSR_xzov6dmhrfWNI5mjA-PUrucsSzH8
+#EXTINF:0 tvg-id="ch2841" tvg-name="KBC-ГАЙ Ritchie and Tarantino HD" tvg-logo="http://rus.hls.gd/images/chIcons/2841.png" tvg-rec="3", KBC-ГАЙ Ritchie and Tarantino HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2841/mono.m3u8?token=swaco64.v2_1XJVwkF0-vt9XACg-vJDqP5NfSCPRyEmgLcslHyrUGvILdSFw4Mw0yBRO9sou8XK7xirlcv4OYY
+#EXTINF:0 tvg-id="ch2842" tvg-name="KBC-Newfilm HD" tvg-logo="http://rus.hls.gd/images/chIcons/2842.png" tvg-rec="3", KBC-Newfilm HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2842/mono.m3u8?token=swaco64.v2_xyta2b3tfQYkU7vEALemai21CkYoKZ9SZu_kmMNu3rUGd7dmVA4J2yUgNVzH9i6QF8us1jM-QC4
+#EXTINF:0 tvg-id="ch2843" tvg-name="KBC-Гоблин HD" tvg-logo="http://rus.hls.gd/images/chIcons/2843.png" tvg-rec="3", KBC-Гоблин HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2843/mono.m3u8?token=swaco64.v2_fnUiuDYH6E--6px-Zty11l7tSF6s1PPzU-FDma-v7qhdHbtwJbvRpzo7EopE_pGaWzah5J8XhyQ
+#EXTINF:0 tvg-id="ch2844" tvg-name="KBC-Вестерн HD" tvg-logo="http://rus.hls.gd/images/chIcons/2844.png" tvg-rec="3", KBC-Вестерн HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2844/mono.m3u8?token=swaco64.v2_R-82I9rZ2jPuBj-RzCqMh-Ml3TJR6IqWKA2Sl7fySMiCntI65Z7D8nuEmafPVZgRvjcVPk4SpDg
+#EXTINF:0 tvg-id="ch2845" tvg-name="KBC-WAR HD" tvg-logo="http://rus.hls.gd/images/chIcons/2845.png" tvg-rec="3", KBC-WAR HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2845/mono.m3u8?token=swaco64.v2_DQikU5Btk0fuBbddWVwdRMsHhJqsYVKhPy3ROWC4KKMwWQNYqpvCwQJvtJcwIZrMDyQgWoqAEo0
+#EXTINF:0 tvg-id="ch2846" tvg-name="KBC-MusKino HD" tvg-logo="http://rus.hls.gd/images/chIcons/2846.png" tvg-rec="3", KBC-MusKino HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2846/mono.m3u8?token=swaco64.v2_sjl2hVLs15r4bOJcYrua5NPJnir9VnVmb2Ls7vcU2UZ7FoLdJ7Qja0o9QNnDMnUqgwR7icRjh5Y
+#EXTINF:0 tvg-id="ch2848" tvg-name="KBC-СпортМикс HD" tvg-logo="http://rus.hls.gd/images/chIcons/2848.png" tvg-rec="3", KBC-СпортМикс HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2848/mono.m3u8?token=swaco64.v2_oMOjISstV5oc8vRTTwYCpY39n8ay2NG_RJjkH4bOjQlak4XqC_gklUf0GCoVfR3CcGM4RUNUGPg
+#EXTINF:0 tvg-id="ch2857" tvg-name="Gold Line Motivation HD" tvg-logo="http://rus.hls.gd/images/chIcons/2857.png" tvg-rec="3", Gold Line Motivation HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2857/mono.m3u8?token=swaco64.v2_ccyMnkHgz2aGmxmMsOMMjdi4ZrrlxdLGKL5yJUw1GURwXDTgpGMbzG9lJPcdNxOKTiPvQFQYkds
+#EXTINF:0 tvg-id="ch2876" tvg-name="Gold Line Hostage HD" tvg-logo="http://rus.hls.gd/images/chIcons/2876.png" tvg-rec="3", Gold Line Hostage HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2876/mono.m3u8?token=swaco64.v2_h9StEBO6uNKfSuVi3aowIhPCBKBrnc4PtmYWoXGlTQ-lvJcsJ0m6YG0xP4bvxiZjEbXpOY09qTc
+#EXTINF:0 tvg-id="ch2880" tvg-name="Gold Line Girlfight HD" tvg-logo="http://rus.hls.gd/images/chIcons/2880.png" tvg-rec="3", Gold Line Girlfight HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2880/mono.m3u8?token=swaco64.v2_KS6PndMYJmNyPbv0h5tUkSpfbJ_zrtOueLPYZvGJTVgJCdZyrLGSOvhK0xoGMhSGBN5iAXiKdZM
+#EXTINF:0 tvg-id="ch2862" tvg-name="Gold Line Chef HD" tvg-logo="http://rus.hls.gd/images/chIcons/2862.png" tvg-rec="3", Gold Line Chef HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2862/mono.m3u8?token=swaco64.v2_j6T-K_Rm-qgqSSgpZJ2HLJyyrMFxTCT05pitJUAOlwCRdsZFJ6xYDjWOedmM5I8ObeImFnv53Bk
+#EXTINF:0 tvg-id="ch3121" tvg-name="Gold Line Brief HD" tvg-logo="http://rus.hls.gd/images/chIcons/3121.png" tvg-rec="3", Gold Line Brief HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3121/mono.m3u8?token=swaco64.v2_kKTcFwJGrl4Sjahxezea0n1Z_ww7cYLNLO5xoDXCraT33Z9Xtsqk75e64ya39IxMyl7tdpFwfhg
+#EXTINF:0 tvg-id="ch3122" tvg-name="Gold Line  Evidence HD" tvg-logo="http://rus.hls.gd/images/chIcons/3122.png" tvg-rec="3", Gold Line  Evidence HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3122/mono.m3u8?token=swaco64.v2_yOpmIAi5Psr1nl2kwS7ZKWhcfkVxWUyanHzLP82J7HFOLes0H9KBjyS9odMbJsHn2D2AqqeRmLM
+#EXTINF:0 tvg-id="ch3123" tvg-name="Gold Line Exist HD" tvg-logo="http://rus.hls.gd/images/chIcons/3123.png" tvg-rec="3", Gold Line Exist HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3123/mono.m3u8?token=swaco64.v2_Ric7nDKmPKMh8c-U1fslda_NHL14I0jT7TCxUZwnKzHXt-1mVL_KgFH35SvTKEgLGtHEX6MBRQw
+#EXTINF:0 tvg-id="ch3124" tvg-name="Gold Line Island HD" tvg-logo="http://rus.hls.gd/images/chIcons/3124.png" tvg-rec="3", Gold Line Island HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3124/mono.m3u8?token=swaco64.v2_TmJhV_klO4bpuCEovUp3Jk_3LdiplglyrngM6XMDZ0EFmQiVBbaFMxAjCQbr8oyqzjRtsOXJv6M
+#EXTINF:0 tvg-id="ch3125" tvg-name="Gold Line Naked and Funny HD" tvg-logo="http://rus.hls.gd/images/chIcons/3125.png" tvg-rec="3", Gold Line Naked and Funny HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3125/mono.m3u8?token=swaco64.v2_dR88yWMdKghBhQRM4pYWRw5FKN5no58uiGtERKo2V5G-sw8yDg-QmrJdT9M0YvMLZiyDXYSfgAE
+#EXTINF:0 tvg-id="ch3126" tvg-name="Gold Line Psycho HD" tvg-logo="http://rus.hls.gd/images/chIcons/3126.png" tvg-rec="3", Gold Line Psycho HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3126/mono.m3u8?token=swaco64.v2_vsjLp6_2TzMH9LgikKWxq-B9bmiGoi5J-a1WGaOEsOhtEnD3vnQZXV5S1tRs7R12bV4BC302FqI
+#EXTINF:0 tvg-id="ch3127" tvg-name="Gold Line Series HD" tvg-logo="http://rus.hls.gd/images/chIcons/3127.png" tvg-rec="3", Gold Line Series HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3127/mono.m3u8?token=swaco64.v2_kz6gGgKhuGmEpK5uGVPaUH2fwHA8gofAKfmzp_rtIkowL91L4nIorLvQWurGzMMvQB_yDkljbFA
+#EXTINF:0 tvg-id="ch3128" tvg-name="Gold Line Survival HD" tvg-logo="http://rus.hls.gd/images/chIcons/3128.png" tvg-rec="3", Gold Line Survival HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3128/mono.m3u8?token=swaco64.v2_fb9DEUhk0c6b6d4IVYk3VzGOvkU4wH7EGQMEsacVn8aw-9LV-B-BGHeKk8Dqp3GnOiCgUlbfzlE
+#EXTINF:0 tvg-id="ch3129" tvg-name="Gold Line Детектив HD" tvg-logo="http://rus.hls.gd/images/chIcons/3129.png" tvg-rec="3", Gold Line Детектив HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3129/mono.m3u8?token=swaco64.v2_6UT6ixAhPmetGQL2gjYaYB83aPKdzVV2GtBDoMqDzIKgVpX74pq_QJI2C0qXgMbgpma6tWBxJXs
+#EXTINF:0 tvg-id="ch3130" tvg-name="Gold Line Невский HD" tvg-logo="http://rus.hls.gd/images/chIcons/3130.png" tvg-rec="3", Gold Line Невский HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3130/mono.m3u8?token=swaco64.v2_Vv-ORrh3e3uCzalLQ-MOAbbOojNPpZbzyfGN6IwWGG69Ch1ek4ox9MLgwt65IFmKtIi_-ZIGyVs
+#EXTINF:0 tvg-id="ch4048" tvg-name="Gold Line Civilizations HD" tvg-logo="http://rus.hls.gd/images/chIcons/4048.png" tvg-rec="3", Gold Line Civilizations HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4048/mono.m3u8?token=swaco64.v2_GtpiNMR96ueLXK0xo2692Y0BzkzgfdT-BBjxI2fo3hKKbZbuTyhRLDh2eUVC_NEexYt9f7B7ISs
+#EXTINF:0 tvg-id="ch4095" tvg-name="Gold Line VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/4095.png" tvg-rec="3", Gold Line VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4095/mono.m3u8?token=swaco64.v2_gdO4buRCLGwqxXDUku14GQ0Y230b6g11Xeqg20AKi3diA3huaFG-Zm7Wwxjpxe3MUczzCkkRwLs
+#EXTINF:0 tvg-id="ch3136" tvg-name="Velilla TV Action War Films HD" tvg-logo="http://rus.hls.gd/images/chIcons/3136.png" tvg-rec="3", Velilla TV Action War Films HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3136/mono.m3u8?token=swaco64.v2_i7QauQTELdugKxInuLihdOZp5s3kf0_jmiHd06PovT89AeDYeuEfRIXF94UdDTLy7-ddCb7FzmI
+#EXTINF:0 tvg-id="ch3385" tvg-name="Velilla TV Вестерн HD" tvg-logo="http://rus.hls.gd/images/chIcons/3385.png" tvg-rec="3", Velilla TV Вестерн HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3385/mono.m3u8?token=swaco64.v2_FR3dmEvyJU3pIWlt1Pj-RLey4CSOuecaXJrcdmPF_A173Zn-FwCkKPGmbXxT6fIiym1wo9myLLA
+#EXTINF:0 tvg-id="ch3137" tvg-name="Velilla TV Русский Сериал HD" tvg-logo="http://rus.hls.gd/images/chIcons/3137.png" tvg-rec="3", Velilla TV Русский Сериал HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3137/mono.m3u8?token=swaco64.v2_560E-ZuPnwE2T28MdH-yuoYYFFXIKFfTkeQ98ZXgHRNAP9VLho3zEqougzkn5Wo355Yu4zpXgGg
+#EXTINF:0 tvg-id="ch2854" tvg-name="Velilla TV Русские Мелодрамы HD" tvg-logo="http://rus.hls.gd/images/chIcons/2854.png" tvg-rec="3", Velilla TV Русские Мелодрамы HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2854/mono.m3u8?token=swaco64.v2_nB0bIzNCh2W3u4bSYhA_elZL3YQ9VioaFzdEfiByVZ2yBR_uryR2hsQnx9k1Bcnwq8fmQKHu5uA
+#EXTINF:0 tvg-id="ch3138" tvg-name="Velilla TV Домашний HD" tvg-logo="http://rus.hls.gd/images/chIcons/3138.png" tvg-rec="3", Velilla TV Домашний HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3138/mono.m3u8?token=swaco64.v2_EEcb9uP1qyHaRbLDW1AuxiMeZXy0PuEYiHanWaTcyyKoIijWZUbH0FrfBbz-EMbA4q0fKPexw0Q
+#EXTINF:0 tvg-id="ch3288" tvg-name="Velilla TV Кухня + Отель Элеон HD" tvg-logo="http://rus.hls.gd/images/chIcons/3288.png" tvg-rec="3", Velilla TV Кухня + Отель Элеон HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3288/mono.m3u8?token=swaco64.v2_W_QZ1ZKoqCoV_GMyeK7Q1fF9y2nEaV00Pnetvm_0JA8NcJxRK1ZHuZnKx-dwtpLjkGfAOfha0CY
+#EXTINF:0 tvg-id="ch3139" tvg-name="Velilla TV Мосгаз HD" tvg-logo="http://rus.hls.gd/images/chIcons/3139.png" tvg-rec="3", Velilla TV Мосгаз HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3139/mono.m3u8?token=swaco64.v2_k3on7foLErEHoqxHwSEkwViSRo8TZ7_KY6j_g6UdmlSv_EqEvjdaWG_fr3VASJG1Hwt2bKTDXbI
+#EXTINF:0 tvg-id="ch3152" tvg-name="Velilla TV Морские дьяволы HD" tvg-logo="http://rus.hls.gd/images/chIcons/3152.png" tvg-rec="3", Velilla TV Морские дьяволы HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3152/mono.m3u8?token=swaco64.v2_zJ-ATlE7js3VDVHc-ZTPqWkv-V9SuzxAbWbONLaJiQy24J4MavjL9K3NYKkMe8tHfx2XLc9cmlc
+#EXTINF:0 tvg-id="ch2874" tvg-name="Velilla TV Морские Дьяволы 2 HD" tvg-logo="http://rus.hls.gd/images/chIcons/2874.png" tvg-rec="3", Velilla TV Морские Дьяволы 2 HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2874/mono.m3u8?token=swaco64.v2_RYUxO2ztv-BDHHNyGy1NnL903YFY6mk1V2TPnhYYWE5tW3hvkDsTXAHVROs_0o2pz6vHWm0Bdnk
+#EXTINF:0 tvg-id="ch3287" tvg-name="Velilla TV ИП Пирогова HD" tvg-logo="http://rus.hls.gd/images/chIcons/3287.png" tvg-rec="3", Velilla TV ИП Пирогова HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3287/mono.m3u8?token=swaco64.v2_J-K80JUKSXItIrBVhdjdhsHExPDrfZg_XrEzET6ICVeQhfgPOoH-I_kW0-Q0X_syaOmOxd2vsnc
+#EXTINF:0 tvg-id="ch3824" tvg-name="Velilla TV Бандитский Петербург" tvg-logo="http://rus.hls.gd/images/chIcons/3824.png" tvg-rec="3", Velilla TV Бандитский Петербург
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3824/mono.m3u8?token=swaco64.v2_pstdtEk0L95OvKWip80zU2L0xoBD0J8LdHB7g1baJK0bkInTgLR6nvNbeqDp3NY1pRtIzc9-TdU
+#EXTINF:0 tvg-id="ch2872" tvg-name="Velilla TV Счастливы Bместе HD" tvg-logo="http://rus.hls.gd/images/chIcons/2872.png" tvg-rec="3", Velilla TV Счастливы Bместе HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch2872/mono.m3u8?token=swaco64.v2_9yr2lPcMMBDlsK6IdrwWRii8oV0lGzss3GO1Tj-PJqoZ3wlpedofzn8J5G6e9oe6ggO4v23Pao4
+#EXTINF:0 tvg-id="ch3839" tvg-name="Velilla TV Элен и Ребята" tvg-logo="http://rus.hls.gd/images/chIcons/3839.png" tvg-rec="3", Velilla TV Элен и Ребята
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3839/mono.m3u8?token=swaco64.v2_43Q9lqklLM_9o_14J-o-07fSucIQ19YI5hNmdRTJeRaDstyUgYc4qn_TyHkz5TVELhPatHomH60
+#EXTINF:0 tvg-id="ch1619" tvg-name="Velilla TV Ситком HD" tvg-logo="http://rus.hls.gd/images/chIcons/1619.png" tvg-rec="7", Velilla TV Ситком HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch1619/mono.m3u8?token=swaco64.v2_CxqUQ5EC9jftZgEhQItF5vr_AH8Dd4AzpUpVU9qAuCgJv0VzaNYtHsKf8eGrrBCsqvAQWZskSA0
+#EXTINF:0 tvg-id="ch3231" tvg-name="Kernel TV Бумажный дом" tvg-logo="http://rus.hls.gd/images/chIcons/3231.png" tvg-rec="3", Kernel TV Бумажный дом
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3231/mono.m3u8?token=swaco64.v2_MOk7FqF-xUv8FKl8HBi0ZPYzwntqh5X1OKihX-LgKBB1q7N9ak0nhnzAukiNAp3eGNmcRLIjXJ0
+#EXTINF:0 tvg-id="ch3235" tvg-name="Kernel TV Комедия" tvg-logo="http://rus.hls.gd/images/chIcons/3235.png" tvg-rec="3", Kernel TV Комедия
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3235/mono.m3u8?token=swaco64.v2_sT8pZ48X-k71gasSxm7ASltDyQJTaVJhQGyGYMLsdSubTDKoj0jVKgT-V55P-BBUnYGOF52S4Ss
+#EXTINF:0 tvg-id="ch3236" tvg-name="Kernel TV Доктор" tvg-logo="http://rus.hls.gd/images/chIcons/3236.png" tvg-rec="3", Kernel TV Доктор
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3236/mono.m3u8?token=swaco64.v2_CJO9VlK3HpyLPV303xVmqMtgxYcWkmWef_WyXaxeA7Jjtlr2B78NCDsAADOcj18P1JO6KPNBEj0
+#EXTINF:0 tvg-id="ch3242" tvg-name="Kernel TV Герой" tvg-logo="http://rus.hls.gd/images/chIcons/3242.png" tvg-rec="3", Kernel TV Герой
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3242/mono.m3u8?token=swaco64.v2_7Sf78JB0R1EekjbS-LAG9508Q7sL1V3sA0O2r4ymsjnWS1rNVwxLtVBkNyXtjkCSFe4p_r3VSkY
+#EXTINF:0 tvg-id="ch3247" tvg-name="Kernel TV Счастливого Нового Года" tvg-logo="http://rus.hls.gd/images/chIcons/3247.png" tvg-rec="3", Kernel TV Счастливого Нового Года
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3247/mono.m3u8?token=swaco64.v2_UX77_cEIS0icjRIbfBfsW0QnURYUgW-JF-svahuU2tvaG0EjYaNojbb5W2OSob_UH0TUAyzTIs0
+#EXTINF:0 tvg-id="ch3248" tvg-name="Kernel TV Интерны" tvg-logo="http://rus.hls.gd/images/chIcons/3248.png" tvg-rec="3", Kernel TV Интерны
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3248/mono.m3u8?token=swaco64.v2_U9deo54XWpa4765YD-2zGlNpR_NP_1CN16Fxlygw2l89OY8CkRpNcyfNQZ8A5fodwsu9wQ9mClA
+#EXTINF:0 tvg-id="ch3249" tvg-name="Kernel TV Космос" tvg-logo="http://rus.hls.gd/images/chIcons/3249.png" tvg-rec="0", Kernel TV Космос
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3249/mono.m3u8?token=swaco64.v2_b-q-_tEGjvvQxMabYwOJXmMFZjuQ42xY5za43P6yeUrMJtinC0W7_YukpmYbQBchF6aW9wsT9A8
+#EXTINF:0 tvg-id="ch3255" tvg-name="Kernel TV Магия" tvg-logo="http://rus.hls.gd/images/chIcons/3255.png" tvg-rec="3", Kernel TV Магия
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3255/mono.m3u8?token=swaco64.v2_TTS4PnmpDWYJMhamko87AHr9WeLmys6n-YmrHKOn0p9KCU9eSRk-6mk1-6sBKnVapxPKIymWbmk
+#EXTINF:0 tvg-id="ch3257" tvg-name="Kernel TV Марвел vs DC" tvg-logo="http://rus.hls.gd/images/chIcons/3257.png" tvg-rec="3", Kernel TV Марвел vs DC
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3257/mono.m3u8?token=swaco64.v2_12qvuk6A8CxnwpXxX5Ns-Fil4ndiSlLnWbTCS2323FyRtK_5tTMx8fAkHiYY9lccIqQ14SP52ag
+#EXTINF:0 tvg-id="ch3258" tvg-name="Kernel TV Марвел Сериалы" tvg-logo="http://rus.hls.gd/images/chIcons/3258.png" tvg-rec="3", Kernel TV Марвел Сериалы
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3258/mono.m3u8?token=swaco64.v2_yWjIbLFekF1x7vS5eDwnsd9On3raTZixD4AyGbHkWa21lMNgQchIH38Z4sbeB2ZBXAnsC0bDD4Y
+#EXTINF:0 tvg-id="ch3263" tvg-name="Kernel TV Новинки" tvg-logo="http://rus.hls.gd/images/chIcons/3263.png" tvg-rec="3", Kernel TV Новинки
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3263/mono.m3u8?token=swaco64.v2_rL8H4Gvfg5fwnsKlvzqxM_F9CILkDbFGbXtSz3jqD28VTvg1j1H76hqz-N63RycSV-rDr3xoKdM
+#EXTINF:0 tvg-id="ch3272" tvg-name="Kernel TV Сваты" tvg-logo="http://rus.hls.gd/images/chIcons/3272.png" tvg-rec="3", Kernel TV Сваты
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3272/mono.m3u8?token=swaco64.v2_nN754F7_C6IbpOPZPvdyptdPpIiQuZvGu57_CqSyDVCj3ecPuQbS0TFF33P7FaOB5MV9eK5jack
+#EXTINF:0 tvg-id="ch3273" tvg-name="Kernel TV Время" tvg-logo="http://rus.hls.gd/images/chIcons/3273.png" tvg-rec="3", Kernel TV Время
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3273/mono.m3u8?token=swaco64.v2_W2RVpG_nWbu62nzNlnYdSyOfXgkSAQXbQKwClD90haAhgtKN2bE-cyUJaIbcb4CD5ZakIfYHstI
+#EXTINF:0 tvg-id="ch3148" tvg-name="SkyCam Action" tvg-logo="http://rus.hls.gd/images/chIcons/3148.png" tvg-rec="3", SkyCam Action
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3148/mono.m3u8?token=swaco64.v2_mRc7E4AWQWEhefS97P9TH8OmQ6oeTLFeiTgL1Lcqhoxtjc9OBEBlfPGhDh68Zf75vV_ioTfzJww
+#EXTINF:0 tvg-id="ch3149" tvg-name="SkyCam Catastrophe" tvg-logo="http://rus.hls.gd/images/chIcons/3149.png" tvg-rec="3", SkyCam Catastrophe
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3149/mono.m3u8?token=swaco64.v2_fX6_xz1AFtwAkVzdjJCFjoBfGRy7goR7lu7rMpX7da6SkuviEHWiosznnwPssEmQ_cyuv2pTeuQ
+#EXTINF:0 tvg-id="ch3150" tvg-name="SkyCam Goblin" tvg-logo="http://rus.hls.gd/images/chIcons/3150.png" tvg-rec="3", SkyCam Goblin
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3150/mono.m3u8?token=swaco64.v2_byDaep81MrWdDft95V8Ve6GVyn9xa4v4V_s01bYnujnMEvRtpqCC3FI1piNZC7HH2HGiKL_4z8A
+#EXTINF:0 tvg-id="ch3280" tvg-name="SkyCam Horrors" tvg-logo="http://rus.hls.gd/images/chIcons/3280.png" tvg-rec="3", SkyCam Horrors
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3280/mono.m3u8?token=swaco64.v2_XHv-ae7MxQCST1GSzjOu6r66-RNn_N2LuXmOn4ve6Ffo27Q29foo42UMVN0W4JeSsjbw2XpI_I8
+#EXTINF:0 tvg-id="ch3282" tvg-name="SkyCam Romantic" tvg-logo="http://rus.hls.gd/images/chIcons/3282.png" tvg-rec="3", SkyCam Romantic
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3282/mono.m3u8?token=swaco64.v2_3Q8SCG_TuLkgvzKgGAhcYH6bGAMINPbKvZuR1VjYV9TGdq8mhgYaFKWc8DIozSXHo6uCJxMna28
+#EXTINF:0 tvg-id="ch3283" tvg-name="SkyCam RuKino" tvg-logo="http://rus.hls.gd/images/chIcons/3283.png" tvg-rec="3", SkyCam RuKino
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3283/mono.m3u8?token=swaco64.v2_nCjqxtQnxR3eqrIIiA5owWs_-MmCnQ6P-7uFYQSnKLZ_AuaeAVGPYILkms7-W3JdP2Anv9mJXRg
+#EXTINF:0 tvg-id="ch3284" tvg-name="SkyCam Симпсоны" tvg-logo="http://rus.hls.gd/images/chIcons/3284.png" tvg-rec="3", SkyCam Симпсоны
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3284/mono.m3u8?token=swaco64.v2_9cGStg_B_ht0pDSiZ9FWd9VeY--MyNHKCCX4H9VfxXDEw8NmEBXGnh0yPOsgdmm8VOuW3Lb0ODs
+#EXTINF:0 tvg-id="ch3285" tvg-name="SkyCam Южный Парк" tvg-logo="http://rus.hls.gd/images/chIcons/3285.png" tvg-rec="3", SkyCam Южный Парк
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3285/mono.m3u8?token=swaco64.v2_UQIjNA9UrPu1z542HVNWPLaEYSQ_i1US6i-ZNbg6eXQK8liCw4ownK7yFYbEbZD6YLYmx-kSc-Q
+#EXTINF:0 tvg-id="ch3286" tvg-name="SkyCam Victory" tvg-logo="http://rus.hls.gd/images/chIcons/3286.png" tvg-rec="3", SkyCam Victory
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3286/mono.m3u8?token=swaco64.v2_Jx4IBTJjp-sk5Fh5buJo057jkNux_36pvgCJzqLWIhgQdcF7PejecTPc7OmXD8nIAhVefKN-XtI
+#EXTINF:0 tvg-id="ch3417" tvg-name="TVPlay Mortal Kombat HD" tvg-logo="http://rus.hls.gd/images/chIcons/3417.png" tvg-rec="3", TVPlay Mortal Kombat HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3417/mono.m3u8?token=swaco64.v2_ngTaOIuuOD_sOJ1gH0AJjqnAVWCDgxnD1YBKkGzyjvhTiymUMaoJ2B4B3Ufy4uTZ6QuIqpSxiXE
+#EXTINF:0 tvg-id="ch3738" tvg-name="TVPlay VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/3738.png" tvg-rec="3", TVPlay VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3738/mono.m3u8?token=swaco64.v2_JCy5k30LBBdkbF6aHqYHCeialOoceyVyeQcvBDiuBHCr8IDZsDHk94p24L-xZ76rzSlz8AvTkms
+#EXTINF:0 tvg-id="ch3739" tvg-name="TVPlay Индийское Кино HD" tvg-logo="http://rus.hls.gd/images/chIcons/3739.png" tvg-rec="3", TVPlay Индийское Кино HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3739/mono.m3u8?token=swaco64.v2_ftUubgBhqfgR0UNJvTmlf1Mi7onN1NovJZQkGxZL6PA8FTam-AXvkRAYusjlJ_pJQBSghScnAok
+#EXTINF:0 tvg-id="ch3740" tvg-name="TVPlay Мифы и Легенды HD" tvg-logo="http://rus.hls.gd/images/chIcons/3740.png" tvg-rec="3", TVPlay Мифы и Легенды HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3740/mono.m3u8?token=swaco64.v2_jbhabwStObt2G1ZENIcKP3zjnua9x9ggpvtk5kRwf1HvCcYrLkL2mzg5Q-0Zr13K7ybgjJGQi34
+#EXTINF:0 tvg-id="ch3741" tvg-name="TVPlay Anime HD" tvg-logo="http://rus.hls.gd/images/chIcons/3741.png" tvg-rec="3", TVPlay Anime HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3741/mono.m3u8?token=swaco64.v2_wZR27QfkvSkvk8Ro6mD0XwmhjSLwxP1Fv3r0kzj2oslx7RSO1XeRi1ANmyjrfasaWoPlVLDN1p4
+#EXTINF:0 tvg-id="ch3742" tvg-name="TVPlay Великая Отечественная HD" tvg-logo="http://rus.hls.gd/images/chIcons/3742.png" tvg-rec="3", TVPlay Великая Отечественная HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3742/mono.m3u8?token=swaco64.v2_W5M9C70qGCJkL7k45Jh9DV5VEzHc8K9PXkvj8GNqdli8Gan6BAOAfi2ClmLgvpxaT55UFJSL-Zw
+#EXTINF:0 tvg-id="ch3743" tvg-name="TVPlay Детское Кино HD" tvg-logo="http://rus.hls.gd/images/chIcons/3743.png" tvg-rec="3", TVPlay Детское Кино HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3743/mono.m3u8?token=swaco64.v2_LXY8F3ESWay0pktvryCQYj1paL5a8o5yFbfewOkczmiTM5I9TEf5ox0XacVjoLMi2hoJhhS0fdo
+#EXTINF:0 tvg-id="ch3744" tvg-name="TVPlay Лихие 90е Кино HD" tvg-logo="http://rus.hls.gd/images/chIcons/3744.png" tvg-rec="3", TVPlay Лихие 90е Кино HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3744/mono.m3u8?token=swaco64.v2_IFdga6099QpExb-_fTV3SDAFWCI0SDR3_Rro6xLLR8GX0kWRLW8VVC6-E_gVIefvSFcpYLMtjwg
+#EXTINF:0 tvg-id="ch3745" tvg-name="TVPlay Лихие 90е Сериал HD" tvg-logo="http://rus.hls.gd/images/chIcons/3745.png" tvg-rec="3", TVPlay Лихие 90е Сериал HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3745/mono.m3u8?token=swaco64.v2_CPQy9SmtJbOXa-Zui0lB4ANAQSZ6Bw9OOq8jhqCZ49HAoC_J7153E8UjAVAyZhQHpnUEG2U9wBY
+#EXTINF:0 tvg-id="ch3746" tvg-name="TVPlay Новинки RUS HD" tvg-logo="http://rus.hls.gd/images/chIcons/3746.png" tvg-rec="3", TVPlay Новинки RUS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3746/mono.m3u8?token=swaco64.v2_BP2P8xZFG1TxNi5cuW2jlhLgQXWnHRF3IFy46C8Ec0G4VBiR6zBxuk4SaRdH_F1NyoyY0gtT-t0
+#EXTINF:0 tvg-id="ch3749" tvg-name="TVPlay Новинки Мир HD" tvg-logo="http://rus.hls.gd/images/chIcons/3749.png" tvg-rec="3", TVPlay Новинки Мир HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3749/mono.m3u8?token=swaco64.v2_7OHw6RF8LPYRU7kDFK8SOSyLgug0Mr3sC9Y6MXSr_wuEJmARKDSMrrI1GE0vGxSvr2CJmW9HzyA
+#EXTINF:0 tvg-id="ch3750" tvg-name="TVPlay Советское Кино HD" tvg-logo="http://rus.hls.gd/images/chIcons/3750.png" tvg-rec="3", TVPlay Советское Кино HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3750/mono.m3u8?token=swaco64.v2_HD150rj96tIQW8EB-ClB09vqvSiDRI2g3DmqhC2FRVV7d_FeJG0R75Y76uoewFZUqcwv0Snnc-o
+#EXTINF:0 tvg-id="ch3751" tvg-name="TVPlay Ужасы HD" tvg-logo="http://rus.hls.gd/images/chIcons/3751.png" tvg-rec="3", TVPlay Ужасы HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3751/mono.m3u8?token=swaco64.v2_nuOpmpFSReHkwnEf5BpK5p4qXN_NTqSaZx7VLKexI471P1eV083q6pThmZ7orBJHqA4EFtXWEi8
+#EXTINF:0 tvg-id="ch3752" tvg-name="TVPlay Фантастика HD" tvg-logo="http://rus.hls.gd/images/chIcons/3752.png" tvg-rec="3", TVPlay Фантастика HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3752/mono.m3u8?token=swaco64.v2_UuMFw_3ahU378yRaP6zK487VWFKDd7x6-72-NT-zUjiDoCiQqVhlTqAKYq-l3sgoK1Ch2Bso4WQ
+#EXTINF:0 tvg-id="ch3753" tvg-name="TVPlay Русская Фантастика  HD" tvg-logo="http://rus.hls.gd/images/chIcons/3753.png" tvg-rec="3", TVPlay Русская Фантастика  HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3753/mono.m3u8?token=swaco64.v2_qhv9LDF1OtL5x1LI5X7NRSMQg5ViSDVv6olnw_MQaW2LLyO_kRwLyaNiHQJCJEHxYaEbupOFPV4
+#EXTINF:0 tvg-id="ch3754" tvg-name="TVPlay DC Comics HD" tvg-logo="http://rus.hls.gd/images/chIcons/3754.png" tvg-rec="3", TVPlay DC Comics HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3754/mono.m3u8?token=swaco64.v2_Vqzd5ot4Euv_OYR9t1WchGPQwkWiJgcsGOejqo3CYY4Um-u0nbfkHJhV4VAZi3R8v52YzipWdY0
+#EXTINF:0 tvg-id="ch3758" tvg-name="TVPlay Marvel HD" tvg-logo="http://rus.hls.gd/images/chIcons/3758.png" tvg-rec="3", TVPlay Marvel HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3758/mono.m3u8?token=swaco64.v2_its3cp3fkH3b13S9tfd6T5JtFsEGNqce283TOQBY4FnIbYSi9ulSOqecrlMZ42qWF9_68-K68OY
+#EXTINF:0 tvg-id="ch3761" tvg-name="TVPlay Биографии HD" tvg-logo="http://rus.hls.gd/images/chIcons/3761.png" tvg-rec="3", TVPlay Биографии HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3761/mono.m3u8?token=swaco64.v2_QJKP_hHPLD309oYRLO7Gmo35TtTTN99wleCTsEqis4zcOqIL_GW0-sjurhMb3tJdxi393GWnRfo
+#EXTINF:0 tvg-id="ch3763" tvg-name="TVPlay Баффи HD" tvg-logo="http://rus.hls.gd/images/chIcons/3763.png" tvg-rec="3", TVPlay Баффи HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3763/mono.m3u8?token=swaco64.v2_WK0UzevKddlsGz5dzitknQgc0cyioC3SQ_Nmnf_XEI6U2Gxsq4t_b9YzL_yXlT3AZHkc-Rt0b-0
+#EXTINF:0 tvg-id="ch3764" tvg-name="TVPlay Латинские Cериалы HD" tvg-logo="http://rus.hls.gd/images/chIcons/3764.png" tvg-rec="3", TVPlay Латинские Cериалы HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3764/mono.m3u8?token=swaco64.v2_6bAVYuoyoeHQomhBV2lr56gKJ61M7cgXCFp0GbH9mmIbeiL5uvfyMNy-TmbZ6rSpKyyLjEkGgPc
+#EXTINF:0 tvg-id="ch3765" tvg-name="TVPlay Пародии HD" tvg-logo="http://rus.hls.gd/images/chIcons/3765.png" tvg-rec="3", TVPlay Пародии HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3765/mono.m3u8?token=swaco64.v2_FPMJHX8o0sVjNbfrdBTKChkIBimBjyYO_jnQcxywivjrd_Rz2razdlLs4HRE4Xzqj2bzc760BQY
+#EXTINF:0 tvg-id="ch3766" tvg-name="TVPlay Психо HD" tvg-logo="http://rus.hls.gd/images/chIcons/3766.png" tvg-rec="3", TVPlay Психо HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3766/mono.m3u8?token=swaco64.v2_xxaCZdJSoTO7tKbPDyK1-8pMkU3FPVA7SicRNzJt39nF6Q0k0FK8tO0LjVZrqT87ar1Z1Vpkzfk
+#EXTINF:0 tvg-id="ch3784" tvg-name="TVPlay Зомби HD" tvg-logo="http://rus.hls.gd/images/chIcons/3784.png" tvg-rec="3", TVPlay Зомби HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3784/mono.m3u8?token=swaco64.v2_hyB7VCoOz5H2HvGik7H1Xa3LX_ltj1KUleoAjt4yBHr2hihbPSTVFlbxkMgYLYleCysr9hyOWWk
+#EXTINF:0 tvg-id="ch3768" tvg-name="TVPlay Игра Престолов HD" tvg-logo="http://rus.hls.gd/images/chIcons/3768.png" tvg-rec="3", TVPlay Игра Престолов HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3768/mono.m3u8?token=swaco64.v2_aw9aruLLiMkgFlfFQfpyNfURVgRyFHE-a7KhziXjw2SzbtNAJlQ8T-tlWyXzysB5VSLIJNyduKY
+#EXTINF:0 tvg-id="ch3771" tvg-name="TVPlay Космический HD" tvg-logo="http://rus.hls.gd/images/chIcons/3771.png" tvg-rec="3", TVPlay Космический HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3771/mono.m3u8?token=swaco64.v2_d8MI2G6ubc-4VomxJAxJweXF5Orl6fsbSiKnXN5vZMG__xUnH8mkFlAXdsXaOo9SJPHx-bpwvdg
+#EXTINF:0 tvg-id="ch3773" tvg-name="TVPlay Гарри Поттер HD" tvg-logo="http://rus.hls.gd/images/chIcons/3773.png" tvg-rec="3", TVPlay Гарри Поттер HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3773/mono.m3u8?token=swaco64.v2_n6uIA2jSbMJvYruUiENFPYn1mUDdv_347Q6WlCGMP4xM7AgEBouyNgbxwqDPXxgvD8CtIwISUAg
+#EXTINF:0 tvg-id="ch3776" tvg-name="TVPlay Друзья HD" tvg-logo="http://rus.hls.gd/images/chIcons/3776.png" tvg-rec="3", TVPlay Друзья HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3776/mono.m3u8?token=swaco64.v2_lb0LE_jDUm6_MkZdKwZWVdDM4Su98UDKCRzbCxlERkjYlktd4E04QwqL81HIo93n_X61yiV4zII
+#EXTINF:0 tvg-id="ch3777" tvg-name="TVPlay Зачарованные HD" tvg-logo="http://rus.hls.gd/images/chIcons/3777.png" tvg-rec="3", TVPlay Зачарованные HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3777/mono.m3u8?token=swaco64.v2_himY9upv2TYdVCparbzT0Yz_3v09fjz_0fmWUQsh14mtXy8ZrBIXHSP1az8WcUrsJuPA4Qj-dc0
+#EXTINF:0 tvg-id="ch3780" tvg-name="TVPlay Моя Прекрасная Няня HD" tvg-logo="http://rus.hls.gd/images/chIcons/3780.png" tvg-rec="3", TVPlay Моя Прекрасная Няня HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3780/mono.m3u8?token=swaco64.v2_6pa5Gy6HWMnpz5ji-rOGGUWW-6nrceDp_EcbZYm9fghjJMcICmwMsS5mqBhQLnWQLElRE97tKAs
+#EXTINF:0 tvg-id="ch3418" tvg-name="TVPlay Элен и Ребята HD" tvg-logo="http://rus.hls.gd/images/chIcons/3418.png" tvg-rec="3", TVPlay Элен и Ребята HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3418/mono.m3u8?token=swaco64.v2_utuBFRRb15jtbD9ML7Dn2XnzYKjWM5icbIeuMicGsftN5e9CanXLe-67RzlLs1iIkGN1flLg7Cs
+#EXTINF:0 tvg-id="ch3781" tvg-name="TVPlay Папины Дочки HD" tvg-logo="http://rus.hls.gd/images/chIcons/3781.png" tvg-rec="3", TVPlay Папины Дочки HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3781/mono.m3u8?token=swaco64.v2_WITLMg5CqHvg4IwFX416Yf7d7aezcqK119GlPyQcrULWxE6W5JvRytkA1Z8upCcU3h_3wHvtrFg
+#EXTINF:0 tvg-id="ch3782" tvg-name="TVPlay Фильмы Л Гайдая HD" tvg-logo="http://rus.hls.gd/images/chIcons/3782.png" tvg-rec="3", TVPlay Фильмы Л Гайдая HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3782/mono.m3u8?token=swaco64.v2_BAgLVfyMRRCMhTK2067nyF8Qnv12eq-yOD4SM2uzFOCLIHqmbCnijisUK-rxbmfat8C5Fqjn81s
+#EXTINF:0 tvg-id="ch3783" tvg-name="TVPlay Фильмы Г Данелии HD" tvg-logo="http://rus.hls.gd/images/chIcons/3783.png" tvg-rec="3", TVPlay Фильмы Г Данелии HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3783/mono.m3u8?token=swaco64.v2_9oZFaa8iX3ENkPC2Js0pf5fzFmkKi0uGBTcGDf1lrnd51BM2nOxPAw4X3d9rBghXxuSj-1SY1mU
+#EXTINF:0 tvg-id="ch3786" tvg-name="TVPlay Высоцкий HD" tvg-logo="http://rus.hls.gd/images/chIcons/3786.png" tvg-rec="3", TVPlay Высоцкий HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3786/mono.m3u8?token=swaco64.v2_d8akJlN42UM5asrS8zR-ExcTkHCtKYROyPN_90XO8-TpEzAhyUrJNgGHrX6Yrypeb3BManIBp90
+#EXTINF:0 tvg-id="ch3816" tvg-name="TVPlay Михаил Галустян HD" tvg-logo="http://rus.hls.gd/images/chIcons/3816.png" tvg-rec="3", TVPlay Михаил Галустян HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3816/mono.m3u8?token=swaco64.v2_VDTU7v677GJ02H9QfC9DHJ_XExwgVcC7JnQHQbR87VabSMAQEoKioAMFwcBX1cLK9knA8uJpxBg
+#EXTINF:0 tvg-id="ch3817" tvg-name="TVPlay Фильмы А Балабанова HD" tvg-logo="http://rus.hls.gd/images/chIcons/3817.png" tvg-rec="3", TVPlay Фильмы А Балабанова HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3817/mono.m3u8?token=swaco64.v2_r4dkf9hI71mmqiEuDz091G5dPUXR3HZax3pD3Q6Bjy0849VorQP6Jrlon7NY80fWYvBOpRFo6Oo
+#EXTINF:0 tvg-id="ch3818" tvg-name="TVPlay Дмитрий Нагиев HD" tvg-logo="http://rus.hls.gd/images/chIcons/3818.png" tvg-rec="3", TVPlay Дмитрий Нагиев HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch3818/mono.m3u8?token=swaco64.v2_eUXF_CKRueGnZYDq_fOxfVNP457XzdD42grz5A1NKV2gYxm_a5p4YFB8hWYSWfTDaJbXWfze8c8
+#EXTINF:0 tvg-id="ch4057" tvg-name="KLI Kinozakaz HD" tvg-logo="http://rus.hls.gd/images/chIcons/4057.png" tvg-rec="1", KLI Kinozakaz HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4057/mono.m3u8?token=swaco64.v2_F4r4taytc3AR3o1uEGydbEkhoxN-5cr1FJp2Urr6dN3gRiEaqG2L9TmH2gEhLr0kDTSm4FFOBOM
+#EXTINF:0 tvg-id="ch4062" tvg-name="KLI Детективы HD" tvg-logo="http://rus.hls.gd/images/chIcons/4062.png" tvg-rec="1", KLI Детективы HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4062/mono.m3u8?token=swaco64.v2_svsiqMvgwMPIEtv4acajkLefmUKVMV5GkSLXm6WzBO1lCily_zJA6b43PSs0o_BTH0iEOWGOuYo
+#EXTINF:0 tvg-id="ch4069" tvg-name="KLI Action HD" tvg-logo="http://rus.hls.gd/images/chIcons/4069.png" tvg-rec="1", KLI Action HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4069/mono.m3u8?token=swaco64.v2_8bexNbL-U0HThh1m1G3IDEl5baFNebCoWngQcpbYktqkulJnRw34STYKKL0VbrzWQAv15uSC85w
+#EXTINF:0 tvg-id="ch4070" tvg-name="KLI Comedy HD" tvg-logo="http://rus.hls.gd/images/chIcons/4070.png" tvg-rec="1", KLI Comedy HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4070/mono.m3u8?token=swaco64.v2_wSHu8o6Uu8YJWgKbdTc67Dwws6w3gPabmXOPPLlwybVdtKIVwd8kijCipXmxStOhBDrfg6GVbSg
+#EXTINF:0 tvg-id="ch4071" tvg-name="KLI Drama HD" tvg-logo="http://rus.hls.gd/images/chIcons/4071.png" tvg-rec="1", KLI Drama HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4071/mono.m3u8?token=swaco64.v2_efGHrBMKK9AmvVP6mUdYIUoUJgliSnVRYc_DvDmQZEO9o0tkcfkUlkeaTqYde3MMt3aLCX1Od2Y
+#EXTINF:0 tvg-id="ch4072" tvg-name="KLI Family HD" tvg-logo="http://rus.hls.gd/images/chIcons/4072.png" tvg-rec="1", KLI Family HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4072/mono.m3u8?token=swaco64.v2_s91clW8B-ZzROXlbhCVsIYMjP7LeTkrzxuFlcQ5s_68NMe3h-mmJWKKQT3BNBpzCMI9OuCHmPnA
+#EXTINF:0 tvg-id="ch4073" tvg-name="KLI Fantastic HD" tvg-logo="http://rus.hls.gd/images/chIcons/4073.png" tvg-rec="1", KLI Fantastic HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4073/mono.m3u8?token=swaco64.v2_OqMoI17gOxctSl4zG7WS7Ww4sbI4CmarBVApy_bcje1OS_3ltdK3FXholwXFloc2j6eky3MDdxw
+#EXTINF:0 tvg-id="ch4074" tvg-name="KLI Fantasy HD" tvg-logo="http://rus.hls.gd/images/chIcons/4074.png" tvg-rec="1", KLI Fantasy HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4074/mono.m3u8?token=swaco64.v2_5MfZ_WtdSGxlLKuyr71OQpAtIQ4g40zPr5U0YsQBDYxkYpqRHan1YkjQuCgxsrwf9w0XMX3Bj1I
+#EXTINF:0 tvg-id="ch4075" tvg-name="KLI Horror HD" tvg-logo="http://rus.hls.gd/images/chIcons/4075.png" tvg-rec="1", KLI Horror HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4075/mono.m3u8?token=swaco64.v2_wnpnEfUdNlZrZEjKFswgBcCQ04DurbzZzlAbt-fJVhORcFx1mSXhKg7jzPZjOU6P-m_ujxisypI
+#EXTINF:0 tvg-id="ch4077" tvg-name="KLI Marvel HD" tvg-logo="http://rus.hls.gd/images/chIcons/4077.png" tvg-rec="1", KLI Marvel HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4077/mono.m3u8?token=swaco64.v2_c5ZO70CHVNfDipuXOIPxCNOoYU51bV8KwmyJEHuSR9r3xD6ML9Y598_qJyC6sGvM-3PndbYDK9o
+#EXTINF:0 tvg-id="ch4078" tvg-name="KLI Nostalgia HD" tvg-logo="http://rus.hls.gd/images/chIcons/4078.png" tvg-rec="1", KLI Nostalgia HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4078/mono.m3u8?token=swaco64.v2_7JFsJesJA1uX8URuJAP1RHRZQRbVafc_uUyARLuB0_WUwzvuBR9Cb03dw0n-NX0ARkiWtPRTEiE
+#EXTINF:0 tvg-id="ch4079" tvg-name="KLI Premium HD" tvg-logo="http://rus.hls.gd/images/chIcons/4079.png" tvg-rec="1", KLI Premium HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4079/mono.m3u8?token=swaco64.v2_iY5nUG2QvO1PBZoxBz5kbYeyXaBy6aVRRKu_l1Qy-shUn7Ctncu0NxweYjcGMXT9ORl-TgKD_JA
+#EXTINF:0 tvg-id="ch4081" tvg-name="KLI Russian HD" tvg-logo="http://rus.hls.gd/images/chIcons/4081.png" tvg-rec="1", KLI Russian HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4081/mono.m3u8?token=swaco64.v2_cOI7slFgCjeg1ulh6YVzSN0E0xi_6YZg1fbPnVj32gv3Oe-4Z5ENYEZoBkN4TPWf-lDrX0gmHxg
+#EXTINF:0 tvg-id="ch4082" tvg-name="KLI Triller HD" tvg-logo="http://rus.hls.gd/images/chIcons/4082.png" tvg-rec="1", KLI Triller HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4082/mono.m3u8?token=swaco64.v2_1vEznKX_HnJ-UWLvx2-F2gtw3z4jpJyXNwiHR3Scw_e5zaWDn6qga5f39lPQy6b7BzAhPVhqI14
+#EXTINF:0 tvg-id="ch4083" tvg-name="KLI SSSR HD" tvg-logo="http://rus.hls.gd/images/chIcons/4083.png" tvg-rec="1", KLI SSSR HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4083/mono.m3u8?token=swaco64.v2_W3CQgIl2UAl1QU2Laqeuz0vjTt0skIF8a3togZAPpkNWba2srN8WZQEEPmaWgy1vr4lvfqhX6CI
+#EXTINF:0 tvg-id="ch4085" tvg-name="KLI VHS HD" tvg-logo="http://rus.hls.gd/images/chIcons/4085.png" tvg-rec="1", KLI VHS HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4085/mono.m3u8?token=swaco64.v2_pMN9w2dxOwp0nU-eIdsCCgl43c69nW5jLuB6zi1ZyzdszDNLwOGCJq5wQh941dWCFcyofJH9yIk
+#EXTINF:0 tvg-id="ch4087" tvg-name="KLI Киносерия HD" tvg-logo="http://rus.hls.gd/images/chIcons/4087.png" tvg-rec="1", KLI Киносерия HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4087/mono.m3u8?token=swaco64.v2_u1K58EazPBiKNdMpvocKSus8R0NbRJmKjkHgv4SEL4gSG7ewt7gmezpOa4SgSWIIrIndBHyFx2Y
+#EXTINF:0 tvg-id="ch4088" tvg-name="KLI Новинки HD" tvg-logo="http://rus.hls.gd/images/chIcons/4088.png" tvg-rec="1", KLI Новинки HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4088/mono.m3u8?token=swaco64.v2_-9HZCabCbCuUsQkJJq7f3-N382uV2Th1yTKhUs3pkcVEPh0iFPktYlmyxpv-q0g0s3UOHTd1Ujo
+#EXTINF:0 tvg-id="ch4091" tvg-name="KLI Полицейский с Рублёвки HD" tvg-logo="http://rus.hls.gd/images/chIcons/4091.png" tvg-rec="1", KLI Полицейский с Рублёвки HD
+#EXTGRP:4. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4091/mono.m3u8?token=swaco64.v2_sFwUqbUsoju5gWUr2dZRMvSaYmbwuJbrAVuWDo9ZJJUhQ6x18k0xVmQu54sL2_thztuAeZcJg1E
+#EXTINF:0 tvg-id="ch4050" tvg-name="TEAM вДудь HD" tvg-logo="http://rus.hls.gd/images/chIcons/4050.png" tvg-rec="7", TEAM вДудь HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4050/mono.m3u8?token=swaco64.v2_UwvGPiav_Y55gv1Longs1imQUWKJGD_5cAi2IiGm3gkf95QqDugu_AmKaNEy9CxTq5rVkr81-Es
+#EXTINF:0 tvg-id="ch4097" tvg-name="TEAM Поговорить HD" tvg-logo="http://rus.hls.gd/images/chIcons/4097.png" tvg-rec="7", TEAM Поговорить HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4097/mono.m3u8?token=swaco64.v2_rk8yqG22P5DzbwtpLCDh22L-AhMnq87Gjs4v5fBZU83mEI0BX4cxoCRrtMnAaY3cxAvAU9g6uRQ
+#EXTINF:0 tvg-id="ch4053" tvg-name="TEAM Без Сахара HD" tvg-logo="http://rus.hls.gd/images/chIcons/4053.png" tvg-rec="7", TEAM Без Сахара HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4053/mono.m3u8?token=swaco64.v2_StqDmm_GfLX0JgcCcuJ5Zb-gC-h7Tbyxo4K1gbGwNNdTHSt_7pGKkVdj892wnpUAAUb5H6HxEWU
+#EXTINF:0 tvg-id="ch4055" tvg-name="TEAM Muzloft HD" tvg-logo="http://rus.hls.gd/images/chIcons/4055.png" tvg-rec="7", TEAM Muzloft HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4055/mono.m3u8?token=swaco64.v2_NAPGbjDXM6NiuUZ8oaho5NdFZT4ixSE3vP2TUIzFEpYXFvtwDQqBoTVUt_PRacQJ53Qau7asSdw
+#EXTINF:0 tvg-id="ch4056" tvg-name="TEAM За Тайнами HD" tvg-logo="http://rus.hls.gd/images/chIcons/4056.png" tvg-rec="7", TEAM За Тайнами HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4056/mono.m3u8?token=swaco64.v2_B1IzuWzObBvvlrTawd99tdBJF9lpFFz8vBryrCCDuRfPLY4-irtB6Rv8etTF2wpI-u7erDHiEfo
+#EXTINF:0 tvg-id="ch4096" tvg-name="TEAM Скажи HD" tvg-logo="http://rus.hls.gd/images/chIcons/4096.png" tvg-rec="7", TEAM Скажи HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4096/mono.m3u8?token=swaco64.v2_U464t0_pQpKUB9n8jTcNxEMffvdbCoMlURcdUX8xoMUtCfgleD9wC_NU_HGONFWl1q4Fu2gvbcI
+#EXTINF:0 tvg-id="ch4104" tvg-name="TEAM Мусагалиев HD" tvg-logo="http://rus.hls.gd/images/chIcons/4104.png" tvg-rec="7", TEAM Мусагалиев HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4104/mono.m3u8?token=swaco64.v2_tMXfGhPBL8-fwQDZxeVsEZxOMZ-Ck3k39JpnapuVzOpzWF4vJtsSlkXEfFtsISqNhOm_xn4f7JY
+#EXTINF:0 tvg-id="ch4106" tvg-name="TEAM Мясников HD" tvg-logo="http://rus.hls.gd/images/chIcons/4106.png" tvg-rec="7", TEAM Мясников HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4106/mono.m3u8?token=swaco64.v2_XmqvN4UPcvO9IWtSe33IwdOH-EnnP0VSsC98zf8-LeN-lZJkJ_zg0WvLcTqmZmtO_cKUb9QK0XM
+#EXTINF:0 tvg-id="ch4113" tvg-name="TEAM Варламов HD" tvg-logo="http://rus.hls.gd/images/chIcons/4113.png" tvg-rec="7", TEAM Варламов HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4113/mono.m3u8?token=swaco64.v2_PVV0erE21AZIuCxI9d04l__QCyfG-jDJzn5TOq6KPppXM5v_33tGiCwo2b2HR31DWrB5URItTGE
+#EXTINF:0 tvg-id="ch4132" tvg-name="TEAM НаучДок HD" tvg-logo="http://rus.hls.gd/images/chIcons/4132.png" tvg-rec="7", TEAM НаучДок HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4132/mono.m3u8?token=swaco64.v2_6WK2yOew8zbf6qBCO-t2C8206gyppAHtkdDDfUpV9kkoRV9_YsF0VNX9jigBuJ1pOfJ80jz3iLs
+#EXTINF:0 tvg-id="ch4151" tvg-name="TEAM TheЛюди HD" tvg-logo="http://rus.hls.gd/images/chIcons/4151.png" tvg-rec="7", TEAM TheЛюди HD
+#EXTGRP:5. RUZIEV TEAM TV
+http://ru7.hls.gd/ch4151/mono.m3u8?token=swaco64.v2_fyKKHzFUw695wOdH-WZ7VXhfDlujYzaeonjBa4OWirAvWFHS23imszk_y10v8SEuIdaA2Fmz-5w
+
+
+
+
 
 
 
@@ -1156,12 +2531,12 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 
 #EXTINF:-1 group-title="RUZIEV MY TV +"  tvg-id="romance" ,Vesna
 http://46.32.176.50/worldfashion/index.m3u8
-#EXTINF:-1  group-title="RUZIEV MY TV +" ,FAN
-
+#EXTINF:-1  group-title="RUZIEV MY TV +" ,DIZI
+http://tv.ttk.mx:9189
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
-http://185.46.48.18:80/cinema/mono.m3u8
+http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Cinema
-
+http://tv.ttk.mx:9053
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
@@ -1425,6 +2800,149 @@ https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/5
 https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/19.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Urbano TV
 https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/4.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/FR",SYFY
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/FR",Cine Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/FR",CineFrisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/FR",CineFamily
+http://99.27.51.147:8080/CineFamiz/index.m3u8
+
+#EXTINF:-1 group-title="GRAND IPTV/FR",TF1
+http://173.229.4.239:5004/auto/v1
+#EXTINF:-1 group-title="GRAND IPTV/FR",France 2
+http://173.229.4.239:5004/auto/v2
+#EXTINF:-1 group-title="GRAND IPTV/FR",France 3
+http://173.229.4.239:5004/auto/v3
+#EXTINF:-1 group-title="GRAND IPTV/FR",France 4
+http://173.229.4.239:5004/auto/v4
+#EXTINF:-1 group-title="GRAND IPTV/FR",France 5
+http://173.229.4.239:5004/auto/v5
+
+
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",ANTENA HD
+http://91.246.72.88:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Alfa TVP
+http://91.246.72.88:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",ESKA TV
+http://91.246.72.88:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Fokus TV
+http://91.246.72.88:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",PULS 2
+http://91.246.72.88:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polo TV
+http://91.246.72.88:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat
+http://91.246.72.88:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat News Polityka
+http://91.246.72.88:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Stopklatka TV
+http://91.246.72.88:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Super Polsat
+http://91.246.72.88:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Cinemax HD
+http://81.15.109.89:8001/play/Cinemax
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disco Polo Music
+http://81.15.109.89:8001/play/DiscoPoloMusic2
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disco Polo Music
+http://81.15.109.89:8001/play/DiscoPoloMusic
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney Channel HD
+http://81.15.109.89:8001/play/DisneyChannel2
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney Channel HD
+http://81.15.109.89:8001/play/DisneyChannel
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney Junior
+http://81.15.109.89:8001/play/DisneyJunior
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Disney XD
+http://81.15.109.89:8001/play/DisneyXD
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Dla Ciebie TV
+http://81.15.109.89:8001/play/DlaCiebieTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Eska Rock HD
+http://81.15.109.89:8001/play/EskaRock
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Eska TV Extra HD
+http://81.15.109.89:8001/play/EskaTVExtra
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Fightklub HD
+http://81.15.109.89:8001/play/Fightklub
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Film Cafe
+http://81.15.109.89:8001/play/FilmCafe
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",HBO HD
+http://81.15.109.89:8001/play/HBO
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",HOME TV
+http://81.15.109.89:8001/play/HomeTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",ID Poland HD
+http://81.15.109.89:8001/play/IDPoland
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",MTV 90s
+http://81.15.109.89:8001/play/MTV90s
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Mango
+http://81.15.109.89:8001/play/Mango
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Mezzo TV
+http://81.15.109.89:8001/play/MezzoTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",NOVELAS+
+http://81.15.109.89:8001/play/Novelas
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",NUTA GOLD
+http://81.15.109.89:8001/play/NutaGold
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",NUTA TV
+http://81.15.109.89:8001/play/NutaTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Nat Geo People HD
+http://81.15.109.89:8001/play/NatGeoPeople
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Novela Tv
+http://81.15.109.89:8001/play/a02n
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Novela Tv
+http://81.15.109.89:8001/play/NovelaTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",POWER TV
+http://81.15.109.89:8001/play/PowerTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polonia 1
+http://81.15.109.89:8001/play/Polonia1
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Jim Jam
+http://81.15.109.89:8001/play/PolsatJimJam
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat News Polityka HD
+http://81.15.109.89:8001/play/PolsatNewsPolityka
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Rodzina HD
+http://81.15.109.89:8001/play/PolsatRodzina
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Seriale HD
+http://81.15.109.89:8001/play/PolsatSeriale
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Viasat Explore HD
+http://81.15.109.89:8001/play/PolsatViasatExplore
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat Viasat Nature HD
+http://81.15.109.89:8001/play/PolsatViasatNature
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Polsat X HD
+http://81.15.109.89:8001/play/PolsatX
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",SZLAGIER TV
+http://81.15.109.89:8001/play/SzlagierTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Science Poland HD
+http://81.15.109.89:8001/play/SciencePoland
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Sportklub HD
+http://81.15.109.89:8001/play/Sportklub
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",TELE 5
+http://81.15.109.89:8001/play/Tele5
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",TV Okazje
+http://81.15.109.89:8001/play/TVOkazje
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVC
+http://81.15.109.89:8001/play/TVC
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVC SUPER
+http://81.15.109.89:8001/play/TVCSuper
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVP HD
+http://81.15.109.89:8001/play/TVP
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",TVP INFO HD
+http://81.15.109.89:8001/play/TVPInfo
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Turbo Xtra Poland HD
+http://81.15.109.89:8001/play/TurboXtraPoland
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Vox Music TV HD
+http://81.15.109.89:8001/play/VoxMusicTV
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Water Planet
+http://81.15.109.89:8001/play/WaterPlanet
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",Wydarzenia 24 HD
+http://81.15.109.89:8001/play/Wydarzenia24
+#EXTINF:-1 group-title="GRAND IPTV/POLAND",teleTOON+ HD
+http://81.15.109.89:8001/play/Teletoon
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="GRAND IPTV/РОССИЯ 1 РЕГИОНЫ",Россия 1 (Абакан)
@@ -38659,8 +40177,323 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/15203/ind
 
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="Aggregator - Axenov / Эротика",Exxxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
-
-#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="Aggregator - Axenov / Эротика",Porn Classic
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+http://185.246.209.181/Private/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+http://185.246.209.181/Hustler/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel HD
+http://185.246.209.181/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel XXX HD
+http://185.246.209.181/DorcelXXXHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",FrenchLover HD
+http://185.246.209.181/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Babes TV
+http://185.246.209.181/BabesTV/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Reality Kings
+http://185.246.209.181/RealityKings/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",BangU
+http://185.246.209.181/BangU/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Playboy TV HD
+http://185.246.209.181/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Brazzers TV Europa
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PASSIONXXX HD
+http://94.236.201.122/PASSIONXXX/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",CENTOXCENTO
+http://94.236.201.122/CENTOXCENTO/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic1
+http://45.136.153.199:80/PinkErotic1/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic2
+http://45.136.153.199:80/PinkErotic2/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic3
+http://45.136.153.199:80/PinkErotic3/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic4
+http://45.136.153.199:80/PinkErotic4/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic5
+http://45.136.153.199:80/PinkErotic5/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic6
+http://45.136.153.199:80/PinkErotic6/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic7
+http://45.136.153.199:80/PinkErotic7/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private
+http://45.136.153.199:80/Private/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler
+http://45.136.153.199:80/Hustler/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",DorcelHD
+http://45.136.153.199:80/DorcelHD/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",DorcelXXXHD
+http://45.136.153.199:80/DorcelXXXHD/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",FrenchLover HD
+http://45.136.153.199:80/FrenchLover/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Babes TV
+http://45.136.153.199:80/BabesTV/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Playboy HD
+http://45.136.153.199:80/PlayboyHD/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Penthouse HD1
+http://37.189.31.207:5454/play/a035/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Brazzers TV
+http://85.14.32.26:8800/udp/239.100.10.190:5000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+http://85.14.32.26:8800/udp/239.100.10.58:5000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",DORCEL TV HD
+http://81.15.109.89:8001/play/DorcelTV
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+http://81.15.109.89:8001/play/Hustler
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Blue Hustler
+http://81.15.109.89:8001/play/BlueHustler
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Brazzers TV
+http://81.15.109.89:8001/play/BrazzersTV
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+http://81.15.109.89:8001/play/Private
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Redlight HD
+http://81.15.109.89:8001/play/Redlight
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+https://de1.dstv.cx/Private/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+https://de1.dstv.cx/Hustler/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel HD
+https://de1.dstv.cx/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",FrenchLover HD
+https://de1.dstv.cx/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Babes TV
+https://de1.dstv.cx/BabesTV/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Reality Kings
+https://de1.dstv.cx/RealityKings/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",BangU
+https://de1.dstv.cx/BangU/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Playboy TV HD
+https://de1.dstv.cx/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 1
+https://de1.dstv.cx/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 2
+https://de1.dstv.cx/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 3
+https://de1.dstv.cx/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 4
+https://de1.dstv.cx/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 5
+https://de1.dstv.cx/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 6
+https://de1.dstv.cx/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",CENTOXCENTO
+http://94.155.93.182:80/CENTOXCENTO/index.m3u8?token=test
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PASSIONXXX HD
+http://94.155.93.182:80/PASSIONXXX/index.m3u8?token=test
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel HD
+http://162.19.246.113/XXX1/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+http://162.19.246.113/XXX2/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PENTHOUSE HD
+http://162.19.246.113/XXX3/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PENTHOUSE GOLD HD
+http://162.19.246.113/XXX4/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Blue Hustler
+http://46.149.191.217:9009/play/a025
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler
+http://46.149.191.217:9009/play/a02a
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Epic Drama HD
+http://46.149.191.217:9017/play/a00w
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private TV
+http://46.149.191.217:9009/play/a020
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+https://srv1.adriatelekom.com/Private/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+https://srv1.adriatelekom.com/Hustler/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel HD
+https://srv1.adriatelekom.com/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",FrenchLover HD
+https://srv1.adriatelekom.com/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Babes TV
+https://srv1.adriatelekom.com/BabesTV/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Reality Kings
+https://srv1.adriatelekom.com/RealityKings/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",BangU
+https://srv1.adriatelekom.com/BangU/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Playboy TV HD
+https://srv1.adriatelekom.com/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 1
+https://srv1.adriatelekom.com/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 2
+https://srv1.adriatelekom.com/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 3
+https://srv1.adriatelekom.com/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 4
+https://srv1.adriatelekom.com/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 5
+https://srv1.adriatelekom.com/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 6
+https://srv1.adriatelekom.com/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult1
+http://143.244.62.109:80/adult1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult2
+http://143.244.62.109:80/adult2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult3
+http://143.244.62.109:80/adult3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult4
+http://143.244.62.109:80/adult4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult5
+http://143.244.62.109:80/adult5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult6
+http://143.244.62.109:80/adult6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic1
+http://143.244.62.109:80/pinkerotic1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic2
+http://143.244.62.109:80/pinkerotic2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic3
+http://143.244.62.109:80/pinkerotic3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic4
+http://143.244.62.109:80/pinkerotic4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic5
+http://143.244.62.109:80/pinkerotic5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic6
+http://143.244.62.109:80/pinkerotic6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic7
+http://143.244.62.109:80/pinkerotic7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",pinkerotic8
+http://143.244.62.109:80/pinkerotic8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Passion XXX
+http://94.156.59.233:8899/udp/239.10.2.180:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PassionXXX -2
+http://94.156.59.233:8899/udp/239.10.2.181:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Passion XXX 3
+http://94.156.59.233:8899/udp/239.10.3.198:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink O -2
+http://94.156.59.233:8899/udp/239.10.2.199:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink O TV
+http://94.156.59.233:8899/udp/239.10.2.198:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Cento X Cento
+http://94.156.59.233:8899/udp/239.10.3.199:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",XYplus
+http://94.156.59.233:8899/udp/239.10.3.17:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",XY Plus 2
+http://94.156.59.233:8899/udp/239.10.3.18:30000
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PINK EROTIC 3
+http://143.244.63.87/pinkerotic3/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PINK EROTIC 2
+http://143.244.63.87/pinkerotic2/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",EROXXX
+http://143.244.63.87/eroxxx/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult1
+http://143.244.63.87/adult1/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult2
+http://143.244.63.87/adult2/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",adult6
+http://143.244.63.87/adult6/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PLAYBOY TV
+http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+http://169.150.255.53/Private/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel HD
+http://169.150.255.53/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+http://169.150.255.53/Hustler/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",FrenchLover HD
+http://169.150.255.53/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",BangU
+http://169.150.255.53/BangU/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Playboy TV HD
+http://169.150.255.53/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 1
+http://169.150.255.53/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 2
+http://169.150.255.53/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 3
+http://169.150.255.53/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 4
+http://169.150.255.53/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 5
+http://169.150.255.53/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 6
+http://169.150.255.53/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 7
+http://169.150.255.53/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 8
+http://169.150.255.53/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Red Lips 18+
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Р СѓСЃСЃРєР°СЏ РЅРѕС‡СЊ 18+
+http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD XXX
+http://78.130.250.2:8023/play/a03f/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Brazzers TV
+http://78.130.250.2:8023/play/a06f/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD XXX
+http://78.130.250.2:8023/play/a03h/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",DORCEL TV HD
+http://78.130.250.2:8023/play/a069/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Redlight HD
+http://78.130.250.2:8023/play/a05q/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Blue Hustler XXX
+http://78.130.250.2:8023/play/a03g/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+http://79.127.207.193:80/Hustler/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel HD
+http://79.127.207.193:80/DorcelHD/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 1
+http://79.127.207.193:80/PinkErotic1/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 2
+http://79.127.207.193:80/PinkErotic2/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 3
+http://79.127.207.193:80/PinkErotic3/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 4
+http://79.127.207.193:80/PinkErotic4/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 5
+http://79.127.207.193:80/PinkErotic5/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 6
+http://79.127.207.193:80/PinkErotic6/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 7
+http://79.127.207.193:80/PinkErotic7/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Pink Erotic 8
+http://79.127.207.193:80/PinkErotic8/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",DorcelHD
+http://169.150.223.25/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Hustler HD
+http://169.150.223.25/Hustler/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Private HD
+http://169.150.223.25/Private/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",FrenchLover
+http://169.150.223.25/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic1
+http://169.150.223.25/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic2
+http://169.150.223.25/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic3
+http://169.150.223.25/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic4
+http://169.150.223.25/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic5
+http://169.150.223.25/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic6
+http://169.150.223.25/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic7
+http://169.150.223.25/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",PinkErotic8
+http://169.150.223.25/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",BangU
+http://169.150.223.25/BangU/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",penthouse2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",RK TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Brazzers
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Desire
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",XY MAX
+http://79.124.21.250:8199/play/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/ 18TV",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",BangU
