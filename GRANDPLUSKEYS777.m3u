@@ -4498,8 +4498,6 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",FX 2 Series
 https://toonixhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="RUZIEV MY TV +",Film 4
-http://81.137.213.119:4201/bysid/8385
 #EXTINF:-1 group-title="RUZIEV MY TV +",Film Box
 http://193.239.186.231/FILMBOX/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Emotion
@@ -4508,32 +4506,7 @@ http://5.57.74.130:8000/play/a0ac/index.m3u8
 https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Love & Crime
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER
-https://headbanger.online/hls/headbanger/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER CAGE OF RAGE
-https://headbanger.online/hls/cage_of_rage/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER FLAME ON
-https://headbanger.online/hls/flame_on/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER MEAT GRINDER
-https://headbanger.online/hls/meat_grinder/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER MELODY & MAYHEM
-https://headbanger.online/hls/melody_mayhem/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER NOCTURNE
-https://headbanger.online/hls/nocturne/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER PULSE
-https://headbanger.online/hls/pulse/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER QUEENS OF NOISE
-https://headbanger.online/hls/queens_of_noise/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER REACTOR
-https://headbanger.online/hls/reactor/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER RIFF RIOTS
-https://headbanger.online/hls/riff_riots/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",HEADBANGER YES! MUSIC
-https://headbanger.online/hls/yesmusic/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",NOW TV TURK
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+
 
 #EXTINF:-1 tvg-name="Смотрим Честный детектив" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png", Смотрим Честный детектив
 #EXTGRP:RUZIEV MY TV +
@@ -4593,7 +4566,7 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 #EXTINF:-1 group-title="RUZIEV MY TV +"  tvg-id="romance" ,Vesna
 http://46.32.176.50/worldfashion/index.m3u8
 #EXTINF:-1  group-title="RUZIEV MY TV +" ,FAN
-http://iptv4.mega.net.ru:8888/fan_hd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Cinema
@@ -4610,14 +4583,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg"   tvg-name="ZSMEDIA",ZSMEDIA SD
 #EXTGRP:RUZIEV MY TV +
 rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
-
 #EXTINF:-1 tvg-id="NSC" tvg-name="NSC" tvg-logo="https://sun9-44.userapi.com/s/v1/ig2/cXC9TbUmdL10k04vogBB2BuA4WAjybjYafTeekuohEuODlCiIGUEXTOIY1kXqHDMa46hsC3AafXdKhwJSl7GIqQN.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=640x640", NSC
 #EXTGRP:RUZIEV MY TV +
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
-#EXTGRP:RUZIEV MY TV +
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 
 #EXTINF:-1 tvg-id="ttv31509" tvg-name="CHERTV&KINOMIX" tvg-logo="https://i.postimg.cc/v85dGRbM/kinomix-uric.png", CHERTV&KINOMIX
 #EXTGRP:RUZIEV MY TV +
@@ -4633,21 +4601,7 @@ http://185.57.68.33/237/index.m3u8?WithCaption
 #EXTINF:-1 tvg-name="MKNEWS24.RU" tvg-logo="https://static.tildacdn.com/tild6230-6161-4235-b765-633836643231/20260325_0949_Logoti.png", MKNEWS24.RU
 #EXTGRP:RUZIEV MY TV +
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
-#EXTINF:-1 tvg-name="Kinowalk_tv" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140", Kinowalk_tv
-#EXTGRP:RUZIEV MY TV +
-http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-id="49811" tvg-name="ScripachTV" tvg-logo="https://kino-stream.online/logo/scripach.png", ScripachTV
-#EXTGRP:RUZIEV MY TV +
-http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png", SeleCaoTV
-#EXTGRP:RUZIEV MY TV +
-http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 tvg-name="SeleCaoTV 2" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png", SeleCaoTV 2
-#EXTGRP:RUZIEV MY TV +
-http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-id="49812" tvg-name="VideoArsenal" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png", VideoArsenal
-#EXTGRP:RUZIEV MY TV +
-http://kinowalk.hopto.org/videoarsenal_live
+
 
 #EXTINF:-1 group-title="RUZIEV MY TV +", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
@@ -4885,7 +4839,240 @@ http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
 http://ibb-media4.ibb.gov.tr:1935/live/399.stream/chunklist.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",423
 http://ibb-media4.ibb.gov.tr:1935/live/423.stream/chunklist.m3u8
+#EXTINF:0 group-title="RUZIEV MY TV +" tvg-id="18" tvg-logo="http://epg.one/img2/18.png",РЕН ТВ
+http://cdn.kubteltv.workers.dev/?ID=376
+#EXTINF:0 group-title="RUZIEV MY TV +" tvg-id="79" tvg-logo="http://epg.one/img2/79.png",СТС
+http://cdn.kubteltv.workers.dev/?ID=377
 
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1301254_55T4.jpg" tvg-name="katastroff", Katastroff
+#EXTGRP:RUZIEV MY TV +
+https://kinowalk.hopto.org/katastroff_live
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv 
+#EXTGRP:RUZIEV MY TV +
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 tvg-name="Kinofon" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140", Kinofon
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 tvg-name="VKTV HD CINEMA" tvg-logo="https://kinowalk.hopto.org/web/image/297/128x128?unique=2026-05-08%2010:29:16.575395&access_token=a1e3028a-a788-4930-9b55-2c0d36ce90eb", VKTV HD CINEMA
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/vktv_hd_cinema_live
+#EXTINF:-1 tvg-name="ZAPAH_KNIG" tvg-logo="https://images.live.vkvideo.ru/image/7cdf4ce7-7dae-4899-b6b4-abb8915abe39?change_time=1767663762&mw=640", ZAPAH_KNIG
+#EXTGRP:RUZIEV MY TV +
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.mEoNmWufHHxL.m3u8
+#EXTINF:-1 tvg-name="CHERTV&KINOMIX" tvg-logo="https://s10.iimage.su/s/09/glnHYskxv2p5gbVU2IQmh2ziUa3ABgGuDfZ0jS6XJ.png", CHERTV&KINOMIX
+#EXTGRP:RUZIEV MY TV +
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
+#EXTINF:-1 tvg-name="SmotrimVmeste" tvg-logo="https://headicon.trovo.live/user/3gipwbqaaaaabdcw4ebxkdmnda.jpeg", SmotrimVmeste
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:-1 tvg-name="MetalAlex" tvg-logo="https://images.live.vkvideo.ru/user/19124566/avatar?change_time=1718891416&croped=1&mh=140&mw=140", MetalAlex
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/metalalex_live
+#EXTINF:-1 tvg-name="WelZeVooL" tvg-logo="https://files.w.tv/profiles/users/01981946-e7ec-770a-b412-9d63f0228a17/avatar/41d86fa5-2961-46a7-9967-ea61ec06484b", WelZeVooL
+#EXTGRP:RUZIEV MY TV +
+https://tach.id/api/v1/playlist/DDFC7B71-45BA-4449-8466-4A143D588D98/livestream.m3u8
+#EXTINF:-1 tvg-name="Lord_Leonid" tvg-logo="https://headicon.trovo.live/user/cdshabqaaaaabnhtlxirf3o6cy.jpeg", Lord_Leonid
+#EXTGRP:RUZIEV MY TV +
+https://tach.id/api/v1/playlist/74DB5E83-5160-4BFC-82C1-4FD4E7271B9D/livestream.m3u8
+#EXTINF:-1 tvg-name="PZN FILMS" tvg-logo="https://ritsatv.ru/files/poster/medium/900989.jpg" group-title="🎞️ КиноStream", PZN FILMS
+#EXTGRP:RUZIEV MY TV +
+https://www.dropbox.com/scl/fi/8867lr96ahjz8ohejw7b1/pzn_films.m3u?rlkey=yzl0caie2uxqa6h0v7wt4jyek&dl=1
+#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
+#EXTGRP:RUZIEV MY TV +
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1 tvg-name="Kinowalk_tv" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140", Kinowalk_tv
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 tvg-name="Kinowalk prime" tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c", Kinowalk prime
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/kinowalk_prime_live
+#EXTINF:-1 tvg-name="BOH" tvg-logo="https://kinowalk.hopto.org/web/image/227/128x128?unique=2026-02-26%2021:01:05.977695&access_token=10a8f97e-805e-4fc3-843a-26a6db1a3422", BOH
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/boh_music_live
+#EXTINF:-1 tvg-name="InMuNa" tvg-logo="https://kinowalk.hopto.org/web/image/216/128x128?unique=2026-02-24%2017:40:47.422997&access_token=f260e238-b7e4-459f-952b-f277556c645a", InMuNa
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 tvg-name="Коновал ТВ" tvg-logo="https://images.live.vkvideo.ru/user/29025041/avatar?change_time=1759414105&croped=1&mh=140&mw=140", Коновал ТВ
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/www.konoval_tv_live
+#EXTINF:-1 tvg-name="КиноНонСтоп" tvg-logo="https://images.live.vkvideo.ru/user/31319363/avatar?change_time=1771434873&croped=1&mh=140&mw=140", КиноНонСтоп
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/nonestopmovie_live
+#EXTINF:-1 tvg-name="KinoFilm" tvg-logo="https://p16-sg.tiktokcdn.com/tos-alisg-avt-0068/7326524358644465685~tplv-tiktokx-cropcenter-q:720:720:q80.jpeg", KinoFilm
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/poe2proxodim_live
+
+#EXTINF:-1 tvg-name="Wfliq" tvg-logo="https://kinowalk.hopto.org/web/image/187/128x128?unique=2026-02-20%2001:57:49.533570&access_token=446ac72a-eb3b-4c09-b508-817873730086", Wfliq
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 tvg-name="ДиТи" tvg-logo="https://kinowalk.hopto.org/web/image/256/128x128?unique=2026-03-16%2013:37:49.692720&access_token=b67ec2ab-e84a-4a3b-816d-aad3fd123e06", ДиТи
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/mychennal12345_live
+#EXTINF:-1 tvg-name="Дикарка" tvg-logo="https://images.live.vkvideo.ru/user/31457995/avatar?change_time=1772638699&croped=1&mh=140&mw=140", Дикарка
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/dikarka_live
+#EXTINF:-1 tvg-name="Priest Kod" tvg-logo="https://kinowalk.hopto.org/web/image/269/128x128?unique=2026-04-19%2006:47:36.906330&access_token=7442a0d0-455b-4f89-bf9c-241a8dee7680", Priest Kod
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/priest_kod_live
+#EXTINF:-1 tvg-name="LifeZ" tvg-logo="https://kinowalk.hopto.org/web/image/270/128x128?unique=2026-04-19%2006:48:44.166070&access_token=e0548209-0821-42f4-8c7e-c49cd294d8d2", LifeZ
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/zhekos_live
+#EXTINF:-1 tvg-name="Амбергейт" tvg-logo="https://avatars.mds.yandex.net/i?id=9ff79e6c0b90c2c7b76164ef69a44b46_sr-7043127-images-thumbs&n=13", Амбергейт
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/ambergate_live
+#EXTINF:-1 tvg-name="Tоny" tvg-logo="https://kinowalk.hopto.org/web/image/274/128x128?unique=2026-04-19%2006:54:40.063208&access_token=e76a1864-808d-4b32-9fd1-5306c12157fd", Tоny
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/ordinary_people_live
+#EXTINF:-1 tvg-name="AlexVira" tvg-logo="https://kinowalk.hopto.org/web/image/275/128x128?unique=2026-04-19%2006:55:19.206545&access_token=e8a436a0-7eb4-46b1-8f7e-06fc05b14ca1", AlexVira
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/alexvira_live
+#EXTINF:-1 tvg-name="MилаШ" tvg-logo="https://kinowalk.hopto.org/web/image/276/128x128?unique=2026-04-19%2006:56:07.841404&access_token=f18173b3-667d-4ffc-9ead-313f66f6d11b", MилаШ
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/milah_live
+#EXTINF:-1 tvg-name="Jon Ricci" tvg-logo="https://kinowalk.hopto.org/web/image/278/128x128?unique=2026-04-19%2007:02:59.927477&access_token=776525aa-ee94-4f61-80c1-c8d0c2169ef0", Jon Ricci
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/jonricci_live
+#EXTINF:-1 tvg-name="Alexis Assa" tvg-logo="https://kinowalk.hopto.org/web/image/281/128x128?unique=2026-04-19%2007:05:51.622983&access_token=57a6aba3-f088-46d0-9f85-f83ea51f0219", Alexis Assa
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/alexisassa_live
+#EXTINF:-1 tvg-name="Space Wanderer" tvg-logo="https://kinowalk.hopto.org/web/image/290/128x128?unique=2026-05-08%2010:16:35.454075&access_token=718ad58d-15f1-42a9-939f-26fa510d70bf", Space Wanderer
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/space_wanderer_live
+#EXTINF:-1 tvg-name="RedFох" tvg-logo="https://kinowalk.hopto.org/web/image/291/128x128?unique=2026-05-08%2010:17:33.956329&access_token=98fb18bc-a343-4f88-8a62-26f8c79fff87", RedFох
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/redfoxs_live
+#EXTINF:-1 tvg-name="RedFохРезерв" tvg-logo="https://kinowalk.hopto.org/web/image/291/128x128?unique=2026-05-08%2010:17:33.956329&access_token=98fb18bc-a343-4f88-8a62-26f8c79fff87", RedFохРезерв
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/redfoxmusic_live
+#EXTINF:-1 tvg-name="Tyty35Ru" tvg-logo="https://static.goodgame.ru/files/avatars/av_1626031_rEU0.jpg", Tyty35Ru
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/tyty35rus_live
+#EXTINF:-1 tvg-name="Кладовая Фильмов" tvg-logo="https://images.live.vkvideo.ru/user/34036642/avatar?change_time=1780923320&croped=1&mh=140&mw=140", Кладовая Фильмов
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1 tvg-name="NeoVision TV" tvg-logo="https://images.live.vkvideo.ru/user/33342535/avatar?change_time=1779428598&croped=1&mh=140&mw=140", NeoVision TV
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/neovisiontv_live
+#EXTINF:-1 tvg-name="UncleFox" tvg-logo="https://images.live.vkvideo.ru/user/19206216/avatar?change_time=1753699678&croped=1&mh=140&mw=140", UncleFox
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/unclefox_live
+#EXTINF:-1 tvg-name="KinoPro" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg", KinoPro
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 tvg-name="LucyBedma" tvg-logo="https://avatars.mds.yandex.net/get-shedevrum/12368819/img_c1fc747df90211ee8b43d2e8332488c0/orig", LucyBedma
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/lucyvedminaaaa_live
+#EXTINF:-1 tvg-name="Кинотеатр без билетов" tvg-logo="https://sun9-36.userapi.com/c857236/v857236517/10aa63/TdQMTUxG7Ic.jpg", Кинотеатр без билетов
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/x-x-vanes-x-x_live
+#EXTINF:-1 tvg-name="SeverTV" tvg-logo="https://goodgame.ru/files/avatars/av_1116296_BCRx.png", SeverTV
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/severtv_live
+#EXTINF:-1 tvg-name="1st_witch" tvg-logo="https://kinowalk.hopto.org/web/image/322/128x128?unique=2026-06-26%2012:35:54.250393&access_token=4e3d4986-59b7-43e8-9c30-29aaff262bb0", 1st_witch
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/witch_live
+#EXTINF:-1 tvg-name="Фильмоскоп" tvg-logo="https://tgdir.org/media/channelimg/documentaryshorts.jpg", Фильмоскоп
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 tvg-name="HTV" tvg-logo="https://kinowalk.hopto.org/web/image/324/128x128?unique=2026-06-26%2012:38:27.488700&access_token=5806c649-fea3-4b73-8f45-ca8552b41bbe", HTV
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/htv_live
+#EXTINF:-1 tvg-name="Real State Films" tvg-logo="https://kinowalk.hopto.org/web/image/325/128x128?unique=2026-06-26%2014:50:28.479360&access_token=3da0e03e-717b-4969-bce2-6f3f5d5cdbc9", Real State Films
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/rsf_live
+#EXTINF:-1 tvg-name="FilmsSerialsEveryDay" tvg-logo="https://kinowalk.hopto.org/web/image/326/128x128?unique=2026-06-26%2014:51:18.003467&access_token=85cfea0b-99c3-4be9-9e19-6e92b9254d71", FilmsSerialsEveryDay
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/filmsserialseveryday_live
+#EXTINF:-1 tvg-name="Кинотека" tvg-logo="https://kinowalk.hopto.org/web/image/177/128x128?unique=2026-02-20%2001:57:49.533570&access_token=47c42de7-a71a-4cf9-8390-aa3f92f5aeb5", Кинотека
+#EXTGRP:RUZIEV MY TV +
+https://kinowalk.hopto.org/kinoteka_full_hd_top_live
+#EXTINF:-1 tvg-name="Poz1tiv" tvg-logo="https://kinowalk.hopto.org/web/image/328/128x128?unique=2026-07-03%2012:41:58.367251&access_token=ee8b31ce-15f5-494c-8254-c78564e49842", Poz1tiv
+#EXTGRP:RUZIEV MY TV +
+https://kinowalk.hopto.org/poz1tiv_live
+#EXTINF:-1 tvg-name="SaN4еZ" tvg-logo="https://static.djagi.com/avatars/djagi.com/1281278.png?r=1560454775", SaN4еZ
+#EXTGRP:RUZIEV MY TV +
+https://kinowalk.hopto.org/san4ez09_live
+#EXTINF:-1 tvg-name="Фильмомания" tvg-logo="https://kinowalk.hopto.org/web/image/330/128x128?unique=2026-07-03%2012:43:12.413615&access_token=5e5dcd65-e3b2-4313-af58-9d4677fa4e47", Фильмомания
+#EXTGRP:RUZIEV MY TV +
+https://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 tvg-name="Kino.Online" tvg-logo="https://sun1-85.userapi.com/s/v1/ig2/LTqGOjmooxX-zIsEGpr5HRHX12v21qmlpdUU5o1ObRgY4VV1GUUKn6ocmS6swtrYaq7aUNIuJ8Ots9SiyijGZ6C0.jpg?quality=95&crop=103,120,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=540x540", Kino.Online
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="K1n0man1a" tvg-logo="https://static.goodgame.ru/files/avatars/av_1639851_aMJG.jpg", K1n0man1a
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-name="TV12 MAFI2A" tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360", TV12 MAFI2A
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd79.okcdn.ru/playback/6258783562721?stkn=LGFR4BuetxRDxWb-Fe5_8LRzLCIrjpUHYJMaXC4lGh_7amroGBS4D7cCf4EjgiYzauW5KCSI0n8&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-name="Кино FreeLive 1" tvg-logo="https://s10.iimage.su/s/09/gMcy8QwxaBXPvSA49VCd6psrgzHjNjfIke1pfHRbD.png", Кино FreeLive 1
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd236.okcdn.ru/playback/14167521176489?stkn=K63bC0mR_2_wJ1fDCuwIqPL3m5zAPcJqn1PUECXMnwmrAP5psa3RO4XhZHQN2jKSKYekmxuddknX&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="Кино FreeLive 2" tvg-logo="https://s10.iimage.su/s/09/gMcy8QwxaBXPvSA49VCd6psrgzHjNjfIke1pfHRbD.png", Кино FreeLive 2
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd278.okcdn.ru/playback/14604821867372?stkn=-L33rBhM3bo3xHiCOaJjBizQ1xfGEOJG5-z8X-NEpgX3qKNu9tFt5qEbCzt0b76D7uKoxzuvf0nM&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-name="Кино FreeLive 3" tvg-logo="https://s10.iimage.su/s/09/gMcy8QwxaBXPvSA49VCd6psrgzHjNjfIke1pfHRbD.png", Кино FreeLive 3
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd265.okcdn.ru/playback/14747592633333?stkn=roju0B4qSdM9UAWNs560tdg9PdfhVB2NY0qJ-Yp731TeuykSNzfnGTbAap0b2YNc_Hc69QLOMpLn&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="KinoBar" tvg-logo="https://avatars.mds.yandex.net/i?id=92e18b465873421912a82a442a09fcd8_l-5522449-images-thumbs&n=13", KinoBar
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd79.okcdn.ru/playback/11865043512184?stkn=iP9X2jyo6Zr-w_LUZKkXvBaBp3-lOX9JjFgyOpcPnbsjorW-MN9cBeUsyuGVMWt0uqYPqhnhKxwK&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
+#EXTINF:-1 tvg-name="VHS кино" tvg-logo="https://goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 tvg-name="Devil TV" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-devil-tv.jpg?itok=V8J470B7" group-title="🎞️ StreamFree No 24/7", Devil TV
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://vsd286.okcdn.ru/hls/8835259501143.m3u8/sig/TWWXnFuUaMw/expires/1783310424514/srcIp/46.138.156.50/urls/185.226.52.84/clientType/0/srcAg/CHROME_YA/mid/10058807582295/8835259501143_high/index.m3u8
+#EXTINF:-1 tvg-name="МОЖи" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a813613e-dd35-43ec-8a85-208a53d62546-profile_image-70x70.png", МОЖи
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://vsd173.okcdn.ru/hls/5565406644844.m3u8/sig/fd1CbumGBgg/expires/1783310463118/srcIp/46.138.156.50/urls/185.226.53.102/clientType/0/srcAg/CHROME_YA/mid/7133972668012/5565406644844_high/index.m3u8
+#EXTINF:-1 tvg-name="Kino tv" tvg-logo="https://avatars.mds.yandex.net/i?id=8a40401a1225700e6e3b1191c671ca63_l-12421615-images-thumbs&n=13" group-title="🎞️ StreamFree No 24/7", Kino tv
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://vsd96.okcdn.ru/hls/16557899254453.m3u8/sig/5chuYGLEdv4/expires/1783346024414/srcIp/46.138.156.50/urls/95.163.35.76/clientType/36/srcAg/CHROME_YA/mid/15554625161141/16557899254453_fullhd/index.m3u8
+#EXTINF:-1 tvg-name="ЕСТЬ-СТРИМ" tvg-logo="https://images.live.vkvideo.ru/user/19192529/avatar?change_time=1760441532&croped=1&mh=140&mw=140" group-title="🎞️ StreamFree No 24/7", ЕСТЬ-СТРИМ
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://fa723fc1b171.eun12.playlist.live-video.net/v1/playlist/CosLMpVoH0KU6hA__LgmeknOzSfDxVUQV4Ig6zHGKNJUupC1V99N6C3VRWpimBEcAGLUyEqlhf5KQ58NjYvnzTdPVhRA_ciTJBy8tsuNf-iwa4-IT-_hkdrv3GWa91bOLhBYv8wuvBnpiHSxG9PS9J291p63IwRQhd-TgrNVNCwtPhpuoi_4_40CVcBV59BUyti3i410NOB0HyEjZjgFBMQmekLVX9l7xu-MXirUZh0oGewwB1CZmUBIQRjTiKOc1WjaUmYnYxnrW2WSIwoLeZB03kI4DbfsYNbtENF_vxVdvNToOeJFI04ch8Lg-ThUdTABBKQilUY1J0TWUuVh0Zud07WV9POBjyrVyLO-9Mep7AfjtLSMK8J_ENGiTm5oNW9qRu888THBY0vyYgpmqD8KsCBDLfonG0HycTfte3uvg5JnE_xz8tPEwBhLIVIHr_PoiWxP97s_Dnf8wRXci7bUrAEIAd-5dYAzIgmAGmV1yWF5vdC5YHvsaL3LcAQ6vRVyhq3TVnDK7yCtxbEHHNiyokO6rXp9HDuLwngpWwLXlKiHB_za_AjQXHP5pHyQ5jgd34ooAA-IFXP7XL07IT2uUVH-BzOhnBskNAX4Z841aSBOa5VH6EJSLk61-Wt0Akm_XhAuLR-NwQKoNAM_llcutvNdtLcN39EbmMRI5LW_sT9TfpcIb6b3qj-O3ogpUG6H98VawLCwXTsl4m5WFN6REUgUtQK_ECy1rS2WwEVm0Bhs9OS3Kj3LrAs_33eG7m4hYjOdiUkiEw9-jrROknbza_GyEKyO1-g8mysc4dAmddhO5pttvgAcpfujWDTTdHURSN6mN3EuxPSV4Weexi4B-E2YH-VwXlgZzVJeDl9uYXerYS8uE_R2bBlhqGSGEDk5feJgtF8lAoQWqRIIUU2OFiFsUokZDoruyFqNozYwsX1MvK4XA1Vsf7zbwL_Lau5Cn-71dZgd_A9s4mnMdNBzDmU1KI-VxVCnoNc_Kx3E6kvbOwG1-UUgCrMlWVjP0-w7gUy7es544LWtgml37sq7ampg7fqUJnNOFiIabSVIUhN3YAcgOdCHb8G8N3Eoe849rJiji1-YASiqJx6k3rdpMAoUPaix0iX3SWKAHSDgWsXe6vUmGYkipJDvSKlPAAlubmTm68kVkQSgOJ72wodSpcLxBTdJTeiyleFOYgZpAnOZvq6q6u6hb_oSF0UY9tTscdUGZxIhLy42QKR9SYilbekYPC8PWXzN8QWWJsccG4IXt9_RaSU0IyAeiDd0svZDOt2j76WXyFLrFpsFh1GHSgWWy4MIMlID3TuMLewwRmLN6aOkkS7c0M9u9dxI9fzzU8D3sW0SJlLEPFjkMYKgKF6qeN9cgt93cCKhtrsJA128G4itrvr99ECpMTAv6paaYAZg0bOLGD7j9sJVIJut8mwBQIS2X4oSnfyw3k3kXBxc24h7k4Z41QAubAtMwpATi9LVSQftWuiktS45YjOyl-eGBYR4_P2Hb1rF1EKmhp3iTzzrwXsZK5FuoyU8TVHfYSn2mXdQAnoKzGLtLJOXlKdm-0G__IIx3zQ2GvijOpm5B3vJGLIU0OqHkNhV99Yj8_OMYPm-3saSB7AP3sfXxUn6jjDc7CkoI-2c88B7xeQguA528iG4pmAwj2UFNKZf6ilFzCdn5mWhXh86UkwFz0Z_8iq4pCXhBCENHvfU2Od_pXXQybu8Qf_SoEDAUgwhLLWNbMHTVrsdHB-L5aaMeuKcMPBpzunMYfq8u7ne4FPrxIjs5M1QmgIhqcPwbKwk87jmIhZMmPbv0YxspsnyzUhJavkmxWoffgu4ON-iETE0kA0Z5-XU-M3G_UKOAITvc5240-0In2-LeJVPMItn56PtZ6v95ldQia6xGgz-Nzp1AkYyrUorF9ggASoJZXUtd2VzdC0yMMQP.m3u8
+#EXTINF:-1 tvg-name="Kin0ZALL" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0e6bc225-2783-4ba8-a24e-57cf5f40bc87-profile_image-70x70.png" group-title="🎞️ StreamFree No 24/7", Kin0ZALL
+#EXTGRP:RUZIEV MY TV +
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.5NwijZcEwaMx.m3u8
+#EXTINF:-1 tvg-name="GUWi_TV" tvg-logo="https://images.live.vkvideo.ru/user/20603935/avatar?change_time=1743287172&croped=1&mh=140&mw=140" group-title="🎞️ StreamFree No 24/7", GUWi_TV
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://vsd134.okcdn.ru/hls/17938076207718.m3u8/sig/2kK0Fp2qqSg/expires/1783310534650/srcIp/46.138.156.50/urls/185.226.52.55/clientType/36/srcAg/CHROME_YA/mid/16085069612902/17938076207718_high/index.m3u8
+#EXTINF:-1 tvg-name="Произвольный стрим" tvg-logo="https://avatars.mds.yandex.net/i?id=1bd3279030bc6fd4184c99c1bda7ae63_l-5896712-images-thumbs&n=13", Произвольный стрим
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://fa723fc1b171.eun11.playlist.live-video.net/v1/playlist/Cv4R83gILyZO86-HgdKxieZ1F6xrEiz-AlGj402kjbtNWGfbzevn-t7yT9en6L58H3Yr_h74uUUHhTm3ZdEQ9MDDazffDoJJNFgDrncL6ZLuNHVRH6bTZqhAOivzyVZk8y6aAA_F2uLuBCXD3Gjo8oP--Eolzkih4B_MUkldO05_fkeYd6Uvj-Y1niuznjO2T64BmfFiet_LiTxfFv3KMtav_5Hx_qBL1KpZhoncXe3iaNvvVBnPQsZ11FjOCe4lHUpBlNY64AixpfMAlHQTzbD8DdVLNo53g4MCBGFfe_q9UVI421wGlrySDOxl6jd59aNHSDKHHKIvQjPORLXsGQAjPd7pAqiuKLvzIwpamdNwF5hCt-3y0ZgvuniZaI2lv38cHc9Gl_7zILf3l8KbTrBlscXZpdNBel8-yfZLEvH2kMqb7rl5p4lneA9KF8m7BMV6fgCGGwuDMsEkk0oldf4RfoyjV4Hk2qbY5wA2lAAzwULJ8s3ONAUShi-Fw8Ska-8c34n65IxEqs5sncXvHJaOIAehdyWPbLw_xDDfIe1bk2cuVnU3o3zQqZR0KVmKftjcGFmvdWRt7HBFPYcAoYwmaeF3EyL_BKi0VDyR2DX8rLPVG-_vXR9sIIKtt8lU5p1comiGPI0YSbLWPbPXnM_3h2NbJEYq7mKUZdeh4yS07la0Iv0jkpQ8Uwv9A5gxE-wcqlrY66Q2hYooK2RW_wy3NeBicqw16uZBMVKb5KL5XZHi1Reai-bjPTbxTcKDg27ge4gI7g_U3yWRs2m2p6zizj4ayR-ZmaCAX9JpJs8bKa3QRBSmSCPgliRO9O-EaeqpMkPF-PrqFvEsg1cX7IZptI6j_MBqiVK4qOcn0NGSSZ5KU_IogXeBBAoLibdpxPnG4Ja7cXcLp__lSgFEtKfaqaZdNlL4omH7oMRf6QTNtnEqQLYbt14BEEXZ81xpuAlPK48wBvmVWaplSpbD4-BHtpR4tiCxGWOY1XKMVX4ZUMW38S94ttDi9BmwkRZFaEdLgZI_lnckvBhhZfWF_MDKYIxQoWW1LaoZNEZc8lYWtUA_LkbmGLAeVGKhUVG3gwXbtjHDzJ63Z_rWrOVDYoR-anVOQI9w-gAinQ2OXUp1NfAIngwroz1dBLOENUJQHzagG1wJ8bsMxOiheLg2-jdQhpF4OEEjD53w0asR1WXmZ8AKvqYqq9QDIP8noMkznbo7Yk0LUBfyVMEzB3Pzxn6iSmd9MniNqcmcpfyPUEpzq_EwKemIhNjJh7Syw6Wda1haborYB3PK30-Ffltnt23HTlYv6PWWokcq3TSB9-kku4qEdWPac-99pmhfRGMZCH5CXto3BRlnTPqQmaNmjCc7PeUL0UZ3Z8LFFOrN__xCMt4XsoO5LxBP3M9xYgzSlteJ_Pdb9TTDbtT1zDnGJ5R4S_gPoZNXTn6x2SMfASzE1RcL6MDnFM-2KPCTo9Zu1p7kOSXqomnyA-JFR3G67KBAQ0ubEr5IjUJvUIQRvBXKXbbr-3lmrY_A4Y3LXhGznLaswGGrUbmj3DMB_fvngNaDAycFh0svKfeqOVizqkgy3zV6UZSVZbt2m3vzSFJBvsWDgV9XkJtAqq81WLZFObXyOz-Im_8_8TN7vp9blKhgOKpgr2GA3STLvh_eboRFIkfC0ti7ir3yV4l-Vm9zk2ruepPueuMKjAUGAhtksHwKQwwatH_T8Nt08IeXl0HzF_Rz68taN64PowDSCBNVCvKT6TljlwyOAuA7N2fTG6heqT2rcH_-9dIGzQMHY8irbellUCthQbD26FMYiGMGIL8nE2zJBv3MQZFFEBAzwuVmlAZIah1WAi7E_EfDC9zmw1r_7YZK4PCJ8-aUEepcfLlMRPmZsLWXH9ymxjhEhPsRAXO5v9eCzaxyUEO4RdACkbX9imbeEh9cLk5lMfiQDJyuZ19EXXrDuBSRzI3IVVFdVvv3jHLrYOka4g5Ok_BKgTucN2dsDAJ0F9xlqJL4UZzX7Nf0jcO_2W27bstdhzN9tt4vPpkHM9ld9TY32Ufjey-FZGgm3l2l4eqyQ2YlM9cwq_OfI6HQEvms5BJqFt6a5Y6HOo9ljnSMch1QpVhjD_LDXzZy46gvvPOWTMQBts6a-_GX8gcwhssZvQPU0gXLoZ60oaQbl1DOqP-Jq6pzIWw182ivBeAzqq8yKU8dkKXiwEvplO5jlaLzmJTzbbDX1jIigWo0FEuj905ceEZmS0CTDGcp1xE01fiUioAk8FqXWODw2R8lE1qbBPn_u8dq2Y1dauGlXARBRNxZxL6NLfJ0S5Xwt6PEDmmdlM-PSIYokJ9UiMV01kzRGAfkHqOg_6gv7jUc4P-fgCJ0-xZMbjgexdsvEwh4nZavvuz6zzpHF02ArIdxlMerUTov7Ab4YNdNWSMelC8Zznr-AFvxHnkvBIC6_G_vitoSFpppxPqWmk3Ai5c-yCxQ9LnEv_WsEaxgExFPffdGuti0sTf6g7MuZude8A7N4kD7OwsinQ7cjik73VaiS_UpArIb2R71x5TVcI_lmNxQMnz2prrcfB5AtKJ3MGmQyOEy5vNGkuYs28FAaJytvaXgfLjxWXVUv8x5Rsmu00ox8Zsv59ky2NHkE-Ch-GOllRzx2JEJXPrvrcsk8htDz7ziOIsu3VWrpO4VgmlP4mLiGi-cizNZg0w9uRdakKPNpZYb6-n7hGfWNZp2LmaUBnwXy1CaqTH4HsKyO-Ov-YJV8pyxcDjYigXZjt21r_ltlr5vsL6_MbITV8_JD3veg_zHk9mTSSYUkdm7OQOOp2ijH8ElL97HVpQNf3p90_ZaLg-6QGWRRuWHRoFMm64PydZvPUWEEKYTY1x7nPEWsU3WtGoLga6pTBwqacZAXDRIlt4-ZtnNsOd3a-o5b2xhI2Vp2mWkVPZxnY5KxH54Q95yWMb5UtxH9Tmwqe9jyGdcCW6X5O_tCbYW7dZCr1r9MFQZ5_9OXJW2G2RMnWhtUvu-OmU2Sb_bNoOaYWqUP-ViZuD9wHHXHhBRw0kx4nbD0IwGCdM0uGKwvbb1juMe_L0b8SkF3PI2TRoM9IFUhpxJUyDXEHaYIAEqCWV1LXdlc3QtMjDEDw.m3u8
+#EXTINF:-1 tvg-name="Паранормальный архив" tvg-logo="https://s10.iimage.su/s/09/gtNYHXJxBT5tzWzEkTO66AFMXn0zPQnTWsbtTn7j1.png", Паранормальный архив
+#EXTGRP:RUZIEV MY TV +
+http://kinowalk.hopto.org/paranormal404_live
+#EXTINF:-1 tvg-name="LiveStream" tvg-logo="https://i1.wp.com/st.depositphotos.com/1005920/3441/i/950/depositphotos_34415065-stock-photo-live-stream-icon.jpg", LiveStream
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://fa723fc1b171.eun12.playlist.live-video.net/v1/playlist/CvwRO96Hi-FSuACyIQBv_lad9DfEMAjOqoGWuODC5LJXMc4bvZN60pdbdYl4BRPPJyxMUwqMaUqNsVk32JHtTEFzyXJusYRXu3tE1dncMYZ_uP2IDwPwWXgs3RRBej96yEX3R2YolkegsTaSuR6bBbHt8Ju8Ashk1quK1EzvN5DAGoy5k7FzsRGIitSk0jQTA-KS-kfG9xDDztDXVWziCGs05DroAE7EFuV0hmg88TKbCldXdzSzlCKyGccibZfXCKacPbDoKSEFHeBxnTWooFKkBKEJ9ttaAcOhLrcFOeiqOIsblNQYwOiKTVMBeK853Zzuzlo248qMsk6_w4WYrJm8_TTYLAr_tZlwMYFWkX4smm0ke5QnG5ipmlletW6SgGsBX0Y9kiaIVyr12CMBJn579WmPjNMn-QrWA9KVJjCvLGep9wPYnL-Gms1ZEv4NqatPC_d_9GIfq60MklT_2uT_WIFTIphN32rFwEP1k6a2BSjzKjCaCEYG28QmGibM9lXB00N54-bkfrbz0mKgoDA97ypxybymPOovNXvN6Uq_Tt-ouJXg_ydTpmGqXBkzKsRZx0puWAuqt4rnA62QPWescGHfvU3z7zs7wNQZQKIW2O3KEiB8yTR2hbjIzgfUqEzwYErl2LweE3XmPEx98PihqyXpKPGyLRlc2u8v3GGJGO_7upmkDn9sYol_EW1eQwvkdlu6SELlspjwrU1HqFPu1S6oRgwylAP0SONSRjHIWNAgJXENKNZRw0PtD8kukRbQbWYo9RLtYPjfhTgOxNw-wmxl4qY3wXUzLGu_1sTKI0hILUxLvyPrTK0-FL-849SVTX5H_FiZyw8vTlpdg6Ntx6MxuPCkfwA3bNvEaEj7mgmY6wtdM5j_Bh7EIqIZl-ZP7USUGSCyc5zJ-JIpyF32sw8myfm_ym8SLchrBijfekUqWIe_4IjJE1G_kPa8KtU6EwSPDh6xGgfg1Pm3JgFmggpigS4OqsFOLRZAGwLW9eK_Uq2Jl08nMD3sIUJXLq-annSnsGIQJzzmzKj_HnjiGmsSNx5a4J4qKDbbzTj2MSLekJabgSXJskQ18XU_Ym0Lva2sose6z2HFZ3Z5mftEGm1k9vS1iJLki2aa9vHJMCQT5Xe7QTN4lBDISy_Me0re6cVdAU9ao6jrhpE50WdiFBO97vxQlAExITCXrxik4OkvmVAFXy5Si5W2yJkCjnul7OqVJrz_Z8FxhgCaRUHzZqbdEa29hEK4lPl3ScZRoN8x8Lob0zfy-G7Ikhx5fbG-Ow6tqkqg6f_eJS8FFh0pfVBKac2t7oPbObxsEIq4_lAnbdDc_0c2KBMap5bn9wQEExGlY1XVrONsO2bBAbImN3mV0lqy-m3YrsOLlt8JV5YS1DkI718t7VWTl9CNmp4oJH-uS4z91ZSDjRFOjKJ2wripyycQs5UAZPrnn-YtqhjVnlEMjF2rWJHHLUyTjTiUO3fr0-8VjysKsf31f4tLhu3eW6ofv23Muf235ANRTNCBcJbby34-8E1sBrzmg0den2ztrHAQdHgMZACyDdEFZYnOjAE-6wGIsziGskHbvqgXX7QsVzMuzQxjBM_OjkvcR-U3TrWPimQ2BgAJLJULgS9PW56UeP_DIFqWY5h64QVV6qG0Gjoec7un4xebIu0aN792qyAXro3GJHxWqfMoJvpAAwhE0S72Ex6KUU56levR79MT37ijtJxjaFhWUgEJKamzS1VUgwy4KuYNsJlF4A_zYLUWFPtfg64UWKC2UZECfhRT4d9un_PO0-vkzj87yLy9yVzyYCqu_qSGuPPYCiCOG2neq3ElyGFFtUppSyx5p1TpOtXaivfT3I-dDPQ5QRNjPAoD5hkoRaozPgnYDoHRJ6m-cq35wm1OBm9PsFuGQTKj0ImZLnoz2WJKRWX1QTu-r0b3oj6Jcje_NzWcr9qt1TPw43TyTw6pICv2rHHMQp9cyLjYlrb4zcBA8Cd_sM6o2F9L2htTZFoWKGzWTZJO1CsZuCJyQZR8Z2GBuCLRotUEPvvrsfjNB909OMt1GXJ30ZnSrU5xrP_dCANdiNPV2yt781jrvcIAtmbogiPjxb2yWlMRhQtvpbV9l6bMnz81Iew41jV_SSdGj8A_QcerwtstzTtWaoA2h--bFYE8JTGs3HuzmMzgu4a89fUgD_Entn9eDPVzFyHteNsvTHBFxTUETxRnP46vpLvXplviWs2KsQMZyWwJOXOO-gE9Oup4ORpDae3iTqW9Bq6V7zMq413dmjcPGLxt2WWEG_S579yVZ0uYRADpPf8XHv6CLlU04zzB3Qn7Bv6jhd2wHmQHiR3RZ7rkYDb6ka0y6Zj-aw6bVTG5Rro72JMDfOnGfKY4s_hGypBrsgLjnO4dANnGkiQka5oPXZg-AhTMkPN1XpJoSzbCWeW4M-lF7pRcRIA30MNhwJmt248CNYRx_PNxtBiwM1rFS7G2MbtPTSh2nwtnjns8tp-ZJDaUTIfovz4YkkIV8gyaJxLlKI6_0GEu8nEu_ROuqzGGM91RH-oLULX_cXyFVfeq8-bIwN4DadmB7Eb6LlTIsCogIaNxtZLxf2aCJ9bXVHCDAuDaYZ3o0T1ItWR_iNpXTsCxSVPUOZM6epz0g3wfdqArl-I0Poj1dLlxpLtv9Bl3_shZv13XcwxsaCXX7MBr9S1vOS9XYrXUsnAWz3p_EvNyN9C78yOIRMrUBfoyc-TR-fPl2haksUN8UoRzXPK0h_mFZcnQMLoz5LNDwlAS-b32XBdEM7yB2mRX9WdGfQ9eHpC0my3meM161oe3gY7n9x8E1CCTDKbGyW7JccHmi4Lg626zE8HP-myRb_YYqNgtJF_aWBUMWEmrMPNsYUhRtN-APYvI91CUUQGa0ZbqthBzOM1OAv2cYQBlpOeysNzAOp9zuBb9cUfoJI6AO5AcNed-Q1xCuHqkpg7zvyx6p4_vgAqrtirKAvl_cGjK7tKYqJtpoDbazTvZBbKY799GQGwnJLt30EoQtssmM1DHQDUi8ky_v_KdhbBYNHdiiaR5GvQVGSwSf0l2p9lRSvynTrIaDGOpNfNFBLTtgm3rWiABKglldS13ZXN0LTIwxA8.m3u8
+#EXTINF:-1 tvg-name="dimkoftv" tvg-logo="https://files.kick.com/images/user/70653676/profile_image/conversion/888f2613-ae07-4afa-8bf1-fbaa4a01deba-fullsize.webp", dimkoftv
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://fa723fc1b171.eun12.playlist.live-video.net/v1/playlist/Cv8RUUPzfj8C_wM9mTfs-yFH8N27-z5eK3tIfofatLcQDQ0-mnQxXf0XxQykVJSk9E9O9aih5ps6-3nliW86RYYtasbs2gCILW7xaadxuzzPj6CnS9UXzIJ1k_sMts-rPsPbwziw4ONg2GlxWdtri2hi-3VNEwB-WnBhBXzLTlVT64kEHf5nQ06TYnC-l7DuOXVO9BOrUppQ_rSQyd_HCeXI8BsQPcNsGQABhNuXv8a3TUt5yD2FuH1QTw8xSmCJ4wR8XQi4AzmGyKknJKw5VDoNdm8ZNyPXrQvojpW1W0yWbwb6Bks0QBtM2KzW9pZ4wZMwFPhRkMrlZkJW3d1M2OMjYKBh7uP1Zk6bL17CHms7k6pOGGbvrDQVHadHvx_PQRiDTiZqgZZTDGMGtB3UJqstGDqR1dhgwQpP1gNIYH9AY8uOVPCCbE-zFQTbah3Y_bVeG5jeWibW_gckTjzn3zF15UHTlqpOJjwvGsSmxI-25eS5-ZpcRycWkuUImJ0Onnp5a6_JehBBlqU4hipveRT3W_-czGAFZ3uBCK-9wKi_rzYJaLCSeoyLVrIroCYRyT8VhBciT1f1MBUtHBTd9JIzl54wwFu2FGRe9jSUT9LiZTU07_84sdfhstvTihtx38oMBjiHCc0AN62UrfkOJWhjZFDPVrQ5avhl0-pZuBV7lzbWCPHg1Wqbb9wY6Rhv_eQwsQZjRWst4Mpu50Y4iLaeKblxTM_awQj8_N8wcLzmeatZxR2W0p-1zVZnfGROYf7MCGXR34CuY-AkX0WMI8loIlf54_DIG15LtVSqAPhq_ILDCA4lyBd4tlH_Qb-KWyk82bCcSLk5v6facX4OBY1Q99hccpcr3nt9AaxnOOQxdn_KFuNAseelDOJAsWvtUO6KuT9d79871nrSe5-epKQ2k40cfM_XKI-qZ3Mp2Gd-5KvGi6oxfTqMhPlh8W42Vq0r7tyqWcy6q7f_irzX-jBGQCK0eLYXOhnXDaZKapq6veySu5RymgzFig3D865Y5A2X-mceNutO5_88JUWQdEYfbR1DNgPJ3645BkASM_QRoqiMhu1iGRnvP6V1UZ0VcvM7cZ2MlOoK-qdH0RJ2Hi7aar_LLca7JxokQ9-sNcpm9cNcK1xI0EY8g82-df2ToTT32NBM6Pjj9sFLNEfpcMCQNfvK0X_vtpr3piMbKhTZNHO0zKlsB8PYWOwHhLrB9S4hCY-hYGu1ydz8FxCP2S_W6ftCYXxBbbic_HpOrnVK_kWVcdR_Inkb_8dmvmHHLLb0qhfjOY599foIBeo6oMX43z_nJg35Qv6FJ7fBoZTxonAPGJqzKD6A36gbBteawEeL6ML6ksDOad5s6cR6RN0KYypWEM0kY5CFG_shf27rJtVZEaRgW4Y57FkD9qs6jYNBfPEScVvBLWOpoZAKJ3JvaTZkDjGEHPPNcfRJJ-CVEHziJVr_byxRbPmEHjsCpYXYc36aLdWCZtoP7GGiIp3PDj1ih8u0WMg-nAFtxs6XWUZ8NVUCWkiI1djyoqjhTo5hY6zLkPXDBxLDyvDeFKKaU0-X2D_HL_fCyeUd_wl-oC9akmxYO0DoYAEMRfNOuNNwwujm_u7ckaOhJDj6Byc0Z_WS3qCr8OrYK9Dt77PaVmL2sXC3gcQY7QaYbBl5k95CNm5kbB8i0ns14xRNlVARRZLlben_jPSiHX8sSvvgq5jNTA2Y58eh7ba50LLSPY0WIpu-pak2ZmJybrvlb6xDaW6wgfKhoSbXMq2xy85RKjxvpPDoLMtE2QMqPetdZUVMFboDkUmOw1C7cHjl71A6lvdzouzGpRUErz6ca3zABYbwnSzGer0vTYjyQUlq60K9-9QGYJvWcnts0AfBHwJY-AkA1J_fUAtd07kedidwGExgKXvUsvl6e8skUjxX0enaCkVxjXEbwExjXpPtdpK1NcZwmkNxj-AbQIZKUnwHuXhLhaQONZqzc_E3eOWnyhQC3CWeGq6nPOfS4fSuaic17gfiMrDlybebnbeL6y2S2RCzCaSBT0cBYbCJSi2NY4W3ahB9Uops_mQOtbhlc-Xthbo-2rF1hcj1mvO6VNCNDuV46LmXJdRRjWcQVBRk2eOfzyK3MADyluwrw4o_rewTE04sbPes_ASCQWIfRF9-l7YK9nW5W-KMa8awCU6S0Zq2u82TRQtYcOVWABjlVHA61GJ2ZO0SH9NfNGvH3cQrH9VFyrgRRKS_eg8GtdWGCut-wNhpy1sorEmRkYo5wXW9BFVS113TfoSccAPz1BtABAhGeYU1zi176S9Z4Sb-_s7Riw7W21qW-hRoNXheWq98P8ktgWoAV140m0N2o_BAaNqhcCA1gZOdEwdLtujDfcqfHQ9ZgZ_FDydmn_aKPkWshmu-CNn59LAhuyGgqlSkehULJj1Z1tTdHr4bfBFywAp9ViewoIfaSxDMpp9zybf-_iNvOhccRGKweJ2U7Rdn9UX_umwO9oBkBpRH_ha9Jlh4BdEuQDFZAo6pV1rlaOoen5eR2DJ53Pvdg9DRd7-UlwvIKNDUktmGMeuo8_Y8wYPZMXc6xlvgeyoOB2WFtlaSOxBnpPcKVWK6HLdtBe26y8BBDRS4IqVK-saQI133qNFHGnS2k6UHyeFF8vKYDUHwi52Skp39F-y_pPjdnTobOfNT_jG_7rKxJy1NuzWLme-xLsYVl1HUnCUSV9dOftIHdm2avZcBuIlliviuKtKT6pwN1wdR_Zj9gVM8wZaX6kF3zcie1mOQnDNBhYUYaDyF-29lcrNB7vdUOVQX1tU23831m-LnzTqbRtmQCtVxyIYvFwAm94wwWvOzPPcixttywAvZdj5tHwyhvy_2sTTY1XI00FLISjVG0KL0g4PnYK9e02DkhsUYPZASSFYmxZxBONY-9u9dpje0b6V9wc11x8RGXYFGOdHkcWbqpEDQqZPkuwwUTgRu7idCn18XTkMjIiqCexzkbGEI0LIy4J17lt6JgM2oXZrG7siKnuNJAm39dRPG54cDwGinov2D2FGJK7P1E63PuyXiYnnFPY5IolYFP1ZvlywjhwdqaxjIEesaDOMxX4orftaPUfNfqiABKglldS13ZXN0LTIwxA8.m3u8
+#EXTINF:-1 tvg-name="24lordfilm" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bfaa44da-3e1f-4adc-bed2-6a5e6cb870a3-profile_image-70x70.png" group-title="🎞️ StreamFree No 24/7", 24lordfilm
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://fa723fc1b171.eun11.playlist.live-video.net/v1/playlist/Co4LRGRXjV7JNoN4TYXkvs9x36Q6ITyqr081U3cRFNuoNps6INjjntyda5WBtJ2QVTCDJvnlbYcR6J_uk1Ba56VWIeGNwGsMvCKM0ju828m3Hi5ETiCdxBxGzFWQPqeHB3MPyz3muc9fKZ-jIvdVmONUI0iwWN9YefOUKfrGRgr08mfWjl0ZhLiN75TpOy6qifjjN1f3Wc4XNYNEbWBJrgbVVoIl16Gjt9_9e59KEdj6k87LYNtj6qq4CltE5WpTWZyHFWkasuwUPIevQ122DOMxR_GhMpYk17jNcQ1ClvLTJ4BPt3ZHjyFMqfs9d8-90pG6yxzyxN0EP1t50OWdiaPh2tUpdRRNEgetczM6Evw1omF_RSDAYqzhRF7Z19iCdjVimpQBlSipZrjesr5ETMVWH0ZZTW3nGzIz64lCOne41n_LJCJAxIPP4Ws4w4WoRllUBIas011Hu15xVqSjVi4SRuc2vaBi8PEDWyFgs4Mf0InfracTvWaGy30XcfxxlRfV3cl4pmPpvj1RZ_3aG1Y_n1fJuOTdiU7zqYnFJGgyL9w971DQcreYYE52Ri5OLMqCtJg5_u7lLGvZl5tspu6IhbS1GO-G2uev6hoAY1FNzt6_nyC0mtpgje09a7-4zM4mwTY6seulUmPdR4SvSFYge56W4VDP84ucHbICaf_va3UueSyMAkoe_dAe6TF5_9ejcsm6tFZJeQfz-gI8aGzBmrVHXq3FTAnCYBFvLyh4y8mofZBP8pytSQoG5w_J6YjEK98qbdDa_K_1HFp-joQStf77x7WvbWrr0CY9UDKyBVUUrJMQgGGAyZ1S5TGXCFA5j3LuU9p_ok9TPpEpwvbjtsYe_MdM777UtviBrGwyK2rMOp6r0i8pVlN9hsDzROPxAHNZoBh5yGepAv59f3aFtOzWx3dpFxe2JDDyWaLnduDT7B2wGCoejz_qA67VkNx1j-_SdOMqyAWSYTXBqslmZJIECy5GwQrvFiAKVQQOqcsisFj7-SvPdqUAgixGwEFIEJ6YN3L-Y7Yv4FE1yCHSk6xJAqU1o0TuouDxcz1Ylhteqb2QWPSMK6zWjXfq16wsr07BiEOmEWFU3VDjN0RAE9W0zju28t3BBu7jBm0QgS3LsJLQOU1zhxviwVrzAlv3J9uP71OyoninNQxK3YQJCIX43IzzQF6HJZAXEKFpG-59_TZFh_hprvScz6xyk9U_LF9WrG3EWEyG7ti8_Y_xggbt5dfP_AadKqRuH_oPl51hSPsFFN34nWET3AWJ8J7jUE7eRiPDa4BHW-Eh-vPoehdBbq2xLWrcAMcalNq-WE4o-Dfhyj5-Eoh777n0sRIdkfQryUel0k4VXarqHsVJnBaYzYAMDg1AUzE9rqczdMWxQPn0j4hK84B3ErGIP6mnkm1W5NIspGu8QiR2G1gxgORcCGvf9wxoFM8gvnb2dFzTTpY7HlPIMWrfBzByL7vsULBjLCkcbmBTorx7WdziWpIp5ujqB9wI_qKnmLIAja7uOQrsBtNgHjKTvrbWy07WsoVWTm2PfgPBOo4qPi8CSojTwBgWy6Bsf8GvvZHrtF40AkXZldYN6iW5VIQEfDDFabwmDifoe7amSxJkAHSsxceGdZjr-qaemssNvvpZGPpYH_B3ot_fSAqrEebV0Nxp45kDy4yDrn3f80RCIfUTI_THbnqkCxUlqTzn7ApQZXZvn3KmIXABOOR1KyXtOSzjrJfebKoFb-A7vpLQZQg8gfJjIJVLQPUlWleFWhIsAOko_Kk-0JQhRbGXByf95CTU2XcEOTetDHw1NYF0gsY1NrHc9TlPYaZoBN3vQCYA-EL3T4fYBQ8shMLmMP3aRlj1whSHx8Jljgf7j_WTqdsgumcTfZTPZMO3J3SECz24GgzYeF5di6W9pma1VD4gASoJZXUtd2VzdC0yMMQP.m3u8
+#EXTINF:-1 tvg-name="PikaKino" tvg-logo="https://files.kick.com/images/user/4412231/profile_image/conversion/e4f89350-351b-4539-bf5e-e88c9a2e4da9-fullsize.webp" group-title="🎞️ StreamFree No 24/7", PikaKino
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+https://fa723fc1b171.eun13.playlist.live-video.net/v1/playlist/CvkRKgrIIYFuqs225Nj0fkl9zgXq6SQdEbmJcSchEbC1GBLh6irImmXUwaxI049CQ38YfiaIp7fCZ054jmywg4U7wUDK2ntksTACnmRhe9DE0ZVq212EV1dEdw5kin_L8v4_kU7Ebxr2vPoc4T8GHn580EgphOQGHVwarS4q55ZXaeMjaX7GfhjbY8I0_yO6b3xQudMbmth0L6ewsuF3novG5uurhiVpgCN9fpZgMdOherO98U418SxoDaOY8MCrfAhCDKff7wrPluscvRtE696l4Et0_61xasNHvhkdni6U3AKaU_SxYC9G7ghQymAojxYE30orQJGivkhQKU_T-7DeE3lgZjKxwY70B1GlRPCHxpNmdzErXVZpW1bmqHknzchr26YjKtlhJAxVTP-tivbnHRYHW9R8fJp_yOCC_-VHtKbuuSoKSP6FMDAsC2RqHlHsjWehl_T-BpZFBa4s0ngM-jT28-csE_aY_B6MWH_nkLeg-INkuO_YN9mbzNBwx27V4fiGFzNCAUEPypqbejesbxDkbdEVdBSb2SebR6TSjoPCi5SeWFeTGkPtfN5-oJV-PO5C8yjUSYBqcR4PbbDDNd3tUVJNCnBV2qAaBhpYLPcQXbmSkMq_gIfniVK8GpDPSXgsS2DB30ShH4-DT_6RoOzPOyfKnbb7RluSpU8BEui916aOdECYxv5OKtoEJ_b2k0Qj6zYWL4TJNLfHx7_oeSAry-Aa6edDfGOltgunfoZE4qANKPjWMdfVaeoHzKiomycWU3JL2hJylXrjIKR4e8LnhZ9bH4nq2Sw-kghlup8kHmotHdwEznShOVN_RdsQ3qm_EVkE-6xesbKp3Fs4ge7jd8OD4ooEVuD9pkyNV6zQ3LZESBBP-9PgHuL99yb716Q1vz4GEhx6xgtOaFVNbU5SNFeTvrHBMmJrRCFgIdscI5_DN0KtEkWAHWOb7qYlSXanlKNSORw3fLmAHn5yDoO9Lb2QgWW1lojmwpnu5nDUMpcR_epaUyAXiEL6Km8j_0B7TusYn698CznlnU9NEJnVvY1kX_Icu7sGIaP50Yv5BL3D3o9-goONu7ykFYop0z2g6tBtZrXIcEAhXWtUNcPhSRAb-iPnEitCUzkXARvSCo9IRnj9F5iaqd2OjaKc0JsVsiYruy7ewvdStcQjdTVk_BIOVsHCpjzLDqG6BBxOaPCJcxi7mqRqYeNVWyg-eVQEm2ZoQ8MITxwRlzgbNoOrDWKa6Ze-set8fWuxMop7cY79vHl7aMkGPnC7uXTVuDBSZUZNA6Yl636jTSsJvaSmyTlaI9_ntINjAMSyLO3acIRiyNG1u5Q0KxlD7k6GYQB3alPhkzmcfvmZRWuXrGynvBX6_bWGs8Qz_6tHGGT-DzDTfTkORLZyBhwpBQEfeiez3uPvIAPhgo6-wA5B2l9Vl8Fb_rxT3xcIaxOw3KpQZT_7284-LPisIpU1fFx3_BH0a4D3RHpt51_UAF61lQ5ksob29HnBWU_cg5Fz-BkRN5AskYL-EwQJnb4ZTlugpKneUscO7r8_ATPBCkwtCV1W26zg0Jd7oP2S8gGLyNWrHNoYBM3Gtdpczg7KxH4dJeXunyYISXxClHp2U7m6K_ejRiv5selCEgkwHrRjz_lW8sX5bhxfQuGEfCHyjCB0LhqHial17VVpj4H3qCUCRqIMvK7uZ77xe3vNAZAxnczNraa3YPRvrvYqhENTgTV6lVBnp2_kC7Shz3zSchMPIgAW7m4BW7wML5WOCWLNN7XLb7_3QUpWutazIO647ubO9-6QBAxotCccoSBS07JIMJXzFFXBM6CryaAHtfA9q_C0W3mYT9ZrBbhv1axWy6hYTcf4mQF_NZqFahszPqzHubvk0C9A8ncS9LNJeSAtyhJnBRFd12qMcCohMJWfjTe_nZ64inA4ZAEmhSnh1tBqEWtvqcnk8-sna2q5yXTNoznQGv5Z3lyFUnDMXdvCgXIMgVrCNaLcWn71wiVVIS_8qgE-9Q2qmXmcuriGrVluXM8aIj2Jfaxgr-ofoqucbHnujA07OdhJi_dk3SjUQkqgn8S1UT-hjT83vJxE4frrb2zcUgL650Z6BCitswO3Rp2WNlJqawl5sqNE9PGedMs280KfGtNStg0J3uCX1kQqkVTUhuayNKE3K4fM4eQ0FksTkrNnbmebCm-whBtYzd0ugMBvqGPP4nAWMuuQ2fP5c5DEP4YqsX2y64LuKtHlDueQpMjsZ15_6FXWev98tthF1dOLNlMuuzMmGcwQI3_m2BBu6LagcgOXgX1qAC3xWL_KxY5xctqkKKz46OcNrlW9hh4-xTGCnS-12TRCeaP1L3HRyULlGOV31q_IdyBarzApofemqt9j5CD_az1_PIDe7aDuQDyVsd-0gpwqMR656VMbEIQH0DfNGc_CG0_OY_1lMJkDsBFyh0De_ST_tW1RW9t0AobiusW6qNafacKR4w48XFVdJjMUjG5Jm_Zya85fAaxAyVSTsoAL6RgW_LD3iVa0f09nGIEh1ELNQLBj1TFrN_-D4AfMf-Mtguo3j1qit_-rCb9GjMAPPEhSrwM7LMh0zygXdkG9r9YISCPvGyDQZf-d4fHOKCLkN95vzxVtsWheBKEKx1TzacV6g8mb8BAnTHPp_H_ibkfe3CaMnN149WCgs-Ac4bcWgjbrP1NHJDog6q6AO-4Rnq5T2600Bo5SinjHJTq7JP3AKgea58q4OG6pScwjj9Cs8weyryZBVfOlb88uJgDhb2cepl7oq_vnn2KbqJ6Vd7KEUq0653mmdXQ00JYBLY3ScGLlg6uba2WN24McqTW-IiR-X8aYATMZRPmFtZfEblPHbkk7kbDjjRDpZro4lt9rGOnoGrqU1142zmaqA32P4VM8_xqsHJpTCbn1q2Cib27bAm8rOovb-FHBIn1CNbezPe7AeSjjwRc1YKxhQdLbSEPi-ct4xqjW49AbBMY5Ff8gtVHwAjAWONcNqGMEQAZk-9rn8WF_JnIlc0uzlFBPCQHAgBgr0hxLbNLqbHxB31XaYMZkX3w7ypXjqcTpDAIaDARP2orCt8dj_z2EQSABKglldS13ZXN0LTIwxA8.m3u8
 
 
 
