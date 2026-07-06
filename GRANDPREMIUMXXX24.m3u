@@ -1041,324 +1041,156 @@ http://77.46.130.252:99/dorcel
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28"><rect width="28" height="28" rx="3" fill="%230b1018"/><text x="14" y="19" font-size="10" text-anchor="middle" fill="%232a3848" font-family="monospace">TV</text></svg>" group-title="GRAND IPTV/ 18TV",penthouse2
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-1
-https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-10
-https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-11
-https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-12
-https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-13
-https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-14
-https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-15
-https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-16
-https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-17
-https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-18
-https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-19
-https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-2
-https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-20
-https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-21
-https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-22
-https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-23
-https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-24
-https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-25
-https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-26
-https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-27
-https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-28
-https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-29
-https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-3
-https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-4
-https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-5
-https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-6
-https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-7
-https://fc.maa1808.com/d/watoxrzumr/watoxrzumr.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-8
-https://fc.maa1808.com/g/rgtrqpugql/rgtrqpugql.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-0-9
-https://fc.maa1808.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-1
-https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-10
-https://vip4.ddyunbo.com/20210223/I28Qes3F/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-11
-https://vip4.ddyunbo.com/20210223/dRyGiQT6/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-12
-https://vip4.ddyunbo.com/20210219/2nbzl0Nn/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-13
-https://m3u8.41cdn.com/video/202104/e4cd219d13499cbab2d0d7744ac79b54/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-14
-https://vip4.ddyunbo.com/20210222/HkzYbN40/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-15
-https://vip4.ddyunbo.com/20210219/gpUU8FL5/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-16
-https://vip4.ddyunbo.com/20210222/OrpC8XMK/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-17
-https://vip4.ddyunbo.com/20210222/T8jUItC4/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-18
-https://m3u8.47cdn.com/video/202104/2195e1aa530ab275e10a5714b135a025/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-19
-https://vip4.ddyunbo.com/20210222/lnXXFURu/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-2
-https://m3u8.49cdn.com/video/202104/7fa5026b33760d226f4be4e577ef6f8d/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-20
-https://vip4.ddyunbo.com/20210222/vHNM8oLn/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-3
-https://vip4.ddyunbo.com/20210219/aPLXlCHM/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-4
-https://vip4.ddyunbo.com/20210219/hIvpPiyo/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-5
-https://vip4.ddyunbo.com/20210219/tN5b3rGe/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-6
-https://vip4.ddyunbo.com/20210222/4VY1cI3D/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-7
-https://m3u8.48cdn.com/video/202104/ab81e3b5218f6818421974a55edeaac7/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-8
-https://vip4.ddyunbo.com/20210222/870lSnog/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-1-9
-https://vip4.ddyunbo.com/20210219/dZEd1c84/index.m3u8?skipl=1
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-1
-https://lbbf9.com/20191102/Bf2vZNeU/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-10
-https://lbbf9.com/20191102/Xe9LMZ3j/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-11
-https://lbbf9.com/20191112/5ZFksuCp/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-12
-https://lbbf9.com/20191102/S18A1Zw1/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-13
-https://lbbf9.com/20191112/eK7E5nl0/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-14
-https://lbbf9.com/20191112/90VZYHTX/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-15
-https://lbbf9.com/20191112/7wduXErC/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-16
-https://lbbf9.com/20191102/SXhmiyFJ/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-17
-https://lbbf9.com/20191102/R4itPJcF/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-18
-https://lbbf9.com/20191112/Tk2Hlc35/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-19
-https://lbbf9.com/20191112/FMtGtCoC/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-2
-https://m3u8.40cdn.com/video/202104/1e8e346441347f454e2c12e669b17c0e/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-20
-https://m3u8.49cdn.com/video/202104/1211e8b6b335745b64e5b78069b633ea/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-21
-https://m3u8.34cdn.com/video/202104/ac0fd739f6c9542628719422bf369fd4/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-22
-https://m3u8.48cdn.com/video/202104/1b0836b258cbaa74433f0a68a67737b4/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-23
-https://m3u8.44cdn.com/video/202104/9d2285649bd4dc7caa1970fa3a57fe58/play/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-24
-https://m3u8.34cdn.com/newhd/202309/651066e67ebb8b1bc4c7b313/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-25
-https://m3u8.34cdn.com/newhd/202309/651066e67ebb8b1bc4c7b321/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-26
-https://m3u8.34cdn.com/newhd/202309/651066e67ebb8b1bc4c7b2fa/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-27
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33603/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-28
-https://m3u8.34cdn.com/newhd/202309/651066e77ebb8b1bc4c7b32c/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-29
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335f7/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-3
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33607/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-30
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335e7/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-31
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335fc/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-32
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c3360c/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-33
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335f1/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-34
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33613/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-35
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335ec/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-36
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33619/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-37
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33602/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-38
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335f8/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-39
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c3360b/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-4
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335e6/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-40
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33601/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-41
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33618/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-42
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335f6/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-43
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33614/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-44
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c3360e/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-45
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335ea/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-5
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335f0/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-6
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c335fd/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-7
-https://m3u8.34cdn.com/newhd/202309/651038bd37926f1bd8c33608/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-8
-https://m3u8.34cdn.com/newhd/202304/642c54a4f0cdbf322d4d3435/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-2-9
-https://m3u8.34cdn.com/newhd/202111/61853c0b31d40338f935b684/hls/index.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-1
-https://zo392.cdnedge.live/file/avple-images/hls/61628f7ec778383b6b882d05/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-10
-https://u89ey.cdnedge.live/file/avple-images/hls/61628e90c778383b6b882d04/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-11
-https://10j99.cdnedge.live/file/avple-images/hls/61628da0c778383b6b882d03/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-12
-https://u89ey.cdnedge.live/file/avple-images/hls/61628d27c778383b6b882d02/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-13
-https://8bb88.cdnedge.live/file/avple-images/hls/61628cafc778383b6b882d01/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-14
-https://w9n76.cdnedge.live/file/avple-images/hls/61628c37c778383b6b882d00/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-15
-https://e2fa6.cdnedge.live/file/avple-images/hls/61628b46c778383b6b882cff/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-16
-https://zo392.cdnedge.live/file/avple-images/hls/61628a91c778383b6b882cfe/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-17
-https://8bb88.cdnedge.live/file/avple-images/hls/615db9866c85aa6afbe1e5fc/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-18
-https://8bb88.cdnedge.live/file/avple-images/hls/615db7a86c85aa6afbe1e5f8/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-19
-https://10j99.cdnedge.live/file/avple-images/hls/615db72d6c85aa6afbe1e5f7/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-2
-https://1xp60.cdnedge.live/file/avple-images/hls/615c9db15753920a08945925/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-20
-https://8bb88.cdnedge.live/file/avple-images/hls/615c9d395753920a08945924/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-21
-https://10j99.cdnedge.live/file/avple-images/hls/615c9bd15753920a08945921/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-22
-https://8bb88.cdnedge.live/file/avple-images/hls/615b239899d43c610b89a891/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-23
-https://e2fa6.cdnedge.live/file/avple-images/hls/615b239899d43c610b89a890/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-24
-https://je40u.cdnedge.live/file/avple-images/hls/615b239899d43c610b89a88f/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-25
-https://e2fa6.cdnedge.live/file/avple-images/hls/615b239899d43c610b89a88e/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-26
-https://1xp60.cdnedge.live/file/avple-images/hls/615b14a562da73610588de52/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-27
-https://1xp60.cdnedge.live/file/avple-images/hls/615b10a962da73610588de4d/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-28
-https://1xp60.cdnedge.live/file/avple-images/hls/615b121162da73610588de4f/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-29
-https://u89ey.cdnedge.live/file/avple-images/hls/615b115d62da73610588de4e/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-3
-https://e2fa6.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-30
-https://je40u.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-31
-https://zo392.cdnedge.live/file/avple-images/hls/61584c254617d9667f1fa687/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-32
-https://10j99.cdnedge.live/file/avple-images/hls/61584bad4617d9667f1fa686/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-33
-https://e2fa6.cdnedge.live/file/avple-images/hls/6157443e9dda0e2db22a7f17/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-34
-https://je40u.cdnedge.live/file/avple-images/hls/615743c59dda0e2db22a7f16/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-35
-https://je40u.cdnedge.live/file/avple-images/hls/615742d59dda0e2db22a7f14/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-36
-https://e2fa6.cdnedge.live/file/avple-images/hls/615741e59dda0e2db22a7f12/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-4
-https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-5
-https://1xp60.cdnedge.live/file/avple-images/hls/615740419dda0e2db22a7f0f/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-6
-https://u89ey.cdnedge.live/file/avple-images/hls/615740f59dda0e2db22a7f10/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-7
-https://8bb88.cdnedge.live/file/avple-images/hls/6156624d0936024ada667230/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-8
-https://w9n76.cdnedge.live/file/avple-images/hls/6156624d0936024ada667230/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-3-9
-https://e2fa6.cdnedge.live/file/avple-images/hls/615661d50936024ada66722f/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-1
-https://surrit.com/c9e52502-7ab0-495a-a3ab-63a6dbaa3eb4/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-10
-https://surrit.com/f3d97d13-f0e3-4e7e-9945-23d8ef9bdbde/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-11
-https://surrit.com/9fd985eb-b049-4578-860e-64ce9b4b4093/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-12
-https://surrit.com/3be58cc7-18c8-49a4-bd29-bb89694948c3/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-13
-https://surrit.com/2c5a47fb-c22e-41d7-a80e-79754362d401/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-14
-https://surrit.com/d4f7ef9b-3a95-4119-8d43-31d2d942638e/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-15
-https://surrit.com/6db24069-a8e1-4739-918b-77ea017f9774/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-16
-https://surrit.com/43f431cc-a103-44d3-a752-2afef9b6a61b/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-17
-https://surrit.com/3dc379b4-c9b0-46af-94be-b42ca775bbba/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-18
-https://surrit.com/062bf2ff-e491-47b7-a68d-0c7f312bb862/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-19
-https://surrit.com/8a2db0bb-4029-4186-a4ea-02fd00bf38a3/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-2
-https://surrit.com/53a9cb22-d708-464f-923b-bc0b6e96f41a/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-20
-https://surrit.com/98d31c41-4e79-4212-a379-cce4ad7b100c/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-21
-https://surrit.com/bd82f239-e4d1-4275-9941-0eb3402897f0/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-22
-https://surrit.com/bf37b7c6-b1ae-4050-82d6-677e4abd867d/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-23
-https://surrit.com/30a3f5ae-9d9c-4e44-b856-c4934f235d6b/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-24
-https://surrit.com/2f501f8f-9e77-4121-80e8-fd879e1a6a02/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-25
-https://surrit.com/a062624d-9a27-4f05-9956-ce7a93a4a8ba/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-26
-https://surrit.com/3a12e972-e90e-4074-8f52-f44f71fab07c/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-27
-https://surrit.com/eab5b57b-21ac-42ae-8bef-ca3b10a351bb/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-28
-https://surrit.com/ec87456d-4e09-4a38-95bb-f6fbc0576b46/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-3
-https://surrit.com/de538fd3-be18-41d7-8907-bb6d146fba96/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-4
-https://surrit.com/0ea8e3ed-e33f-4352-a19a-60dda46e63f7/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-5
-https://surrit.com/0e1f1d23-9d8c-459e-8e5b-9933ab8ecb61/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-6
-https://surrit.com/3ccdcfa8-4d63-4941-bf4d-8e76ace0c12a/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-7
-https://surrit.com/f85f50b4-192f-40f1-bbd8-d41d7c061893/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-8
-https://surrit.com/a33199cc-8f9e-4ad1-94e8-92a4a53b9333/1280x720/video.m3u8
-#EXTINF:-1 group-title="RUZIEV /XXX AD",VIP-JAPAN-4-9
-https://surrit.com/b2a0d168-5b5a-4bba-908e-247e3969a0e3/1280x720/video.m3u8
-
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="eromania-4k-orig" tvg-logo="http://s01.wsbof.com:8080/streams/eromania-4k-orig.png" tvg-rec="0",Eromania 4k
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/eromania-4k-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="extasy-4k" tvg-logo="http://s01.wsbof.com:8080/streams/extasy-4k.png" tvg-rec="0",Extasy 4k
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/extasy-4k.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="extasy-tv-hd" tvg-logo="http://s01.wsbof.com:8080/streams/extasy-tv-hd.png" tvg-rec="0",Extasy TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/extasy-tv-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="penthouse1-hd" tvg-logo="http://s01.wsbof.com:8080/streams/penthouse1-hd.png" tvg-rec="0",Penthouse Gold HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/penthouse1-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="penthouse2-hd" tvg-logo="http://s01.wsbof.com:8080/streams/penthouse2-hd.png" tvg-rec="0",Penthouse Reality TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/penthouse2-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="penthouse-passion-hd" tvg-logo="http://s01.wsbof.com:8080/streams/penthouse-passion-hd.png" tvg-rec="0",Penthouse Passion HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/penthouse-passion-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="redlight-hd" tvg-logo="http://s01.wsbof.com:8080/streams/redlight-hd.png" tvg-rec="0",Redlight HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/redlight-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="private-tv" tvg-logo="http://s01.wsbof.com:8080/streams/private-tv.png" tvg-rec="0",Private HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/private-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="hustler-hd" tvg-logo="http://s01.wsbof.com:8080/streams/hustler-hd.png" tvg-rec="0",Hustler HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/hustler-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="brazzers-tv" tvg-logo="http://s01.wsbof.com:8080/streams/brazzers-tv.png" tvg-rec="0",Brazzers TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/brazzers-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="babes-hd" tvg-logo="http://s01.wsbof.com:8080/streams/babes-hd.png" tvg-rec="0",Babes HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/babes-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="vixen-tv-hd" tvg-logo="http://s01.wsbof.com:8080/streams/vixen-tv-hd.png" tvg-rec="0",Vixen TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/vixen-tv-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="evil-angel-hd" tvg-logo="http://s01.wsbof.com:8080/streams/evil-angel-hd.png" tvg-rec="0",Evil Angel HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/evil-angel-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erox" tvg-logo="http://s01.wsbof.com:8080/streams/erox.png" tvg-rec="0",Erox
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erox.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erox-hd" tvg-logo="http://s01.wsbof.com:8080/streams/erox-hd.png" tvg-rec="0",Erox HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erox-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="eroxxx-hd" tvg-logo="http://s01.wsbof.com:8080/streams/eroxxx-hd.png" tvg-rec="0",Eroxxx HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/eroxxx-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="dorcel-tv" tvg-logo="http://s01.wsbof.com:8080/streams/dorcel-tv.png" tvg-rec="0",Dorcel TV
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/dorcel-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="dorcel-tv-hd" tvg-logo="http://s01.wsbof.com:8080/streams/dorcel-hd.png" tvg-rec="0",Dorcel TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/dorcel-tv-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="super-one" tvg-logo="http://s01.wsbof.com:8080/streams/super-one.png" tvg-rec="0",SuperOne
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/super-one.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="super-one-hd" tvg-logo="http://s01.wsbof.com:8080/streams/super-one-hd.png" tvg-rec="0",SuperOne HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/super-one-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="passion-xxx-hd" tvg-logo="http://s01.wsbof.com:8080/streams/passion-xxx-hd.png" tvg-rec="0",Passion XXX HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/passion-xxx-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="hot-xxl-hd" tvg-logo="http://s01.wsbof.com:8080/streams/hot-xxl-hd.png" tvg-rec="0",Hot XXL HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/hot-xxl-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="hot-pleasure-hd" tvg-logo="http://s01.wsbof.com:8080/streams/hot-pleasure-hd.png" tvg-rec="0",Hot Pleasure HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/hot-pleasure-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="dusk-tv-hd" tvg-logo="http://s01.wsbof.com:8080/streams/dusk-tv-hd.png" tvg-rec="0",Dusk TV
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/dusk-tv-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="xxl-tv" tvg-logo="http://s01.wsbof.com:8080/streams/xxl-tv.png" tvg-rec="0",XXL
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/xxl-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="vivid-tv" tvg-logo="http://s01.wsbof.com:8080/streams/vivid-tv.png" tvg-rec="0",Vivid TV
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/vivid-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="vivid-red" tvg-logo="http://s01.wsbof.com:8080/streams/vivid-red.png" tvg-rec="0",Vivid Red
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/vivid-red.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="shalun-hd" tvg-logo="http://s01.wsbof.com:8080/streams/shalun-hd.png" tvg-rec="0",Шалун HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/shalun-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="shyolk-hd" tvg-logo="http://s01.wsbof.com:8080/streams/shyolk-hd.png" tvg-rec="0",Шёлк HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/shyolk-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="vivid-touch-hd" tvg-logo="http://s01.wsbof.com:8080/streams/vivid-touch-hd.png" tvg-rec="0",Vivid Touch HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/vivid-touch-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="exxxotica-hd" tvg-logo="http://s01.wsbof.com:8080/streams/exxxotica-hd.png" tvg-rec="0",Exxxotica HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/exxxotica-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="kinoerotica-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kinoerotica-hd.png" tvg-rec="0",Kinoerotica HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/kinoerotica-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="xy-mix-hd" tvg-logo="http://s01.wsbof.com:8080/streams/xy-mix-hd.png" tvg-rec="0",XY MIX HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/xy-mix-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="xy-max-hd" tvg-logo="http://s01.wsbof.com:8080/streams/xy-max-hd.png" tvg-rec="0",XY MAX HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/xy-max-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="xy-plus-hd" tvg-logo="http://s01.wsbof.com:8080/streams/xy-plus-hd.png" tvg-rec="0",XY PLUS HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/xy-plus-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="red-lips" tvg-logo="http://s01.wsbof.com:8080/streams/red-lips.png" tvg-rec="0",Red Lips HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/red-lips.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="blue-hustler" tvg-logo="http://s01.wsbof.com:8080/streams/blue-hustler.png" tvg-rec="0",Blue Hustler
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/blue-hustler.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="blue-hustler-hd" tvg-logo="http://s01.wsbof.com:8080/streams/blue-hustler-hd.png" tvg-rec="0",Blue Hustler HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/blue-hustler-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="barely-legal" tvg-logo="http://s01.wsbof.com:8080/streams/barely-legal.png" tvg-rec="0",Barely Legal TV
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/barely-legal.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="ruskaja-noch" tvg-logo="http://s01.wsbof.com:8080/streams/ruskaja-noch.png" tvg-rec="0",Русская Ночь
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/ruskaja-noch.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="ruskaja-noch-hd" tvg-logo="http://s01.wsbof.com:8080/streams/ruskaja-noch-hd.png" tvg-rec="0",Русская Ночь HD
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/ruskaja-noch-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic1" tvg-logo="http://s01.wsbof.com:8080/streams/erotic1.png" tvg-rec="0",Erotic 1
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic1.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic2" tvg-logo="http://s01.wsbof.com:8080/streams/erotic2.png" tvg-rec="0",Erotic 2
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic2.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic3" tvg-logo="http://s01.wsbof.com:8080/streams/erotic3.png" tvg-rec="0",Erotic 3
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic3.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic4" tvg-logo="http://s01.wsbof.com:8080/streams/erotic4.png" tvg-rec="0",Erotic 4
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic4.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic5" tvg-logo="http://s01.wsbof.com:8080/streams/erotic5.png" tvg-rec="0",Erotic 5
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic5.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic6" tvg-logo="http://s01.wsbof.com:8080/streams/erotic6.png" tvg-rec="0",Erotic 6
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic6.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic7" tvg-logo="http://s01.wsbof.com:8080/streams/erotic7.png" tvg-rec="0",Erotic 7
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic7.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="erotic8" tvg-logo="http://s01.wsbof.com:8080/streams/erotic8.png" tvg-rec="0",Erotic 8
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/erotic8.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV XXX" parent-code="0000" tvg-id="playboy-tv" tvg-logo="http://s01.wsbof.com:8080/streams/playboy-tv.png" tvg-rec="0",Playboy TV
+#EXTGRP:RUZIEV IPTV/248 ON TV XXX
+http://s01.wsbof.com:8080/s/2f77a04f/playboy-tv.m3u8
 
 #EXTINF:-1 catchup="append" catchup-source="&utc=${start}" catchup-days="0" group-title="GRAND PLUS | OnlineTV-Для взрослых" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/241/MDAwMDAwMTg3LnBuZw.png", Русская ночь
 http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgAdSRbptO7NqaIjDpkv8aoP6ZDGjLRWsQSGsWfFrLryykgAhx8W_jYENiJQzH4aFxAoOm_bmzmln_0-IHbB6bk3ZQQBYOHSFvcbome602L0bANi7ZhULiiYkwQE2e5pFiS7br78s_YuoJ78MSAsXcUTJgF63jdN7hJe6Zi8WBrUga3Ifpkbu6JdSA6Y47QmALmcDPC5qCZrPxVx9zUbl27gfJmPuG-C3TbSY9uOFpoSkB1YbWVQr5ZXTN8FVBTPS6&token=MjIyMjoyMjIyMjI=
@@ -1502,6 +1334,1599 @@ http://77.46.130.252:99/private
 http://77.46.130.252:99/dorcel
 
 
+
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: VIXEN HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976611
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Vivid TV Europe
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976610
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: VIVID TOUCH
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976609
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: VIVID RED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976608
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Threesome
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976607
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Teen
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976606
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Russian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976605
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Rough
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976604
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: PURE BABES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976603
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976602
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pornstar
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976601
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 8
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976600
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 7
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976599
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 6
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976598
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 5
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976597
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 4
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976596
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 3
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976595
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 2
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976594
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Pink Erotic 1
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976593
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976592
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse Reality TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976591
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse Passion
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976590
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse Naughty Nights
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976589
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse Gold
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976588
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse Black
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976587
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Penthouse After Midnight
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976586
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: MILF
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976585
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Live Cams
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976584
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Lesbian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976583
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Leo TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976582
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Latina
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976581
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Interracial
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976580
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Hustler TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976579
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: HUSTLER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976578
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Hardcore
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976577
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Gay
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976576
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Gangbang
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976575
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Fetish
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976574
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 7
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976573
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 6
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976572
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 5
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976571
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 4
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976570
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 3
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976569
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 2
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976568
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: FAP TV 1
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976567
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Exxxotica TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976566
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Evil Angel HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976565
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Cuckold
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976564
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Compilation
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976563
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Brunette
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976562
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: BRAZZERS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976561
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Blowjob
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976560
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Blonde
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976559
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Big Tits
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976558
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Big Dick
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976557
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Big Ass
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976556
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Bang U
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976555
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Babes TV RUSSIA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976554
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Babes TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976553
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Asian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976552
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: Anal
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976551
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: ALBA 4
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976550
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: ALBA 3
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976549
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: ALBA 2
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976548
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",XXX: ALBA 1
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976547
+#EXTINF:-1 group-title="❌❌❌ADULTOS II",ADULT MILF TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1976546
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Anal
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365216
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX +18
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365217
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Family
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365218
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Culonas
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365219
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Lesbianas
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365220
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Asiatico
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365222
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX GANGBANG
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365224
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Arabe
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365226
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://i.ibb.co/zNHj8xr/xxx.png",24/7 Exclusivo XXX Interracial
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1365228
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Rosie Rider
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471347
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 56
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460025
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ATK GIRLFRIENDS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471771
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ANGELA WHITE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471807
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: TWISTY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471791
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Valerica Steele
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471609
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sammm Next Door
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471348
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Silvana Lee
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471352
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : ANAL FANATIC
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514511
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 31
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460007
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Say Uncle
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471382
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: MIA MALKOVA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471824
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Blowjob
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471391
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : AMATEURBOXXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514510
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sloplyfter MYLF
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471500
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 21
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460001
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BARELY LEGAL TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514831
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lena Paul
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471578
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Live Cams
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624406
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: BAEB
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471777
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | RealTelariLove
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471345
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | BRAZZERS HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/356379
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MYLF
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514822
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 77
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460046
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | First Class POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471450
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BLUE HUSTLER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514826
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Chuck Hunter
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471440
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | She Will Cheat
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471498
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 65
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460034
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DOG HOUSE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471738
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kagney Linn Karter
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471559
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lily Lou
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471582
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 33
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460008
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bonniealex
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471277
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BUMS BUS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471683
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bellamurr
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471273
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: EROTIKVONBENAN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514790
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MollyRedWolf
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471330
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : SHOPLYFTER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514565
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Ava Addams
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471530
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: AUGUST AMES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514848
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Adria Rae
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471516
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 63
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460032
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Nadia Foxx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471334
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bang Bros Network
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471432
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LETS DOE IT
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471714
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 96
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460065
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Reality Junkies
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471495
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HER LIMIT
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471705
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Digital Playground
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471444
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Exotic4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471446
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Nicole Aniston
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471593
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: RAW ATTACK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471800
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hentai
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471406
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mofos
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471470
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Abella Danger
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471515
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",MyCamTV Big Tits Girls
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624404
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mom Wants To Breed
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471474
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : PETERNORTH OFFICIAL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514561
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | QesasTop
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471344
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | FAMILYxxx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471449
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Jays Pov
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471461
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 12
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459994
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FIT 18
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471758
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MAMACITAZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514813
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: POOKSI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471796
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="https://pbs.twimg.com/profile_images/1454725048548290564/feOQQ4V7_400x400.jpg",ADULTOS | SEXMEX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/356377
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HUSSIE PASS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514802
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lexi Luna
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471581
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DOGFART NETWORK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514787
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lacy Lennon
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471571
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Next Door Studios
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471376
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: A GIRL KNOWS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514771
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: JOI BABES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471710
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Thundercock
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471508
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lulu Chu
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471584
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hijab
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471407
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Loly Lips
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471312
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Amateurtwo
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471269
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Czech Soles
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471441
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: YOUNG COURTESANS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471793
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Girls Only
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471455
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kitty K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471306
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BOX OF PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514780
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: EVA LOVIA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514855
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: SPANK MONSTER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471784
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mom Lover
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471471
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 89
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460058
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mei Pang
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471318
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sweetheart Video
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471505
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Peter Fever
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471379
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Peters Kingdom
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471487
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Perv Mom
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471485
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",XXX: OnlyFans: Laly Vallade HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/791587
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 6
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459988
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alexis Tae
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471521
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BRATTY SIS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514781
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Milfed
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471469
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HENTAINED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471703
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PORN WORLD HARDCORE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471722
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ALINA LOPEZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471806
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PURE MATURE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471685
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | 4K 1
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/356376
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Handjob
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471404
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 1
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459984
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Brunette
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471393
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Layla Ray
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471308
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ALL GROUP SEX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471773
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Cory Chase
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471536
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lela Star
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471577
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kenzie Reeves
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471566
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DIGITAL PLAYGROUND
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514786
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 30
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460006
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MYLF
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471478
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: LUBED PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471781
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Paige Steele
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471338
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Moms Teach Sex
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471475
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | DeLuXeGirL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471289
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Full
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471451
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Miss Savage
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471327
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Veronica Leal
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471610
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hot Wife XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471459
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Natasha Nice
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471592
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: AMATEUR EURO
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471704
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",PORNBOX: PURE MATURE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514860
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MANO JOB
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471753
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PUBLIC AGENT
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471739
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : EXOTIC4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514525
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: KINKY INLAWS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514807
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: X CHIMERA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514842
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PERV MOM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514829
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kenzie Madison
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471565
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : SEXTREME
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/803190
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 15
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459997
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Payton Preslee
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471594
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | VibeWithMommy
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471358
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BANG BROS NETWORK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514778
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Crystal Lust
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471284
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MartinPaola
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471316
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DIGITAL PLAYGROUND
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471699
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bromo
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471367
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MihaNika69
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471320
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",PORNBOX | FAKE HOSTEL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/791593
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kelsi Monroe
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471562
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Asian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624419
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LW PRODUCTIONS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471766
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Creampie
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471397
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: EMILY WILLIS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471815
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PASSION
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514827
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Youthluıst Danny
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471363
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Willow Ryder
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471613
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : VENUS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/803191
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Jessa Rhodes
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471556
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: THE WHITE BOXXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471795
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Megan Rain
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471588
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DOGFART NETWORK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471750
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Horny Hostel
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471458
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Blonde
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471390
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 68
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460037
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Miss Ary
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471326
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Yoursexwife
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471362
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Porn Pros
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471489
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Canela Skin
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471534
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 62
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460031
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Missionary Boys
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471373
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mom Tight
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471472
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mirrari Hub
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471325
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: VALENTINA NAPPI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514865
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FIRST ANAL QUEST
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471701
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Holed
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471457
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pinkloving
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471340
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 5
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459987
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",PORNBOX | FAKE HOSTEL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624403
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Vic Alouqua
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471359
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY LIFE IN MIAMI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514821
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Little Tina
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471309
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 57
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460026
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BABES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471684
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MMM 100
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471733
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PRIVATE SOCIETY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471798
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Red Head
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471418
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kendra Lust
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471563
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Rose Monroe
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471599
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Molly Moon
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471328
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 47
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460016
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lesbian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471408
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Casting Couch
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471439
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/J29ETnYF-hFNtcZP9J35wmN0wdqOH6yOXKhhiLMmMwxxBg9-7nQk8t7UrL-_uuUl9UBBizYUcu2pgTbGq7UkMizrR2iIoLmosD3Yd-FnA9eDIkYuNEajXWBQCpp6PT2Z7PUOl5p-VZGihPmzhSrCF2XSX1hLZYI8s5KrnYL39-GG-p8cOqgti9csBuAfg8S4v8tPNwJ0oEUhSCbcb1aPHA.png",PORNBOX: REAL MOM EXPOSED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514836
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BRAZZERS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471694
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Behind the Scenes
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471387
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Diana Daniels
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471290
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 55
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460024
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Nubile Films
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471481
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HOLED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471775
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: JANICE GRIFFITH
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471818
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Active Duty
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471364
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MOFOS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514814
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PRINCESS CUM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514833
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ALL GROUP SEX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514774
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",XXX: OnlyFans: Lauren Phippips OF Dredd HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/791589
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | German Scout
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471299
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Eliza Ibarra
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471540
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: TUK TUK PATROL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471789
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BLACKED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471691
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Cherie DeVille
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471535
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PERV CITY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471688
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BRAZZERS TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514785
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mila Solana
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471321
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: KINKY FAMILY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471767
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 90
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460059
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hung Young Brit
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471370
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SLIM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471717
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: INTERRACIAL PASS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514803
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mariana Martix
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471587
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MOM TEACH SEX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514815
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Autumn Falls
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471529
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: AUGUST AMES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471809
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | DickForLily
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471292
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Teen
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471420
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Blacks On Boys
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471366
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kimmy Granger
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471567
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Dillion Harper
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471539
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Diana Rider
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471291
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Girl Cum
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471453
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | John and Sky
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471302
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sophia Leone
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471605
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://i.imgur.com/7RbuJn0.png",ONLY FANS ARGENTINAS XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/347987
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY FAMILY PIES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514820
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 7
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459989
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 82
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460051
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",Brazzer TV Europa
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514564
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | NoFaceGirl
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471336
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 93
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460062
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | 4K 6
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/361522
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 16
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459998
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lubed
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471466
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Anny Walker
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471271
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: REAL DIRTY VIDEOS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514835
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Next Door Buddies
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471374
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Purple Bitch
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471343
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Massage
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471409
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 46
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460015
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: POV MASTERS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471797
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Casting
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471394
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Davcina
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471288
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Melody Marks
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471589
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/a899645c5764107cc5c111a3ae72df2e.png",ADULTOS | PORNBOX: MY 18 TEENS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/504321
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Spy Fam
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471502
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alex Adams
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471518
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PORN WORLD HARDCORE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514830
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LETHAL TEENS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471747
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Fisting
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471403
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Public
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471416
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Double Penetration
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471399
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 92
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460061
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Masturbation
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471410
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FAKE TAXI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471708
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: JESH BY JESH
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514805
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 3
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459985
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : ITS POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514534
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Stella Cox
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471606
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bob Big Tula
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471276
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: TINY 4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471786
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SUGAR BABES TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471741
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PORNHOCHIC
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471731
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Slut Inspection
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471501
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Molly Pills
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471329
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kenna James
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471564
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Black Money
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471435
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LETHAL HARDCORE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514809
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LUBED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514811
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Pornstar
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624408
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY DIRTY HOBBY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514819
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: NICOLE ANISTON
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471825
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Step Siblings Caught
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471503
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Egon Kowalski
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471293
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: STROKIES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471746
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SWEETHEART PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471788
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 98
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460067
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Gina Valentina
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471550
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: VALENTINA NAPPI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471828
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FIRST CLASS POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471743
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | College
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471395
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SHE IS NERDY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471802
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Emma Fiore
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471296
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Brandi Love
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471533
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lauren Phillips
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471574
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Small Tits
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471419
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Cutie Kim
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471285
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 88
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460057
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Karlee Grey
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471560
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Amadani
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471268
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Candy Love
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471279
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: NANNY SPY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471783
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DREAMROOM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514789
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: EVA LOVIA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471816
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: UMA JOLIE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514864
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 49
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460018
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Xev Bellringer
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471614
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BIPHORIA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514779
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DDF BUSTY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471752
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: REALITY JUNKIES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471718
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 69
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460038
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Princess Cum
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471490
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FAPADOO
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471700
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : FIT 18
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514529
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 11
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459993
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mia Malkova
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471590
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: DANI DANIELS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471812
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Raw White Meat
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471494
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY LIFE IN MIAMI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471760
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Luna Star
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471585
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: REALITY KINGS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471763
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Karma Rx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471561
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",Mia Khalifa
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514552
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 10
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459992
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : MY DIRTY MAID
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514569
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: BLAKE BLOSSOM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471813
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 97
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460066
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : ADULT IPTV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514508
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Savannah Bond
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471602
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: LENA PAUL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471821
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Up Close
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471513
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: LISA ANN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471822
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: MADISON IVY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471823
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alexis Fawx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471520
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 94
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460063
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mira David
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471324
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bratty Milf
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471436
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PASSION
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471762
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : FAMILY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514528
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | SecretsFilmed
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471349
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Elle Lee
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471294
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 84
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460053
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | New Sensations
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471479
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lexi Lore
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471580
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: NF BUSTY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514824
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 26
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460002
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ALINA LOPEZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514845
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: KINKY SPA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471711
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 72
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460041
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Vina Sky
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471611
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | True Amateurs
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471511
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Parasited
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471483
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY TINY WISH
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471769
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Msbreewc
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471331
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: BRANDI LOVE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471811
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: CUM 4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471695
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: UMA JOLIE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471827
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kourtney Love
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471568
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: JAYS POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471713
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | My BF Doesnt Know
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471332
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 4
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459986
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ABELLA DANGER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471804
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Cuckold
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471398
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 38
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460010
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : TUSHYRAW
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514553
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 40
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460012
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | HeteroFlexible
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471369
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 28
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460004
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Littlebuffbabe
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471310
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: KINKY INLAWS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471712
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: JESSA RHODES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471819
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | NF Busty
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471480
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Japan Uncensored
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471460
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 87
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460056
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 42
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460014
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Analized
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471429
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Threesome
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471421
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : PERV MOM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514542
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LOVE HOME PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514810
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : BANGING BEAUTIES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514563
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mature
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471411
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: GINA VALENTINA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471817
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Luna Okko
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471313
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bratty Sis
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471437
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 80
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460049
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Blaze Rager
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471275
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471415
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Russian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624413
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 81
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460050
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PERV MOM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471732
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : BLUE HUSTLER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514517
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Little Caprice
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471583
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MOM XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471772
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",MyCamTV Skinny Girls
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624405
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 50
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460019
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: JESSA RHODES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514856
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Elsa Jean
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471541
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pussy Licking
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471417
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: CUM 4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471782
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kate Marley
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471305
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Ebony
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471400
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Compilation
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624416
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Adult Mobile
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471425
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Anal4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471428
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://i.imgur.com/8MW92iv.png",XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514755
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: AV TAXI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471728
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 54
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460023
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : LIFE IN MIAMI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514538
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Yoshi Kawasaki XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471383
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 41
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460013
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | 4K 7
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/512577
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 99
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460068
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BIG BOOTY CITY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471734
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Klinky Spa
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471462
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HUSSIE PASS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471748
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",XXX: OnlyFans: Lunabenna HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/791595
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: EMILY WILLIS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514854
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Solazola
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471354
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: AUTUMN FALLS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471810
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DREAMROOM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471774
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | LaSirena69
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471573
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alina Rai
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471266
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Blowjob
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624411
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DEEPER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471735
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Carla Cute
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471280
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Tru Kait
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471607
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Julie Jess
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471303
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sara Jay
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471601
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: TUSHY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471790
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: INTERRACIAL PASS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471689
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | LetsDoelt Bonus
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471465
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ALEX LEGEND
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471736
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Molly Little
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471591
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Big Boobs
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471389
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 76
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460045
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Gabbie Carter
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471548
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 91
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460060
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 74
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460043
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : PUBLIC AGENT 2
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514549
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ABELLA DANGER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514843
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : FUCKING
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514556
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sweeti Fox
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471355
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ASIAN FOOTJOB
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471742
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FAMILY SWAP XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471698
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Emanuelly Raquel
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471543
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kylie XY Quinn
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471570
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DORCEL CLUB
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471749
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FAMILY STROKES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471709
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",MyCamTV Teen Girls
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624399
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Passion
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471484
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Puffy Pink
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471341
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : MAMACITA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514539
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 51
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460020
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : PUBLIC AGENT
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514548
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: A GIRL KNOWS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471756
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://iprime.live:30001/images/BF1WsqO9spAUh9tuUkqJrf5jLil0efl8VJayWWrBLD2cyhwqE5gzKUktVloqJpxX.png",PORNBOX | ALEX LEGEND
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/512651
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 66
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460035
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: NEW SENSATIONS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471761
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ELSA JEAN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514853
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hardcore
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471405
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 36
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460009
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | BigTittyGothEgg
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471274
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : THEBANGBUS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514558
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BOX OF PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471690
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FAKE HOSTEL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471707
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://i.imgur.com/7RbuJn0.png",PORNBOX | MAMACITAZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/788348
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 58
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460027
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Anastasia Knight
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471525
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: GIRL CUM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471779
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Aeries Steele
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471265
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Luna Roulette
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471314
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: EXOTIC
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471720
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MYLF
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471726
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BANG BROS NETWORK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471757
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BLOW ME POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471764
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SHAGGING MOMS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471801
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ANALIZED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514776
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: FILTHY KINGS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471765
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 78
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460047
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SUGAR BABES TV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514841
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Joey Lee
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471301
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Nyna Ferragni
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471337
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ADRIANA CHECHIK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514844
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: RILEY REID
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471826
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: TRUE AMATEURS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471744
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Next Door Twink
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471378
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MOM TEACH SEX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471721
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 70
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460039
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY 18 TEENS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471751
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sara Blonde
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471600
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alexis Crystal
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471519
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pork Vendors
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471488
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pure Mature
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471492
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Violet Myers
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471612
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Nubiles
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471482
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mini Diva
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471323
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Piper Perri
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471596
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Thelexisstar
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471357
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | 404HotFound
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471264
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: LANA RHOADES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471820
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | BadFamilyPov
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471431
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Czrok
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471286
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: LENA PAUL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514858
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Tiny 4K
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471509
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sofia Rizof
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471353
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Chole Temple
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471282
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MAMACITAZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471745
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Tonights Girlfriend
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471510
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 52
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460021
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Nadja Rey
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471335
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: NEW SENSATIONS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514823
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 86
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460055
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 61
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460030
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Athena Faris
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471528
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Estter Muniz
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471297
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Eva Elfie
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471546
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Family Hookups
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471447
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Bondage
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471392
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 13
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459995
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Creamy Spot
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471283
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Jenny Lux
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471300
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | GirlGirlXXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471454
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY FAMILY PIES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471723
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MewSlut
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471319
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: BRANDI LOVE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514850
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ARIANA MARIE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514847
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 9
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459991
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Milana Milka
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471322
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Try Not To Cum
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471422
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | 4K 5
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/361514
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : PORNBOX TRANS EROTICA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514545
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LUBED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471768
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HORNY DREAM BABEZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471696
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Adriana Chechik
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471517
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Amber Moore
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471524
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: 1111 CUSTOMS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471759
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SOFIE MARIE XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471803
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : VIXEN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514555
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Aria Lee
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471527
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Twistys
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471512
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ADRIANA CHECHIK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471805
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Men
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471372
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Latina Milf
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471463
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Reality Kings
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471496
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Fetish
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471402
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Aunt Judys XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471430
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Feet
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471401
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Latin Leche
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471371
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 14
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459996
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Magic Asian Pussy
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471467
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ALL BLACK X
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514773
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 59
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460028
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pantyhose
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471413
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hazel Moore
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471554
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 53
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460022
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Syndicete
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471356
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : RAWATTACK
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514567
+#EXTINF:-1 group-title="❌❌❌STARS EXCLUSIVE" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: ELSA JEAN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471814
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Luxury Girl
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471315
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : 5K PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514509
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | The White Boxxx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471507
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Emily Willis
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471544
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 8
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459990
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Family Dick
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471368
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Janice Griffith
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471555
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Elly Clutch
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471295
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kate Koss
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471304
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Crystal Rush
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471537
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/PORNBOX_Originals.png",PORNBOX: VIXEN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471792
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 60
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460029
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Milf
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471412
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HOLED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514800
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Delphine
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471442
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | College Rules (VIP)
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/512646
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MUST NOT FAP
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514818
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Ema Karter
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471542
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DORCEL CLUB
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514788
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Blair Williams
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471531
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PERV CITY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514828
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: BRATTY SIS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471693
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 48
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460017
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 100
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460069
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 67
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460036
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LOVE HER FEET
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471716
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MOFOS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471719
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : PHATASSWHITEGIRLS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514562
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DAGFS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471692
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Perv Nana
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471486
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Proberty Sex
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471491
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: NUBILE FILMS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514825
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Raw Attack
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471493
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : ASIAN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514512
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 79
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460048
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Cosplay
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471396
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SLIM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514839
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Gay
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624418
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: POVD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514832
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MeeHuTao
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471317
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Xreindeers
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471361
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Skylar Vox
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471604
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MamacitaZ
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471468
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Brazzers
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471438
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Blake Blossom
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471532
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Doghouse Digital
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471445
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Next Door Raw
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471375
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DDF BUSTY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514784
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Daniela Antury
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471287
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",MyCamTV Asian Girls
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624400
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: DANI DANIELS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514851
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SPY FAM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471787
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MAX J
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471740
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | BFFs
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471434
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Brunette
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624417
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | ASGmax
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471365
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | A Girls Knows
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471424
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://i.imgur.com/8MW92iv.png",XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514758
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Porn Plus
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471514
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 64
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460033
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: BBC PIE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471778
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 18
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460000
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | 4K 2
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/356378
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sheena Ryder
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471603
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: JAYS POV
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471780
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: AMATEUR EURO
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514775
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Jia Lissa
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471558
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 95
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460064
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 83
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460052
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Mom Wants Creampie
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471473
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PUBA
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471799
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : TUG CASTING
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514557
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Valentina Nappi
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471608
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Allinika
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471267
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Team Skeet
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471506
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",ADULTOS | Brazzers  (VIP)
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/512614
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | BadCuteGirl
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471272
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HER LIMIT
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514799
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LIFE SELECTOR
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471715
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Next Door Taboo
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471377
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 71
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460040
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Anal Mom
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471427
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Interracial
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624409
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | GentlyPerv
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471298
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Futanari
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471452
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Lana Rhoades
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471572
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MUST NOT FAP
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471770
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MASSAGE ROOMS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471687
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: NF BUSTY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471725
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Dani Daniels
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471538
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Brooke Tilli
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471278
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Macy Meadows
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471586
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: CASTING COUCH
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471755
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX 4K: SPY FAM
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471785
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Asian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471385
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Gia Paige
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471549
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 27
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460003
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alina Lopez
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471523
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Leana Lovings
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471576
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Reislin
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471346
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 39
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460011
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : HENTAI
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514530
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Amateur Euro
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471426
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PRIVATE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471737
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Haley Reed
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471553
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Big Ass
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471388
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Leah Gotti
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471575
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY PERVY FAMILY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471724
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: LOVE HOME PORN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471727
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Real Men Fuck
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471380
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | My Pervy Family
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471477
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: DAGFS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514783
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | See Him Fuck
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471497
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Penny Barber
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471595
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HORNY HOSTEL
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471697
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: STROKIES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514840
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Jewelz Blu
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471557
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Her Limit
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471456
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SPANK MONSTER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471794
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Alexis Texas
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471522
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Shinaryen
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471351
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sweet Sinner
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471504
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HOT WIFE XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471706
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Serenity Cox
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471350
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pissing
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471414
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Digital Climaxxx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471443
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: ADULT TIME
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471754
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Violet Moreau
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471360
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Ginebra Bellucci
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471551
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pamsnusnu
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471339
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | My Friends Hot Mom
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471476
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",AdultIPTV.net Lesbian
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/624414
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Eva Lovia
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471547
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kylie Rocket
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471569
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: PRIVATE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514834
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Hailey Rose
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471552
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Pure Pleasure
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471342
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: GOTMYLF
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471702
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Chessie Rae
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471281
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: GANGBANG CREAMPIE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471776
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 29
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460005
+#EXTINF:-1 group-title="❌❌❌ ONLY FANS" tvg-logo="http://swedtv.vip/logos/onlyadult.png",OnlyFans: Kiittenymph HD
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/791585
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: SWEET SINNER
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471686
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Angela White
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471526
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | BBC Pie
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471433
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | BBW
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471386
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: AUTUMN FALLS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514849
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Reagan Foxx
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471597
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 73
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460042
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MOM XXX
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514816
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Loliiiiipop99
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471311
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 85
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460054
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 75
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1460044
+#EXTINF:-1 group-title="❌❌❌GAYS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Reality Dudes
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471381
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://xplatinmedia.com:8080/images/4e8d4d2257f0b18468b4ed5792c30feb.png",PREMIUM XXX : LANA RHOADES
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1388733
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Sis Loves Me
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471499
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | LetsDoelt
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471464
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Riley Reid
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471598
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | LeoLulu
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471579
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Anastangel
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471270
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPikKD65qKFufH1mSHlc1EON_3WbyyFOXe4TporP3HkmEk.png",STARS EXCLUSIVE: DANI JENSEN
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514852
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: MY DIRTY HOBBY
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471729
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | MyAnny
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471333
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: HENTAINED
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/514798
+#EXTINF:-1 group-title="❌❌❌TOP CATEGORIAS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Anal
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471384
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png",PORNBOX: NUBILE FILMS
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471730
+#EXTINF:-1 group-title="❌❌❌AMATEURS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Kriss Kiss
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471307
+#EXTINF:-1 group-title="❌❌❌ORIGINALS" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Family Strokes
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471448
+#EXTINF:-1 group-title="❌❌❌ PORNBOX" tvg-logo="https://pornbox.com/images/pb-logo.png",PORNBOX 17
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1459999
+#EXTINF:-1 group-title="❌❌❌ESTRELLAS PORNO" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png",X4 | Emma Hix
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1471545
+#EXTINF:-1 group-title="❌❌❌ ADULTOS" tvg-logo="http://miarea.vip:8080/images/8b6d21d291cca303de5edc5882b0b61f.png",JENNY LIVE
+http://liontv.es:8080/Gerardopavon/QhX2xFKTFQ/1525993
 
 
 

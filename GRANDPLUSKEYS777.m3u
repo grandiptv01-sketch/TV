@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/07/05 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/07/06 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -3081,10 +3081,1690 @@ http://ru01.plink-pile.ch/8048/index.m3u8?token=VhqbPLzwYSU5Z4
 
 
 
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinopremiera-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinopremiera-hd-orig.png" tvg-rec="7",Кинопремьера HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinopremiera-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kino-premium-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kino-premium-hd-orig.png" tvg-rec="7",Премиальное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kino-premium-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="ostrosujetnoe-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png" tvg-rec="7",Остросюжетное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/ostrosujetnoe-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="hit-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/hit-hd-orig.png" tvg-rec="7",Хит HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/hit-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinohit" tvg-logo="http://s01.wsbof.com:8080/streams/kinohit.png" tvg-rec="7",Кинохит
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinohit.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinohit-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinohit-hd-orig.png" tvg-rec="7",Кинохит HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinohit-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinomix" tvg-logo="http://s01.wsbof.com:8080/streams/kinomix.png" tvg-rec="7",Киномикс
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinomix.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinomix-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinomix-hd-orig.png" tvg-rec="7",Киномикс HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinomix-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinosemja" tvg-logo="http://s01.wsbof.com:8080/streams/kinosemja.png" tvg-rec="7",Киносемья
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinosemja.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinosemja-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinosemja-hd-orig.png" tvg-rec="7",Киносемья HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinosemja-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinosvidanije" tvg-logo="http://s01.wsbof.com:8080/streams/kinosvidanije.png" tvg-rec="7",Киносвидание
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinosvidanije.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinosvidanije-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinosvidanije-hd-orig.png" tvg-rec="7",Киносвидание HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinosvidanije-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mnogo-tv" tvg-logo="http://s01.wsbof.com:8080/streams/mnogo-tv.png" tvg-rec="7",Киносерия
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mnogo-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mnogo-tv-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/mnogo-tv-hd-orig.png" tvg-rec="7",Киносерия HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mnogo-tv-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinopokaz" tvg-logo="http://s01.wsbof.com:8080/streams/kinopokaz.png" tvg-rec="7",Кинопоказ
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinopokaz.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinopokaz-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinopokaz-hd-orig.png" tvg-rec="7",Кинопоказ HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinopokaz-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="blokbaster-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/blokbaster-hd-orig.png" tvg-rec="7",Блокбастер HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/blokbaster-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="boeviki-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/boeviki-hd-orig.png" tvg-rec="7",Боевики HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/boeviki-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nash-kinopokaz-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/nash-kinopokaz-hd-orig.png" tvg-rec="7",Наш Кинопоказ HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nash-kinopokaz-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nash-kinoroman-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Душевное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nash-kinoroman-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nash-detektiv-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nash-detektiv-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nashe-lubimoe-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/nashe-lubimoe-hd-orig.png" tvg-rec="7",Любимое HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="vip-premiere-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/vip-premiere-hd-orig.png" tvg-rec="7",Viju+ premiere HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/vip-premiere-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="vip-megahit-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/vip-megahit-hd-orig.png" tvg-rec="7",Viju+ megahit HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/vip-megahit-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="vip-comedy-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/vip-comedy-hd-orig.png" tvg-rec="7",Viju+ comedy HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/vip-comedy-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="vip-serial-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/vip-serial-hd-orig.png" tvg-rec="7",Viju+ serial HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/vip-serial-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000.png" tvg-rec="7",Viju TV1000
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-hd-orig.png" tvg-rec="7",Viju TV1000 HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-action" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-action.png" tvg-rec="7",Viju TV1000 action
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-action.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-action-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-action-hd-orig.png" tvg-rec="7",Viju TV1000 action HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-action-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-russkoje" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-ru-kino.png" tvg-rec="7",Viju TV1000 русское
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-russkoje.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-russkoje-hd" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-russkoje-hd.png" tvg-rec="7",Viju TV1000 русское HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-russkoje-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viju-tv1000-nowella-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/viju-tv1000-nowella-hd-orig.png" tvg-rec="7",Viju TV1000 новелла HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viju-tv1000-nowella-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viju-tv1000-romantica-hd" tvg-logo="http://s01.wsbof.com:8080/streams/viju-tv1000-romantica-hd.png" tvg-rec="7",Viju TV1000 Romantica HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viju-tv1000-romantica-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viasat-kino" tvg-logo="http://s01.wsbof.com:8080/streams/viasat-kino.png" tvg-rec="7",Viasat Kino
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viasat-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viasat-kino-hd" tvg-logo="http://s01.wsbof.com:8080/streams/viasat-kino-hd.png" tvg-rec="7",Viasat Kino HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viasat-kino-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viasat-kino-action" tvg-logo="http://s01.wsbof.com:8080/streams/viasat-kino-action.png" tvg-rec="7",Viasat Kino Action
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viasat-kino-action.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viasat-kino-action-hd" tvg-logo="http://s01.wsbof.com:8080/streams/viasat-kino-action-hd.png" tvg-rec="7",Viasat Kino Action HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viasat-kino-action-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viasat-kino-comedy-hd" tvg-logo="http://s01.wsbof.com:8080/streams/viasat-kino-comedy-hd.png" tvg-rec="7",Viasat Kino Comedy HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viasat-kino-comedy-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-world-kino" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-world-kino.png" tvg-rec="7",Viasat Kino World
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-world-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv1000-world-kino-hd" tvg-logo="http://s01.wsbof.com:8080/streams/tv1000-world-kino-hd.png" tvg-rec="7",Viasat Kino World HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv1000-world-kino-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="viasat-serial-hd" tvg-logo="http://s01.wsbof.com:8080/streams/viasat-serial-hd.png" tvg-rec="7",Viasat Serial HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/viasat-serial-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mgm-hd" tvg-logo="http://s01.wsbof.com:8080/streams/mgm-hd.png" tvg-rec="7",Hollywood HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mgm-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="cinema" tvg-logo="http://s01.wsbof.com:8080/streams/cinema.png" tvg-rec="7",Cinema
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/cinema.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="cinema-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/cinema-hd-orig.png" tvg-rec="7",Cinema HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/cinema-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kino-tv" tvg-logo="http://s01.wsbof.com:8080/streams/kino-tv.png" tvg-rec="7",Кино ТВ
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kino-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kino-tv-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kino-tv-hd-orig.png" tvg-rec="7",Кино ТВ HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kino-tv-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinojam1-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kinojam1-hd.png" tvg-rec="7",Kinojam 1 HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinojam1-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinojam2-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kinojam2-hd.png" tvg-rec="7",Kinojam 2 HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinojam2-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="family-jam-hd" tvg-logo="http://s01.wsbof.com:8080/streams/family-jam-hd.png" tvg-rec="7",Family Jam HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/family-jam-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="detective-jam-hd" tvg-logo="http://s01.wsbof.com:8080/streams/detective-jam-hd.png" tvg-rec="7",Detective Jam HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/detective-jam-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinoliving-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kinoliving-hd.png" tvg-rec="7",KinoLiving HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinoliving-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kion-hit-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kion-hit-hd.png" tvg-rec="7",KION Хит HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kion-hit-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="okko-tv-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/okko-tv-hd-orig.png" tvg-rec="7",OKKO TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/okko-tv-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="start-world" tvg-logo="http://s01.wsbof.com:8080/streams/start-world.png" tvg-rec="7",Start World
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/start-world.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="start-world-hd" tvg-logo="http://s01.wsbof.com:8080/streams/start-world-hd.png" tvg-rec="7",Start World HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/start-world-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="start-air" tvg-logo="http://s01.wsbof.com:8080/streams/start-air.png" tvg-rec="7",Start Air
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/start-air.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="start-air-hd" tvg-logo="http://s01.wsbof.com:8080/streams/start-air-hd.png" tvg-rec="7",Start Air HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/start-air-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="plan-b" tvg-logo="http://s01.wsbof.com:8080/streams/plan-b.png" tvg-rec="7",Plan B
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/plan-b.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="plan-b-hd" tvg-logo="http://s01.wsbof.com:8080/streams/plan-b-hd.png" tvg-rec="7",Plan B HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/plan-b-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="legenda-hd" tvg-logo="http://s01.wsbof.com:8080/streams/legenda-hd.png" tvg-rec="7",Легенда HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/legenda-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="4ever-cinema-ua-hd" tvg-logo="http://s01.wsbof.com:8080/streams/4ever-cinema-ua-hd.png" tvg-rec="7",4ever Cinema HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/4ever-cinema-ua-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="4ever-drama-hd" tvg-logo="http://s01.wsbof.com:8080/streams/4ever-drama-hd.png" tvg-rec="7",4ever Drama HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/4ever-drama-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="4ever-theater-hd" tvg-logo="http://s01.wsbof.com:8080/streams/4ever-theater-hd.png" tvg-rec="7",4ever Theater HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/4ever-theater-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinokult-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kinokult-hd.png" tvg-rec="7",КиноКульт HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinokult-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kineko-hd" tvg-logo="http://s01.wsbof.com:8080/streams/kineko-hd.png" tvg-rec="7",Кинеко HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kineko-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="evrokino" tvg-logo="http://s01.wsbof.com:8080/streams/evrokino.png" tvg-rec="7",Еврокино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/evrokino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="evrokino-hd" tvg-logo="http://s01.wsbof.com:8080/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/evrokino-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="flix-snip" tvg-logo="http://s01.wsbof.com:8080/streams/flix-snip.png" tvg-rec="7",Flix Snip
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/flix-snip.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="flix-snip-hd" tvg-logo="http://s01.wsbof.com:8080/streams/flix-snip-hd.png" tvg-rec="7",Flix Snip HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/flix-snip-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="egoist-tv" tvg-logo="http://s01.wsbof.com:8080/streams/egoist-tv.png" tvg-rec="7",SHOT TV
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/egoist-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="egoist-tv-hd" tvg-logo="http://s01.wsbof.com:8080/streams/egoist-tv-hd.png" tvg-rec="7",SHOT TV HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/egoist-tv-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="vhska-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/vhska-hd-orig.png" tvg-rec="7",VHS-ка HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/vhska-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="vhs-serial-hd" tvg-logo="http://s01.wsbof.com:8080/streams/vhs-serial-hd.png" tvg-rec="7",VHS Сериал HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/vhs-serial-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="muzhskoe-kino" tvg-logo="http://s01.wsbof.com:8080/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="muzhskoe-kino-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/muzhskoe-kino-hd-orig.png" tvg-rec="7",Мужское кино HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/muzhskoe-kino-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nashe-muzshkoe-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/nashe-muzshkoe-hd-orig.png" tvg-rec="7",Наше Мужское HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nashe-muzshkoe-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="trash-hd" tvg-logo="http://s01.wsbof.com:8080/streams/trash-hd.png" tvg-rec="7",Trash HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/trash-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="strashnoe-hd" tvg-logo="http://s01.wsbof.com:8080/streams/strashnoe-hd.png" tvg-rec="7",Страшное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/strashnoe-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="shokiruschee-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/shokiruschee-hd-orig.png" tvg-rec="7",Шокирующее HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/shokiruschee-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinouzhas-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinouzhas-hd-orig.png" tvg-rec="7",Киноужас HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinouzhas-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="uzhasy-hd" tvg-logo="http://s01.wsbof.com:8080/streams/uzhasy-hd.png" tvg-rec="7",Ужасы HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/uzhasy-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="Scream" tvg-logo="http://s01.wsbof.com:8080/streams/Scream.png" tvg-rec="7",Scream
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/Scream.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="scream-hd" tvg-logo="http://s01.wsbof.com:8080/streams/scream-hd.png" tvg-rec="7",Scream HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/scream-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="hct" tvg-logo="http://s01.wsbof.com:8080/streams/hct.png" tvg-rec="7",НСТ
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/hct.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkaja-comedija" tvg-logo="http://s01.wsbof.com:8080/streams/russkaja-comedija.png" tvg-rec="7",Комедия
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkaja-comedija.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinokomedia" tvg-logo="http://s01.wsbof.com:8080/streams/kinokomedia.png" tvg-rec="7",Кинокомедия
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinokomedia.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kinokomedia-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kinokomedia-hd-orig.png" tvg-rec="7",Кинокомедия HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kinokomedia-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="komedijnoe-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/komedijnoe-hd-orig.png" tvg-rec="7",Комедийное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/komedijnoe-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="comedy-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/comedy-hd-orig.png" tvg-rec="7",Камеди HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/comedy-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia-premium" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-premium.png" tvg-rec="7",Amedia Premium
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia-premium.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia-premium-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-premium-hd-orig.png" tvg-rec="7",AMEDIA Premium HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia-premium-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia-hit" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-hit.png" tvg-rec="7",Amedia Hit
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia-hit.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia-hit-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-hit-hd-orig.png" tvg-rec="7",AMEDIA HIT HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia-hit-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia1" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-1.png" tvg-rec="7",A1
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia1.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia1-hd" tvg-logo="http://s01.wsbof.com:8080/streams/amedia1-hd.png" tvg-rec="7",A1 HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia1-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia-2" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-2.png" tvg-rec="7",A2
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia-2.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amedia-2-hd" tvg-logo="http://s01.wsbof.com:8080/streams/amedia-2-hd.png" tvg-rec="7",A2 HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amedia-2-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="fox" tvg-logo="http://s01.wsbof.com:8080/streams/fox.png" tvg-rec="7",FX
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/fox.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="fox-hd" tvg-logo="http://s01.wsbof.com:8080/streams/fox-hd.png" tvg-rec="7",FX HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/fox-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="fox-life" tvg-logo="http://s01.wsbof.com:8080/streams/fox-life.png" tvg-rec="7",FX Life
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/fox-life.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="fox-life-hd" tvg-logo="http://s01.wsbof.com:8080/streams/fox-life-hd.png" tvg-rec="7",FX Life HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/fox-life-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="set" tvg-logo="http://s01.wsbof.com:8080/streams/set.png" tvg-rec="7",Red
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/set.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="set-hd" tvg-logo="http://s01.wsbof.com:8080/streams/set-hd.png" tvg-rec="7",Red HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/set-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="sci-fi" tvg-logo="http://s01.wsbof.com:8080/streams/sony-sci-fi.png" tvg-rec="7",Sci-Fi
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/sci-fi.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="sci-fi-hd" tvg-logo="http://s01.wsbof.com:8080/streams/sci-fi-hd.png" tvg-rec="7",Sci-Fi HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/sci-fi-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="amc-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/amc-hd-orig.png" tvg-rec="7",AMC HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/amc-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="suspense-hd" tvg-logo="http://s01.wsbof.com:8080/streams/suspense-hd.png" tvg-rec="7",Suspense HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/suspense-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="black" tvg-logo="http://s01.wsbof.com:8080/streams/sony-turbo.png" tvg-rec="7",Black
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/black.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="black-hd" tvg-logo="http://s01.wsbof.com:8080/streams/black-hd.png" tvg-rec="7",Black HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/black-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv-xxi" tvg-logo="http://s01.wsbof.com:8080/streams/tv-xxi.png" tvg-rec="7",ТВ21
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv-xxi.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="tv-xxi-hd" tvg-logo="http://s01.wsbof.com:8080/streams/tv-xxi-hd.png" tvg-rec="7",ТВ21 HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/tv-xxi-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mosfilm" tvg-logo="http://s01.wsbof.com:8080/streams/mosfilm.png" tvg-rec="7",Мосфильм
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mosfilm.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mosfilm-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mosfilm-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="lubimoe-kino" tvg-logo="http://s01.wsbof.com:8080/streams/lubimoe-kino.png" tvg-rec="7",Любимое Кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/lubimoe-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="lubimoe-kino-hd" tvg-logo="http://s01.wsbof.com:8080/streams/lubimoe-kino-hd.png" tvg-rec="7",Любимое Кино HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/lubimoe-kino-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="sovetskaya-kinoclassica-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/sovetskaya-kinoclassica-hd-orig.png" tvg-rec="7",Советская Киноклассика HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/sovetskaya-kinoclassica-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="rodnoje_kino" tvg-logo="http://s01.wsbof.com:8080/streams/rodnoje_kino.png" tvg-rec="7",Родное кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/rodnoje_kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="patriot" tvg-logo="http://s01.wsbof.com:8080/streams/patriot.png" tvg-rec="7",Патриот
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/patriot.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="pobeda" tvg-logo="http://s01.wsbof.com:8080/streams/pobeda.png" tvg-rec="7",Победа
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/pobeda.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="pobeda-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/pobeda-hd-orig.png" tvg-rec="7",Победа HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/pobeda-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="den-pobedy-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/den-pobedy-hd-orig.png" tvg-rec="7",День Победы HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/den-pobedy-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nashe-nasledie-hd" tvg-logo="http://s01.wsbof.com:8080/streams/nashe-nasledie-hd.png" tvg-rec="7",Наше наследие HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nashe-nasledie-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nashe-novoe-kino" tvg-logo="http://s01.wsbof.com:8080/streams/nashe-novoe-kino.png" tvg-rec="7",Наше новое кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nashe-novoe-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nashe-novoe-kino-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/nashe-novoe-kino-hd-orig.png" tvg-rec="7",Наше новое кино HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nashe-novoe-kino-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkij-bestseller" tvg-logo="http://s01.wsbof.com:8080/streams/russkij-bestseller.png" tvg-rec="7",Русский Бестселлер
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkij-bestseller.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="telekafe" tvg-logo="http://s01.wsbof.com:8080/streams/telekafe.png" tvg-rec="7",Телекафе
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/telekafe.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="telekafe-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/telekafe-hd-orig.png" tvg-rec="7",Телекафе HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/telekafe-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="dom-kino" tvg-logo="http://s01.wsbof.com:8080/streams/dom-kino.png" tvg-rec="7",Дом Кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/dom-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="dom-kino-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/dom-kino-hd-orig.png" tvg-rec="7",Дом Кино HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/dom-kino-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="dom-kino-premium-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/dom-kino-premium-hd-orig.png" tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/dom-kino-premium-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkij-roman" tvg-logo="http://s01.wsbof.com:8080/streams/russkij-roman.png" tvg-rec="7",Русский Роман
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkij-roman.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkij-roman-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/russkij-roman-hd-orig.png" tvg-rec="7",Русский Роман HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkij-roman-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkij-detektiv" tvg-logo="http://s01.wsbof.com:8080/streams/russkij-detektiv.png" tvg-rec="7",Русский Детектив
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkij-detektiv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkij-iluzion" tvg-logo="http://s01.wsbof.com:8080/streams/russkij-iluzion.png" tvg-rec="7",Русский Иллюзион
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkij-iluzion.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="russkij-iluzion-hd" tvg-logo="http://s01.wsbof.com:8080/streams/russkij-iluzion-hd.png" tvg-rec="7",Русский Иллюзион HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/russkij-iluzion-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="iluzion-plus" tvg-logo="http://s01.wsbof.com:8080/streams/iluzion-plus.png" tvg-rec="7",Иллюзион +
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/iluzion-plus.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="iluzion-plus-hd" tvg-logo="http://s01.wsbof.com:8080/streams/iluzion-plus-hd.png" tvg-rec="7",Иллюзион + HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/iluzion-plus-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="kriminalnoe-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/kriminalnoe-hd-orig.png" tvg-rec="7",Криминальное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/kriminalnoe-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="feniks-plus-kino" tvg-logo="http://s01.wsbof.com:8080/streams/feniks-plus-kino.png" tvg-rec="7",Феникс+Кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/feniks-plus-kino.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="feniks-plus-kino-hd" tvg-logo="http://s01.wsbof.com:8080/streams/feniks-plus-kino-hd.png" tvg-rec="7",Феникс+Кино HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/feniks-plus-kino-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mir-seriala" tvg-logo="http://s01.wsbof.com:8080/streams/mir-seriala.png" tvg-rec="7",Мир Сериала
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mir-seriala.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="mir-seriala-hd" tvg-logo="http://s01.wsbof.com:8080/streams/mir-seriala-hd.png" tvg-rec="7",Мир Сериала HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/mir-seriala-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="romantichnoe-hd" tvg-logo="http://s01.wsbof.com:8080/streams/romantichnoe-hd.png" tvg-rec="7",Романтичное HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/romantichnoe-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="pro-lubov-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/pro-lubov-hd-orig.png" tvg-rec="7",Про Любовь HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/pro-lubov-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="love-story-hd" tvg-logo="http://s01.wsbof.com:8080/streams/love-story-hd.png" tvg-rec="7",Лавстори HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/love-story-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="romance-hd" tvg-logo="http://s01.wsbof.com:8080/streams/romance-hd.png" tvg-rec="7",Весна HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/romance-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="ntv-hit" tvg-logo="http://s01.wsbof.com:8080/streams/ntv-hit.png" tvg-rec="7",НТВ Хит
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/ntv-hit.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="ntv-hit-hd-orig" tvg-logo="http://s01.wsbof.com:8080/streams/ntv-hit-hd-orig.png" tvg-rec="7",НТВ Хит HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/ntv-hit-hd-orig.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="ntv-serial" tvg-logo="http://s01.wsbof.com:8080/streams/ntv-serial.png" tvg-rec="7",НТВ Сериал
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/ntv-serial.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="ntv-serial-hd" tvg-logo="http://s01.wsbof.com:8080/streams/ntv-serial-hd.png" tvg-rec="7",НТВ Сериал HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/ntv-serial-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="nostalgia" tvg-logo="http://s01.wsbof.com:8080/streams/nostalgia.png" tvg-rec="7",Ностальгия
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/nostalgia.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="retro" tvg-logo="http://s01.wsbof.com:8080/streams/retro.png" tvg-rec="7",Ретро ТВ
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/retro.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="sapfir-hd" tvg-logo="http://s01.wsbof.com:8080/streams/sapfir-hd.png" tvg-rec="7",Сапфир HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/sapfir-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="dorama-hd" tvg-logo="http://s01.wsbof.com:8080/streams/dorama-hd.png" tvg-rec="7",Дорама HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/dorama-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="timeless-dizi-channel-hd" tvg-logo="http://s01.wsbof.com:8080/streams/timeless-dizi-channel-hd.png" tvg-rec="7",Timeless Dizi Channel HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/timeless-dizi-channel-hd.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="bollywood" tvg-logo="http://s01.wsbof.com:8080/streams/bollywood.png" tvg-rec="7",Bollywood HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/bollywood.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="indija-tv" tvg-logo="http://s01.wsbof.com:8080/streams/indija-tv.png" tvg-rec="7",Индийское Кино
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/indija-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="zee-tv" tvg-logo="http://s01.wsbof.com:8080/streams/zee-tv.png" tvg-rec="7",Индия ТВ
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/zee-tv.m3u8
+#EXTINF:0 group-title="RUZIEV IPTV/248 ON TV KINO" tvg-id="zee-tv-hd" tvg-logo="http://s01.wsbof.com:8080/streams/zee-tv-hd.png" tvg-rec="7",Индия ТВ HD
+#EXTGRP:RUZIEV IPTV/248 ON TV KINO
+http://s01.wsbof.com:8080/s/2f77a04f/zee-tv-hd.m3u8
+
+
+
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/543226.png",FR - MTV
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/543226
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/543266.png",FR - MCM
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/543266
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/543272.png",FR - MTV LIVE
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/543272
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/543274.png",FR - MTV HITS
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/543274
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/629862.png",FR - MTV BASE
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/629862
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/543579.png",FR - B SMART
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/543579
+#EXTINF:-1  group-title="RUZIEV /FR MUSIC" tvg-logo="http://51.158.145.100/picons/logos/france/543169.png",FR - NRJ 12
+http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/543169
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="0001" tvg-name="PlayX 0001"  group-title="RUZIEV /PLAY X",PlayX 0001
+http://95.216.112.250/0001/index.m3u8
+#EXTINF:-1 tvg-id="0002" tvg-name="PlayX 0002"  group-title="RUZIEV /PLAY X",PlayX 0002
+http://95.216.112.250/0002/index.m3u8
+#EXTINF:-1 tvg-id="0003" tvg-name="PlayX 0003"  group-title="RUZIEV /PLAY X",PlayX 0003
+http://95.216.112.250/0003/index.m3u8
+#EXTINF:-1 tvg-id="0004" tvg-name="PlayX 0004"  group-title="RUZIEV /PLAY X",PlayX 0004
+http://95.216.112.250/0004/index.m3u8
+#EXTINF:-1 tvg-id="0005" tvg-name="PlayX 0005"  group-title="RUZIEV /PLAY X",PlayX 0005
+http://95.216.112.250/0005/index.m3u8
+#EXTINF:-1 tvg-id="0006" tvg-name="PlayX 0006"  group-title="RUZIEV /PLAY X",PlayX 0006
+http://95.216.112.250/0006/index.m3u8
+#EXTINF:-1 tvg-id="0007" tvg-name="PlayX 0007"  group-title="RUZIEV /PLAY X",PlayX 0007
+http://95.216.112.250/0007/index.m3u8
+#EXTINF:-1 tvg-id="0008" tvg-name="PlayX 0008"  group-title="RUZIEV /PLAY X",PlayX 0008
+http://95.216.112.250/0008/index.m3u8
+#EXTINF:-1 tvg-id="0009" tvg-name="PlayX 0009"  group-title="RUZIEV /PLAY X",PlayX 0009
+http://95.216.112.250/0009/index.m3u8
+#EXTINF:-1 tvg-id="0010" tvg-name="PlayX 0010"  group-title="RUZIEV /PLAY X",PlayX 0010
+http://95.216.112.250/0010/index.m3u8
+#EXTINF:-1 tvg-id="00101" tvg-name="PlayX 00101"  group-title="RUZIEV /PLAY X",PlayX 00101
+http://95.216.112.250/00101/index.m3u8
+#EXTINF:-1 tvg-id="00102" tvg-name="PlayX 00102"  group-title="RUZIEV /PLAY X",PlayX 00102
+http://95.216.112.250/00102/index.m3u8
+#EXTINF:-1 tvg-id="00103" tvg-name="PlayX 00103"  group-title="RUZIEV /PLAY X",PlayX 00103
+http://95.216.112.250/00103/index.m3u8
+#EXTINF:-1 tvg-id="00104" tvg-name="PlayX 00104"  group-title="RUZIEV /PLAY X",PlayX 00104
+http://95.216.112.250/00104/index.m3u8
+#EXTINF:-1 tvg-id="00106" tvg-name="PlayX 00106"  group-title="RUZIEV /PLAY X",PlayX 00106
+http://95.216.112.250/00106/index.m3u8
+#EXTINF:-1 tvg-id="00107" tvg-name="PlayX 00107"  group-title="RUZIEV /PLAY X",PlayX 00107
+http://95.216.112.250/00107/index.m3u8
+#EXTINF:-1 tvg-id="00108" tvg-name="PlayX 00108"  group-title="RUZIEV /PLAY X",PlayX 00108
+http://95.216.112.250/00108/index.m3u8
+#EXTINF:-1 tvg-id="00109" tvg-name="PlayX 00109"  group-title="RUZIEV /PLAY X",PlayX 00109
+http://95.216.112.250/00109/index.m3u8
+#EXTINF:-1 tvg-id="0011" tvg-name="PlayX 0011"  group-title="RUZIEV /PLAY X",PlayX 0011
+http://95.216.112.250/0011/index.m3u8
+#EXTINF:-1 tvg-id="00110" tvg-name="PlayX 00110"  group-title="RUZIEV /PLAY X",PlayX 00110
+http://95.216.112.250/00110/index.m3u8
+#EXTINF:-1 tvg-id="00111" tvg-name="PlayX 00111"  group-title="RUZIEV /PLAY X",PlayX 00111
+http://95.216.112.250/00111/index.m3u8
+#EXTINF:-1 tvg-id="00112" tvg-name="PlayX 00112"  group-title="RUZIEV /PLAY X",PlayX 00112
+http://95.216.112.250/00112/index.m3u8
+#EXTINF:-1 tvg-id="00113" tvg-name="PlayX 00113"  group-title="RUZIEV /PLAY X",PlayX 00113
+http://95.216.112.250/00113/index.m3u8
+#EXTINF:-1 tvg-id="00114" tvg-name="PlayX 00114"  group-title="RUZIEV /PLAY X",PlayX 00114
+http://95.216.112.250/00114/index.m3u8
+#EXTINF:-1 tvg-id="00115" tvg-name="PlayX 00115"  group-title="RUZIEV /PLAY X",PlayX 00115
+http://95.216.112.250/00115/index.m3u8
+#EXTINF:-1 tvg-id="00116" tvg-name="PlayX 00116"  group-title="RUZIEV /PLAY X",PlayX 00116
+http://95.216.112.250/00116/index.m3u8
+#EXTINF:-1 tvg-id="0012" tvg-name="PlayX 0012"  group-title="RUZIEV /PLAY X",PlayX 0012
+http://95.216.112.250/0012/index.m3u8
+#EXTINF:-1 tvg-id="0013" tvg-name="PlayX 0013"  group-title="RUZIEV /PLAY X",PlayX 0013
+http://95.216.112.250/0013/index.m3u8
+#EXTINF:-1 tvg-id="0014" tvg-name="PlayX 0014"  group-title="RUZIEV /PLAY X",PlayX 0014
+http://95.216.112.250/0014/index.m3u8
+#EXTINF:-1 tvg-id="0015" tvg-name="PlayX 0015"  group-title="RUZIEV /PLAY X",PlayX 0015
+http://95.216.112.250/0015/index.m3u8
+#EXTINF:-1 tvg-id="0016" tvg-name="PlayX 0016"  group-title="RUZIEV /PLAY X",PlayX 0016
+http://95.216.112.250/0016/index.m3u8
+#EXTINF:-1 tvg-id="0017" tvg-name="PlayX 0017"  group-title="RUZIEV /PLAY X",PlayX 0017
+http://95.216.112.250/0017/index.m3u8
+#EXTINF:-1 tvg-id="0018" tvg-name="PlayX 0018"  group-title="RUZIEV /PLAY X",PlayX 0018
+http://95.216.112.250/0018/index.m3u8
+#EXTINF:-1 tvg-id="0019" tvg-name="PlayX 0019"  group-title="RUZIEV /PLAY X",PlayX 0019
+http://95.216.112.250/0019/index.m3u8
+#EXTINF:-1 tvg-id="0020" tvg-name="PlayX 0020"  group-title="RUZIEV /PLAY X",PlayX 0020
+http://95.216.112.250/0020/index.m3u8
+#EXTINF:-1 tvg-id="0021" tvg-name="PlayX 0021"  group-title="RUZIEV /PLAY X",PlayX 0021
+http://95.216.112.250/0021/index.m3u8
+#EXTINF:-1 tvg-id="0022" tvg-name="PlayX 0022"  group-title="RUZIEV /PLAY X",PlayX 0022
+http://95.216.112.250/0022/index.m3u8
+#EXTINF:-1 tvg-id="0023" tvg-name="PlayX 0023"  group-title="RUZIEV /PLAY X",PlayX 0023
+http://95.216.112.250/0023/index.m3u8
+#EXTINF:-1 tvg-id="0024" tvg-name="PlayX 0024"  group-title="RUZIEV /PLAY X",PlayX 0024
+http://95.216.112.250/0024/index.m3u8
+#EXTINF:-1 tvg-id="0025" tvg-name="PlayX 0025"  group-title="RUZIEV /PLAY X",PlayX 0025
+http://95.216.112.250/0025/index.m3u8
+#EXTINF:-1 tvg-id="0026" tvg-name="PlayX 0026"  group-title="RUZIEV /PLAY X",PlayX 0026
+http://95.216.112.250/0026/index.m3u8
+#EXTINF:-1 tvg-id="0027" tvg-name="PlayX 0027"  group-title="RUZIEV /PLAY X",PlayX 0027
+http://95.216.112.250/0027/index.m3u8
+#EXTINF:-1 tvg-id="0028" tvg-name="PlayX 0028"  group-title="RUZIEV /PLAY X",PlayX 0028
+http://95.216.112.250/0028/index.m3u8
+#EXTINF:-1 tvg-id="0035" tvg-name="PlayX 0035"  group-title="RUZIEV /PLAY X",PlayX 0035
+http://95.216.112.250/0035/index.m3u8
+#EXTINF:-1 tvg-id="0036" tvg-name="PlayX 0036"  group-title="RUZIEV /PLAY X",PlayX 0036
+http://95.216.112.250/0036/index.m3u8
+#EXTINF:-1 tvg-id="0040" tvg-name="PlayX 0040"  group-title="RUZIEV /PLAY X",PlayX 0040
+http://95.216.112.250/0040/index.m3u8
+#EXTINF:-1 tvg-id="0041" tvg-name="PlayX 0041"  group-title="RUZIEV /PLAY X",PlayX 0041
+http://95.216.112.250/0041/index.m3u8
+#EXTINF:-1 tvg-id="0045" tvg-name="PlayX 0045"  group-title="RUZIEV /PLAY X",PlayX 0045
+http://95.216.112.250/0045/index.m3u8
+#EXTINF:-1 tvg-id="0047" tvg-name="PlayX 0047"  group-title="RUZIEV /PLAY X",PlayX 0047
+http://95.216.112.250/0047/index.m3u8
+#EXTINF:-1 tvg-id="0049" tvg-name="PlayX 0049"  group-title="RUZIEV /PLAY X",PlayX 0049
+http://95.216.112.250/0049/index.m3u8
+#EXTINF:-1 tvg-id="0052" tvg-name="PlayX 0052"  group-title="RUZIEV /PLAY X",PlayX 0052
+http://95.216.112.250/0052/index.m3u8
+#EXTINF:-1 tvg-id="0053" tvg-name="PlayX 0053"  group-title="RUZIEV /PLAY X",PlayX 0053
+http://95.216.112.250/0053/index.m3u8
+#EXTINF:-1 tvg-id="0054" tvg-name="PlayX 0054"  group-title="RUZIEV /PLAY X",PlayX 0054
+http://95.216.112.250/0054/index.m3u8
+#EXTINF:-1 tvg-id="0055" tvg-name="PlayX 0055"  group-title="RUZIEV /PLAY X",PlayX 0055
+http://95.216.112.250/0055/index.m3u8
+#EXTINF:-1 tvg-id="0056" tvg-name="PlayX 0056"  group-title="RUZIEV /PLAY X",PlayX 0056
+http://95.216.112.250/0056/index.m3u8
+#EXTINF:-1 tvg-id="0057" tvg-name="PlayX 0057"  group-title="RUZIEV /PLAY X",PlayX 0057
+http://95.216.112.250/0057/index.m3u8
+#EXTINF:-1 tvg-id="0058" tvg-name="PlayX 0058"  group-title="RUZIEV /PLAY X",PlayX 0058
+http://95.216.112.250/0058/index.m3u8
+#EXTINF:-1 tvg-id="0059" tvg-name="PlayX 0059"  group-title="RUZIEV /PLAY X",PlayX 0059
+http://95.216.112.250/0059/index.m3u8
+#EXTINF:-1 tvg-id="0062" tvg-name="PlayX 0062"  group-title="RUZIEV /PLAY X",PlayX 0062
+http://95.216.112.250/0062/index.m3u8
+#EXTINF:-1 tvg-id="0064" tvg-name="PlayX 0064"  group-title="RUZIEV /PLAY X",PlayX 0064
+http://95.216.112.250/0064/index.m3u8
+#EXTINF:-1 tvg-id="0067" tvg-name="PlayX 0067"  group-title="RUZIEV /PLAY X",PlayX 0067
+http://95.216.112.250/0067/index.m3u8
+#EXTINF:-1 tvg-id="0068" tvg-name="PlayX 0068"  group-title="RUZIEV /PLAY X",PlayX 0068
+http://95.216.112.250/0068/index.m3u8
+#EXTINF:-1 tvg-id="00683" tvg-name="PlayX 00683"  group-title="RUZIEV /PLAY X",PlayX 00683
+http://95.216.112.250/00683/index.m3u8
+#EXTINF:-1 tvg-id="0071" tvg-name="PlayX 0071"  group-title="RUZIEV /PLAY X",PlayX 0071
+http://95.216.112.250/0071/index.m3u8
+#EXTINF:-1 tvg-id="0072" tvg-name="PlayX 0072"  group-title="RUZIEV /PLAY X",PlayX 0072
+http://95.216.112.250/0072/index.m3u8
+#EXTINF:-1 tvg-id="0073" tvg-name="PlayX 0073"  group-title="RUZIEV /PLAY X",PlayX 0073
+http://95.216.112.250/0073/index.m3u8
+#EXTINF:-1 tvg-id="0075" tvg-name="PlayX 0075"  group-title="RUZIEV /PLAY X",PlayX 0075
+http://95.216.112.250/0075/index.m3u8
+#EXTINF:-1 tvg-id="00799" tvg-name="PlayX 00799"  group-title="RUZIEV /PLAY X",PlayX 00799
+http://95.216.112.250/00799/index.m3u8
+#EXTINF:-1 tvg-id="0081" tvg-name="PlayX 0081"  group-title="RUZIEV /PLAY X",PlayX 0081
+http://95.216.112.250/0081/index.m3u8
+#EXTINF:-1 tvg-id="0083" tvg-name="PlayX 0083"  group-title="RUZIEV /PLAY X",PlayX 0083
+http://95.216.112.250/0083/index.m3u8
+#EXTINF:-1 tvg-id="0085" tvg-name="PlayX 0085"  group-title="RUZIEV /PLAY X",PlayX 0085
+http://95.216.112.250/0085/index.m3u8
+#EXTINF:-1 tvg-id="0088" tvg-name="PlayX 0088"  group-title="RUZIEV /PLAY X",PlayX 0088
+http://95.216.112.250/0088/index.m3u8
+#EXTINF:-1 tvg-id="0089" tvg-name="PlayX 0089"  group-title="RUZIEV /PLAY X",PlayX 0089
+http://95.216.112.250/0089/index.m3u8
+#EXTINF:-1 tvg-id="0094" tvg-name="PlayX 0094"  group-title="RUZIEV /PLAY X",PlayX 0094
+http://95.216.112.250/0094/index.m3u8
+#EXTINF:-1 tvg-id="0096" tvg-name="PlayX 0096"  group-title="RUZIEV /PLAY X",PlayX 0096
+http://95.216.112.250/0096/index.m3u8
+#EXTINF:-1 tvg-id="0100" tvg-name="PlayX 0100"  group-title="RUZIEV /PLAY X",PlayX 0100
+http://95.216.112.250/0100/index.m3u8
+#EXTINF:-1 tvg-id="0101" tvg-name="PlayX 0101"  group-title="RUZIEV /PLAY X",PlayX 0101
+http://95.216.112.250/0101/index.m3u8
+#EXTINF:-1 tvg-id="0103" tvg-name="PlayX 0103"  group-title="RUZIEV /PLAY X",PlayX 0103
+http://95.216.112.250/0103/index.m3u8
+#EXTINF:-1 tvg-id="0106" tvg-name="PlayX 0106"  group-title="RUZIEV /PLAY X",PlayX 0106
+http://95.216.112.250/0106/index.m3u8
+#EXTINF:-1 tvg-id="0107" tvg-name="PlayX 0107"  group-title="RUZIEV /PLAY X",PlayX 0107
+http://95.216.112.250/0107/index.m3u8
+#EXTINF:-1 tvg-id="0108" tvg-name="PlayX 0108"  group-title="RUZIEV /PLAY X",PlayX 0108
+http://95.216.112.250/0108/index.m3u8
+#EXTINF:-1 tvg-id="0110" tvg-name="PlayX 0110"  group-title="RUZIEV /PLAY X",PlayX 0110
+http://95.216.112.250/0110/index.m3u8
+#EXTINF:-1 tvg-id="0117" tvg-name="PlayX 0117"  group-title="RUZIEV /PLAY X",PlayX 0117
+http://95.216.112.250/0117/index.m3u8
+#EXTINF:-1 tvg-id="0118" tvg-name="PlayX 0118"  group-title="RUZIEV /PLAY X",PlayX 0118
+http://95.216.112.250/0118/index.m3u8
+#EXTINF:-1 tvg-id="0121" tvg-name="PlayX 0121"  group-title="RUZIEV /PLAY X",PlayX 0121
+http://95.216.112.250/0121/index.m3u8
+#EXTINF:-1 tvg-id="0124" tvg-name="PlayX 0124"  group-title="RUZIEV /PLAY X",PlayX 0124
+http://95.216.112.250/0124/index.m3u8
+#EXTINF:-1 tvg-id="0125" tvg-name="PlayX 0125"  group-title="RUZIEV /PLAY X",PlayX 0125
+http://95.216.112.250/0125/index.m3u8
+#EXTINF:-1 tvg-id="0125_02" tvg-name="PlayX 0125_02"  group-title="RUZIEV /PLAY X",PlayX 0125_02
+http://95.216.112.250/0125_02/index.m3u8
+#EXTINF:-1 tvg-id="0125_03" tvg-name="PlayX 0125_03"  group-title="RUZIEV /PLAY X",PlayX 0125_03
+http://95.216.112.250/0125_03/index.m3u8
+#EXTINF:-1 tvg-id="0125_04" tvg-name="PlayX 0125_04"  group-title="RUZIEV /PLAY X",PlayX 0125_04
+http://95.216.112.250/0125_04/index.m3u8
+#EXTINF:-1 tvg-id="0125_05" tvg-name="PlayX 0125_05"  group-title="RUZIEV /PLAY X",PlayX 0125_05
+http://95.216.112.250/0125_05/index.m3u8
+#EXTINF:-1 tvg-id="0125_06" tvg-name="PlayX 0125_06"  group-title="RUZIEV /PLAY X",PlayX 0125_06
+http://95.216.112.250/0125_06/index.m3u8
+#EXTINF:-1 tvg-id="0125_07" tvg-name="PlayX 0125_07"  group-title="RUZIEV /PLAY X",PlayX 0125_07
+http://95.216.112.250/0125_07/index.m3u8
+#EXTINF:-1 tvg-id="0125_08" tvg-name="PlayX 0125_08"  group-title="RUZIEV /PLAY X",PlayX 0125_08
+http://95.216.112.250/0125_08/index.m3u8
+#EXTINF:-1 tvg-id="0125_09" tvg-name="PlayX 0125_09"  group-title="RUZIEV /PLAY X",PlayX 0125_09
+http://95.216.112.250/0125_09/index.m3u8
+#EXTINF:-1 tvg-id="0125_10" tvg-name="PlayX 0125_10"  group-title="RUZIEV /PLAY X",PlayX 0125_10
+http://95.216.112.250/0125_10/index.m3u8
+#EXTINF:-1 tvg-id="0125_11" tvg-name="PlayX 0125_11"  group-title="RUZIEV /PLAY X",PlayX 0125_11
+http://95.216.112.250/0125_11/index.m3u8
+#EXTINF:-1 tvg-id="0125_12" tvg-name="PlayX 0125_12"  group-title="RUZIEV /PLAY X",PlayX 0125_12
+http://95.216.112.250/0125_12/index.m3u8
+#EXTINF:-1 tvg-id="0125_13" tvg-name="PlayX 0125_13"  group-title="RUZIEV /PLAY X",PlayX 0125_13
+http://95.216.112.250/0125_13/index.m3u8
+#EXTINF:-1 tvg-id="0125_14" tvg-name="PlayX 0125_14"  group-title="RUZIEV /PLAY X",PlayX 0125_14
+http://95.216.112.250/0125_14/index.m3u8
+#EXTINF:-1 tvg-id="0125_15" tvg-name="PlayX 0125_15"  group-title="RUZIEV /PLAY X",PlayX 0125_15
+http://95.216.112.250/0125_15/index.m3u8
+#EXTINF:-1 tvg-id="0125_16" tvg-name="PlayX 0125_16"  group-title="RUZIEV /PLAY X",PlayX 0125_16
+http://95.216.112.250/0125_16/index.m3u8
+#EXTINF:-1 tvg-id="0125_17" tvg-name="PlayX 0125_17"  group-title="RUZIEV /PLAY X",PlayX 0125_17
+http://95.216.112.250/0125_17/index.m3u8
+#EXTINF:-1 tvg-id="0139" tvg-name="PlayX 0139"  group-title="RUZIEV /PLAY X",PlayX 0139
+http://95.216.112.250/0139/index.m3u8
+#EXTINF:-1 tvg-id="0142" tvg-name="PlayX 0142"  group-title="RUZIEV /PLAY X",PlayX 0142
+http://95.216.112.250/0142/index.m3u8
+#EXTINF:-1 tvg-id="0145" tvg-name="PlayX 0145"  group-title="RUZIEV /PLAY X",PlayX 0145
+http://95.216.112.250/0145/index.m3u8
+#EXTINF:-1 tvg-id="0147" tvg-name="PlayX 0147"  group-title="RUZIEV /PLAY X",PlayX 0147
+http://95.216.112.250/0147/index.m3u8
+#EXTINF:-1 tvg-id="0155" tvg-name="PlayX 0155"  group-title="RUZIEV /PLAY X",PlayX 0155
+http://95.216.112.250/0155/index.m3u8
+#EXTINF:-1 tvg-id="0156" tvg-name="PlayX 0156"  group-title="RUZIEV /PLAY X",PlayX 0156
+http://95.216.112.250/0156/index.m3u8
+#EXTINF:-1 tvg-id="0168" tvg-name="PlayX 0168"  group-title="RUZIEV /PLAY X",PlayX 0168
+http://95.216.112.250/0168/index.m3u8
+#EXTINF:-1 tvg-id="0169" tvg-name="PlayX 0169"  group-title="RUZIEV /PLAY X",PlayX 0169
+http://95.216.112.250/0169/index.m3u8
+#EXTINF:-1 tvg-id="0170" tvg-name="PlayX 0170"  group-title="RUZIEV /PLAY X",PlayX 0170
+http://95.216.112.250/0170/index.m3u8
+#EXTINF:-1 tvg-id="0172" tvg-name="PlayX 0172"  group-title="RUZIEV /PLAY X",PlayX 0172
+http://95.216.112.250/0172/index.m3u8
+#EXTINF:-1 tvg-id="0177" tvg-name="PlayX 0177"  group-title="RUZIEV /PLAY X",PlayX 0177
+http://95.216.112.250/0177/index.m3u8
+#EXTINF:-1 tvg-id="0185" tvg-name="PlayX 0185"  group-title="RUZIEV /PLAY X",PlayX 0185
+http://95.216.112.250/0185/index.m3u8
+#EXTINF:-1 tvg-id="0190" tvg-name="PlayX 0190"  group-title="RUZIEV /PLAY X",PlayX 0190
+http://95.216.112.250/0190/index.m3u8
+#EXTINF:-1 tvg-id="0192" tvg-name="PlayX 0192"  group-title="RUZIEV /PLAY X",PlayX 0192
+http://95.216.112.250/0192/index.m3u8
+#EXTINF:-1 tvg-id="0207" tvg-name="PlayX 0207"  group-title="RUZIEV /PLAY X",PlayX 0207
+http://95.216.112.250/0207/index.m3u8
+#EXTINF:-1 tvg-id="0213" tvg-name="PlayX 0213"  group-title="RUZIEV /PLAY X",PlayX 0213
+http://95.216.112.250/0213/index.m3u8
+#EXTINF:-1 tvg-id="0218" tvg-name="PlayX 0218"  group-title="RUZIEV /PLAY X",PlayX 0218
+http://95.216.112.250/0218/index.m3u8
+#EXTINF:-1 tvg-id="0300" tvg-name="PlayX 0300"  group-title="RUZIEV /PLAY X",PlayX 0300
+http://95.216.112.250/0300/index.m3u8
+#EXTINF:-1 tvg-id="0301" tvg-name="PlayX 0301"  group-title="RUZIEV /PLAY X",PlayX 0301
+http://95.216.112.250/0301/index.m3u8
+#EXTINF:-1 tvg-id="0303" tvg-name="PlayX 0303"  group-title="RUZIEV /PLAY X",PlayX 0303
+http://95.216.112.250/0303/index.m3u8
+#EXTINF:-1 tvg-id="0304" tvg-name="PlayX 0304"  group-title="RUZIEV /PLAY X",PlayX 0304
+http://95.216.112.250/0304/index.m3u8
+#EXTINF:-1 tvg-id="0305" tvg-name="PlayX 0305"  group-title="RUZIEV /PLAY X",PlayX 0305
+http://95.216.112.250/0305/index.m3u8
+#EXTINF:-1 tvg-id="0306" tvg-name="PlayX 0306"  group-title="RUZIEV /PLAY X",PlayX 0306
+http://95.216.112.250/0306/index.m3u8
+#EXTINF:-1 tvg-id="0307" tvg-name="PlayX 0307"  group-title="RUZIEV /PLAY X",PlayX 0307
+http://95.216.112.250/0307/index.m3u8
+#EXTINF:-1 tvg-id="0308" tvg-name="PlayX 0308"  group-title="RUZIEV /PLAY X",PlayX 0308
+http://95.216.112.250/0308/index.m3u8
+#EXTINF:-1 tvg-id="0309" tvg-name="PlayX 0309"  group-title="RUZIEV /PLAY X",PlayX 0309
+http://95.216.112.250/0309/index.m3u8
+#EXTINF:-1 tvg-id="0310" tvg-name="PlayX 0310"  group-title="RUZIEV /PLAY X",PlayX 0310
+http://95.216.112.250/0310/index.m3u8
+#EXTINF:-1 tvg-id="0311" tvg-name="PlayX 0311"  group-title="RUZIEV /PLAY X",PlayX 0311
+http://95.216.112.250/0311/index.m3u8
+#EXTINF:-1 tvg-id="0312" tvg-name="PlayX 0312"  group-title="RUZIEV /PLAY X",PlayX 0312
+http://95.216.112.250/0312/index.m3u8
+#EXTINF:-1 tvg-id="0313" tvg-name="PlayX 0313"  group-title="RUZIEV /PLAY X",PlayX 0313
+http://95.216.112.250/0313/index.m3u8
+#EXTINF:-1 tvg-id="0314" tvg-name="PlayX 0314"  group-title="RUZIEV /PLAY X",PlayX 0314
+http://95.216.112.250/0314/index.m3u8
+#EXTINF:-1 tvg-id="0315" tvg-name="PlayX 0315"  group-title="RUZIEV /PLAY X",PlayX 0315
+http://95.216.112.250/0315/index.m3u8
+#EXTINF:-1 tvg-id="0316" tvg-name="PlayX 0316"  group-title="RUZIEV /PLAY X",PlayX 0316
+http://95.216.112.250/0316/index.m3u8
+#EXTINF:-1 tvg-id="0317" tvg-name="PlayX 0317"  group-title="RUZIEV /PLAY X",PlayX 0317
+http://95.216.112.250/0317/index.m3u8
+#EXTINF:-1 tvg-id="0318" tvg-name="PlayX 0318"  group-title="RUZIEV /PLAY X",PlayX 0318
+http://95.216.112.250/0318/index.m3u8
+#EXTINF:-1 tvg-id="0319" tvg-name="PlayX 0319"  group-title="RUZIEV /PLAY X",PlayX 0319
+http://95.216.112.250/0319/index.m3u8
+#EXTINF:-1 tvg-id="0320" tvg-name="PlayX 0320"  group-title="RUZIEV /PLAY X",PlayX 0320
+http://95.216.112.250/0320/index.m3u8
+#EXTINF:-1 tvg-id="0321" tvg-name="PlayX 0321"  group-title="RUZIEV /PLAY X",PlayX 0321
+http://95.216.112.250/0321/index.m3u8
+#EXTINF:-1 tvg-id="0322" tvg-name="PlayX 0322"  group-title="RUZIEV /PLAY X",PlayX 0322
+http://95.216.112.250/0322/index.m3u8
+#EXTINF:-1 tvg-id="0323" tvg-name="PlayX 0323"  group-title="RUZIEV /PLAY X",PlayX 0323
+http://95.216.112.250/0323/index.m3u8
+#EXTINF:-1 tvg-id="0324" tvg-name="PlayX 0324"  group-title="RUZIEV /PLAY X",PlayX 0324
+http://95.216.112.250/0324/index.m3u8
+#EXTINF:-1 tvg-id="0325" tvg-name="PlayX 0325"  group-title="RUZIEV /PLAY X",PlayX 0325
+http://95.216.112.250/0325/index.m3u8
+#EXTINF:-1 tvg-id="0326" tvg-name="PlayX 0326"  group-title="RUZIEV /PLAY X",PlayX 0326
+http://95.216.112.250/0326/index.m3u8
+#EXTINF:-1 tvg-id="0327" tvg-name="PlayX 0327"  group-title="RUZIEV /PLAY X",PlayX 0327
+http://95.216.112.250/0327/index.m3u8
+#EXTINF:-1 tvg-id="0330" tvg-name="PlayX 0330"  group-title="RUZIEV /PLAY X",PlayX 0330
+http://95.216.112.250/0330/index.m3u8
+#EXTINF:-1 tvg-id="0331" tvg-name="PlayX 0331"  group-title="RUZIEV /PLAY X",PlayX 0331
+http://95.216.112.250/0331/index.m3u8
+#EXTINF:-1 tvg-id="0332" tvg-name="PlayX 0332"  group-title="RUZIEV /PLAY X",PlayX 0332
+http://95.216.112.250/0332/index.m3u8
+#EXTINF:-1 tvg-id="0333" tvg-name="PlayX 0333"  group-title="RUZIEV /PLAY X",PlayX 0333
+http://95.216.112.250/0333/index.m3u8
+#EXTINF:-1 tvg-id="0334" tvg-name="PlayX 0334"  group-title="RUZIEV /PLAY X",PlayX 0334
+http://95.216.112.250/0334/index.m3u8
+#EXTINF:-1 tvg-id="0335" tvg-name="PlayX 0335"  group-title="RUZIEV /PLAY X",PlayX 0335
+http://95.216.112.250/0335/index.m3u8
+#EXTINF:-1 tvg-id="0337" tvg-name="PlayX 0337"  group-title="RUZIEV /PLAY X",PlayX 0337
+http://95.216.112.250/0337/index.m3u8
+#EXTINF:-1 tvg-id="0338" tvg-name="PlayX 0338"  group-title="RUZIEV /PLAY X",PlayX 0338
+http://95.216.112.250/0338/index.m3u8
+#EXTINF:-1 tvg-id="0339" tvg-name="PlayX 0339"  group-title="RUZIEV /PLAY X",PlayX 0339
+http://95.216.112.250/0339/index.m3u8
+#EXTINF:-1 tvg-id="0340" tvg-name="PlayX 0340"  group-title="RUZIEV /PLAY X",PlayX 0340
+http://95.216.112.250/0340/index.m3u8
+#EXTINF:-1 tvg-id="0341" tvg-name="PlayX 0341"  group-title="RUZIEV /PLAY X",PlayX 0341
+http://95.216.112.250/0341/index.m3u8
+#EXTINF:-1 tvg-id="0342" tvg-name="PlayX 0342"  group-title="RUZIEV /PLAY X",PlayX 0342
+http://95.216.112.250/0342/index.m3u8
+#EXTINF:-1 tvg-id="0343" tvg-name="PlayX 0343"  group-title="RUZIEV /PLAY X",PlayX 0343
+http://95.216.112.250/0343/index.m3u8
+#EXTINF:-1 tvg-id="0344" tvg-name="PlayX 0344"  group-title="RUZIEV /PLAY X",PlayX 0344
+http://95.216.112.250/0344/index.m3u8
+#EXTINF:-1 tvg-id="0345" tvg-name="PlayX 0345"  group-title="RUZIEV /PLAY X",PlayX 0345
+http://95.216.112.250/0345/index.m3u8
+#EXTINF:-1 tvg-id="0346" tvg-name="PlayX 0346"  group-title="RUZIEV /PLAY X",PlayX 0346
+http://95.216.112.250/0346/index.m3u8
+#EXTINF:-1 tvg-id="0347" tvg-name="PlayX 0347"  group-title="RUZIEV /PLAY X",PlayX 0347
+http://95.216.112.250/0347/index.m3u8
+#EXTINF:-1 tvg-id="0348" tvg-name="PlayX 0348"  group-title="RUZIEV /PLAY X",PlayX 0348
+http://95.216.112.250/0348/index.m3u8
+#EXTINF:-1 tvg-id="0349" tvg-name="PlayX 0349"  group-title="RUZIEV /PLAY X",PlayX 0349
+http://95.216.112.250/0349/index.m3u8
+#EXTINF:-1 tvg-id="0350" tvg-name="PlayX 0350"  group-title="RUZIEV /PLAY X",PlayX 0350
+http://95.216.112.250/0350/index.m3u8
+#EXTINF:-1 tvg-id="0351" tvg-name="PlayX 0351"  group-title="RUZIEV /PLAY X",PlayX 0351
+http://95.216.112.250/0351/index.m3u8
+#EXTINF:-1 tvg-id="0352" tvg-name="PlayX 0352"  group-title="RUZIEV /PLAY X",PlayX 0352
+http://95.216.112.250/0352/index.m3u8
+#EXTINF:-1 tvg-id="0353" tvg-name="PlayX 0353"  group-title="RUZIEV /PLAY X",PlayX 0353
+http://95.216.112.250/0353/index.m3u8
+#EXTINF:-1 tvg-id="0354" tvg-name="PlayX 0354"  group-title="RUZIEV /PLAY X",PlayX 0354
+http://95.216.112.250/0354/index.m3u8
+#EXTINF:-1 tvg-id="0355" tvg-name="PlayX 0355"  group-title="RUZIEV /PLAY X",PlayX 0355
+http://95.216.112.250/0355/index.m3u8
+#EXTINF:-1 tvg-id="0356" tvg-name="PlayX 0356"  group-title="RUZIEV /PLAY X",PlayX 0356
+http://95.216.112.250/0356/index.m3u8
+#EXTINF:-1 tvg-id="0357" tvg-name="PlayX 0357"  group-title="RUZIEV /PLAY X",PlayX 0357
+http://95.216.112.250/0357/index.m3u8
+#EXTINF:-1 tvg-id="0359" tvg-name="PlayX 0359"  group-title="RUZIEV /PLAY X",PlayX 0359
+http://95.216.112.250/0359/index.m3u8
+#EXTINF:-1 tvg-id="0360" tvg-name="PlayX 0360"  group-title="RUZIEV /PLAY X",PlayX 0360
+http://95.216.112.250/0360/index.m3u8
+#EXTINF:-1 tvg-id="0361" tvg-name="PlayX 0361"  group-title="RUZIEV /PLAY X",PlayX 0361
+http://95.216.112.250/0361/index.m3u8
+#EXTINF:-1 tvg-id="0362" tvg-name="PlayX 0362"  group-title="RUZIEV /PLAY X",PlayX 0362
+http://95.216.112.250/0362/index.m3u8
+#EXTINF:-1 tvg-id="0363" tvg-name="PlayX 0363"  group-title="RUZIEV /PLAY X",PlayX 0363
+http://95.216.112.250/0363/index.m3u8
+#EXTINF:-1 tvg-id="0364" tvg-name="PlayX 0364"  group-title="RUZIEV /PLAY X",PlayX 0364
+http://95.216.112.250/0364/index.m3u8
+#EXTINF:-1 tvg-id="0365" tvg-name="PlayX 0365"  group-title="RUZIEV /PLAY X",PlayX 0365
+http://95.216.112.250/0365/index.m3u8
+#EXTINF:-1 tvg-id="0366" tvg-name="PlayX 0366"  group-title="RUZIEV /PLAY X",PlayX 0366
+http://95.216.112.250/0366/index.m3u8
+#EXTINF:-1 tvg-id="0367" tvg-name="PlayX 0367"  group-title="RUZIEV /PLAY X",PlayX 0367
+http://95.216.112.250/0367/index.m3u8
+#EXTINF:-1 tvg-id="0368" tvg-name="PlayX 0368"  group-title="RUZIEV /PLAY X",PlayX 0368
+http://95.216.112.250/0368/index.m3u8
+#EXTINF:-1 tvg-id="0369" tvg-name="PlayX 0369"  group-title="RUZIEV /PLAY X",PlayX 0369
+http://95.216.112.250/0369/index.m3u8
+#EXTINF:-1 tvg-id="0370" tvg-name="PlayX 0370"  group-title="RUZIEV /PLAY X",PlayX 0370
+http://95.216.112.250/0370/index.m3u8
+#EXTINF:-1 tvg-id="0371" tvg-name="PlayX 0371"  group-title="RUZIEV /PLAY X",PlayX 0371
+http://95.216.112.250/0371/index.m3u8
+#EXTINF:-1 tvg-id="0372" tvg-name="PlayX 0372"  group-title="RUZIEV /PLAY X",PlayX 0372
+http://95.216.112.250/0372/index.m3u8
+#EXTINF:-1 tvg-id="0373" tvg-name="PlayX 0373"  group-title="RUZIEV /PLAY X",PlayX 0373
+http://95.216.112.250/0373/index.m3u8
+#EXTINF:-1 tvg-id="0374" tvg-name="PlayX 0374"  group-title="RUZIEV /PLAY X",PlayX 0374
+http://95.216.112.250/0374/index.m3u8
+#EXTINF:-1 tvg-id="0375" tvg-name="PlayX 0375"  group-title="RUZIEV /PLAY X",PlayX 0375
+http://95.216.112.250/0375/index.m3u8
+#EXTINF:-1 tvg-id="0376" tvg-name="PlayX 0376"  group-title="RUZIEV /PLAY X",PlayX 0376
+http://95.216.112.250/0376/index.m3u8
+#EXTINF:-1 tvg-id="0378" tvg-name="PlayX 0378"  group-title="RUZIEV /PLAY X",PlayX 0378
+http://95.216.112.250/0378/index.m3u8
+#EXTINF:-1 tvg-id="0379" tvg-name="PlayX 0379"  group-title="RUZIEV /PLAY X",PlayX 0379
+http://95.216.112.250/0379/index.m3u8
+#EXTINF:-1 tvg-id="0380" tvg-name="PlayX 0380"  group-title="RUZIEV /PLAY X",PlayX 0380
+http://95.216.112.250/0380/index.m3u8
+#EXTINF:-1 tvg-id="0381" tvg-name="PlayX 0381"  group-title="RUZIEV /PLAY X",PlayX 0381
+http://95.216.112.250/0381/index.m3u8
+#EXTINF:-1 tvg-id="0382" tvg-name="PlayX 0382"  group-title="RUZIEV /PLAY X",PlayX 0382
+http://95.216.112.250/0382/index.m3u8
+#EXTINF:-1 tvg-id="0384" tvg-name="PlayX 0384"  group-title="RUZIEV /PLAY X",PlayX 0384
+http://95.216.112.250/0384/index.m3u8
+#EXTINF:-1 tvg-id="0385" tvg-name="PlayX 0385"  group-title="RUZIEV /PLAY X",PlayX 0385
+http://95.216.112.250/0385/index.m3u8
+#EXTINF:-1 tvg-id="0386" tvg-name="PlayX 0386"  group-title="RUZIEV /PLAY X",PlayX 0386
+http://95.216.112.250/0386/index.m3u8
+#EXTINF:-1 tvg-id="0387" tvg-name="PlayX 0387"  group-title="RUZIEV /PLAY X",PlayX 0387
+http://95.216.112.250/0387/index.m3u8
+#EXTINF:-1 tvg-id="0388" tvg-name="PlayX 0388"  group-title="RUZIEV /PLAY X",PlayX 0388
+http://95.216.112.250/0388/index.m3u8
+#EXTINF:-1 tvg-id="0389" tvg-name="PlayX 0389"  group-title="RUZIEV /PLAY X",PlayX 0389
+http://95.216.112.250/0389/index.m3u8
+#EXTINF:-1 tvg-id="0390" tvg-name="PlayX 0390"  group-title="RUZIEV /PLAY X",PlayX 0390
+http://95.216.112.250/0390/index.m3u8
+#EXTINF:-1 tvg-id="0391" tvg-name="PlayX 0391"  group-title="RUZIEV /PLAY X",PlayX 0391
+http://95.216.112.250/0391/index.m3u8
+#EXTINF:-1 tvg-id="0392" tvg-name="PlayX 0392"  group-title="RUZIEV /PLAY X",PlayX 0392
+http://95.216.112.250/0392/index.m3u8
+#EXTINF:-1 tvg-id="0393" tvg-name="PlayX 0393"  group-title="RUZIEV /PLAY X",PlayX 0393
+http://95.216.112.250/0393/index.m3u8
+#EXTINF:-1 tvg-id="0394" tvg-name="PlayX 0394"  group-title="RUZIEV /PLAY X",PlayX 0394
+http://95.216.112.250/0394/index.m3u8
+#EXTINF:-1 tvg-id="0395" tvg-name="PlayX 0395"  group-title="RUZIEV /PLAY X",PlayX 0395
+http://95.216.112.250/0395/index.m3u8
+#EXTINF:-1 tvg-id="0398" tvg-name="PlayX 0398"  group-title="RUZIEV /PLAY X",PlayX 0398
+http://95.216.112.250/0398/index.m3u8
+#EXTINF:-1 tvg-id="0399" tvg-name="PlayX 0399"  group-title="RUZIEV /PLAY X",PlayX 0399
+http://95.216.112.250/0399/index.m3u8
+#EXTINF:-1 tvg-id="0400" tvg-name="PlayX 0400"  group-title="RUZIEV /PLAY X",PlayX 0400
+http://95.216.112.250/0400/index.m3u8
+#EXTINF:-1 tvg-id="0401" tvg-name="PlayX 0401"  group-title="RUZIEV /PLAY X",PlayX 0401
+http://95.216.112.250/0401/index.m3u8
+#EXTINF:-1 tvg-id="0402" tvg-name="PlayX 0402"  group-title="RUZIEV /PLAY X",PlayX 0402
+http://95.216.112.250/0402/index.m3u8
+#EXTINF:-1 tvg-id="0403" tvg-name="PlayX 0403"  group-title="RUZIEV /PLAY X",PlayX 0403
+http://95.216.112.250/0403/index.m3u8
+#EXTINF:-1 tvg-id="0404" tvg-name="PlayX 0404"  group-title="RUZIEV /PLAY X",PlayX 0404
+http://95.216.112.250/0404/index.m3u8
+#EXTINF:-1 tvg-id="0405" tvg-name="PlayX 0405"  group-title="RUZIEV /PLAY X",PlayX 0405
+http://95.216.112.250/0405/index.m3u8
+#EXTINF:-1 tvg-id="0406" tvg-name="PlayX 0406"  group-title="RUZIEV /PLAY X",PlayX 0406
+http://95.216.112.250/0406/index.m3u8
+#EXTINF:-1 tvg-id="0407" tvg-name="PlayX 0407"  group-title="RUZIEV /PLAY X",PlayX 0407
+http://95.216.112.250/0407/index.m3u8
+#EXTINF:-1 tvg-id="0408" tvg-name="PlayX 0408"  group-title="RUZIEV /PLAY X",PlayX 0408
+http://95.216.112.250/0408/index.m3u8
+#EXTINF:-1 tvg-id="0409" tvg-name="PlayX 0409"  group-title="RUZIEV /PLAY X",PlayX 0409
+http://95.216.112.250/0409/index.m3u8
+#EXTINF:-1 tvg-id="0410" tvg-name="PlayX 0410"  group-title="RUZIEV /PLAY X",PlayX 0410
+http://95.216.112.250/0410/index.m3u8
+#EXTINF:-1 tvg-id="0411" tvg-name="PlayX 0411"  group-title="RUZIEV /PLAY X",PlayX 0411
+http://95.216.112.250/0411/index.m3u8
+#EXTINF:-1 tvg-id="0412" tvg-name="PlayX 0412"  group-title="RUZIEV /PLAY X",PlayX 0412
+http://95.216.112.250/0412/index.m3u8
+#EXTINF:-1 tvg-id="0413" tvg-name="PlayX 0413"  group-title="RUZIEV /PLAY X",PlayX 0413
+http://95.216.112.250/0413/index.m3u8
+#EXTINF:-1 tvg-id="0414" tvg-name="PlayX 0414"  group-title="RUZIEV /PLAY X",PlayX 0414
+http://95.216.112.250/0414/index.m3u8
+#EXTINF:-1 tvg-id="0415" tvg-name="PlayX 0415"  group-title="RUZIEV /PLAY X",PlayX 0415
+http://95.216.112.250/0415/index.m3u8
+#EXTINF:-1 tvg-id="0416" tvg-name="PlayX 0416"  group-title="RUZIEV /PLAY X",PlayX 0416
+http://95.216.112.250/0416/index.m3u8
+#EXTINF:-1 tvg-id="0417" tvg-name="PlayX 0417"  group-title="RUZIEV /PLAY X",PlayX 0417
+http://95.216.112.250/0417/index.m3u8
+#EXTINF:-1 tvg-id="0418" tvg-name="PlayX 0418"  group-title="RUZIEV /PLAY X",PlayX 0418
+http://95.216.112.250/0418/index.m3u8
+#EXTINF:-1 tvg-id="0419" tvg-name="PlayX 0419"  group-title="RUZIEV /PLAY X",PlayX 0419
+http://95.216.112.250/0419/index.m3u8
+#EXTINF:-1 tvg-id="0420" tvg-name="PlayX 0420"  group-title="RUZIEV /PLAY X",PlayX 0420
+http://95.216.112.250/0420/index.m3u8
+#EXTINF:-1 tvg-id="0421" tvg-name="PlayX 0421"  group-title="RUZIEV /PLAY X",PlayX 0421
+http://95.216.112.250/0421/index.m3u8
+#EXTINF:-1 tvg-id="0422" tvg-name="PlayX 0422"  group-title="RUZIEV /PLAY X",PlayX 0422
+http://95.216.112.250/0422/index.m3u8
+#EXTINF:-1 tvg-id="0423" tvg-name="PlayX 0423"  group-title="RUZIEV /PLAY X",PlayX 0423
+http://95.216.112.250/0423/index.m3u8
+#EXTINF:-1 tvg-id="0424" tvg-name="PlayX 0424"  group-title="RUZIEV /PLAY X",PlayX 0424
+http://95.216.112.250/0424/index.m3u8
+#EXTINF:-1 tvg-id="0425" tvg-name="PlayX 0425"  group-title="RUZIEV /PLAY X",PlayX 0425
+http://95.216.112.250/0425/index.m3u8
+#EXTINF:-1 tvg-id="0426" tvg-name="PlayX 0426"  group-title="RUZIEV /PLAY X",PlayX 0426
+http://95.216.112.250/0426/index.m3u8
+#EXTINF:-1 tvg-id="0427" tvg-name="PlayX 0427"  group-title="RUZIEV /PLAY X",PlayX 0427
+http://95.216.112.250/0427/index.m3u8
+#EXTINF:-1 tvg-id="0428" tvg-name="PlayX 0428"  group-title="RUZIEV /PLAY X",PlayX 0428
+http://95.216.112.250/0428/index.m3u8
+#EXTINF:-1 tvg-id="0429" tvg-name="PlayX 0429"  group-title="RUZIEV /PLAY X",PlayX 0429
+http://95.216.112.250/0429/index.m3u8
+#EXTINF:-1 tvg-id="0430" tvg-name="PlayX 0430"  group-title="RUZIEV /PLAY X",PlayX 0430
+http://95.216.112.250/0430/index.m3u8
+#EXTINF:-1 tvg-id="0431" tvg-name="PlayX 0431"  group-title="RUZIEV /PLAY X",PlayX 0431
+http://95.216.112.250/0431/index.m3u8
+#EXTINF:-1 tvg-id="0432" tvg-name="PlayX 0432"  group-title="RUZIEV /PLAY X",PlayX 0432
+http://95.216.112.250/0432/index.m3u8
+#EXTINF:-1 tvg-id="0435" tvg-name="PlayX 0435"  group-title="RUZIEV /PLAY X",PlayX 0435
+http://95.216.112.250/0435/index.m3u8
+#EXTINF:-1 tvg-id="0436" tvg-name="PlayX 0436"  group-title="RUZIEV /PLAY X",PlayX 0436
+http://95.216.112.250/0436/index.m3u8
+#EXTINF:-1 tvg-id="0437" tvg-name="PlayX 0437"  group-title="RUZIEV /PLAY X",PlayX 0437
+http://95.216.112.250/0437/index.m3u8
+#EXTINF:-1 tvg-id="0438" tvg-name="PlayX 0438"  group-title="RUZIEV /PLAY X",PlayX 0438
+http://95.216.112.250/0438/index.m3u8
+#EXTINF:-1 tvg-id="0439" tvg-name="PlayX 0439"  group-title="RUZIEV /PLAY X",PlayX 0439
+http://95.216.112.250/0439/index.m3u8
+#EXTINF:-1 tvg-id="0440" tvg-name="PlayX 0440"  group-title="RUZIEV /PLAY X",PlayX 0440
+http://95.216.112.250/0440/index.m3u8
+#EXTINF:-1 tvg-id="0441" tvg-name="PlayX 0441"  group-title="RUZIEV /PLAY X",PlayX 0441
+http://95.216.112.250/0441/index.m3u8
+#EXTINF:-1 tvg-id="0442" tvg-name="PlayX 0442"  group-title="RUZIEV /PLAY X",PlayX 0442
+http://95.216.112.250/0442/index.m3u8
+#EXTINF:-1 tvg-id="0443" tvg-name="PlayX 0443"  group-title="RUZIEV /PLAY X",PlayX 0443
+http://95.216.112.250/0443/index.m3u8
+#EXTINF:-1 tvg-id="0444" tvg-name="PlayX 0444"  group-title="RUZIEV /PLAY X",PlayX 0444
+http://95.216.112.250/0444/index.m3u8
+#EXTINF:-1 tvg-id="0445" tvg-name="PlayX 0445"  group-title="RUZIEV /PLAY X",PlayX 0445
+http://95.216.112.250/0445/index.m3u8
+#EXTINF:-1 tvg-id="0447" tvg-name="PlayX 0447"  group-title="RUZIEV /PLAY X",PlayX 0447
+http://95.216.112.250/0447/index.m3u8
+#EXTINF:-1 tvg-id="0448" tvg-name="PlayX 0448"  group-title="RUZIEV /PLAY X",PlayX 0448
+http://95.216.112.250/0448/index.m3u8
+#EXTINF:-1 tvg-id="0449" tvg-name="PlayX 0449"  group-title="RUZIEV /PLAY X",PlayX 0449
+http://95.216.112.250/0449/index.m3u8
+#EXTINF:-1 tvg-id="0450" tvg-name="PlayX 0450"  group-title="RUZIEV /PLAY X",PlayX 0450
+http://95.216.112.250/0450/index.m3u8
+#EXTINF:-1 tvg-id="0451" tvg-name="PlayX 0451"  group-title="RUZIEV /PLAY X",PlayX 0451
+http://95.216.112.250/0451/index.m3u8
+#EXTINF:-1 tvg-id="0452" tvg-name="PlayX 0452"  group-title="RUZIEV /PLAY X",PlayX 0452
+http://95.216.112.250/0452/index.m3u8
+#EXTINF:-1 tvg-id="0454" tvg-name="PlayX 0454"  group-title="RUZIEV /PLAY X",PlayX 0454
+http://95.216.112.250/0454/index.m3u8
+#EXTINF:-1 tvg-id="04548" tvg-name="PlayX 04548"  group-title="RUZIEV /PLAY X",PlayX 04548
+http://95.216.112.250/04548/index.m3u8
+#EXTINF:-1 tvg-id="0455" tvg-name="PlayX 0455"  group-title="RUZIEV /PLAY X",PlayX 0455
+http://95.216.112.250/0455/index.m3u8
+#EXTINF:-1 tvg-id="0456" tvg-name="PlayX 0456"  group-title="RUZIEV /PLAY X",PlayX 0456
+http://95.216.112.250/0456/index.m3u8
+#EXTINF:-1 tvg-id="0457" tvg-name="PlayX 0457"  group-title="RUZIEV /PLAY X",PlayX 0457
+http://95.216.112.250/0457/index.m3u8
+#EXTINF:-1 tvg-id="0458" tvg-name="PlayX 0458"  group-title="RUZIEV /PLAY X",PlayX 0458
+http://95.216.112.250/0458/index.m3u8
+#EXTINF:-1 tvg-id="0459" tvg-name="PlayX 0459"  group-title="RUZIEV /PLAY X",PlayX 0459
+http://95.216.112.250/0459/index.m3u8
+#EXTINF:-1 tvg-id="0460" tvg-name="PlayX 0460"  group-title="RUZIEV /PLAY X",PlayX 0460
+http://95.216.112.250/0460/index.m3u8
+#EXTINF:-1 tvg-id="0461" tvg-name="PlayX 0461"  group-title="RUZIEV /PLAY X",PlayX 0461
+http://95.216.112.250/0461/index.m3u8
+#EXTINF:-1 tvg-id="0463" tvg-name="PlayX 0463"  group-title="RUZIEV /PLAY X",PlayX 0463
+http://95.216.112.250/0463/index.m3u8
+#EXTINF:-1 tvg-id="0464" tvg-name="PlayX 0464"  group-title="RUZIEV /PLAY X",PlayX 0464
+http://95.216.112.250/0464/index.m3u8
+#EXTINF:-1 tvg-id="0465" tvg-name="PlayX 0465"  group-title="RUZIEV /PLAY X",PlayX 0465
+http://95.216.112.250/0465/index.m3u8
+#EXTINF:-1 tvg-id="0467" tvg-name="PlayX 0467"  group-title="RUZIEV /PLAY X",PlayX 0467
+http://95.216.112.250/0467/index.m3u8
+#EXTINF:-1 tvg-id="0468" tvg-name="PlayX 0468"  group-title="RUZIEV /PLAY X",PlayX 0468
+http://95.216.112.250/0468/index.m3u8
+#EXTINF:-1 tvg-id="0469" tvg-name="PlayX 0469"  group-title="RUZIEV /PLAY X",PlayX 0469
+http://95.216.112.250/0469/index.m3u8
+#EXTINF:-1 tvg-id="0500" tvg-name="PlayX 0500"  group-title="RUZIEV /PLAY X",PlayX 0500
+http://95.216.112.250/0500/index.m3u8
+#EXTINF:-1 tvg-id="0501" tvg-name="PlayX 0501"  group-title="RUZIEV /PLAY X",PlayX 0501
+http://95.216.112.250/0501/index.m3u8
+#EXTINF:-1 tvg-id="0502" tvg-name="PlayX 0502"  group-title="RUZIEV /PLAY X",PlayX 0502
+http://95.216.112.250/0502/index.m3u8
+#EXTINF:-1 tvg-id="0503" tvg-name="PlayX 0503"  group-title="RUZIEV /PLAY X",PlayX 0503
+http://95.216.112.250/0503/index.m3u8
+#EXTINF:-1 tvg-id="0504" tvg-name="PlayX 0504"  group-title="RUZIEV /PLAY X",PlayX 0504
+http://95.216.112.250/0504/index.m3u8
+#EXTINF:-1 tvg-id="0505" tvg-name="PlayX 0505"  group-title="RUZIEV /PLAY X",PlayX 0505
+http://95.216.112.250/0505/index.m3u8
+#EXTINF:-1 tvg-id="05843" tvg-name="PlayX 05843"  group-title="RUZIEV /PLAY X",PlayX 05843
+http://95.216.112.250/05843/index.m3u8
+#EXTINF:-1 tvg-id="0600" tvg-name="PlayX 0600"  group-title="RUZIEV /PLAY X",PlayX 0600
+http://95.216.112.250/0600/index.m3u8
+#EXTINF:-1 tvg-id="0601" tvg-name="PlayX 0601"  group-title="RUZIEV /PLAY X",PlayX 0601
+http://95.216.112.250/0601/index.m3u8
+#EXTINF:-1 tvg-id="0602" tvg-name="PlayX 0602"  group-title="RUZIEV /PLAY X",PlayX 0602
+http://95.216.112.250/0602/index.m3u8
+#EXTINF:-1 tvg-id="0603" tvg-name="PlayX 0603"  group-title="RUZIEV /PLAY X",PlayX 0603
+http://95.216.112.250/0603/index.m3u8
+#EXTINF:-1 tvg-id="0604" tvg-name="PlayX 0604"  group-title="RUZIEV /PLAY X",PlayX 0604
+http://95.216.112.250/0604/index.m3u8
+#EXTINF:-1 tvg-id="0605" tvg-name="PlayX 0605"  group-title="RUZIEV /PLAY X",PlayX 0605
+http://95.216.112.250/0605/index.m3u8
+#EXTINF:-1 tvg-id="0606" tvg-name="PlayX 0606"  group-title="RUZIEV /PLAY X",PlayX 0606
+http://95.216.112.250/0606/index.m3u8
+#EXTINF:-1 tvg-id="0607" tvg-name="PlayX 0607"  group-title="RUZIEV /PLAY X",PlayX 0607
+http://95.216.112.250/0607/index.m3u8
+#EXTINF:-1 tvg-id="0609" tvg-name="PlayX 0609"  group-title="RUZIEV /PLAY X",PlayX 0609
+http://95.216.112.250/0609/index.m3u8
+#EXTINF:-1 tvg-id="0610" tvg-name="PlayX 0610"  group-title="RUZIEV /PLAY X",PlayX 0610
+http://95.216.112.250/0610/index.m3u8
+#EXTINF:-1 tvg-id="0611" tvg-name="PlayX 0611"  group-title="RUZIEV /PLAY X",PlayX 0611
+http://95.216.112.250/0611/index.m3u8
+#EXTINF:-1 tvg-id="0615" tvg-name="PlayX 0615"  group-title="RUZIEV /PLAY X",PlayX 0615
+http://95.216.112.250/0615/index.m3u8
+#EXTINF:-1 tvg-id="0618" tvg-name="PlayX 0618"  group-title="RUZIEV /PLAY X",PlayX 0618
+http://95.216.112.250/0618/index.m3u8
+#EXTINF:-1 tvg-id="0619" tvg-name="PlayX 0619"  group-title="RUZIEV /PLAY X",PlayX 0619
+http://95.216.112.250/0619/index.m3u8
+#EXTINF:-1 tvg-id="0620" tvg-name="PlayX 0620"  group-title="RUZIEV /PLAY X",PlayX 0620
+http://95.216.112.250/0620/index.m3u8
+#EXTINF:-1 tvg-id="0621" tvg-name="PlayX 0621"  group-title="RUZIEV /PLAY X",PlayX 0621
+http://95.216.112.250/0621/index.m3u8
+#EXTINF:-1 tvg-id="0622" tvg-name="PlayX 0622"  group-title="RUZIEV /PLAY X",PlayX 0622
+http://95.216.112.250/0622/index.m3u8
+#EXTINF:-1 tvg-id="0623" tvg-name="PlayX 0623"  group-title="RUZIEV /PLAY X",PlayX 0623
+http://95.216.112.250/0623/index.m3u8
+#EXTINF:-1 tvg-id="0624" tvg-name="PlayX 0624"  group-title="RUZIEV /PLAY X",PlayX 0624
+http://95.216.112.250/0624/index.m3u8
+#EXTINF:-1 tvg-id="0625" tvg-name="PlayX 0625"  group-title="RUZIEV /PLAY X",PlayX 0625
+http://95.216.112.250/0625/index.m3u8
+#EXTINF:-1 tvg-id="0626" tvg-name="PlayX 0626"  group-title="RUZIEV /PLAY X",PlayX 0626
+http://95.216.112.250/0626/index.m3u8
+#EXTINF:-1 tvg-id="0627" tvg-name="PlayX 0627"  group-title="RUZIEV /PLAY X",PlayX 0627
+http://95.216.112.250/0627/index.m3u8
+#EXTINF:-1 tvg-id="0628" tvg-name="PlayX 0628"  group-title="RUZIEV /PLAY X",PlayX 0628
+http://95.216.112.250/0628/index.m3u8
+#EXTINF:-1 tvg-id="0629" tvg-name="PlayX 0629"  group-title="RUZIEV /PLAY X",PlayX 0629
+http://95.216.112.250/0629/index.m3u8
+#EXTINF:-1 tvg-id="0630" tvg-name="PlayX 0630"  group-title="RUZIEV /PLAY X",PlayX 0630
+http://95.216.112.250/0630/index.m3u8
+#EXTINF:-1 tvg-id="0631" tvg-name="PlayX 0631"  group-title="RUZIEV /PLAY X",PlayX 0631
+http://95.216.112.250/0631/index.m3u8
+#EXTINF:-1 tvg-id="0632" tvg-name="PlayX 0632"  group-title="RUZIEV /PLAY X",PlayX 0632
+http://95.216.112.250/0632/index.m3u8
+#EXTINF:-1 tvg-id="0633" tvg-name="PlayX 0633"  group-title="RUZIEV /PLAY X",PlayX 0633
+http://95.216.112.250/0633/index.m3u8
+#EXTINF:-1 tvg-id="0634" tvg-name="PlayX 0634"  group-title="RUZIEV /PLAY X",PlayX 0634
+http://95.216.112.250/0634/index.m3u8
+#EXTINF:-1 tvg-id="0635" tvg-name="PlayX 0635"  group-title="RUZIEV /PLAY X",PlayX 0635
+http://95.216.112.250/0635/index.m3u8
+#EXTINF:-1 tvg-id="0636" tvg-name="PlayX 0636"  group-title="RUZIEV /PLAY X",PlayX 0636
+http://95.216.112.250/0636/index.m3u8
+#EXTINF:-1 tvg-id="0637" tvg-name="PlayX 0637"  group-title="RUZIEV /PLAY X",PlayX 0637
+http://95.216.112.250/0637/index.m3u8
+#EXTINF:-1 tvg-id="0638" tvg-name="PlayX 0638"  group-title="RUZIEV /PLAY X",PlayX 0638
+http://95.216.112.250/0638/index.m3u8
+#EXTINF:-1 tvg-id="0639" tvg-name="PlayX 0639"  group-title="RUZIEV /PLAY X",PlayX 0639
+http://95.216.112.250/0639/index.m3u8
+#EXTINF:-1 tvg-id="0640" tvg-name="PlayX 0640"  group-title="RUZIEV /PLAY X",PlayX 0640
+http://95.216.112.250/0640/index.m3u8
+#EXTINF:-1 tvg-id="0641" tvg-name="PlayX 0641"  group-title="RUZIEV /PLAY X",PlayX 0641
+http://95.216.112.250/0641/index.m3u8
+#EXTINF:-1 tvg-id="0642" tvg-name="PlayX 0642"  group-title="RUZIEV /PLAY X",PlayX 0642
+http://95.216.112.250/0642/index.m3u8
+#EXTINF:-1 tvg-id="0643" tvg-name="PlayX 0643"  group-title="RUZIEV /PLAY X",PlayX 0643
+http://95.216.112.250/0643/index.m3u8
+#EXTINF:-1 tvg-id="0645" tvg-name="PlayX 0645"  group-title="RUZIEV /PLAY X",PlayX 0645
+http://95.216.112.250/0645/index.m3u8
+#EXTINF:-1 tvg-id="0646" tvg-name="PlayX 0646"  group-title="RUZIEV /PLAY X",PlayX 0646
+http://95.216.112.250/0646/index.m3u8
+#EXTINF:-1 tvg-id="0648" tvg-name="PlayX 0648"  group-title="RUZIEV /PLAY X",PlayX 0648
+http://95.216.112.250/0648/index.m3u8
+#EXTINF:-1 tvg-id="0649" tvg-name="PlayX 0649"  group-title="RUZIEV /PLAY X",PlayX 0649
+http://95.216.112.250/0649/index.m3u8
+#EXTINF:-1 tvg-id="0652" tvg-name="PlayX 0652"  group-title="RUZIEV /PLAY X",PlayX 0652
+http://95.216.112.250/0652/index.m3u8
+#EXTINF:-1 tvg-id="0705" tvg-name="PlayX 0705"  group-title="RUZIEV /PLAY X",PlayX 0705
+http://95.216.112.250/0705/index.m3u8
+#EXTINF:-1 tvg-id="0706" tvg-name="PlayX 0706"  group-title="RUZIEV /PLAY X",PlayX 0706
+http://95.216.112.250/0706/index.m3u8
+#EXTINF:-1 tvg-id="0710" tvg-name="PlayX 0710"  group-title="RUZIEV /PLAY X",PlayX 0710
+http://95.216.112.250/0710/index.m3u8
+#EXTINF:-1 tvg-id="0717" tvg-name="PlayX 0717"  group-title="RUZIEV /PLAY X",PlayX 0717
+http://95.216.112.250/0717/index.m3u8
+#EXTINF:-1 tvg-id="0731" tvg-name="PlayX 0731"  group-title="RUZIEV /PLAY X",PlayX 0731
+http://95.216.112.250/0731/index.m3u8
+#EXTINF:-1 tvg-id="0809" tvg-name="PlayX 0809"  group-title="RUZIEV /PLAY X",PlayX 0809
+http://95.216.112.250/0809/index.m3u8
+#EXTINF:-1 tvg-id="0810" tvg-name="PlayX 0810"  group-title="RUZIEV /PLAY X",PlayX 0810
+http://95.216.112.250/0810/index.m3u8
+#EXTINF:-1 tvg-id="0811" tvg-name="PlayX 0811"  group-title="RUZIEV /PLAY X",PlayX 0811
+http://95.216.112.250/0811/index.m3u8
+#EXTINF:-1 tvg-id="0813" tvg-name="PlayX 0813"  group-title="RUZIEV /PLAY X",PlayX 0813
+http://95.216.112.250/0813/index.m3u8
+#EXTINF:-1 tvg-id="0816" tvg-name="PlayX 0816"  group-title="RUZIEV /PLAY X",PlayX 0816
+http://95.216.112.250/0816/index.m3u8
+#EXTINF:-1 tvg-id="0817" tvg-name="PlayX 0817"  group-title="RUZIEV /PLAY X",PlayX 0817
+http://95.216.112.250/0817/index.m3u8
+#EXTINF:-1 tvg-id="0820" tvg-name="PlayX 0820"  group-title="RUZIEV /PLAY X",PlayX 0820
+http://95.216.112.250/0820/index.m3u8
+#EXTINF:-1 tvg-id="0821" tvg-name="PlayX 0821"  group-title="RUZIEV /PLAY X",PlayX 0821
+http://95.216.112.250/0821/index.m3u8
+#EXTINF:-1 tvg-id="0823" tvg-name="PlayX 0823"  group-title="RUZIEV /PLAY X",PlayX 0823
+http://95.216.112.250/0823/index.m3u8
+#EXTINF:-1 tvg-id="0824" tvg-name="PlayX 0824"  group-title="RUZIEV /PLAY X",PlayX 0824
+http://95.216.112.250/0824/index.m3u8
+#EXTINF:-1 tvg-id="0825" tvg-name="PlayX 0825"  group-title="RUZIEV /PLAY X",PlayX 0825
+http://95.216.112.250/0825/index.m3u8
+#EXTINF:-1 tvg-id="0900" tvg-name="PlayX 0900"  group-title="RUZIEV /PLAY X",PlayX 0900
+http://95.216.112.250/0900/index.m3u8
+#EXTINF:-1 tvg-id="0901" tvg-name="PlayX 0901"  group-title="RUZIEV /PLAY X",PlayX 0901
+http://95.216.112.250/0901/index.m3u8
+#EXTINF:-1 tvg-id="0903" tvg-name="PlayX 0903"  group-title="RUZIEV /PLAY X",PlayX 0903
+http://95.216.112.250/0903/index.m3u8
+#EXTINF:-1 tvg-id="0904" tvg-name="PlayX 0904"  group-title="RUZIEV /PLAY X",PlayX 0904
+http://95.216.112.250/0904/index.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="PlayX 0905"  group-title="RUZIEV /PLAY X",PlayX 0905
+http://95.216.112.250/0905/index.m3u8
+#EXTINF:-1 tvg-id="0906" tvg-name="PlayX 0906"  group-title="RUZIEV /PLAY X",PlayX 0906
+http://95.216.112.250/0906/index.m3u8
+#EXTINF:-1 tvg-id="0907" tvg-name="PlayX 0907"  group-title="RUZIEV /PLAY X",PlayX 0907
+http://95.216.112.250/0907/index.m3u8
+#EXTINF:-1 tvg-id="0908" tvg-name="PlayX 0908"  group-title="RUZIEV /PLAY X",PlayX 0908
+http://95.216.112.250/0908/index.m3u8
+#EXTINF:-1 tvg-id="0909" tvg-name="PlayX 0909"  group-title="RUZIEV /PLAY X",PlayX 0909
+http://95.216.112.250/0909/index.m3u8
+#EXTINF:-1 tvg-id="0910" tvg-name="PlayX 0910"  group-title="RUZIEV /PLAY X",PlayX 0910
+http://95.216.112.250/0910/index.m3u8
+#EXTINF:-1 tvg-id="0911" tvg-name="PlayX 0911"  group-title="RUZIEV /PLAY X",PlayX 0911
+http://95.216.112.250/0911/index.m3u8
+#EXTINF:-1 tvg-id="0912" tvg-name="PlayX 0912"  group-title="RUZIEV /PLAY X",PlayX 0912
+http://95.216.112.250/0912/index.m3u8
+#EXTINF:-1 tvg-id="0913" tvg-name="PlayX 0913"  group-title="RUZIEV /PLAY X",PlayX 0913
+http://95.216.112.250/0913/index.m3u8
+#EXTINF:-1 tvg-id="0914" tvg-name="PlayX 0914"  group-title="RUZIEV /PLAY X",PlayX 0914
+http://95.216.112.250/0914/index.m3u8
+#EXTINF:-1 tvg-id="0915" tvg-name="PlayX 0915"  group-title="RUZIEV /PLAY X",PlayX 0915
+http://95.216.112.250/0915/index.m3u8
+#EXTINF:-1 tvg-id="0916" tvg-name="PlayX 0916"  group-title="RUZIEV /PLAY X",PlayX 0916
+http://95.216.112.250/0916/index.m3u8
+#EXTINF:-1 tvg-id="0917" tvg-name="PlayX 0917"  group-title="RUZIEV /PLAY X",PlayX 0917
+http://95.216.112.250/0917/index.m3u8
+#EXTINF:-1 tvg-id="0918" tvg-name="PlayX 0918"  group-title="RUZIEV /PLAY X",PlayX 0918
+http://95.216.112.250/0918/index.m3u8
+#EXTINF:-1 tvg-id="0919" tvg-name="PlayX 0919"  group-title="RUZIEV /PLAY X",PlayX 0919
+http://95.216.112.250/0919/index.m3u8
+#EXTINF:-1 tvg-id="0920" tvg-name="PlayX 0920"  group-title="RUZIEV /PLAY X",PlayX 0920
+http://95.216.112.250/0920/index.m3u8
+#EXTINF:-1 tvg-id="0921" tvg-name="PlayX 0921"  group-title="RUZIEV /PLAY X",PlayX 0921
+http://95.216.112.250/0921/index.m3u8
+#EXTINF:-1 tvg-id="09211" tvg-name="PlayX 09211"  group-title="RUZIEV /PLAY X",PlayX 09211
+http://95.216.112.250/09211/index.m3u8
+#EXTINF:-1 tvg-id="09212" tvg-name="PlayX 09212"  group-title="RUZIEV /PLAY X",PlayX 09212
+http://95.216.112.250/09212/index.m3u8
+#EXTINF:-1 tvg-id="0922" tvg-name="PlayX 0922"  group-title="RUZIEV /PLAY X",PlayX 0922
+http://95.216.112.250/0922/index.m3u8
+#EXTINF:-1 tvg-id="0923" tvg-name="PlayX 0923"  group-title="RUZIEV /PLAY X",PlayX 0923
+http://95.216.112.250/0923/index.m3u8
+#EXTINF:-1 tvg-id="0924" tvg-name="PlayX 0924"  group-title="RUZIEV /PLAY X",PlayX 0924
+http://95.216.112.250/0924/index.m3u8
+#EXTINF:-1 tvg-id="0925" tvg-name="PlayX 0925"  group-title="RUZIEV /PLAY X",PlayX 0925
+http://95.216.112.250/0925/index.m3u8
+#EXTINF:-1 tvg-id="0926" tvg-name="PlayX 0926"  group-title="RUZIEV /PLAY X",PlayX 0926
+http://95.216.112.250/0926/index.m3u8
+#EXTINF:-1 tvg-id="0927" tvg-name="PlayX 0927"  group-title="RUZIEV /PLAY X",PlayX 0927
+http://95.216.112.250/0927/index.m3u8
+#EXTINF:-1 tvg-id="0928" tvg-name="PlayX 0928"  group-title="RUZIEV /PLAY X",PlayX 0928
+http://95.216.112.250/0928/index.m3u8
+#EXTINF:-1 tvg-id="0929" tvg-name="PlayX 0929"  group-title="RUZIEV /PLAY X",PlayX 0929
+http://95.216.112.250/0929/index.m3u8
+#EXTINF:-1 tvg-id="0930" tvg-name="PlayX 0930"  group-title="RUZIEV /PLAY X",PlayX 0930
+http://95.216.112.250/0930/index.m3u8
+#EXTINF:-1 tvg-id="0931" tvg-name="PlayX 0931"  group-title="RUZIEV /PLAY X",PlayX 0931
+http://95.216.112.250/0931/index.m3u8
+#EXTINF:-1 tvg-id="0937" tvg-name="PlayX 0937"  group-title="RUZIEV /PLAY X",PlayX 0937
+http://95.216.112.250/0937/index.m3u8
+#EXTINF:-1 tvg-id="0938" tvg-name="PlayX 0938"  group-title="RUZIEV /PLAY X",PlayX 0938
+http://95.216.112.250/0938/index.m3u8
+#EXTINF:-1 tvg-id="0964" tvg-name="PlayX 0964"  group-title="RUZIEV /PLAY X",PlayX 0964
+http://95.216.112.250/0964/index.m3u8
+#EXTINF:-1 tvg-id="0965" tvg-name="PlayX 0965"  group-title="RUZIEV /PLAY X",PlayX 0965
+http://95.216.112.250/0965/index.m3u8
+#EXTINF:-1 tvg-id="0966" tvg-name="PlayX 0966"  group-title="RUZIEV /PLAY X",PlayX 0966
+http://95.216.112.250/0966/index.m3u8
+#EXTINF:-1 tvg-id="0967" tvg-name="PlayX 0967"  group-title="RUZIEV /PLAY X",PlayX 0967
+http://95.216.112.250/0967/index.m3u8
+#EXTINF:-1 tvg-id="0968" tvg-name="PlayX 0968"  group-title="RUZIEV /PLAY X",PlayX 0968
+http://95.216.112.250/0968/index.m3u8
+#EXTINF:-1 tvg-id="0970" tvg-name="PlayX 0970"  group-title="RUZIEV /PLAY X",PlayX 0970
+http://95.216.112.250/0970/index.m3u8
+#EXTINF:-1 tvg-id="0973" tvg-name="PlayX 0973"  group-title="RUZIEV /PLAY X",PlayX 0973
+http://95.216.112.250/0973/index.m3u8
+#EXTINF:-1 tvg-id="0974" tvg-name="PlayX 0974"  group-title="RUZIEV /PLAY X",PlayX 0974
+http://95.216.112.250/0974/index.m3u8
+#EXTINF:-1 tvg-id="0977" tvg-name="PlayX 0977"  group-title="RUZIEV /PLAY X",PlayX 0977
+http://95.216.112.250/0977/index.m3u8
+#EXTINF:-1 tvg-id="0978" tvg-name="PlayX 0978"  group-title="RUZIEV /PLAY X",PlayX 0978
+http://95.216.112.250/0978/index.m3u8
+#EXTINF:-1 tvg-id="0979" tvg-name="PlayX 0979"  group-title="RUZIEV /PLAY X",PlayX 0979
+http://95.216.112.250/0979/index.m3u8
+#EXTINF:-1 tvg-id="0980" tvg-name="PlayX 0980"  group-title="RUZIEV /PLAY X",PlayX 0980
+http://95.216.112.250/0980/index.m3u8
+#EXTINF:-1 tvg-id="0981" tvg-name="PlayX 0981"  group-title="RUZIEV /PLAY X",PlayX 0981
+http://95.216.112.250/0981/index.m3u8
+#EXTINF:-1 tvg-id="0982" tvg-name="PlayX 0982"  group-title="RUZIEV /PLAY X",PlayX 0982
+http://95.216.112.250/0982/index.m3u8
+#EXTINF:-1 tvg-id="0990" tvg-name="PlayX 0990"  group-title="RUZIEV /PLAY X",PlayX 0990
+http://95.216.112.250/0990/index.m3u8
+#EXTINF:-1 tvg-id="10001" tvg-name="PlayX 10001"  group-title="RUZIEV /PLAY X",PlayX 10001
+http://95.216.112.250/10001/index.m3u8
+#EXTINF:-1 tvg-id="10002" tvg-name="PlayX 10002"  group-title="RUZIEV /PLAY X",PlayX 10002
+http://95.216.112.250/10002/index.m3u8
+#EXTINF:-1 tvg-id="10003" tvg-name="PlayX 10003"  group-title="RUZIEV /PLAY X",PlayX 10003
+http://95.216.112.250/10003/index.m3u8
+#EXTINF:-1 tvg-id="10004" tvg-name="PlayX 10004"  group-title="RUZIEV /PLAY X",PlayX 10004
+http://95.216.112.250/10004/index.m3u8
+#EXTINF:-1 tvg-id="10005" tvg-name="PlayX 10005"  group-title="RUZIEV /PLAY X",PlayX 10005
+http://95.216.112.250/10005/index.m3u8
+#EXTINF:-1 tvg-id="10006" tvg-name="PlayX 10006"  group-title="RUZIEV /PLAY X",PlayX 10006
+http://95.216.112.250/10006/index.m3u8
+#EXTINF:-1 tvg-id="10007" tvg-name="PlayX 10007"  group-title="RUZIEV /PLAY X",PlayX 10007
+http://95.216.112.250/10007/index.m3u8
+#EXTINF:-1 tvg-id="10008" tvg-name="PlayX 10008"  group-title="RUZIEV /PLAY X",PlayX 10008
+http://95.216.112.250/10008/index.m3u8
+#EXTINF:-1 tvg-id="10009" tvg-name="PlayX 10009"  group-title="RUZIEV /PLAY X",PlayX 10009
+http://95.216.112.250/10009/index.m3u8
+#EXTINF:-1 tvg-id="10010" tvg-name="PlayX 10010"  group-title="RUZIEV /PLAY X",PlayX 10010
+http://95.216.112.250/10010/index.m3u8
+#EXTINF:-1 tvg-id="10011" tvg-name="PlayX 10011"  group-title="RUZIEV /PLAY X",PlayX 10011
+http://95.216.112.250/10011/index.m3u8
+#EXTINF:-1 tvg-id="10012" tvg-name="PlayX 10012"  group-title="RUZIEV /PLAY X",PlayX 10012
+http://95.216.112.250/10012/index.m3u8
+#EXTINF:-1 tvg-id="10013" tvg-name="PlayX 10013"  group-title="RUZIEV /PLAY X",PlayX 10013
+http://95.216.112.250/10013/index.m3u8
+#EXTINF:-1 tvg-id="10014" tvg-name="PlayX 10014"  group-title="RUZIEV /PLAY X",PlayX 10014
+http://95.216.112.250/10014/index.m3u8
+#EXTINF:-1 tvg-id="10015" tvg-name="PlayX 10015"  group-title="RUZIEV /PLAY X",PlayX 10015
+http://95.216.112.250/10015/index.m3u8
+#EXTINF:-1 tvg-id="10016" tvg-name="PlayX 10016"  group-title="RUZIEV /PLAY X",PlayX 10016
+http://95.216.112.250/10016/index.m3u8
+#EXTINF:-1 tvg-id="10017" tvg-name="PlayX 10017"  group-title="RUZIEV /PLAY X",PlayX 10017
+http://95.216.112.250/10017/index.m3u8
+#EXTINF:-1 tvg-id="10018" tvg-name="PlayX 10018"  group-title="RUZIEV /PLAY X",PlayX 10018
+http://95.216.112.250/10018/index.m3u8
+#EXTINF:-1 tvg-id="10019" tvg-name="PlayX 10019"  group-title="RUZIEV /PLAY X",PlayX 10019
+http://95.216.112.250/10019/index.m3u8
+#EXTINF:-1 tvg-id="10020" tvg-name="PlayX 10020"  group-title="RUZIEV /PLAY X",PlayX 10020
+http://95.216.112.250/10020/index.m3u8
+#EXTINF:-1 tvg-id="1008" tvg-name="PlayX 1008"  group-title="RUZIEV /PLAY X",PlayX 1008
+http://95.216.112.250/1008/index.m3u8
+#EXTINF:-1 tvg-id="14101" tvg-name="PlayX 14101"  group-title="RUZIEV /PLAY X",PlayX 14101
+http://95.216.112.250/14101/index.m3u8
+#EXTINF:-1 tvg-id="1412" tvg-name="PlayX 1412"  group-title="RUZIEV /PLAY X",PlayX 1412
+http://95.216.112.250/1412/index.m3u8
+#EXTINF:-1 tvg-id="15923" tvg-name="PlayX 15923"  group-title="RUZIEV /PLAY X",PlayX 15923
+http://95.216.112.250/15923/index.m3u8
+#EXTINF:-1 tvg-id="16680" tvg-name="PlayX 16680"  group-title="RUZIEV /PLAY X",PlayX 16680
+http://95.216.112.250/16680/index.m3u8
+#EXTINF:-1 tvg-id="17786" tvg-name="PlayX 17786"  group-title="RUZIEV /PLAY X",PlayX 17786
+http://95.216.112.250/17786/index.m3u8
+#EXTINF:-1 tvg-id="17988" tvg-name="PlayX 17988"  group-title="RUZIEV /PLAY X",PlayX 17988
+http://95.216.112.250/17988/index.m3u8
+#EXTINF:-1 tvg-id="18664" tvg-name="PlayX 18664"  group-title="RUZIEV /PLAY X",PlayX 18664
+http://95.216.112.250/18664/index.m3u8
+#EXTINF:-1 tvg-id="2024001" tvg-name="PlayX 2024001"  group-title="RUZIEV /PLAY X",PlayX 2024001
+http://95.216.112.250/2024001/index.m3u8
+#EXTINF:-1 tvg-id="2024003" tvg-name="PlayX 2024003"  group-title="RUZIEV /PLAY X",PlayX 2024003
+http://95.216.112.250/2024003/index.m3u8
+#EXTINF:-1 tvg-id="2024004" tvg-name="PlayX 2024004"  group-title="RUZIEV /PLAY X",PlayX 2024004
+http://95.216.112.250/2024004/index.m3u8
+#EXTINF:-1 tvg-id="2024005" tvg-name="PlayX 2024005"  group-title="RUZIEV /PLAY X",PlayX 2024005
+http://95.216.112.250/2024005/index.m3u8
+#EXTINF:-1 tvg-id="2024006" tvg-name="PlayX 2024006"  group-title="RUZIEV /PLAY X",PlayX 2024006
+http://95.216.112.250/2024006/index.m3u8
+#EXTINF:-1 tvg-id="2024007" tvg-name="PlayX 2024007"  group-title="RUZIEV /PLAY X",PlayX 2024007
+http://95.216.112.250/2024007/index.m3u8
+#EXTINF:-1 tvg-id="2024008" tvg-name="PlayX 2024008"  group-title="RUZIEV /PLAY X",PlayX 2024008
+http://95.216.112.250/2024008/index.m3u8
+#EXTINF:-1 tvg-id="2024009" tvg-name="PlayX 2024009"  group-title="RUZIEV /PLAY X",PlayX 2024009
+http://95.216.112.250/2024009/index.m3u8
+#EXTINF:-1 tvg-id="2024010" tvg-name="PlayX 2024010"  group-title="RUZIEV /PLAY X",PlayX 2024010
+http://95.216.112.250/2024010/index.m3u8
+#EXTINF:-1 tvg-id="2024011" tvg-name="PlayX 2024011"  group-title="RUZIEV /PLAY X",PlayX 2024011
+http://95.216.112.250/2024011/index.m3u8
+#EXTINF:-1 tvg-id="2024012" tvg-name="PlayX 2024012"  group-title="RUZIEV /PLAY X",PlayX 2024012
+http://95.216.112.250/2024012/index.m3u8
+#EXTINF:-1 tvg-id="23265" tvg-name="PlayX 23265"  group-title="RUZIEV /PLAY X",PlayX 23265
+http://95.216.112.250/23265/index.m3u8
+#EXTINF:-1 tvg-id="24235" tvg-name="PlayX 24235"  group-title="RUZIEV /PLAY X",PlayX 24235
+http://95.216.112.250/24235/index.m3u8
+#EXTINF:-1 tvg-id="25279" tvg-name="PlayX 25279"  group-title="RUZIEV /PLAY X",PlayX 25279
+http://95.216.112.250/25279/index.m3u8
+#EXTINF:-1 tvg-id="26164" tvg-name="PlayX 26164"  group-title="RUZIEV /PLAY X",PlayX 26164
+http://95.216.112.250/26164/index.m3u8
+#EXTINF:-1 tvg-id="27566" tvg-name="PlayX 27566"  group-title="RUZIEV /PLAY X",PlayX 27566
+http://95.216.112.250/27566/index.m3u8
+#EXTINF:-1 tvg-id="28525" tvg-name="PlayX 28525"  group-title="RUZIEV /PLAY X",PlayX 28525
+http://95.216.112.250/28525/index.m3u8
+#EXTINF:-1 tvg-id="28577" tvg-name="PlayX 28577"  group-title="RUZIEV /PLAY X",PlayX 28577
+http://95.216.112.250/28577/index.m3u8
+#EXTINF:-1 tvg-id="3000" tvg-name="PlayX 3000"  group-title="RUZIEV /PLAY X",PlayX 3000
+http://95.216.112.250/3000/index.m3u8
+#EXTINF:-1 tvg-id="3001" tvg-name="PlayX 3001"  group-title="RUZIEV /PLAY X",PlayX 3001
+http://95.216.112.250/3001/index.m3u8
+#EXTINF:-1 tvg-id="3002" tvg-name="PlayX 3002"  group-title="RUZIEV /PLAY X",PlayX 3002
+http://95.216.112.250/3002/index.m3u8
+#EXTINF:-1 tvg-id="3003" tvg-name="PlayX 3003"  group-title="RUZIEV /PLAY X",PlayX 3003
+http://95.216.112.250/3003/index.m3u8
+#EXTINF:-1 tvg-id="3004" tvg-name="PlayX 3004"  group-title="RUZIEV /PLAY X",PlayX 3004
+http://95.216.112.250/3004/index.m3u8
+#EXTINF:-1 tvg-id="3005" tvg-name="PlayX 3005"  group-title="RUZIEV /PLAY X",PlayX 3005
+http://95.216.112.250/3005/index.m3u8
+#EXTINF:-1 tvg-id="3006" tvg-name="PlayX 3006"  group-title="RUZIEV /PLAY X",PlayX 3006
+http://95.216.112.250/3006/index.m3u8
+#EXTINF:-1 tvg-id="3007" tvg-name="PlayX 3007"  group-title="RUZIEV /PLAY X",PlayX 3007
+http://95.216.112.250/3007/index.m3u8
+#EXTINF:-1 tvg-id="3008" tvg-name="PlayX 3008"  group-title="RUZIEV /PLAY X",PlayX 3008
+http://95.216.112.250/3008/index.m3u8
+#EXTINF:-1 tvg-id="3009" tvg-name="PlayX 3009"  group-title="RUZIEV /PLAY X",PlayX 3009
+http://95.216.112.250/3009/index.m3u8
+#EXTINF:-1 tvg-id="3010" tvg-name="PlayX 3010"  group-title="RUZIEV /PLAY X",PlayX 3010
+http://95.216.112.250/3010/index.m3u8
+#EXTINF:-1 tvg-id="3011" tvg-name="PlayX 3011"  group-title="RUZIEV /PLAY X",PlayX 3011
+http://95.216.112.250/3011/index.m3u8
+#EXTINF:-1 tvg-id="3012" tvg-name="PlayX 3012"  group-title="RUZIEV /PLAY X",PlayX 3012
+http://95.216.112.250/3012/index.m3u8
+#EXTINF:-1 tvg-id="3013" tvg-name="PlayX 3013"  group-title="RUZIEV /PLAY X",PlayX 3013
+http://95.216.112.250/3013/index.m3u8
+#EXTINF:-1 tvg-id="3014" tvg-name="PlayX 3014"  group-title="RUZIEV /PLAY X",PlayX 3014
+http://95.216.112.250/3014/index.m3u8
+#EXTINF:-1 tvg-id="3015" tvg-name="PlayX 3015"  group-title="RUZIEV /PLAY X",PlayX 3015
+http://95.216.112.250/3015/index.m3u8
+#EXTINF:-1 tvg-id="3016" tvg-name="PlayX 3016"  group-title="RUZIEV /PLAY X",PlayX 3016
+http://95.216.112.250/3016/index.m3u8
+#EXTINF:-1 tvg-id="3017" tvg-name="PlayX 3017"  group-title="RUZIEV /PLAY X",PlayX 3017
+http://95.216.112.250/3017/index.m3u8
+#EXTINF:-1 tvg-id="3018" tvg-name="PlayX 3018"  group-title="RUZIEV /PLAY X",PlayX 3018
+http://95.216.112.250/3018/index.m3u8
+#EXTINF:-1 tvg-id="3019" tvg-name="PlayX 3019"  group-title="RUZIEV /PLAY X",PlayX 3019
+http://95.216.112.250/3019/index.m3u8
+#EXTINF:-1 tvg-id="3021" tvg-name="PlayX 3021"  group-title="RUZIEV /PLAY X",PlayX 3021
+http://95.216.112.250/3021/index.m3u8
+#EXTINF:-1 tvg-id="3022" tvg-name="PlayX 3022"  group-title="RUZIEV /PLAY X",PlayX 3022
+http://95.216.112.250/3022/index.m3u8
+#EXTINF:-1 tvg-id="3023" tvg-name="PlayX 3023"  group-title="RUZIEV /PLAY X",PlayX 3023
+http://95.216.112.250/3023/index.m3u8
+#EXTINF:-1 tvg-id="3024" tvg-name="PlayX 3024"  group-title="RUZIEV /PLAY X",PlayX 3024
+http://95.216.112.250/3024/index.m3u8
+#EXTINF:-1 tvg-id="3025" tvg-name="PlayX 3025"  group-title="RUZIEV /PLAY X",PlayX 3025
+http://95.216.112.250/3025/index.m3u8
+#EXTINF:-1 tvg-id="3026" tvg-name="PlayX 3026"  group-title="RUZIEV /PLAY X",PlayX 3026
+http://95.216.112.250/3026/index.m3u8
+#EXTINF:-1 tvg-id="3027" tvg-name="PlayX 3027"  group-title="RUZIEV /PLAY X",PlayX 3027
+http://95.216.112.250/3027/index.m3u8
+#EXTINF:-1 tvg-id="3028" tvg-name="PlayX 3028"  group-title="RUZIEV /PLAY X",PlayX 3028
+http://95.216.112.250/3028/index.m3u8
+#EXTINF:-1 tvg-id="3029" tvg-name="PlayX 3029"  group-title="RUZIEV /PLAY X",PlayX 3029
+http://95.216.112.250/3029/index.m3u8
+#EXTINF:-1 tvg-id="3030" tvg-name="PlayX 3030"  group-title="RUZIEV /PLAY X",PlayX 3030
+http://95.216.112.250/3030/index.m3u8
+#EXTINF:-1 tvg-id="3031" tvg-name="PlayX 3031"  group-title="RUZIEV /PLAY X",PlayX 3031
+http://95.216.112.250/3031/index.m3u8
+#EXTINF:-1 tvg-id="3032" tvg-name="PlayX 3032"  group-title="RUZIEV /PLAY X",PlayX 3032
+http://95.216.112.250/3032/index.m3u8
+#EXTINF:-1 tvg-id="3033" tvg-name="PlayX 3033"  group-title="RUZIEV /PLAY X",PlayX 3033
+http://95.216.112.250/3033/index.m3u8
+#EXTINF:-1 tvg-id="3034" tvg-name="PlayX 3034"  group-title="RUZIEV /PLAY X",PlayX 3034
+http://95.216.112.250/3034/index.m3u8
+#EXTINF:-1 tvg-id="3035" tvg-name="PlayX 3035"  group-title="RUZIEV /PLAY X",PlayX 3035
+http://95.216.112.250/3035/index.m3u8
+#EXTINF:-1 tvg-id="3036" tvg-name="PlayX 3036"  group-title="RUZIEV /PLAY X",PlayX 3036
+http://95.216.112.250/3036/index.m3u8
+#EXTINF:-1 tvg-id="3037" tvg-name="PlayX 3037"  group-title="RUZIEV /PLAY X",PlayX 3037
+http://95.216.112.250/3037/index.m3u8
+#EXTINF:-1 tvg-id="3038" tvg-name="PlayX 3038"  group-title="RUZIEV /PLAY X",PlayX 3038
+http://95.216.112.250/3038/index.m3u8
+#EXTINF:-1 tvg-id="3040" tvg-name="PlayX 3040"  group-title="RUZIEV /PLAY X",PlayX 3040
+http://95.216.112.250/3040/index.m3u8
+#EXTINF:-1 tvg-id="3041" tvg-name="PlayX 3041"  group-title="RUZIEV /PLAY X",PlayX 3041
+http://95.216.112.250/3041/index.m3u8
+#EXTINF:-1 tvg-id="3042" tvg-name="PlayX 3042"  group-title="RUZIEV /PLAY X",PlayX 3042
+http://95.216.112.250/3042/index.m3u8
+#EXTINF:-1 tvg-id="3043" tvg-name="PlayX 3043"  group-title="RUZIEV /PLAY X",PlayX 3043
+http://95.216.112.250/3043/index.m3u8
+#EXTINF:-1 tvg-id="3044" tvg-name="PlayX 3044"  group-title="RUZIEV /PLAY X",PlayX 3044
+http://95.216.112.250/3044/index.m3u8
+#EXTINF:-1 tvg-id="3045" tvg-name="PlayX 3045"  group-title="RUZIEV /PLAY X",PlayX 3045
+http://95.216.112.250/3045/index.m3u8
+#EXTINF:-1 tvg-id="30454" tvg-name="PlayX 30454"  group-title="RUZIEV /PLAY X",PlayX 30454
+http://95.216.112.250/30454/index.m3u8
+#EXTINF:-1 tvg-id="3046" tvg-name="PlayX 3046"  group-title="RUZIEV /PLAY X",PlayX 3046
+http://95.216.112.250/3046/index.m3u8
+#EXTINF:-1 tvg-id="3047" tvg-name="PlayX 3047"  group-title="RUZIEV /PLAY X",PlayX 3047
+http://95.216.112.250/3047/index.m3u8
+#EXTINF:-1 tvg-id="3048" tvg-name="PlayX 3048"  group-title="RUZIEV /PLAY X",PlayX 3048
+http://95.216.112.250/3048/index.m3u8
+#EXTINF:-1 tvg-id="3049" tvg-name="PlayX 3049"  group-title="RUZIEV /PLAY X",PlayX 3049
+http://95.216.112.250/3049/index.m3u8
+#EXTINF:-1 tvg-id="3050" tvg-name="PlayX 3050"  group-title="RUZIEV /PLAY X",PlayX 3050
+http://95.216.112.250/3050/index.m3u8
+#EXTINF:-1 tvg-id="3051" tvg-name="PlayX 3051"  group-title="RUZIEV /PLAY X",PlayX 3051
+http://95.216.112.250/3051/index.m3u8
+#EXTINF:-1 tvg-id="3052" tvg-name="PlayX 3052"  group-title="RUZIEV /PLAY X",PlayX 3052
+http://95.216.112.250/3052/index.m3u8
+#EXTINF:-1 tvg-id="3053" tvg-name="PlayX 3053"  group-title="RUZIEV /PLAY X",PlayX 3053
+http://95.216.112.250/3053/index.m3u8
+#EXTINF:-1 tvg-id="3054" tvg-name="PlayX 3054"  group-title="RUZIEV /PLAY X",PlayX 3054
+http://95.216.112.250/3054/index.m3u8
+#EXTINF:-1 tvg-id="3055" tvg-name="PlayX 3055"  group-title="RUZIEV /PLAY X",PlayX 3055
+http://95.216.112.250/3055/index.m3u8
+#EXTINF:-1 tvg-id="3057" tvg-name="PlayX 3057"  group-title="RUZIEV /PLAY X",PlayX 3057
+http://95.216.112.250/3057/index.m3u8
+#EXTINF:-1 tvg-id="3058" tvg-name="PlayX 3058"  group-title="RUZIEV /PLAY X",PlayX 3058
+http://95.216.112.250/3058/index.m3u8
+#EXTINF:-1 tvg-id="3059" tvg-name="PlayX 3059"  group-title="RUZIEV /PLAY X",PlayX 3059
+http://95.216.112.250/3059/index.m3u8
+#EXTINF:-1 tvg-id="3060" tvg-name="PlayX 3060"  group-title="RUZIEV /PLAY X",PlayX 3060
+http://95.216.112.250/3060/index.m3u8
+#EXTINF:-1 tvg-id="3061" tvg-name="PlayX 3061"  group-title="RUZIEV /PLAY X",PlayX 3061
+http://95.216.112.250/3061/index.m3u8
+#EXTINF:-1 tvg-id="3062" tvg-name="PlayX 3062"  group-title="RUZIEV /PLAY X",PlayX 3062
+http://95.216.112.250/3062/index.m3u8
+#EXTINF:-1 tvg-id="3063" tvg-name="PlayX 3063"  group-title="RUZIEV /PLAY X",PlayX 3063
+http://95.216.112.250/3063/index.m3u8
+#EXTINF:-1 tvg-id="3064" tvg-name="PlayX 3064"  group-title="RUZIEV /PLAY X",PlayX 3064
+http://95.216.112.250/3064/index.m3u8
+#EXTINF:-1 tvg-id="3065" tvg-name="PlayX 3065"  group-title="RUZIEV /PLAY X",PlayX 3065
+http://95.216.112.250/3065/index.m3u8
+#EXTINF:-1 tvg-id="3066" tvg-name="PlayX 3066"  group-title="RUZIEV /PLAY X",PlayX 3066
+http://95.216.112.250/3066/index.m3u8
+#EXTINF:-1 tvg-id="30695" tvg-name="PlayX 30695"  group-title="RUZIEV /PLAY X",PlayX 30695
+http://95.216.112.250/30695/index.m3u8
+#EXTINF:-1 tvg-id="32238" tvg-name="PlayX 32238"  group-title="RUZIEV /PLAY X",PlayX 32238
+http://95.216.112.250/32238/index.m3u8
+#EXTINF:-1 tvg-id="36461" tvg-name="PlayX 36461"  group-title="RUZIEV /PLAY X",PlayX 36461
+http://95.216.112.250/36461/index.m3u8
+#EXTINF:-1 tvg-id="36547" tvg-name="PlayX 36547"  group-title="RUZIEV /PLAY X",PlayX 36547
+http://95.216.112.250/36547/index.m3u8
+#EXTINF:-1 tvg-id="37572" tvg-name="PlayX 37572"  group-title="RUZIEV /PLAY X",PlayX 37572
+http://95.216.112.250/37572/index.m3u8
+#EXTINF:-1 tvg-id="37925" tvg-name="PlayX 37925"  group-title="RUZIEV /PLAY X",PlayX 37925
+http://95.216.112.250/37925/index.m3u8
+#EXTINF:-1 tvg-id="38371" tvg-name="PlayX 38371"  group-title="RUZIEV /PLAY X",PlayX 38371
+http://95.216.112.250/38371/index.m3u8
+#EXTINF:-1 tvg-id="41610" tvg-name="PlayX 41610"  group-title="RUZIEV /PLAY X",PlayX 41610
+http://95.216.112.250/41610/index.m3u8
+#EXTINF:-1 tvg-id="43791" tvg-name="PlayX 43791"  group-title="RUZIEV /PLAY X",PlayX 43791
+http://95.216.112.250/43791/index.m3u8
+#EXTINF:-1 tvg-id="43962" tvg-name="PlayX 43962"  group-title="RUZIEV /PLAY X",PlayX 43962
+http://95.216.112.250/43962/index.m3u8
+#EXTINF:-1 tvg-id="47218" tvg-name="PlayX 47218"  group-title="RUZIEV /PLAY X",PlayX 47218
+http://95.216.112.250/47218/index.m3u8
+#EXTINF:-1 tvg-id="47681" tvg-name="PlayX 47681"  group-title="RUZIEV /PLAY X",PlayX 47681
+http://95.216.112.250/47681/index.m3u8
+#EXTINF:-1 tvg-id="5001" tvg-name="PlayX 5001"  group-title="RUZIEV /PLAY X",PlayX 5001
+http://95.216.112.250/5001/index.m3u8
+#EXTINF:-1 tvg-id="5002" tvg-name="PlayX 5002"  group-title="RUZIEV /PLAY X",PlayX 5002
+http://95.216.112.250/5002/index.m3u8
+#EXTINF:-1 tvg-id="5003" tvg-name="PlayX 5003"  group-title="RUZIEV /PLAY X",PlayX 5003
+http://95.216.112.250/5003/index.m3u8
+#EXTINF:-1 tvg-id="5004" tvg-name="PlayX 5004"  group-title="RUZIEV /PLAY X",PlayX 5004
+http://95.216.112.250/5004/index.m3u8
+#EXTINF:-1 tvg-id="5005" tvg-name="PlayX 5005"  group-title="RUZIEV /PLAY X",PlayX 5005
+http://95.216.112.250/5005/index.m3u8
+#EXTINF:-1 tvg-id="5006" tvg-name="PlayX 5006"  group-title="RUZIEV /PLAY X",PlayX 5006
+http://95.216.112.250/5006/index.m3u8
+#EXTINF:-1 tvg-id="5007" tvg-name="PlayX 5007"  group-title="RUZIEV /PLAY X",PlayX 5007
+http://95.216.112.250/5007/index.m3u8
+#EXTINF:-1 tvg-id="50683" tvg-name="PlayX 50683"  group-title="RUZIEV /PLAY X",PlayX 50683
+http://95.216.112.250/50683/index.m3u8
+#EXTINF:-1 tvg-id="53442" tvg-name="PlayX 53442"  group-title="RUZIEV /PLAY X",PlayX 53442
+http://95.216.112.250/53442/index.m3u8
+#EXTINF:-1 tvg-id="53460" tvg-name="PlayX 53460"  group-title="RUZIEV /PLAY X",PlayX 53460
+http://95.216.112.250/53460/index.m3u8
+#EXTINF:-1 tvg-id="54784" tvg-name="PlayX 54784"  group-title="RUZIEV /PLAY X",PlayX 54784
+http://95.216.112.250/54784/index.m3u8
+#EXTINF:-1 tvg-id="56932" tvg-name="PlayX 56932"  group-title="RUZIEV /PLAY X",PlayX 56932
+http://95.216.112.250/56932/index.m3u8
+#EXTINF:-1 tvg-id="57570" tvg-name="PlayX 57570"  group-title="RUZIEV /PLAY X",PlayX 57570
+http://95.216.112.250/57570/index.m3u8
+#EXTINF:-1 tvg-id="59036" tvg-name="PlayX 59036"  group-title="RUZIEV /PLAY X",PlayX 59036
+http://95.216.112.250/59036/index.m3u8
+#EXTINF:-1 tvg-id="59504" tvg-name="PlayX 59504"  group-title="RUZIEV /PLAY X",PlayX 59504
+http://95.216.112.250/59504/index.m3u8
+#EXTINF:-1 tvg-id="59711" tvg-name="PlayX 59711"  group-title="RUZIEV /PLAY X",PlayX 59711
+http://95.216.112.250/59711/index.m3u8
+#EXTINF:-1 tvg-id="60381" tvg-name="PlayX 60381"  group-title="RUZIEV /PLAY X",PlayX 60381
+http://95.216.112.250/60381/index.m3u8
+#EXTINF:-1 tvg-id="60559" tvg-name="PlayX 60559"  group-title="RUZIEV /PLAY X",PlayX 60559
+http://95.216.112.250/60559/index.m3u8
+#EXTINF:-1 tvg-id="64031" tvg-name="PlayX 64031"  group-title="RUZIEV /PLAY X",PlayX 64031
+http://95.216.112.250/64031/index.m3u8
+#EXTINF:-1 tvg-id="65710-inspektor-gavrilov-2024" tvg-name="PlayX 65710-inspektor-gavrilov-2024"  group-title="RUZIEV /PLAY X",PlayX 65710-inspektor-gavrilov-2024
+http://95.216.112.250/65710-inspektor-gavrilov-2024/index.m3u8
+#EXTINF:-1 tvg-id="68542" tvg-name="PlayX 68542"  group-title="RUZIEV /PLAY X",PlayX 68542
+http://95.216.112.250/68542/index.m3u8
+#EXTINF:-1 tvg-id="69564" tvg-name="PlayX 69564"  group-title="RUZIEV /PLAY X",PlayX 69564
+http://95.216.112.250/69564/index.m3u8
+#EXTINF:-1 tvg-id="7001" tvg-name="PlayX 7001"  group-title="RUZIEV /PLAY X",PlayX 7001
+http://95.216.112.250/7001/index.m3u8
+#EXTINF:-1 tvg-id="7002" tvg-name="PlayX 7002"  group-title="RUZIEV /PLAY X",PlayX 7002
+http://95.216.112.250/7002/index.m3u8
+#EXTINF:-1 tvg-id="7003" tvg-name="PlayX 7003"  group-title="RUZIEV /PLAY X",PlayX 7003
+http://95.216.112.250/7003/index.m3u8
+#EXTINF:-1 tvg-id="7008" tvg-name="PlayX 7008"  group-title="RUZIEV /PLAY X",PlayX 7008
+http://95.216.112.250/7008/index.m3u8
+#EXTINF:-1 tvg-id="7009" tvg-name="PlayX 7009"  group-title="RUZIEV /PLAY X",PlayX 7009
+http://95.216.112.250/7009/index.m3u8
+#EXTINF:-1 tvg-id="7010" tvg-name="PlayX 7010"  group-title="RUZIEV /PLAY X",PlayX 7010
+http://95.216.112.250/7010/index.m3u8
+#EXTINF:-1 tvg-id="7032" tvg-name="PlayX 7032"  group-title="RUZIEV /PLAY X",PlayX 7032
+http://95.216.112.250/7032/index.m3u8
+#EXTINF:-1 tvg-id="7033" tvg-name="PlayX 7033"  group-title="RUZIEV /PLAY X",PlayX 7033
+http://95.216.112.250/7033/index.m3u8
+#EXTINF:-1 tvg-id="73382" tvg-name="PlayX 73382"  group-title="RUZIEV /PLAY X",PlayX 73382
+http://95.216.112.250/73382/index.m3u8
+#EXTINF:-1 tvg-id="74096" tvg-name="PlayX 74096"  group-title="RUZIEV /PLAY X",PlayX 74096
+http://95.216.112.250/74096/index.m3u8
+#EXTINF:-1 tvg-id="76882" tvg-name="PlayX 76882"  group-title="RUZIEV /PLAY X",PlayX 76882
+http://95.216.112.250/76882/index.m3u8
+#EXTINF:-1 tvg-id="77795" tvg-name="PlayX 77795"  group-title="RUZIEV /PLAY X",PlayX 77795
+http://95.216.112.250/77795/index.m3u8
+#EXTINF:-1 tvg-id="77912" tvg-name="PlayX 77912"  group-title="RUZIEV /PLAY X",PlayX 77912
+http://95.216.112.250/77912/index.m3u8
+#EXTINF:-1 tvg-id="80202" tvg-name="PlayX 80202"  group-title="RUZIEV /PLAY X",PlayX 80202
+http://95.216.112.250/80202/index.m3u8
+#EXTINF:-1 tvg-id="80607" tvg-name="PlayX 80607"  group-title="RUZIEV /PLAY X",PlayX 80607
+http://95.216.112.250/80607/index.m3u8
+#EXTINF:-1 tvg-id="84625" tvg-name="PlayX 84625"  group-title="RUZIEV /PLAY X",PlayX 84625
+http://95.216.112.250/84625/index.m3u8
+#EXTINF:-1 tvg-id="86322" tvg-name="PlayX 86322"  group-title="RUZIEV /PLAY X",PlayX 86322
+http://95.216.112.250/86322/index.m3u8
+#EXTINF:-1 tvg-id="87752" tvg-name="PlayX 87752"  group-title="RUZIEV /PLAY X",PlayX 87752
+http://95.216.112.250/87752/index.m3u8
+#EXTINF:-1 tvg-id="87775" tvg-name="PlayX 87775"  group-title="RUZIEV /PLAY X",PlayX 87775
+http://95.216.112.250/87775/index.m3u8
+#EXTINF:-1 tvg-id="89652" tvg-name="PlayX 89652"  group-title="RUZIEV /PLAY X",PlayX 89652
+http://95.216.112.250/89652/index.m3u8
+#EXTINF:-1 tvg-id="9003" tvg-name="PlayX 9003"  group-title="RUZIEV /PLAY X",PlayX 9003
+http://95.216.112.250/9003/index.m3u8
+#EXTINF:-1 tvg-id="9011" tvg-name="PlayX 9011"  group-title="RUZIEV /PLAY X",PlayX 9011
+http://95.216.112.250/9011/index.m3u8
+#EXTINF:-1 tvg-id="9012" tvg-name="PlayX 9012"  group-title="RUZIEV /PLAY X",PlayX 9012
+http://95.216.112.250/9012/index.m3u8
+#EXTINF:-1 tvg-id="90606" tvg-name="PlayX 90606"  group-title="RUZIEV /PLAY X",PlayX 90606
+http://95.216.112.250/90606/index.m3u8
+#EXTINF:-1 tvg-id="94342" tvg-name="PlayX 94342"  group-title="RUZIEV /PLAY X",PlayX 94342
+http://95.216.112.250/94342/index.m3u8
+#EXTINF:-1 tvg-id="95446" tvg-name="PlayX 95446"  group-title="RUZIEV /PLAY X",PlayX 95446
+http://95.216.112.250/95446/index.m3u8
+#EXTINF:-1 tvg-id="98035" tvg-name="PlayX 98035"  group-title="RUZIEV /PLAY X",PlayX 98035
+http://95.216.112.250/98035/index.m3u8
+#EXTINF:-1 tvg-id="m001" tvg-name="PlayX m001"  group-title="RUZIEV /PLAY X",PlayX m001
+http://95.216.112.250/m001/index.m3u8
+#EXTINF:-1 tvg-id="m002" tvg-name="PlayX m002"  group-title="RUZIEV /PLAY X",PlayX m002
+http://95.216.112.250/m002/index.m3u8
+#EXTINF:-1 tvg-id="m004" tvg-name="PlayX m004"  group-title="RUZIEV /PLAY X",PlayX m004
+http://95.216.112.250/m004/index.m3u8
+#EXTINF:-1 tvg-id="m005" tvg-name="PlayX m005"  group-title="RUZIEV /PLAY X",PlayX m005
+http://95.216.112.250/m005/index.m3u8
+#EXTINF:-1 tvg-id="m006" tvg-name="PlayX m006"  group-title="RUZIEV /PLAY X",PlayX m006
+http://95.216.112.250/m006/index.m3u8
+#EXTINF:-1 tvg-id="m007" tvg-name="PlayX m007"  group-title="RUZIEV /PLAY X",PlayX m007
+http://95.216.112.250/m007/index.m3u8
+#EXTINF:-1 tvg-id="m008" tvg-name="PlayX m008"  group-title="RUZIEV /PLAY X",PlayX m008
+http://95.216.112.250/m008/index.m3u8
+#EXTINF:-1 tvg-id="m011" tvg-name="PlayX m011"  group-title="RUZIEV /PLAY X",PlayX m011
+http://95.216.112.250/m011/index.m3u8
+#EXTINF:-1 tvg-id="m012" tvg-name="PlayX m012"  group-title="RUZIEV /PLAY X",PlayX m012
+http://95.216.112.250/m012/index.m3u8
+#EXTINF:-1 tvg-id="m013" tvg-name="PlayX m013"  group-title="RUZIEV /PLAY X",PlayX m013
+http://95.216.112.250/m013/index.m3u8
+#EXTINF:-1 tvg-id="m014" tvg-name="PlayX m014"  group-title="RUZIEV /PLAY X",PlayX m014
+http://95.216.112.250/m014/index.m3u8
+#EXTINF:-1 tvg-id="m015" tvg-name="PlayX m015"  group-title="RUZIEV /PLAY X",PlayX m015
+http://95.216.112.250/m015/index.m3u8
+#EXTINF:-1 tvg-id="m016" tvg-name="PlayX m016"  group-title="RUZIEV /PLAY X",PlayX m016
+http://95.216.112.250/m016/index.m3u8
+#EXTINF:-1 tvg-id="m017" tvg-name="PlayX m017"  group-title="RUZIEV /PLAY X",PlayX m017
+http://95.216.112.250/m017/index.m3u8
+#EXTINF:-1 tvg-id="m018" tvg-name="PlayX m018"  group-title="RUZIEV /PLAY X",PlayX m018
+http://95.216.112.250/m018/index.m3u8
+#EXTINF:-1 tvg-id="m019" tvg-name="PlayX m019"  group-title="RUZIEV /PLAY X",PlayX m019
+http://95.216.112.250/m019/index.m3u8
+#EXTINF:-1 tvg-id="m020" tvg-name="PlayX m020"  group-title="RUZIEV /PLAY X",PlayX m020
+http://95.216.112.250/m020/index.m3u8
+#EXTINF:-1 tvg-id="m021" tvg-name="PlayX m021"  group-title="RUZIEV /PLAY X",PlayX m021
+http://95.216.112.250/m021/index.m3u8
+#EXTINF:-1 tvg-id="m022" tvg-name="PlayX m022"  group-title="RUZIEV /PLAY X",PlayX m022
+http://95.216.112.250/m022/index.m3u8
+#EXTINF:-1 tvg-id="m023" tvg-name="PlayX m023"  group-title="RUZIEV /PLAY X",PlayX m023
+http://95.216.112.250/m023/index.m3u8
+#EXTINF:-1 tvg-id="m024" tvg-name="PlayX m024"  group-title="RUZIEV /PLAY X",PlayX m024
+http://95.216.112.250/m024/index.m3u8
+#EXTINF:-1 tvg-id="m025" tvg-name="PlayX m025"  group-title="RUZIEV /PLAY X",PlayX m025
+http://95.216.112.250/m025/index.m3u8
+#EXTINF:-1 tvg-id="m026" tvg-name="PlayX m026"  group-title="RUZIEV /PLAY X",PlayX m026
+http://95.216.112.250/m026/index.m3u8
+#EXTINF:-1 tvg-id="m027" tvg-name="PlayX m027"  group-title="RUZIEV /PLAY X",PlayX m027
+http://95.216.112.250/m027/index.m3u8
+#EXTINF:-1 tvg-id="m028" tvg-name="PlayX m028"  group-title="RUZIEV /PLAY X",PlayX m028
+http://95.216.112.250/m028/index.m3u8
+#EXTINF:-1 tvg-id="m029" tvg-name="PlayX m029"  group-title="RUZIEV /PLAY X",PlayX m029
+http://95.216.112.250/m029/index.m3u8
 
 
 
@@ -35683,47 +37363,18 @@ https://pub0202.101.ru:8443/stream/trust/mp3/128/22
 
 
 
-
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Kofifi FM 97.2
-http://102.68.115.115:8000/kofifi
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Music Box FM
-http://10278.go2stream.fr:8000/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Tebet Radio FM
-http://103.163.161.140:8066/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio S.N.R
-http://10326.cloudrad.io:9056/;
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Retro DK
-http://10336.cloudrad.io:9010/live
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Pollachi FM
-http://104.200.16.182:8000/;
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Francophone - Radio Islam en français
-http://104.7.66.64:8099/;?icy=http
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",IBC Tamil
-http://10454.cloudrad.io:6176/live
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Bayou Blue Radio
-http://107.152.41.4:8000/radio.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Cygnus Radio
-http://108.163.245.230:8026/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Potenza Centrale
 http://108.59.11.81:10012/stream/
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Shofar FM
-http://109.169.15.16:36659/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Soundwave radio
 http://109.228.50.159:8000/stream.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Beta - Hráme Jubilantom
-http://109.71.67.102:8000/beta_jubilanti.mp3
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Chiang Mai Radio 93.75
 http://112.121.151.133:8124/live
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Minradio - HIT
 http://11429.cloudrad.io:9162/live
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Naisa Radio
 http://11771.cloudrad.io:9190/live
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",RNK FM
-http://119.82.252.6:8181/broadwave.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Siangdham
-http://122.155.12.107:8000/siangdham.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Traffic pro
-http://122.155.16.48:8955/;stream.mp3
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Zonkers Radio
 http://128.199.35.208:8000/radio.mp3
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",FluXiRadio
@@ -35736,60 +37387,32 @@ http://136.243.134.202:8098/stream
 http://138.201.198.218:8043/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Kameleon
 http://138.201.198.218:8075/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",KUCR 88.3 FM
-http://138.23.75.92:8001/
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Hanoi90
-http://14.162.146.90:8000/HANOI90
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",WDJR.net
 http://142.44.136.201:5379/;stream/1
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Gems FM
-http://143.208.11.100:7090/stream
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Алтай FM
 http://146.158.96.114:8000/radio
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",KUMM Radio
-http://146.57.36.230:8256/listen
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio TV Republika
-http://146.59.7.218:8100/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Rádio Cidade Esperança
-http://148.72.158.239:8111/live
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Rádio Gospel
-http://148.72.158.239:8120/live
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio M FM
 http://149.202.22.75:8248/live
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",The Rocker'Z Radio
 http://149.202.61.34:8000/mount
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",3TFM Community Radio
-http://149.255.60.193:8042/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Yeraz
-http://149.255.60.194:8008/stream
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",WFNGR696 The FINGER
 http://149.56.155.73:8016/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",All time hits radio
 http://149.56.175.167:5248/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",VIPradio Christmas
 http://149.56.175.167:5505//;stream.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Adaba FM
-http://149.56.234.138:8008/live
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",95.7 The Wolf
-http://149.56.234.138:8173/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Tormenta
-http://154.38.167.185:8050/stream?icy=http
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",WVTC 90.7 FM
-http://155.42.90.13:8002/wvtc_32
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Merseyland Alternative Radio
 http://157.90.35.96:8006/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Halsnæs
 http://15790.cloudrad.io:9146/live
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",FM Globo
 http://158.69.219.162:8026/stream/
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",KREM Radio
-http://159.65.32.199:8016/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Underground Rock Radio
-http://162.213.197.50:8042/128k
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Sunny 102
-http://162.244.80.106:11307/sunny102.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Aap ki Awaz
-http://162.244.80.106:11332/stream
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",104.5 Hd3 Mark Fm
 http://162.244.80.106:11583/markfm.aac
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",My Sunny 104
@@ -35802,34 +37425,24 @@ http://162.244.80.118:3024/stream.mp3
 http://162.244.80.118:4900/stream.mp3
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",BON F.M. 102.7
 http://162.244.80.21:6482/;stream.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",RVE Predici
-http://162.244.80.32:9468/;stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",RVE Internaţional
-http://162.244.80.34:9648/stream/1/
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Akaboozi
-http://162.244.80.52:8732/stream.mp3;audio.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Eagle 102.3
-http://162.251.24.112:88/broadwave.mp3
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",淡江之聲 FM88.7
 http://163.13.182.81:8001/votk
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Ethic
 http://163.172.37.18:8000/radioethic.mp3
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Onda Cero Vip
 http://163.172.70.223:8146/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Eben-Ezer Tu Radio de Vida
-http://163.172.77.142:8129/stream
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Cafe Balmore
 http://163.172.77.142:8471/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",A-Z 90s
 http://164.132.158.45:8040/radio.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Wisdom Radio
-http://165.22.217.209:8000/radio.mp3
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Delima FM
 http://167.114.131.90:5610/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Memphis
 http://167.172.159.27:8000/audioonly
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Spacca Napoli
-http://167.86.86.4:8028/stream
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Primaradio Digital
 http://167.86.86.4:8505/stream
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",RAC Campania
@@ -35848,10 +37461,7 @@ http://168.119.104.246:8040/live
 http://168.119.104.246:8042/live
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Canciones Lejanas Anglo
 http://170.79.102.46:8000/stream/39/
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Henri Des
-http://17653.live.streamtheworld.com/SP_R2329710.mp3?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=47f66e9c-211b-4de9-8a62-3bef2c90d3e5
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Zефир FM
-http://178.124.152.212:8008/Zefir
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Радио Скиф Орша
 http://178.172.150.248:2530/;
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Soundset Ragusa
@@ -35864,10 +37474,7 @@ http://178.32.4.127:9998/;stream.mp3
 http://178.46.155.73:8000/rp
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Авторадио
 http://178.88.167.62:8080/AVTORADIO_192
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Breeze FM Zambia
-http://178.netromedia.com:8000/BreezeFM
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Valley Heritage Radio
-http://178.obj.netromedia.com:8000/6
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Nova Shekinah
 http://179.127.28.236:10540/live
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Domeldo Live
@@ -35876,8 +37483,7 @@ http://185.105.4.53:3000/;stream.mp3
 http://185.105.4.53:3006/;stream.mp3
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",AMI Radio
 http://185.119.88.88:8005/;*.mp3
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Vatan Radio
-http://185.121.1.171:8000/sr128
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Faaborg
 http://185.156.96.217:10022/detrigtigefaaborgaac
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Oro Malaga
@@ -35902,20 +37508,10 @@ http://188.93.73.7:8064/stream
 http://189.254.243.186:9001/estereoplata.mp3
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Zoom Radio 91.9 FM
 http://190.0.226.17:8000/stream/1/
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Chajarí al Día 940 AM
-http://190.185.128.226:8001/AM940
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",The Rock Radio Network
-http://192.241.185.108:8000/stream/
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Digital FM Rio de Janeiro
 http://192.99.14.210:8382/digitalfm
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",ABINAYAM FM
-http://192.99.170.8:5756/;
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",The Underground
-http://192.99.2.151:8126/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",SmoothRadio 100.3 FM
-http://192.99.41.102:5016/stream
-#EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Rogla
-http://193.105.67.24:8010/stream
+
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio FM +
 http://193.108.24.21:8000/fmplus?file=.mp3
 #EXTINF:-1 group-title="RUZIEV IPTV/ PC RADIO" tvg-logo="https://i.postimg.cc/3W5dkPxq/1.jpg",Radio Family
@@ -45983,6 +47579,617 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/15202/ind
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5681.png" group-title="GRAND PLUS | عربي", Al Hadath AE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/15203/index.m3u8
+
+
+
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",.black
+http://88.99.165.164:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",.red HD
+http://88.99.165.164:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",.sci-fi
+http://88.99.165.164:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 1 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 10 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 11 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 2 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 3 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=eb9ef8cfb7193b087f66c2072ad97d36cd266a9d
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 4 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 5 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=92d464a26a857d119c098eefac43bfb25e6e5f1a
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 6 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=c7da2bedd584836e3eab3199939e471e5dcae8fc
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 7 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=8c54e949d608a0f154a36ad0ff9a9a3397a40a4a
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 8 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=6d2d997aea908ffc6c61b43b5053f65c3b02f4df
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",[magenta] Sport 9 - myTeamTV
+http://88.99.165.164:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b4de9e
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",1HD
+http://88.99.165.164:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",2x2
+http://88.99.165.164:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Amedia 1 HD
+http://88.99.165.164:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Amedia 2 HD
+http://88.99.165.164:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Amedia Hit HD
+http://88.99.165.164:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Amedia premium HD
+http://88.99.165.164:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Ani
+http://88.99.165.164:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Animal Planet HD
+http://88.99.165.164:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Action HD
+http://88.99.165.164:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Catastrophe HD
+http://88.99.165.164:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Cinema HD
+http://88.99.165.164:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Cinema+ HD
+http://88.99.165.164:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Comedy HD
+http://88.99.165.164:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Cosmo HD
+http://88.99.165.164:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Criminal HD
+http://88.99.165.164:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Fantastic HD
+http://88.99.165.164:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Filmystic HD
+http://88.99.165.164:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU History HD
+http://88.99.165.164:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Kids 4K
+http://88.99.165.164:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Kids HD
+http://88.99.165.164:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Kids+ HD
+http://88.99.165.164:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Kinorating HD
+http://88.99.165.164:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Marvel HD
+http://88.99.165.164:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Premiere HD
+http://88.99.165.164:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Premiere Ultra 4K
+http://88.99.165.164:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Reality HD
+http://88.99.165.164:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Romantic HD
+http://88.99.165.164:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Ruserial HD
+http://88.99.165.164:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Russian HD
+http://88.99.165.164:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Stars HD
+http://88.99.165.164:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Survival HD
+http://88.99.165.164:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU TruMotion HD
+http://88.99.165.164:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Ultra 4K
+http://88.99.165.164:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU VHS HD
+http://88.99.165.164:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Кинозал Premiere 1 HD
+http://88.99.165.164:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Кинозал Premiere 2 HD
+http://88.99.165.164:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Кинозал Premiere 3 HD
+http://88.99.165.164:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Мультсериал
+http://88.99.165.164:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU Сваты HD
+http://88.99.165.164:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT BCU",BCU СССР HD
+http://88.99.165.164:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",beIN SPORTS HABER
+http://88.99.165.164:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",beIN SPORTS HD 1
+http://88.99.165.164:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",beIN SPORTS HD 2
+http://88.99.165.164:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",beIN SPORTS HD 4
+http://88.99.165.164:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Bollywood HD
+http://88.99.165.164:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Boomerang
+http://88.99.165.164:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Bridge HD
+http://88.99.165.164:6878/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Bridge TV
+http://88.99.165.164:6878/ace/getstream?id=e4cd583c183e449d129727c969355e7e9b7d3792&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Bridge TV Русский Хит
+http://88.99.165.164:6878/ace/getstream?id=eb3add8d104fa237e14343f3236a932595023c9a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",BT Sport 1
+http://88.99.165.164:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",BT Sport 2
+http://88.99.165.164:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",BT Sport 3
+http://88.99.165.164:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",CANAL+ Sport 2 HD
+http://88.99.165.164:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",CANAL+ Sport 3
+http://88.99.165.164:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",CANAL+ Sport 4
+http://88.99.165.164:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Canal+ Sport HD
+http://88.99.165.164:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Cartoon Network
+http://88.99.165.164:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",CGTN Русский
+http://88.99.165.164:6878/ace/getstream?id=9f7dd05a3f443890373824ee399423c747214568&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT CineMan",CineMan
+http://88.99.165.164:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT CineMan",CineMan Top
+http://88.99.165.164:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT CineMan",CineMan РуКино
+http://88.99.165.164:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Clarity 4K
+http://88.99.165.164:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Da Vinci
+http://88.99.165.164:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dazn 1 Bar HD
+http://88.99.165.164:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dazn 2 Bar HD
+http://88.99.165.164:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",DELUXE MUSIC HD
+http://88.99.165.164:6878/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Discovery HD
+http://88.99.165.164:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Discovery Science HD
+http://88.99.165.164:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT 📡 Ace Stream TV",DTX HD
+http://88.99.165.164:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai One
+http://88.99.165.164:6878/ace/getstream?infohash=43bfa03755428b42fedf2f88bf8a3879add9907a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai Racing
+http://88.99.165.164:6878/ace/getstream?infohash=9e23be4424f849f061b57d86491a06bdbf5c30d3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai Racing 2
+http://88.99.165.164:6878/ace/getstream?infohash=70cfa52fb2a6b9f37d3cde22e7dda2c80efc6a1c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai Racing 3
+http://88.99.165.164:6878/ace/getstream?infohash=f6927bae7a816d9a3c200e63df032c09671b971f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai Sports 2
+http://88.99.165.164:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai Sports 3
+http://88.99.165.164:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Dubai Zaman
+http://88.99.165.164:6878/ace/getstream?infohash=4750d185565938b65e8607133b7abdfeb4c7c8cd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Eleven Sports 1 HD PL
+http://88.99.165.164:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Eleven Sports 2 HD PL
+http://88.99.165.164:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Eleven Sports 3 HD
+http://88.99.165.164:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Eleven Sports 4 HD
+http://88.99.165.164:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Eleven Sports 5 HD
+http://88.99.165.164:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Eleven Sports 6 HD
+http://88.99.165.164:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Europa Plus TV
+http://88.99.165.164:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Eurosport 1 HD
+http://88.99.165.164:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Eurosport 2 HD
+http://88.99.165.164:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Extreme Sports
+http://88.99.165.164:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",FAN
+http://88.99.165.164:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Fashion TV HD
+http://88.99.165.164:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Fast&Funbox HD
+http://88.99.165.164:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",FightBox HD
+http://88.99.165.164:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Fox
+http://88.99.165.164:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Fox Life HD
+http://88.99.165.164:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",FOX Sports 1 HD
+http://88.99.165.164:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",FOX Sports 2 HD
+http://88.99.165.164:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Gulli Girl
+http://88.99.165.164:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",H2 HD
+http://88.99.165.164:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",HD Life
+http://88.99.165.164:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",History HD
+http://88.99.165.164:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Hollywood HD
+http://88.99.165.164:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",iConcerts
+http://88.99.165.164:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",Insight UHD 4K
+http://88.99.165.164:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Insport HD
+http://88.99.165.164:6878/ace/getstream?id=b7e8c3bae5d98a4f842f334ff57604de9886f5c7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",KHL Prime HD
+http://88.99.165.164:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",Love Nature 4K
+http://88.99.165.164:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",MTV 90s
+http://88.99.165.164:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",MTV Live HD
+http://88.99.165.164:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Nat Geo Wild
+http://88.99.165.164:6878/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Nat Geo Wild HD
+http://88.99.165.164:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",National Geographic HD
+http://88.99.165.164:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Paramount Channel HD
+http://88.99.165.164:6878/ace/getstream?id=a106bfefca51175ca4c7a73d7acfe78b7ece709e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Paramount Comedy
+http://88.99.165.164:6878/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",POLSAT SPORT FIGHT HD
+http://88.99.165.164:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",POLSAT SPORT PREMIUM 1 PL
+http://88.99.165.164:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",POLSAT SPORT PREMIUM 2 PL
+http://88.99.165.164:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",RTL UHD
+http://88.99.165.164:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",RU.TV
+http://88.99.165.164:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Russian Extreme HD
+http://88.99.165.164:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Russian MusicBox HD
+http://88.99.165.164:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Setanta Live 1
+http://88.99.165.164:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Setanta Live 2
+http://88.99.165.164:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",SKY Bundesliga UHD
+http://88.99.165.164:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",SKY SPORTS ARENA UK
+http://88.99.165.164:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",SKY SPORTS CRICKET UK
+http://88.99.165.164:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT 📡 Ace Stream TV",SKY SPORTS F1 DE
+http://88.99.165.164:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",SKY SPORTS FOOTBALL UK
+http://88.99.165.164:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",SKY SPORTS MAIN EVENT UK
+http://88.99.165.164:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",SKY SPORTS PREMIER LEAGUE UK
+http://88.99.165.164:6878/ace/getstream?infohash=b81a8e83ac842cf7e06b33c999002571ca1861b3
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",TiJi
+http://88.99.165.164:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Travel Channel HD
+http://88.99.165.164:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Travel+Adventure HD
+http://88.99.165.164:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",TV1000 Action HD
+http://88.99.165.164:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",TV1000 HD
+http://88.99.165.164:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",TV1000 Русское кино HD
+http://88.99.165.164:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",UFC HD
+http://88.99.165.164:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",UHD1 4K
+http://88.99.165.164:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",Ultra HD Cinema
+http://88.99.165.164:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Viasat Explore HD
+http://88.99.165.164:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Viasat History HD
+http://88.99.165.164:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Viasat Kino World
+http://88.99.165.164:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Viasat Nature HD
+http://88.99.165.164:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",VIASAT SPORT HD
+http://88.99.165.164:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Viju+ Planet
+http://88.99.165.164:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",VIP Comedy HD
+http://88.99.165.164:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",VIP Megahit HD
+http://88.99.165.164:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",VIP Premiere HD
+http://88.99.165.164:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",VIP Serial HD
+http://88.99.165.164:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",VIVA HD
+http://88.99.165.164:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Ziggo Sport Racing
+http://88.99.165.164:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Ziggo Sport Select
+http://88.99.165.164:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Ziggo Sport Tennis
+http://88.99.165.164:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Ziggo Sport Voetbal
+http://88.99.165.164:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Авто 24
+http://88.99.165.164:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Авто Плюс
+http://88.99.165.164:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Арсенал HD
+http://88.99.165.164:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Блокбастер HD
+http://88.99.165.164:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Бокс ТВ
+http://88.99.165.164:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",В гостях у сказки
+http://88.99.165.164:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",В мире животных HD
+http://88.99.165.164:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Глазами туриста HD
+http://88.99.165.164:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Диалоги о рыбалке HD
+http://88.99.165.164:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Дикая охота HD
+http://88.99.165.164:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Дикая рыбалка HD
+http://88.99.165.164:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Дикий
+http://88.99.165.164:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",Дождь
+http://88.99.165.164:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Доктор
+http://88.99.165.164:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Дом кино
+http://88.99.165.164:6878/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Дом кино премиум HD
+http://88.99.165.164:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",Домашний HD
+http://88.99.165.164:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Дорама HD
+http://88.99.165.164:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Драйв
+http://88.99.165.164:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Душевное HD
+http://88.99.165.164:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Еврокино
+http://88.99.165.164:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Еда Премиум HD
+http://88.99.165.164:6878/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Жара
+http://88.99.165.164:6878/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Живая планета
+http://88.99.165.164:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Загородная жизнь
+http://88.99.165.164:6878/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Здоровое ТВ
+http://88.99.165.164:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Иллюзион+ HD
+http://88.99.165.164:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",ИНДИЙСКОЕ КИНО
+http://88.99.165.164:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Камеди HD
+http://88.99.165.164:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Капитан Фантастика HD
+http://88.99.165.164:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Карусель
+http://88.99.165.164:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Кинеко HD
+http://88.99.165.164:6878/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",КИНО UHD
+http://88.99.165.164:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",КИНО ТВ HD
+http://88.99.165.164:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Киноджем 1 HD
+http://88.99.165.164:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Кинокомедия HD
+http://88.99.165.164:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Киномикс HD
+http://88.99.165.164:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Кинопремьера HD
+http://88.99.165.164:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",КИНОСВИДАНИЕ HD
+http://88.99.165.164:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Киносемья HD
+http://88.99.165.164:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",КИНОСЕРИЯ HD
+http://88.99.165.164:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Киноужас HD
+http://88.99.165.164:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Кинохит HD
+http://88.99.165.164:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Комедийное HD
+http://88.99.165.164:6878/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Конный мир HD
+http://88.99.165.164:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Кто есть кто
+http://88.99.165.164:6878/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Кухня ТВ HD
+http://88.99.165.164:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",КХЛ ТВ
+http://88.99.165.164:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Любимое кино
+http://88.99.165.164:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Ля-минор
+http://88.99.165.164:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч ТВ HD
+http://88.99.165.164:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Арена HD
+http://88.99.165.164:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Боец HD
+http://88.99.165.164:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Игра HD
+http://88.99.165.164:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",МАТЧ! Планета
+http://88.99.165.164:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Премьер HD
+http://88.99.165.164:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Страна
+http://88.99.165.164:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Футбол 1 HD
+http://88.99.165.164:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Футбол 2 HD
+http://88.99.165.164:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Матч! Футбол 3 HD
+http://88.99.165.164:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Мир Баскетбола
+http://88.99.165.164:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Мир Вокруг HD
+http://88.99.165.164:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Мосфильм. Золотая коллекция HD
+http://88.99.165.164:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Моторспорт ТВ
+http://88.99.165.164:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Моя планета HD
+http://88.99.165.164:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Мужское кино HD
+http://88.99.165.164:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Мужской
+http://88.99.165.164:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",МузТВ
+http://88.99.165.164:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Музыка Первого
+http://88.99.165.164:6878/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Мульт HD
+http://88.99.165.164:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Мультиландия
+http://88.99.165.164:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Мультимузыка
+http://88.99.165.164:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Нано ТВ
+http://88.99.165.164:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Наука 2.0
+http://88.99.165.164:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Наш Кинопоказ HD
+http://88.99.165.164:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",Наша сибирь 4K
+http://88.99.165.164:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Наше крутое HD
+http://88.99.165.164:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Наше любимое HD
+http://88.99.165.164:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Наше Мужское HD
+http://88.99.165.164:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Наше новое кино HD
+http://88.99.165.164:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Ностальгия
+http://88.99.165.164:6878/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",НСТ
+http://88.99.165.164:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",НТВ Сериал
+http://88.99.165.164:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",НТВ Стиль
+http://88.99.165.164:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",НТВ ХИТ
+http://88.99.165.164:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",О!
+http://88.99.165.164:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Оружие
+http://88.99.165.164:6878/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Остросюжетное HD
+http://88.99.165.164:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Охотник и Рыболов HD
+http://88.99.165.164:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",Первый канал
+http://88.99.165.164:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Первый канал Евразия
+http://88.99.165.164:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Первый космический HD
+http://88.99.165.164:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Поехали!
+http://88.99.165.164:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Премиальное HD
+http://88.99.165.164:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Приключения HD
+http://88.99.165.164:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Про Любовь HD
+http://88.99.165.164:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",Пятница HD
+http://88.99.165.164:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",РЕН ТВ
+http://88.99.165.164:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Родное кино
+http://88.99.165.164:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Романтичное HD
+http://88.99.165.164:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",Россия 1 HD
+http://88.99.165.164:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Россия РТР
+http://88.99.165.164:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",Русская комедия
+http://88.99.165.164:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Русский Бестселлер
+http://88.99.165.164:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Русский Детектив
+http://88.99.165.164:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Русский иллюзион
+http://88.99.165.164:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",Русский Экстрим UHD 4K
+http://88.99.165.164:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Рыжий
+http://88.99.165.164:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Ultra HD",СЕРИАЛ UHD
+http://88.99.165.164:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Совершенно Секретно
+http://88.99.165.164:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",СОЛНЦЕ
+http://88.99.165.164:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Спортивный
+http://88.99.165.164:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Старт
+http://88.99.165.164:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Страшное HD
+http://88.99.165.164:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",СТС HD
+http://88.99.165.164:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",СТС Kids HD
+http://88.99.165.164:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",СТС Love
+http://88.99.165.164:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",Суббота HD
+http://88.99.165.164:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",СуперГерои
+http://88.99.165.164:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",ТВ XXI
+http://88.99.165.164:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",ТВ3 HD
+http://88.99.165.164:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Не сортировано",ТНВ-Планета
+http://88.99.165.164:6878/ace/getstream?id=74682055820f39e441b102ff9085a646db64ba1c&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",ТНТ HD
+http://88.99.165.164:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",ТНТ Music
+http://88.99.165.164:6878/ace/getstream?id=347126177d806d4578b249807200e71db6470b63&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Общероссийские",ТНТ4 HD
+http://88.99.165.164:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Точка отрыва
+http://88.99.165.164:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Мультфильмы",Уникум
+http://88.99.165.164:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Познавательные",Усадьба
+http://88.99.165.164:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Феникс Плюс Кино
+http://88.99.165.164:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Футбол HD
+http://88.99.165.164:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Футбольный HD
+http://88.99.165.164:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Хит HD
+http://88.99.165.164:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Спорт",Хоккейный HD
+http://88.99.165.164:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Музыкальные",Шансон ТВ
+http://88.99.165.164:6878/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637&.mp4
+#EXTINF:-1 group-title="RUZIEV IPTV/TORRENT Кино",Шокирующее HD
+http://88.99.165.164:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
+#EXTINF:-1, t.me/smotr_m3u
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="Ключайка" tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500", Ключайка
 #EXTGRP:🎞️ МультStream Детский
