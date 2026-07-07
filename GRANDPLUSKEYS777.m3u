@@ -456,8 +456,28 @@ http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392996
 http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392995
 
 
+#EXTINF:-1 tvg-id="ztv-new-kino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Kino_%281991%29.svg" group-title="GRAND IPTV/ZTV Cinema",ZTV New-Kino
+https://stream-tv-new-kino.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Scott Adkins
+https://scottadkins-stream.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Uill Smit
+https://scottadkins-uill-smit.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Jackie Chan
+https://kinostream-jackie-chan.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Garry Potter
+https://zuno-tv-garry-potter.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Denzel Vashington
+https://kinostream-denzel.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Tony-Jaa
+https://kinostream2-tony-jaa.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Jason Statham
+https://kinostream2-jason-statham.hf.space/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/%C5%BDemaitijos_TV_logo.jpg" group-title="GRAND IPTV/ZTV Cinema",ZTV Premiera 1
+https://kinostream3-premiera-1.hf.space/hls/stream.m3u8
 
-
+#EXTINF:-1 group-title="GRAND IPTV/ZTV Cinema" tvg-logo="https://pic.rtbcdn.ru/video/2026-06-27/ae/24/ae2436a55230eff4d0c082c57f25d534.jpg", Смертельный кадр (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-3-367.rtbcdn.ru/hls-vod/mbkZsq5KYfv5eJNPlOFfcg/1783785080/2670/0x5000039ce863f409/27d82507066c451cb58ab02a815250fe.mp4.m3u8?i=1920x1040_2683
 
 #EXTINF:-1  group-title="RUZIEV TV Кино",.black
 http://88.99.165.164:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
@@ -6046,7 +6066,9 @@ http://de1.plist.link:3355/FGfpnUmovVu920055/index.m3u8?token=8AqJ8y_ch5_3l2pEaM
 
 
 
-
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/2wKjVsZKe6n9hRZwnqhgoQ/e/1783450993/1064/index.m3u8
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream9.itv.uz/t/gJPjOzZspNALkaCOt9A-rA/e/1781247247/4000/index.m3u8
