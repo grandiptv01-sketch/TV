@@ -10696,10 +10696,9 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 group-title="RUZIEV MY TV +",ABU DHABI
 http://149.100.11.252:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",ABU DHABI SPORT 1
-http://149.100.11.252:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",ABU DHABI SPORT 2
-http://149.100.11.252:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-name="PZN FILMS" tvg-logo="https://ritsatv.ru/files/poster/original/900989.jpg" group-title="RUZIEV MY TV +", PZN FILMS
+#EXTGRP:RUZIEV MY TV +
+https://www.dropbox.com/scl/fi/8867lr96ahjz8ohejw7b1/pzn_films.m3u?rlkey=yzl0caie2uxqa6h0v7wt4jyek&dl=1
 #EXTINF:-1 group-title="RUZIEV MY TV +",Dubai
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",FS1
@@ -10708,13 +10707,23 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",FX 2 Series
 https://toonixhls.wns.live/hls/stream.m3u8
-
+#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
+#EXTGRP:RUZIEV MY TV +
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 #EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Emotion
 http://5.57.74.130:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Hits
 https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Love & Crime
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+#EXTINF:-1 tvg-name="ZSMEDIA" tvg-logo="https://sun1-17.userapi.com/s/v1/ig2/lI9i11Ea1iGGrOrzoHgK0bkZyvUlZ_ovuVuJOkzOS0XbEg1GCpHd7PevbbGALYmvKNakI7vNhVm1RjbYV90k5JfZ.jpg?quality=95&crop=251,237,428,428&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240", ZSMEDIA
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="TV12 MAFI2A" tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360", TV12 MAFI2A
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd79.okcdn.ru/playback/6258783562721?stkn=LGFR4BuetxRDxWb-Fe5_8LRzLCIrjpUHYJMaXC4lGh_7amroGBS4D7cCf4EjgiYzauW5KCSI0n8&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
 
 #EXTINF:-1 tvg-name="Смотрим Честный детектив" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png", Смотрим Честный детектив
@@ -10836,13 +10845,18 @@ http://83.217.12.157:81/udp/239.1.1.171:1234
 #EXTINF:-1,Киноужас
 #EXTGRP:RUZIEV MY TV +
 http://83.217.12.157:81/udp/239.1.1.189:1234
+#EXTINF:-1,НСТ
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.101:1234
 #EXTINF:-1,Hollywood
 #EXTGRP:RUZIEV MY TV +
 http://83.217.12.157:81/udp/239.1.1.208:1234
 #EXTINF:-1,Легенда
 #EXTGRP:RUZIEV MY TV +
 http://185.229.235.30:8005/udp/225.15.3.55:2345
-
+#EXTINF:-1,Блокбастер
+#EXTGRP:RUZIEV MY TV +
+http://185.184.233.178:5000/udp/225.1.2.68:1234
 #EXTINF:-1 tvg-id="NSC" tvg-name="NSC" tvg-logo="https://sun9-44.userapi.com/s/v1/ig2/cXC9TbUmdL10k04vogBB2BuA4WAjybjYafTeekuohEuODlCiIGUEXTOIY1kXqHDMa46hsC3AafXdKhwJSl7GIqQN.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=640x640", NSC
 #EXTGRP:RUZIEV MY TV +
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
