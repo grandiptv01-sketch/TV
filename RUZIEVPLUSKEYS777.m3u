@@ -1,4 +1,4 @@
-#EXTM3U  https://iptvx.one/EPG
+#EXTM3U url-tvg="http://tapitv.com/ttvm.xmltv.xml.gz",https://iptvx.one/EPG
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
@@ -179,7 +179,8 @@ http://sahri4x5.tvclub.xyz/iptv/VXNKCFHC676EY3/19069/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
+https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/stream.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 #EXTGRP:RUZIEV MY TV +
 https://cutt.ly/jyizq0qF
@@ -209,10 +210,7 @@ http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/2419/index.m3u8
 #EXTINF:0 tvg-rec="7",Кухня
 #EXTGRP:RUZIEV MY TV +
 http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/152/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",FAN HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
-#EXTINF:-1 group-title="RUZIEV MY TV +",FAN HD
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
+
 #EXTINF:0 tvg-rec="0",VF Концерты
 #EXTGRP:RUZIEV MY TV +
 http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/14159/index.m3u8
