@@ -178,282 +178,443 @@ http://sahri4x5.tvclub.xyz/iptv/VXNKCFHC676EY3/19069/index.m3u8
 
 
 
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ NPO 1 HD [NL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745078&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ NPO 2 HD [NL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745079&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ NPO 3 HD [NL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745080&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ VRT 1 HD [BE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745081&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ TIPIK HD [BE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745082&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ DAS ERSTE HD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745090&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ ZDF HD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745091&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ SERVUS TV HD [AT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745098&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FUSSBALL.TV 1 HD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745092&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FUSSBALL.TV 2 HD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745093&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FUSSBALL.TV 3 HD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745094&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FUSSBALL.TV 1 UHD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745095&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FUSSBALL.TV 2 UHD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745096&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FUSSBALL.TV 3 UHD [DE]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745097&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BEIN SPORTS MAX 1 HD [AR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745083&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BEIN SPORTS MAX 2 HD [AR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745084&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BEIN SPORTS MAX 3 HD [EN]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745085&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BEIN SPORTS MAX 4 HD [EN]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745086&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BEIN SPORTS MAX 5 HD [FR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745087&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BEIN SPORTS MAX 6 HD [FR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745088&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ M6 HD [FR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745089&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ BBC 1 HD [UK]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745114&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ ITV 1 HD [UK]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745115&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ EPT 1 HD [GR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745107&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ TRT 1 HD [TR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745100&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ TABII SPOR HD [TR]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745101&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ RTK 1 HD [AL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745102&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ KLAN TV HD [AL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745103&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ RAI 1 HD [IT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745099&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ DAZN MUNDIAL 1 HD [ES]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745110&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ DAZN MUNDIAL 2 HD [ES]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745111&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ DAZN MUNDIAL 3 HD [ES]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745112&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ DAZN MUNDIAL 4 HD [ES]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745113&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ TVP 1 HD [PL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745105&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ TVP 2 HD [PL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745106&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ TVP SPORT HD [PL]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745104&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ ANTENA WORLD CUP 1 HD
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1765324&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ ANTENA WORLD CUP 2 HD
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1765325&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ SPORT TV+ HD [PT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745116&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ SPORT TV 1 HD [PT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745117&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ SPORT TV 2 HD [PT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745118&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ SPORT TV 3 HD [PT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745119&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ SPORT TV 4 HD [PT]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745120&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FOX SPORTS 1 HD [USA]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745108&extension=ts
-#EXTINF:-1 group-title="RUZIEV IPTV/ EURO TV",┃WC┃ FOX SPORTS 2 HD [USA]
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:AB:E8:88&stream=1745109&extension=ts
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/9915.png",AFG - ATN
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389552
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/116108.png",ALB - TV KLAN HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389551
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ENTVALGERIA.png",AR - EN TV ALGERIA
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389550
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/25307.png",ARG - TELEFE HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389549
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/1354639.png",ARG - TV PUBLICA
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389548
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.118/picons/logos/TYC.png",ARG - TYC SPORTS
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389547
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.118/picons/logos/SBS-VICELAND-PERTH.jpeg",AU - SBS VICELAND MELBOURNE
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389546
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.92/images/127402.png",AUS - ORF 1 FHD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389545
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.92/images/1004574.png",AUS - SERVUS TV HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389544
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",BA - ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389537
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/arenasport2.png",BA - ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389536
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/arenasport3.png",BA - ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389535
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/arenasport4.png",BA - ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389534
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/arenasport5.png",BA - ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389533
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/arenasport6.png",BA - ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389532
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-1.png",BA - ARENA SPORT PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389540
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM2.png",BA - ARENA SPORT PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389539
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM3.png",BA - ARENA SPORT PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389538
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.95/images/1796659.png",BE - VRT 1 FHD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389542
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png",BG - BNT 1 FHD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389531
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png",BG - BNT 3 FHD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389530
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/1588629.png",BY - BELARUS 1
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389543
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177302.png",CA - RDS HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389524
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png",CA - TSN 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389529
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png",CA - TSN 2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389528
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png",CA - TSN 3 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389527
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png",CA - TSN 4 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389526
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png",CA - TSN 5 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389525
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/25334.png",CHL - CHILEVISION
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389523
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.118/picons/logos/caracol.png",CO - CARACOL HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389522
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/25344.png",CO - RCN
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389521
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.118/picons/logos/LATINO/WINSPOETS.png",CO - WINSPOETS 2
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389517
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.118/picons/logos/LATINO/WINSPOETS.png",CO - WINSPOETS 3
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389516
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/25338.png",CO - WIN SPORTS
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389520
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/947649.png",CO - WINSPORTS 1
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389518
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/145416.png",CO - WIN SPORTS PLUS HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389519
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/1351823.png",CR - TELETICA 7
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389515
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.95/images/1432130.png",CY - SiGMA CYPRUS
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389512
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/98275.png",CZ - CT 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389511
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARD.png",DE - ARD HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389508
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png",DE - ZDF HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389507
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/444268.png",FIN - YLE TV1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389510
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/M6.png",FR - M6 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389509
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/hrt1.png",HR - HRT 1 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389514
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://picons.cmshulk.com/picons/hrt2.png",HR - HRT 2 ⱽᴵᴾ ᴿᴬᵂ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389513
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.95/images/30521.png",IR - RTE TWO HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389506
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/692602.png",IT - RAI 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389505
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.118/picons/logos/TIGO-SPORTS.png",LAT - TIGO SPORTS 1 BO  HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389541
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.95/images/816650.png",LUX - RTL HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389504
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/15691.png",MNG - RTCG
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389502
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/1546792.png",MXC - AZTECA DEPORTES
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389503
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/247417.png",NOR - NRK1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389500
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/247418.png",NOR - NRK2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389499
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/1182157.png",NZ - TVNZ 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389501
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://103.176.90.92/images/880380.png",PL - TVP 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389497
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917583.png",PL -  TVP SPORT
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389498
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/RTP1.png",PT - RTP 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389496
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png",PT - SPORT TV 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389495
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png",PT - SPORT TV 2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389494
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/92459.png",RO - TVR HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389493
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/110778.png",RS - RTS 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389492
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/228704.png",RS - RTS 2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389491
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/395728.png",SE - SVT 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389490
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/395727.png",SE - SVT 2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389489
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/TURKIYE/TRT1.png",TR - TRT 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389488
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/913401.png",TR - TRT SPOR HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389487
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png",UK - BBC 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389486
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png",UK - BBC 2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389485
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/UK/111559.png",UK - BBC TWO HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389484
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png",UK - ITV 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389483
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png",UK - ITV 4 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389482
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/USA/45571.png",US - FOX SPORTS 1 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389481
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/USA/45570.png",US - FOX SPORTS 2 HD
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389480
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELEMUNDO.png",US - TELEMUNDO (EAST)
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389479
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="http://picons.cmshulk.com/picons/151997.png",UY - CANAL 10
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389478
-#EXTINF:-1 group-title="WORLD TV",VZ - TELEVEN
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1389477
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY INFO ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393010
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 1 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393009
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 2 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393008
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 3 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393007
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 4 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393006
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 5 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393005
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 6 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393004
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 7 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393003
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 8 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393002
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 9 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393001
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 10 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1393000
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 11 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392999
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 12 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392998
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 13 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392997
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 14 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392996
-#EXTINF:-1 group-title="GRAND IPTV/WORLD CUP 2026 REPLAY" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png",WORLD CUP 2026 REPLAY 15 ᴴᴰ
-http://line.wehd.xyz:80/11aac7a05d/4fd1c95fbfde/1392995
+#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
+#EXTGRP:RUZIEV MY TV +
+https://cutt.ly/jyizq0qF
+#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
+#EXTGRP:RUZIEV MY TV +
+http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Alpha Moretimeᴴᴰ
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gurman HD
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/31653/index.m3u8
+#EXTINF:0 tvg-rec="3",Еда
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/6009/index.m3u8
+#EXTINF:0 tvg-rec="0",Аппетитный HD
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/9067/index.m3u8
+#EXTINF:0 tvg-rec="3",FoodTime FHD
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/2418/index.m3u8
+#EXTINF:0 tvg-rec="7",FoodTime HD
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/918/index.m3u8
+#EXTINF:0 tvg-rec="3",Food Network HD
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/2419/index.m3u8
+#EXTINF:0 tvg-rec="7",Кухня
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/152/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",FAN HD
+http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
+#EXTINF:-1 group-title="RUZIEV MY TV +",FAN HD
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
+#EXTINF:0 tvg-rec="0",VF Концерты
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/14159/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Назад в 90-e
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/11067/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Однажды в России
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/19286/index.m3u8
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",ABU DHABI
+http://149.100.11.252:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-name="PZN FILMS" tvg-logo="https://ritsatv.ru/files/poster/original/900989.jpg" group-title="RUZIEV MY TV +", PZN FILMS
+#EXTGRP:RUZIEV MY TV +
+https://www.dropbox.com/scl/fi/8867lr96ahjz8ohejw7b1/pzn_films.m3u?rlkey=yzl0caie2uxqa6h0v7wt4jyek&dl=1
+#EXTINF:-1 group-title="RUZIEV MY TV +",Dubai
+http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",FX 1 Movies
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",FX 2 Series
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
+#EXTGRP:RUZIEV MY TV +
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Emotion
+http://5.57.74.130:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Hits
+https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Love & Crime
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+#EXTINF:-1 tvg-name="ZSMEDIA" tvg-logo="https://sun1-17.userapi.com/s/v1/ig2/lI9i11Ea1iGGrOrzoHgK0bkZyvUlZ_ovuVuJOkzOS0XbEg1GCpHd7PevbbGALYmvKNakI7vNhVm1RjbYV90k5JfZ.jpg?quality=95&crop=251,237,428,428&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240", ZSMEDIA
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="TV12 MAFI2A" tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360", TV12 MAFI2A
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd79.okcdn.ru/playback/6258783562721?stkn=LGFR4BuetxRDxWb-Fe5_8LRzLCIrjpUHYJMaXC4lGh_7amroGBS4D7cCf4EjgiYzauW5KCSI0n8&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
+
+#EXTINF:-1 tvg-name="Смотрим Честный детектив" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png", Смотрим Честный детектив
+#EXTGRP:RUZIEV MY TV +
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/hd/681/434/5.png", Смотрим 100% Любовь
+#EXTGRP:RUZIEV MY TV +
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png", Смотрим 100% Классика
+#EXTGRP:RUZIEV MY TV +
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/762/4.png", Смотрим 100% Детское
+#EXTGRP:RUZIEV MY TV +
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/690/791/5.png", Смотрим 100% Факты
+#EXTGRP:RUZIEV MY TV +
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/967/0.png", Смотрим 100% Праздник
+#EXTGRP:RUZIEV MY TV +
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/954/1.png", Смотрим 100% Мужское
+#EXTGRP:RUZIEV MY TV +
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-name="СТРК HD" tvg-logo="https://iptvx.one/picons/strk.png", СТРК HD
+#EXTGRP:RUZIEV MY TV +
+http://sochinskayatrk.ru:2015/STRK/mpegts
+#EXTINF:-1 tvg-id="43-tuapse" tvg-name="СТРК 43 канал HD" tvg-logo="https://iptvx.one/picons/43-tuapse.png", СТРК 43 канал HD
+#EXTGRP:RUZIEV MY TV +
+http://sochinskayatrk.ru:2015/43Kanal/mpegts
+#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
+https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV Bazmoc
+https://s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV LifeHack
+https://s70378.cdn.ngenix.net/filmzone/2/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
+https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+
+#EXTINF:-1  tvg-id="ufc"  tvg-logo="https://iptvx.one/picons/ufc.png" ,Удар HD
+#EXTGRP:RUZIEV MY TV +
+https://s70378.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://194.26.229.4/live/pda.png" group-title="RUZIEV MY TV +",   OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",NOW TV TURK
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +"  tvg-id="romance" ,Vesna
+http://46.32.176.50/worldfashion/index.m3u8
+#EXTINF:-1  group-title="RUZIEV MY TV +" ,FAN
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Cinema
+http://176.118.197.101/Cinema/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",   Кино ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+
+
+#EXTINF:-1 g group-title="RUZIEV MY TV +" audio-track="rus" , Че
+http://31148.rafail1982.uz/Che/index.m3u8
+#EXTINF:-1,viju TV1000 русское
+#EXTGRP:RUZIEV MY TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+http://109.70.186.82:9090/udp/239.185.1.2:1234
+
+#EXTINF:-1,viju TV1000
+#EXTGRP:RUZIEV MY TV +
+http://109.70.186.82:9090/udp/239.185.1.4:1234
+#EXTINF:-1,viju TV1000 action
+#EXTGRP:RUZIEV MY TV +
+http://109.70.186.82:9090/udp/239.185.1.3:1234
+
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:RUZIEV MY TV +
+http://109.70.186.82:9090/udp/239.185.1.13:1234
+
+#EXTINF:-1,Русский иллюзион
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.203:1234
+
+#EXTINF:-1,Киноман
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.236:1234
+
+http://213.141.224.226:4022/udp/238.1.1.164:1234
+#EXTINF:-1,НТВ ХИТ
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.200:1234
+#EXTINF:-1,Кинокомедия
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.87:1234
+#EXTINF:-1,Dom Kino+2
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.91:1234
+#EXTINF:-1,Дом кино Premium HD
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.90:1234
+#EXTINF:-1,TV 21 
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.95:1234
+#EXTINF:-1,Cinema
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.97:1234
+#EXTINF:-1,Bolt 
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.105:1234
+#EXTINF:-1,Киносвидание
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.156:1234
+#EXTINF:-1,Т24
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.158:1234
+#EXTINF:-1,Киносезон
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.171:1234
+#EXTINF:-1,Киноужас
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.189:1234
+#EXTINF:-1,НСТ
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.101:1234
+#EXTINF:-1,Hollywood
+#EXTGRP:RUZIEV MY TV +
+http://83.217.12.157:81/udp/239.1.1.208:1234
+#EXTINF:-1,Легенда
+#EXTGRP:RUZIEV MY TV +
+http://185.229.235.30:8005/udp/225.15.3.55:2345
+#EXTINF:-1,Блокбастер
+#EXTGRP:RUZIEV MY TV +
+http://185.184.233.178:5000/udp/225.1.2.68:1234
+#EXTINF:-1 tvg-id="NSC" tvg-name="NSC" tvg-logo="https://sun9-44.userapi.com/s/v1/ig2/cXC9TbUmdL10k04vogBB2BuA4WAjybjYafTeekuohEuODlCiIGUEXTOIY1kXqHDMa46hsC3AafXdKhwJSl7GIqQN.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=640x640", NSC
+#EXTGRP:RUZIEV MY TV +
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
+#EXTINF:-1 tvg-id="ttv31509" tvg-name="CHERTV&KINOMIX" tvg-logo="https://i.postimg.cc/v85dGRbM/kinomix-uric.png", CHERTV&KINOMIX
+#EXTGRP:RUZIEV MY TV +
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
+
+#EXTINF:-1 tvg-id="49702" tvg-name="TvBoom.ViP" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png", TvBoom.ViP
+#EXTGRP:RUZIEV MY TV +
+https://kb.catcast.tv/content/49702/index.m3u8
+
+#EXTINF:-1 tvg-name="Кинозал" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg", Кинозал
+#EXTGRP:RUZIEV MY TV +
+http://185.57.68.33/237/index.m3u8?WithCaption
+#EXTINF:-1 tvg-name="MKNEWS24.RU" tvg-logo="https://static.tildacdn.com/tild6230-6161-4235-b765-633836643231/20260325_0949_Logoti.png", MKNEWS24.RU
+#EXTGRP:RUZIEV MY TV +
+https://stream.mknews24.ru/hls/stream.m3u8?DVR
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="RUZIEV MY TV +", НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
+http://fc1qlunj.tvclub.xyz/iptv/PN72TRC6UNHLF9/282/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
+http://fc1qlunj.tvclub.xyz/iptv/AVNFCNQBEC9VQU/282/index.m3u8
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="RUZIEV MY TV +", Cineman HD AM
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +",  ATV Armenia Premium 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +", ATV CineMan HD
+http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="RUZIEV MY TV +",  ATV Armount TV
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
+http://timeshift.arpinet.am/237/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
+http://185.57.68.33/237/mpegts
+
+#EXTINF:-1group-title="RUZIEV MY TV +",Music Box Classic
+https://dash4.antik.sk/live/mb_classic/index.m3u8
+#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360" group-title="RUZIEV MY TV +",  TV12 GUDAUTA
+http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
+#EXTGRP:RUZIEV MY TV +
+https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  V2BEAT 
+http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  INFINITY SD
+https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" ,Energy TV Musicᴴᴰ
+#EXTGRP:RUZIEV MY TV +
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089520607_b1896000.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" ,Energy TV DJᴴᴰ
+#EXTGRP:RUZIEV MY TV +
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w850439264_b1896000.m3u8
+#EXTINF:-1 ,M6 MUSICᴴᴰ
+#EXTGRP:RUZIEV MY TV +
+http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
+#EXTINF:-1  tvg-id="4fun-dance" ,4FUN Dance 
+#EXTGRP:RUZIEV MY TV +
+http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://rafail1982.uz/music.png" ,МЕДИА 15
+#EXTGRP:RUZIEV MY TV +
+http://185.46.48.18:8080/media15/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://rafail1982.uz/music.png"   tvg-name="Медиа 15",МЕДИА 15
+#EXTGRP:RUZIEV MY TV +
+http://catchup.videoline.ru:8080/media15/index.m3u8
+#EXTINF:-1  tvg-id="vostok-tv"  tvg-logo="https://i.imgur.com/X1RysL8.png" ,Vostok TV
+#EXTGRP:RUZIEV MY TV +
+http://77.106.252.178:4022/udp/233.33.210.178:5050
+#EXTINF:-1  tvg-id="vostok-tv"  tvg-logo="https://i.imgur.com/X1RysL8.png" ,Vostok TV
+#EXTGRP:RUZIEV MY TV +
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   $ExtFilter="SUZTVFREE",Velari 
+#EXTGRP:RUZIEV MY TV +
+http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png" ,Valeri 
+#EXTGRP:RUZIEV MY TV +
+http://185.57.68.33/233/mpegt
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   tvg-name="Vostok TV Armenia",VALERI 
+#EXTGRP:RUZIEV MY TV +
+http://timeshift.arpinet.am/233/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee@HD" tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="RUZIEV MY TV +",Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@HD" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="RUZIEV MY TV +",Vantage Music 
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="RUZIEV MY TV +",Vantage Music UK 
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
+http://185.221.213.254:8080/Ritsa/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=3GjJXc7GSpajnGdSWZzhDA&e=2069068475&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",15+ Music 
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
+http://91.186.196.185/hls/hotels/stream.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  HBO 3
+http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  HBO 2
+http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  HBO 1
+http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", WB TV
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", FX USA
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", FXX USA
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", NICKELODEON USA
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", DISCOVERY USA
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", Discovery Asia 
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",TELEMUNDO 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", TVP WORLD 
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",W9
+http://145.239.5.177/331/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",TF1
+http://176.65.146.100:8047/play/a07d/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", ИИ РАДИО DATASET
+https://region-ru4.tunio.ai/datasetradio.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET TRAP
+https://region-ru2.tunio.ai/trap.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET RAP
+https://region-ru2.tunio.ai/superdata.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET GRIME 
+https://region-ru2.tunio.ai/grime.aac
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", TV-1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD" tvg-logo="" group-title="RUZIEV MY TV +",1HD
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="RUZIEV MY TV +",2x2
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",BBC NEWS 
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",CNN INTERNATIONAL 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Sky News Au
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", SKY NEWS ARABIA 
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",Viasat 3
+http://212.102.38.45/live/viasat3/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Viasat 6
+http://212.102.38.45/live/viasat6/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Star
+http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Corazon TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/12.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Cultura TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/2.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Cumbia TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/5.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Electro TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/19.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Urbano TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/4.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",SYFY
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Cine Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",CineFrisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",CineFamily
+http://99.27.51.147:8080/CineFamiz/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",45
+http://ibb-media4.ibb.gov.tr:1935/live/45.stream/chunklist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",46
+http://ibb-media4.ibb.gov.tr:1935/live/46.stream/chunklist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",75
+http://ibb-media4.ibb.gov.tr:1935/live/75.stream/chunklist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",78
+http://ibb-media4.ibb.gov.tr:1935/live/78.stream/chunklist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",144
+http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",399
+http://ibb-media4.ibb.gov.tr:1935/live/399.stream/chunklist.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",423
+http://ibb-media4.ibb.gov.tr:1935/live/423.stream/chunklist.m3u8
+#EXTINF:0 tvg-rec="3",Playboy TV
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/527/index.m3u8
+#EXTINF:0 tvg-rec="0",Playboy LA
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/12135/index.m3u8
+#EXTINF:0 tvg-rec="0",Playboy Plus
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/6242/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Ню Арт HD
+#EXTGRP:RUZIEV MY TV +
+http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/31716/index.m3u8
 
 
 
@@ -10480,441 +10641,6 @@ http://ru7.hls.gd/ch3594/mono.m3u8?token=swaco64.v2_U2rDy5XoYDpNTqWXoSQyF74-52MQ
 #EXTINF:0 tvg-id="ch020" tvg-name="МУЗ" tvg-logo="http://rus.hls.gd/images/chIcons/20.png" tvg-rec="0", МУЗ
 
 
-
-
-
-#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
-#EXTGRP:RUZIEV MY TV +
-http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Alpha Moretimeᴴᴰ
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:0 tvg-rec="0",BOX Gurman HD
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/31653/index.m3u8
-#EXTINF:0 tvg-rec="3",Еда
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/6009/index.m3u8
-#EXTINF:0 tvg-rec="0",Аппетитный HD
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/9067/index.m3u8
-#EXTINF:0 tvg-rec="3",FoodTime FHD
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/2418/index.m3u8
-#EXTINF:0 tvg-rec="7",FoodTime HD
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/918/index.m3u8
-#EXTINF:0 tvg-rec="3",Food Network HD
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/2419/index.m3u8
-#EXTINF:0 tvg-rec="7",Кухня
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/152/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",FAN HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
-#EXTINF:-1 group-title="RUZIEV MY TV +",FAN HD
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MzcyMjA4NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgzMTE3Mjg3LCJzZXNzaW9uX2lkIjoiNWVhY2I5NzU4ZDU2YTFiNzVhMmUwMGNmOTVkMDRjMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6QIHknjjBBcR0DiEomQRQcYPgK0ggt64ravgt3Q6FDY
-#EXTINF:0 tvg-rec="0",VF Концерты
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/14159/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Назад в 90-e
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/11067/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Однажды в России
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/19286/index.m3u8
-
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",ABU DHABI
-http://149.100.11.252:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-name="PZN FILMS" tvg-logo="https://ritsatv.ru/files/poster/original/900989.jpg" group-title="RUZIEV MY TV +", PZN FILMS
-#EXTGRP:RUZIEV MY TV +
-https://www.dropbox.com/scl/fi/8867lr96ahjz8ohejw7b1/pzn_films.m3u?rlkey=yzl0caie2uxqa6h0v7wt4jyek&dl=1
-#EXTINF:-1 group-title="RUZIEV MY TV +",Dubai
-http://185.9.2.18/chid_139/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",FS1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",FX 1 Movies
-https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",FX 2 Series
-https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
-#EXTGRP:RUZIEV MY TV +
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
-#EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Emotion
-http://5.57.74.130:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Hits
-https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Film Box+ Love & Crime
-https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
-#EXTINF:-1 tvg-name="ZSMEDIA" tvg-logo="https://sun1-17.userapi.com/s/v1/ig2/lI9i11Ea1iGGrOrzoHgK0bkZyvUlZ_ovuVuJOkzOS0XbEg1GCpHd7PevbbGALYmvKNakI7vNhVm1RjbYV90k5JfZ.jpg?quality=95&crop=251,237,428,428&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240", ZSMEDIA
-#EXTGRP:RUZIEV MY TV +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="TV12 MAFI2A" tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360", TV12 MAFI2A
-#EXTGRP:RUZIEV MY TV +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd79.okcdn.ru/playback/6258783562721?stkn=LGFR4BuetxRDxWb-Fe5_8LRzLCIrjpUHYJMaXC4lGh_7amroGBS4D7cCf4EjgiYzauW5KCSI0n8&uid=0&sp=uid,sp&sig=vlibqm4nyu
-
-
-#EXTINF:-1 tvg-name="Смотрим Честный детектив" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png", Смотрим Честный детектив
-#EXTGRP:RUZIEV MY TV +
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/hd/681/434/5.png", Смотрим 100% Любовь
-#EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png", Смотрим 100% Классика
-#EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/762/4.png", Смотрим 100% Детское
-#EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/690/791/5.png", Смотрим 100% Факты
-#EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/967/0.png", Смотрим 100% Праздник
-#EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/954/1.png", Смотрим 100% Мужское
-#EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-name="СТРК HD" tvg-logo="https://iptvx.one/picons/strk.png", СТРК HD
-#EXTGRP:RUZIEV MY TV +
-http://sochinskayatrk.ru:2015/STRK/mpegts
-#EXTINF:-1 tvg-id="43-tuapse" tvg-name="СТРК 43 канал HD" tvg-logo="https://iptvx.one/picons/43-tuapse.png", СТРК 43 канал HD
-#EXTGRP:RUZIEV MY TV +
-http://sochinskayatrk.ru:2015/43Kanal/mpegts
-#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
-https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Bazmoc
-https://s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV LifeHack
-https://s70378.cdn.ngenix.net/filmzone/2/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
-https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
-
-#EXTINF:-1  tvg-id="ufc"  tvg-logo="https://iptvx.one/picons/ufc.png" ,Удар HD
-#EXTGRP:RUZIEV MY TV +
-https://s70378.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://194.26.229.4/live/pda.png" group-title="RUZIEV MY TV +",   OnlineTV
-http://185.221.213.254:8080/Okko/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",NOW TV TURK
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +"  tvg-id="romance" ,Vesna
-http://46.32.176.50/worldfashion/index.m3u8
-#EXTINF:-1  group-title="RUZIEV MY TV +" ,FAN
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Cinema
-http://176.118.197.101/Cinema/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",   Кино ТВ
-https://vod.tuva.ru/kinotv/index.m3u8
-
-
-#EXTINF:-1 g group-title="RUZIEV MY TV +" audio-track="rus" , Че
-http://31148.rafail1982.uz/Che/index.m3u8
-#EXTINF:-1,viju TV1000 русское
-#EXTGRP:RUZIEV MY TV +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-http://109.70.186.82:9090/udp/239.185.1.2:1234
-
-#EXTINF:-1,viju TV1000
-#EXTGRP:RUZIEV MY TV +
-http://109.70.186.82:9090/udp/239.185.1.4:1234
-#EXTINF:-1,viju TV1000 action
-#EXTGRP:RUZIEV MY TV +
-http://109.70.186.82:9090/udp/239.185.1.3:1234
-
-#EXTINF:-1,Amedia Hit HD
-#EXTGRP:RUZIEV MY TV +
-http://109.70.186.82:9090/udp/239.185.1.13:1234
-
-#EXTINF:-1,Русский иллюзион
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.203:1234
-
-#EXTINF:-1,Киноман
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.236:1234
-
-http://213.141.224.226:4022/udp/238.1.1.164:1234
-#EXTINF:-1,НТВ ХИТ
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.200:1234
-#EXTINF:-1,Кинокомедия
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.87:1234
-#EXTINF:-1,Dom Kino+2
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.91:1234
-#EXTINF:-1,Дом кино Premium HD
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.90:1234
-#EXTINF:-1,TV 21 
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.95:1234
-#EXTINF:-1,Cinema
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.97:1234
-#EXTINF:-1,Bolt 
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.105:1234
-#EXTINF:-1,Киносвидание
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.156:1234
-#EXTINF:-1,Т24
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.158:1234
-#EXTINF:-1,Киносезон
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.171:1234
-#EXTINF:-1,Киноужас
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.189:1234
-#EXTINF:-1,НСТ
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.101:1234
-#EXTINF:-1,Hollywood
-#EXTGRP:RUZIEV MY TV +
-http://83.217.12.157:81/udp/239.1.1.208:1234
-#EXTINF:-1,Легенда
-#EXTGRP:RUZIEV MY TV +
-http://185.229.235.30:8005/udp/225.15.3.55:2345
-#EXTINF:-1,Блокбастер
-#EXTGRP:RUZIEV MY TV +
-http://185.184.233.178:5000/udp/225.1.2.68:1234
-#EXTINF:-1 tvg-id="NSC" tvg-name="NSC" tvg-logo="https://sun9-44.userapi.com/s/v1/ig2/cXC9TbUmdL10k04vogBB2BuA4WAjybjYafTeekuohEuODlCiIGUEXTOIY1kXqHDMa46hsC3AafXdKhwJSl7GIqQN.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=640x640", NSC
-#EXTGRP:RUZIEV MY TV +
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
-#EXTINF:-1 tvg-id="ttv31509" tvg-name="CHERTV&KINOMIX" tvg-logo="https://i.postimg.cc/v85dGRbM/kinomix-uric.png", CHERTV&KINOMIX
-#EXTGRP:RUZIEV MY TV +
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
-
-#EXTINF:-1 tvg-id="49702" tvg-name="TvBoom.ViP" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png", TvBoom.ViP
-#EXTGRP:RUZIEV MY TV +
-https://kb.catcast.tv/content/49702/index.m3u8
-
-#EXTINF:-1 tvg-name="Кинозал" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg", Кинозал
-#EXTGRP:RUZIEV MY TV +
-http://185.57.68.33/237/index.m3u8?WithCaption
-#EXTINF:-1 tvg-name="MKNEWS24.RU" tvg-logo="https://static.tildacdn.com/tild6230-6161-4235-b765-633836643231/20260325_0949_Logoti.png", MKNEWS24.RU
-#EXTGRP:RUZIEV MY TV +
-https://stream.mknews24.ru/hls/stream.m3u8?DVR
-
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="RUZIEV MY TV +", НСТ
-http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
-http://fc1qlunj.tvclub.xyz/iptv/PN72TRC6UNHLF9/282/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
-http://fc1qlunj.tvclub.xyz/iptv/AVNFCNQBEC9VQU/282/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="RUZIEV MY TV +", Cineman HD AM
-http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +",  ATV Armenia Premium 6
-http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +", ATV CineMan HD
-http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="RUZIEV MY TV +",  ATV Armount TV
-https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
-http://timeshift.arpinet.am/237/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
-http://185.57.68.33/237/mpegts
-
-#EXTINF:-1group-title="RUZIEV MY TV +",Music Box Classic
-https://dash4.antik.sk/live/mb_classic/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
-https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360" group-title="RUZIEV MY TV +",  TV12 GUDAUTA
-http://185.221.213.254:8080/Mafia2/index.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
-#EXTGRP:RUZIEV MY TV +
-https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  V2BEAT 
-http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  INFINITY SD
-https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" ,Energy TV Musicᴴᴰ
-#EXTGRP:RUZIEV MY TV +
-https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089520607_b1896000.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" ,Energy TV DJᴴᴰ
-#EXTGRP:RUZIEV MY TV +
-https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w850439264_b1896000.m3u8
-#EXTINF:-1 ,M6 MUSICᴴᴰ
-#EXTGRP:RUZIEV MY TV +
-http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
-#EXTINF:-1  tvg-id="4fun-dance" ,4FUN Dance 
-#EXTGRP:RUZIEV MY TV +
-http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://rafail1982.uz/music.png" ,МЕДИА 15
-#EXTGRP:RUZIEV MY TV +
-http://185.46.48.18:8080/media15/index.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://rafail1982.uz/music.png"   tvg-name="Медиа 15",МЕДИА 15
-#EXTGRP:RUZIEV MY TV +
-http://catchup.videoline.ru:8080/media15/index.m3u8
-#EXTINF:-1  tvg-id="vostok-tv"  tvg-logo="https://i.imgur.com/X1RysL8.png" ,Vostok TV
-#EXTGRP:RUZIEV MY TV +
-http://77.106.252.178:4022/udp/233.33.210.178:5050
-#EXTINF:-1  tvg-id="vostok-tv"  tvg-logo="https://i.imgur.com/X1RysL8.png" ,Vostok TV
-#EXTGRP:RUZIEV MY TV +
-http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   $ExtFilter="SUZTVFREE",Velari 
-#EXTGRP:RUZIEV MY TV +
-http://185.57.68.33:80/233/index.m3u8
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png" ,Valeri 
-#EXTGRP:RUZIEV MY TV +
-http://185.57.68.33/233/mpegt
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   tvg-name="Vostok TV Armenia",VALERI 
-#EXTGRP:RUZIEV MY TV +
-http://timeshift.arpinet.am/233/index.m3u8
-#EXTINF:-1 tvg-id="VantageDance.ee@HD" tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="RUZIEV MY TV +",Vantage Dance
-https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
-#EXTINF:-1 tvg-id="VantageMusic.ee@HD" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="RUZIEV MY TV +",Vantage Music 
-https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
-#EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="RUZIEV MY TV +",Vantage Music UK 
-https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
-http://185.221.213.254:8080/Ritsa/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=3GjJXc7GSpajnGdSWZzhDA&e=2069068475&scheme=https
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
-https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",15+ Music 
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-
-
-#EXTINF:-1 group-title="RUZIEV MY TV +" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/sayt-scaled.png",Первый Туристический
-http://91.186.196.185/hls/hotels/stream.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",  HBO 3
-http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  HBO 2
-http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",  HBO 1
-http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", WB TV
-https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", FX USA
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", FXX USA
-http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", NICKELODEON USA
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", DISCOVERY USA
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", Discovery Asia 
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",TELEMUNDO 
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", TVP WORLD 
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",W9
-http://145.239.5.177/331/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",TF1
-http://176.65.146.100:8047/play/a07d/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", ИИ РАДИО DATASET
-https://region-ru4.tunio.ai/datasetradio.aac
-#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET TRAP
-https://region-ru2.tunio.ai/trap.aac
-#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET RAP
-https://region-ru2.tunio.ai/superdata.aac
-#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET GRIME 
-https://region-ru2.tunio.ai/grime.aac
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", TV-1 KG
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD" tvg-logo="" group-title="RUZIEV MY TV +",1HD
-http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="RUZIEV MY TV +",2x2
-http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",BBC NEWS 
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",CNN INTERNATIONAL 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Sky News Au
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +", SKY NEWS ARABIA 
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",Viasat 3
-http://212.102.38.45/live/viasat3/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Viasat 6
-http://212.102.38.45/live/viasat6/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +", Star
-http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Corazon TV
-https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/12.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Cultura TV
-https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/2.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Cumbia TV
-https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/5.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Electro TV
-https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/19.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Tropical Moon Urbano TV
-https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/4.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",SYFY
-http://99.27.51.147:8080/SYFY/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",Cine Classic
-http://99.27.51.147/CineClassic/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",CineFrisson
-http://99.27.51.147:8080/CineFrisson/index.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",CineFamily
-http://99.27.51.147:8080/CineFamiz/index.m3u8
-
-#EXTINF:-1 group-title="RUZIEV MY TV +",45
-http://ibb-media4.ibb.gov.tr:1935/live/45.stream/chunklist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",46
-http://ibb-media4.ibb.gov.tr:1935/live/46.stream/chunklist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",75
-http://ibb-media4.ibb.gov.tr:1935/live/75.stream/chunklist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",78
-http://ibb-media4.ibb.gov.tr:1935/live/78.stream/chunklist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",144
-http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",399
-http://ibb-media4.ibb.gov.tr:1935/live/399.stream/chunklist.m3u8
-#EXTINF:-1 group-title="RUZIEV MY TV +",423
-http://ibb-media4.ibb.gov.tr:1935/live/423.stream/chunklist.m3u8
-#EXTINF:0 tvg-rec="3",Playboy TV
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/527/index.m3u8
-#EXTINF:0 tvg-rec="0",Playboy LA
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/12135/index.m3u8
-#EXTINF:0 tvg-rec="0",Playboy Plus
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/6242/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Ню Арт HD
-#EXTGRP:RUZIEV MY TV +
-http://xbujw5ry.megogo.xyz/iptv/AUEE8M23ZRE6UP/31716/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN Tv يا هلا" tvg-logo="http://myserveriptv.com:2082/images/osnnew.png" tvg-country="Unknown" group-title="RUZIEV IPTV/ OSN+ ✦ او اس ان" tvg-flag="",OSN Tv يا هلا
