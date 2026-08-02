@@ -184,25 +184,22 @@ https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/215088.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
-http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8/ArmMusicHD
+http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8
 
-#EXTINF:-1 tvg-name="GRAND TV" tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="GRAND TV",GRAND TV  
+#EXTINF:-1 tvg-name="GRAND TV" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215088.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="GRAND TV",GRAND RADIO
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND RADIO
 http://91.107.125.87:1060/stream
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="GRAND TV",GRAND RADIO 2
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND RADIO 2
 https://str1.tvcom.uz/RADIO-GRAND/shoutcast
-
-#EXTINF:-1 group-title=""GRAND TV",GRAND RADIO Динамит FM
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND RADIO Динамит FM
 http://listen7.myradio24.com/76923
-
-#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/09/18//d5aeffa30d4cff8814e1a3fdb23e663c-q-500x500.jpeg"  group-title=""GRAND TV",GRAND RADIO EUROPA PLUS UZBEKISTAN
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV",GRAND RADIO EUROPA PLUS UZBEKISTAN
 http://194.5.152.248:8000/fm
-#EXTINF:-1 #EXTINF:-1 group-title=""GRAND TV",GRAND RADIO Megamix
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND RADIO Megamix
 http://live.novoeradio.by:8081/live/novoeradio_megamix_aac128/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg"  group-title=""GRAND TV",GRAND RADIO O'zbegim Taronasi
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV",GRAND RADIO O'zbegim Taronasi
 https://fm101.uz:9943/fm101_low.aac
 
 
