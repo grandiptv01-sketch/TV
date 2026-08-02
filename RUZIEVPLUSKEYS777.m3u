@@ -182,10 +182,15 @@ http://sahri4x5.tvclub.xyz/iptv/VXNKCFHC676EY3/19069/index.m3u8
 https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 #EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/215088.m3u8
+https://hls.goodgame.ru/manifest/215088_master.m3u8?expires=1785769158&token=KmsU2BM-W-7jbC-BKqI8BA
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8
-
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+https://cutt.ly/tyiHKqEa
 #EXTINF:-1 tvg-name="GRAND TV" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215088.m3u8
