@@ -185,14 +185,14 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 #EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/manifest/215088_master.m3u8?expires=1785769158&token=KmsU2BM-W-7jbC-BKqI8BA
+https://cutt.ly/jyizq0qF
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/BCn3MrncB7dyCnoO1IfRI0Xj4qO04K.png",GRAND TV СЕРИАЛ,GRAND TV СЕРИАЛ
 http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
-http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/BCn3MrncB7dyCnoO1IfRI0Xj4qO04K.png",GRAND TV СЕРИАЛ,GRAND TV СЕРИАЛ
+http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/BCn3MrncB7dyCnoO1IfRI0Xj4qO04K.png",GRAND TV СЕРИАЛ,GRAND TV СЕРИАЛ
 https://cutt.ly/tyiHKqEa
 #EXTINF:-1 tvg-name="GRAND TV" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -209,6 +209,12 @@ http://194.5.152.248:8000/fm
 http://live.novoeradio.by:8081/live/novoeradio_megamix_aac128/icecast.audio
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV",GRAND RADIO O'zbegim Taronasi
 https://fm101.uz:9943/fm101_low.aac
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", Troe.iz.Prostokvashino 1 серия 
+https://data01-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_1.Troe.iz.Prostokvashino.1978.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", .Kanikuly.v.Prostokvashino 2 серия
+https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_2.Kanikuly.v.Prostokvashino.1980.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", Zima.v.Prostokvashino 3 серия
+https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_3.Zima.v.Prostokvashino.1984.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
 
 
 
@@ -609,6 +615,24 @@ http://xbujw5ry.megogo.xyz/iptv/PN72TRC6UNHLF9/6242/index.m3u8
 #EXTGRP:RUZIEV MY TV +
 http://xbujw5ry.megogo.xyz/iptv/PN72TRC6UNHLF9/31716/index.m3u8
 
+
+
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте",Слово пацана. Кровь на асфальте 1 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e01.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте",Слово пацана. Кровь на асфальте 2 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e02.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте" ,Слово пацана. Кровь на асфальте 3 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e03.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте" ,Слово пацана. Кровь на асфальте 4 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e04.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте" ,Слово пацана. Кровь на асфальте 5 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e05.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте" ,Слово пацана. Кровь на асфальте 6 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e06.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте" ,Слово пацана. Кровь на асфальте 7 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e07.2023.webdl.1080p/hls/index.m3u8
+#EXTINF:-1 group-title="GRAND IPTV/Слово пацана. Кровь на асфальте" ,Слово пацана. Кровь на асфальте 8 серия
+https://gavanaplay.me/content/stream/serials/slovopacanakrovnaasfalte/s01/slovo.pacana.krov.na.asfalte.s01.e08.2023.webdl.1080p/hls/index.m3u8
 
 
 
