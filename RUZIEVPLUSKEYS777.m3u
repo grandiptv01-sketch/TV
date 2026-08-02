@@ -178,6 +178,9 @@ http://sahri4x5.tvclub.xyz/iptv/VXNKCFHC676EY3/19069/index.m3u8
 
 
 
+#EXTINF:-1 group-title="GRAND TV" ,Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mSLA7ufRhDMFi2Tt0z_iLA&e=1786291475&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
@@ -185,11 +188,11 @@ https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/
 https://hls.goodgame.ru/manifest/215088_master.m3u8?expires=1785769158&token=KmsU2BM-W-7jbC-BKqI8BA
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
 http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
-http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
+http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV СЕРИАЛ
 https://cutt.ly/tyiHKqEa
 #EXTINF:-1 tvg-name="GRAND TV" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -210,8 +213,10 @@ https://fm101.uz:9943/fm101_low.aac
 
 
 
-
-
+#EXTINF:-1 group-title="RUZIEV MY TV +",Star Cinema
+http://starcius-cinema.com/12042/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",Патриот
+http://starcius-cinema.com/10244/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",Alpha Moretimeᴴᴰ
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0 tvg-rec="0",BOX Gurman HD
