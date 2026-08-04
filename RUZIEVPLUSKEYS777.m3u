@@ -197,6 +197,69 @@ https://cutt.ly/tyiHKqEa
 #EXTINF:-1 tvg-name="GRAND TV" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215088.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=RAXG3kFW9jll15RPb9SOBA&e=2073734325&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Big Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=Vqvlh0QHhiv43f2ng_sL_g&e=2073734326&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=sSJaoeomanjzpqpmB7Vtaw&e=2073734326&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Dance Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=75aL5qyvNgGHkAmMOVyVYg&e=2073734326&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=eLotkD2FsVJYOJ3MlVz-Gg&e=2073734327&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Гоп FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=QnSoTdab9hagng3wUUnuOA&e=2073734327&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=TVmh8ILt_r8KarMmr4ALtQ&e=2073734327&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Russian Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=JmLEjEqTjZMliYqcI0iqHw&e=2073734328&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Deep
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=O4JhkZQXz3t0eiToul5ozA&e=2073734328&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Phonk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=2tOE1gChIq1IJB2LQRaLHQ&e=2073734328&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Chill House
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=liEmMR-Yn7m2lEkkLgCDtg&e=2073734329&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Drum n Bass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=JMgU8uu-YJ2f4BY8hREaxA&e=2073734329&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Chill-Out
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=18K5GfUcy8eZQMsisvcPeg&e=2073734329&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Techno by Innocence
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=xT4WlZ_KVGlkWe7aSZg2FA&e=2073734330&scheme=https
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Trance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=04zTzAUAmkFrlhMFeLab1g&e=2073734330&scheme=https
+#EXTINF:-1 group-title="GRAND TV",GRAND TV   Record Megamix SD
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=-DTb1r4R3jsW_QG2FP13BQ&e=2068637589&scheme=https
+
+#EXTINF:-1 group-title="GRAND TV",GRAND TV   Record Megamix SD
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=IcAYG4YgREKSU7gFs7ASiw&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="GRAND TV",GRAND TV   Record Tranceᴴᴰ
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=gp-4Wbobowp_EIQ7zTnB3Q&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="GRAND TV",GRAND TV   Record Tranceᴴᴰ
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Yh6F-BTmx3erbJO585-ByQ&e=2069068475&scheme=https
+
+#EXTINF:-1 group-title="GRAND TV",GRAND TV   Record Tranceᴴᴰ
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=q8j7Y55dkIr35vAkxG8CoQ&e=2069500994&scheme=https
+
+
+
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND RADIO
 http://91.107.125.87:1060/stream
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="GRAND TV",GRAND RADIO 2
@@ -209,12 +272,188 @@ http://194.5.152.248:8000/fm
 http://live.novoeradio.by:8081/live/novoeradio_megamix_aac128/icecast.audio
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV",GRAND RADIO O'zbegim Taronasi
 https://fm101.uz:9943/fm101_low.aac
+
+
+
 #EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", Troe.iz.Prostokvashino 1 серия 
 https://data01-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_1.Troe.iz.Prostokvashino.1978.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
 #EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", .Kanikuly.v.Prostokvashino 2 серия
 https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_2.Kanikuly.v.Prostokvashino.1980.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
 #EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", Zima.v.Prostokvashino 3 серия
 https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_3.Zima.v.Prostokvashino.1984.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION FM
+http://icepe11.infomaniak.ch:80/generationfm-rap-high.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Generation Rap FR GOLD
+http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION FM FREESTYLE
+http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION HITS
+http://94.23.221.158:9117/GenerationHits_autodj
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION  US RAP
+http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION  REGGAETON
+http://gene-rgton.ice.infomaniak.ch/generations-rgton.mp3
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION 90s
+http://generations-90.ice.infomaniak.ch/generations-90.aac
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/81/9e/819e332533069f165336021c8ec01540.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",GENERATION  BOOBA
+http://generations-booba.ice.infomaniak.ch/generations-booba.aac
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6A8S6zOGNqlCIyAdsccOObj_68ViCyEQdWxs8Dw5v0qeHgzoZsGdKDtL76AViPmUldU=h500" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",SKYROCK FM
+http://icecast.skyrock.net/s/natio_mp3_64k?tvr_name=yourplayer&amp;tvr_section1=64
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6A8S6zOGNqlCIyAdsccOObj_68ViCyEQdWxs8Dw5v0qeHgzoZsGdKDtL76AViPmUldU=h500" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",SKYROCK Algire
+https://icecast.skyrock.net/s/alger_aac_64k
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio City BG-HipHop & RNB
+http://stream81.metacast.eu/cityrabhi.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio Big FM - HipHop
+http://streams.bigfm.de/bigfm-hiphop-128-mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio Big FM - Mashup
+http://streams.bigfm.de/bigfm-mashup-128-mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", ЯсенБит 18+
+http://radio.yasenbit.net:8000/yasenbit192k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Radio Record- WORKOUT
+https://hls-01-radiorecord.hostingradio.ru/record-workout/96/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Radio Record-Trap
+http://radiorecord.hostingradio.ru/trap96.aacp
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",FON Music-Hip Hop
+http://tntradio.hostingradio.ru:8027/hhr128.mp3
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио 7 (Семей) KZ
+http://listen2.myradio24.com:9000/8334
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио ПИ FM
+http://cdn.pifm.ru/mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио ПИ FM (Тула)
+http://87.244.47.90:8000/PiFM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/65880.v6.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Новое Радио
+http://icecast.newradio.cdnvideo.ru/newradio3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/74661.v13.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Хайп FM
+http://hfm.volna.top/HypeFM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73538.v15.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Русская Волна
+http://ru3.amgradio.ru/RuWave48
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Монте-Карло - Музыка без слов
+http://montecarlo.hostingradio.ru/muzykabezslov96.aacp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Монте-Карло - Мировое кино
+http://montecarlo.hostingradio.ru/mirkino96.aacp
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/LogoMakerCa-1744946204232.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Digital Impulse - MOVIE THEMES
+http://orion.shoutca.st:8173/stream
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",FON Music Радио
+http://tntradio.hostingradio.ru:8027/tntradio128.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", DE:TechnoBase FM
+http://aachd.stream.tb-group.fm:80/tb-hd.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио NRJ
+http://ic7.101.ru:8000/v1_1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ (Эстония)
+http://skymedia-live.bitflip.ee/NRJ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ DE
+http://nrj.de/berlin
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ (BG)
+http://stream81.metacast.eu/nrj128
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ (BG) - 90s
+http://stream81.metacast.eu/energy-90s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ (Basel)
+http://broadcast.infomaniak.ch/energybasel-high.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ-Hits Remix
+http://nrj.de/hitsremix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio NRJ-Latino
+http://nrj.de/latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Ретро FM
+http://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Дорожное Радио
+https://dorognoe.hostingradio.ru:8000/dorognoe
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Дорожное Радио (Бийск)
+http://176.118.30.252:8000/dorojnoe_bsk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Дорожное Радио - Танцпол
+http://stream1.hostingradio.ru:8010/26_mp3_128
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/344.v12.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Юмор FM
+https://pub0202.101.ru:8443/stream/air/aac/64/102
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/301.v15.png" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Шансон
+https://chanson.hostingradio.ru:8041/chanson64.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Юность
+http://icecast.vgtrk.cdnvideo.ru/unost
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Mixadance Fm
+https://stream.mixadance.fm/mixadance128
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Radio Big FM - Russia
+http://streams.bigfm.de/bigfm-russia-128-mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", ОТЛИЧНОЕ RADIO 
+https://listen1.myradio24.com/8234
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",  EHR-Remixes
+http://stream.europeanhitradio.com:8000/Stream_32.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",  EHR-Remixes RU
+http://stream.europeanhitradio.com:8000/Stream_35.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",  EHR FM (LV)
+http://stream.europeanhitradio.com:8000/ehr.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",  EHR FM Superhits
+http://stream.europeanhitradio.com:8000/Stream_21.mp3
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Волна FM (Алапаевск)
+http://radio.volnafm.ru:8000/alap
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Волна FM (Екатеринбург)
+http://radio.volnafm.ru:8000/ekb
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Волна FM (Карпинск)
+http://radio.volnafm.ru:8000/karp
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Волна FM (Лесной)
+http://radio.volnafm.ru:8000/les
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Волна FM (Полевской)
+http://radio.volnafm.ru:8000/polevskoy
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Волна FM (Тавда)
+http://radio.volnafm.ru:8000/tav
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО", Радио Волна FM (Талица)
+http://radio.volnafm.ru:8000/tal
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Монте-Карло - Песни о Любви
+http://montecarlo.hostingradio.ru/pesniolyubvi96.aacp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Монте-Карло - Sweet
+http://montecarlo.hostingradio.ru/mcsweet96.aacp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",RADIO MONTE CARLO GOLD
+https://mc-mcgold.hostingradio.ru/mcgold96.aacp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Монте-Карло - Nights
+http://montecarlo.hostingradio.ru/mcnight96.aacp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",Радио Монте-Карло
+http://montecarlo.hostingradio.ru/montecarlo128.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grandiptv01-sketch/TV/refs/heads/main/image_1_1767268987547.jpg" group-title="GRAND IPTV/ ЛУЧШЕЕ РАДИО",RADIO MONTE CARLO newyear
+https://mc-newyear.hostingradio.ru/newyear96.aacp
+
+
+
+
+
+
 
 
 
@@ -22029,67 +22268,6 @@ http://09c40851.edmonst.net/iptv/9YNR783B2M6ANV6KFA25R382/15507/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Супердискотека 90х
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=RAXG3kFW9jll15RPb9SOBA&e=2073734325&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Big Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=Vqvlh0QHhiv43f2ng_sL_g&e=2073734326&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=sSJaoeomanjzpqpmB7Vtaw&e=2073734326&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Dance Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=75aL5qyvNgGHkAmMOVyVYg&e=2073734326&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Russian Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=eLotkD2FsVJYOJ3MlVz-Gg&e=2073734327&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Гоп FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=QnSoTdab9hagng3wUUnuOA&e=2073734327&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Megamix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=TVmh8ILt_r8KarMmr4ALtQ&e=2073734327&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Russian Mix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=JmLEjEqTjZMliYqcI0iqHw&e=2073734328&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Deep
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=O4JhkZQXz3t0eiToul5ozA&e=2073734328&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Phonk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=2tOE1gChIq1IJB2LQRaLHQ&e=2073734328&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Chill House
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=liEmMR-Yn7m2lEkkLgCDtg&e=2073734329&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Drum n Bass
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=JMgU8uu-YJ2f4BY8hREaxA&e=2073734329&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Chill-Out
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=18K5GfUcy8eZQMsisvcPeg&e=2073734329&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Techno by Innocence
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=xT4WlZ_KVGlkWe7aSZg2FA&e=2073734330&scheme=https
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND IPTV / RECORD RUTUBE",Record Trance
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=04zTzAUAmkFrlhMFeLab1g&e=2073734330&scheme=https
-#EXTINF:-1 group-title="GRAND IPTV / RECORD RUTUBE",  Record Megamix SD
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=-DTb1r4R3jsW_QG2FP13BQ&e=2068637589&scheme=https
-
-#EXTINF:-1 group-title="GRAND IPTV / RECORD RUTUBE",  Record Megamix SD
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=IcAYG4YgREKSU7gFs7ASiw&e=2069025350&scheme=https
-
-#EXTINF:-1 group-title="GRAND IPTV / RECORD RUTUBE",  Record Tranceᴴᴰ
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=gp-4Wbobowp_EIQ7zTnB3Q&e=2069025350&scheme=https
-
-#EXTINF:-1 group-title="GRAND IPTV / RECORD RUTUBE",  Record Tranceᴴᴰ
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Yh6F-BTmx3erbJO585-ByQ&e=2069068475&scheme=https
-
-#EXTINF:-1 group-title="GRAND IPTV / RECORD RUTUBE",  Record Tranceᴴᴰ
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=q8j7Y55dkIr35vAkxG8CoQ&e=2069500994&scheme=https
 
 
 
