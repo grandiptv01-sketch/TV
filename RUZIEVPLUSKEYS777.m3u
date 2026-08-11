@@ -3106,7 +3106,48 @@ https://s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="TEST (VPN)",Первый канал
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Россия РТР
+https://streaming.thestream.cyou/live/211.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Россия 24
+https://streaming.thestream.cyou/live/30.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",НТВ-Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТНТ
+https://streaming.thestream.cyou/live/38.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Дом кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Карусель
+https://streaming.thestream.cyou/live/232.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",СТС
+https://streaming.thestream.cyou/live/296.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-id="rus-hualiang-tv" ,Китай ТВ HD
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",RU.TV
+http://77.232.131.211/RUTV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",РОССИЯ 24
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",о2тв
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",MCM HD
+http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Тонус ТВ
+http://194.143.148.28:8080/Mir24/mpegts
+#EXTINF:-1 group-title="TEST (VPN)",Аист
+http://194.143.148.28:8080/Aist/mpegts
+#EXTINF:-1 group-title="TEST (VPN)",one
+http://fl.ralsei.site:8888/one/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",one (+2)
+http://fl.ralsei.site:8888/one2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",one (+4)
+http://fl.ralsei.site:8888/one4/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",one (+7)
+http://fl.ralsei.site:8888/one7/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Кинокомедия
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Киносемья
@@ -3393,169 +3434,39 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ngF58fe.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Trace Vanilla Islands (1080p)
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/copIbc9.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BET East
-https://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BET Gospel
-https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BET Her East
-https://fl3.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BET Jams
-https://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BET Pluto TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BET Soul
-https://fl3.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS East (720p)
-https://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Bay Area (720p)
-https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Boston (720p)
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Chicago (720p)
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Colorado (720p)
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Detroit (720p)
-https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klULxMV.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Los Angeles (720p)
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Miami (720p)
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Minnesota (720p)
-https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News New York (720p)
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Philadelphia (720p)
-https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Pittsburgh (720p)
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS News Sacramento (720p)
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CBS Sports Network USA
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Fuse East (720p)
-https://fl3.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FX East
-https://fl5.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FXM East
-https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FXX East
-https://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FYI East
-https://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Hallmark Channel East
-https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Hallmark Drama (720p)
-https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Hallmark Movies & More
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Hallmark Movies Mysteries East
-https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Lifetime East
-https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Lifetime Movies East
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",LiveNOW from FOX (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhGyebf.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Love & Hip Hop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11538a9-9480-4566-aae4-83bfe5898920
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ad6NQ8.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Love Boat
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3d1fbc15b00081f1186/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e4e13-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=157cb33e-83b4-4ce8-ab8f-4d9585e6e0dd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Love Nature en Espanol [Geo-blocked]
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MGM+ East
-https://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MGM+ Marquee
-https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Yes Network
-https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Yo! MTV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV2 (720p)
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV Biggest Pop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV Classic (360p)
-https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV East
-https://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV Live (720p)
-https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV Pluto TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV Spankin' New
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",mtvU (480p)
-https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KWjY4o.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Mystery Science Theater 3000 (1080p)
 https://mst3k-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",National Geographic East
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",National Geographic Wild East
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",NBA TV (1080p) [Geo-blocked]
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",NBC News NOW
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",NBC Universo West (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",NEW K-POP (1080p)
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCgirjc.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",NEW K.MOVIES (1080p)
-https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",News 12 New York
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Newsmax 2 (720p)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Newsmax TV (720p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Nick Jr East
-https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Paramount Network East
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Paramount Movie Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Paramount+ Picks
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Showtime 2 East
-https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Showtime East
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Showtime Next East
-https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Showtime West (1080p)
-https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Showtime Women East
-https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohE9IgP.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Sony Canal Escape Perfecto
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yijitpa.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Sony Canal Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Sony Kal (1080p)
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Syfy East
-https://fl3.moveonjoy.com/SYFY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FIFA+ French (720p)
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FIFA+ German (720p)
@@ -3597,18 +3508,12 @@ http://stream.mcquack.net/26/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oI8g396.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Qazaqstan HD (1080p)
 http://stream.mcquack.net/71/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",TSN2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",TSN3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",TSN5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",AXN Black Poland (576p)
 http://185.227.34.179:8080/axn-black/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",AXN White Poland (576p)
 http://185.227.34.179:8080/axn-white/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",365 days TV (576p)
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",.black (576p)
@@ -3631,8 +3536,7 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 http://stream.mcquack.net/318/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BRIDGE Classic (576p)
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BRIDGE Deluxe (1080p)
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BRIDGE Deluxe HD (576p)
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",BRIDGE Hits (576p)
@@ -3651,8 +3555,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mDeTbaF.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FAN (1080p)
-http://31.148.48.15/Fan/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Fashion&LifeStyle (1080p)
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",FoodTime (1080p)
@@ -3711,8 +3614,7 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Moy mir (720p)
-https://moymir.ru/hls/onair.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Moya Planeta (1080p)
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="GRAND TV/ НОВЫЕ ТВ ТЕСТ",Moya stikhiya HD (1080p)
