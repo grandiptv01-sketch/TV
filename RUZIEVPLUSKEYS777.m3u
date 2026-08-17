@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/15 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/17 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -182,7 +182,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/df/ae/2ddfae21-9e5c-1ae8-0806-b74a895e2b05/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp"group-title="GRAND TV",GRAND TV Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ",  Новое Радио BY
+#EXTINF:-1 group-title="GRAND TV",  Новое Радио BY
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" group-title="GRAND TV",GRAND TV TRANCE IS STAR RADIO
 https://myradio24.org/tisradio_video.m3u8
@@ -917,16 +917,16 @@ https://srv01.gpmradio.ru/stream/trust/mp3/128/18?token=kizug
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | RUTUBE TV", Rutube TV
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=BB38oulqX9y3TSbPkK6_Kw&e=2068506930&scheme=https
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="GRAND PLUS | RUTUBE TV", Первый канал HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="GRAND PLUS| РОССИЯ", Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Первый Канал
+#EXTINF:-1 group-title="", Первый Канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1  group-title="GRAND PLUS| РОССИЯ", Первый Канал
 https://cdn9.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
@@ -1010,7 +1010,7 @@ http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-logo="http://epg.one/img/7258.png" group-title="GRAND PLUS| РОССИЯ",  НТВ Мир
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="GRAND PLUS | RUTUBE TV", НТВ HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="GGRAND PLUS| РОССИЯ", НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
 
 
@@ -1114,10 +1114,10 @@ http://185.46.16.239:8000/TNT
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="GRAND PLUS | RUTUBE TV", ТНТ HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="GRAND PLUS| РОССИЯ", ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="GRAND PLUS | RUTUBE TV", ТНТ4 HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="GRAND PLUS| РОССИЯ", ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",  ТНТ4
 
@@ -1133,10 +1133,10 @@ http://5.188.221.43:8080/play/domashniy
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",  ДОМАШНИЙ int
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="GRAND PLUS | RUTUBE TV", 2x2
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="GRAND PLUS| РОССИЯ", 2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
 
-#EXTINF:-1 group-title="GRAND PLUS | RUTUBE TV", Суббота
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
 
 
@@ -1174,7 +1174,7 @@ http://95.47.156.60:8000/play/16/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="GRAND PLUS | RUTUBE TV", ТВ3 HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title=GRAND PLUS| РОССИЯ", ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", ТВ3
@@ -1309,7 +1309,7 @@ http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | RUTUBE TV", Ю
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ypW_sLxBx1nKFR48-gn7hQ&e=2068506935&scheme=https
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Ю ТВ
@@ -1629,8 +1629,21 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=KT
 
 
 
-
-
+#EXTINF:-1 tvg-name="runepi" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/runepi-profile_image-c0bd9afc3384e576-70x70.jpeg", runepi
+#EXTGRP:RUZIEV MY TV +
+https://www.dropbox.com/scl/fi/kgv1v95dsx7gmlhhzkvk2/runepi.m3u?rlkey=r2wdmotr612ddl22u5jnzue8g&dl=1
+#EXTINF:-1 tvg-name="Check Engine" tvg-logo="https://cdn1.ozonusercontent.com/s3/fs-my-account-avatar/c100/j6j2XaxqROqJwKVv6mS6gQ.jpg", Check Engine
+#EXTGRP:RUZIEV MY TV +
+https://www.dropbox.com/scl/fi/31jvkp5jpc1688hyg2dg3/tocoxoj.m3u?rlkey=lh6un75pak0o3hulg3v4wok4r&dl=1
+#EXTINF:-1 tvg-id="channel_1786340434100_de32" tvg-name="TVON VIOLET CINEMA" tvg-logo="https://s6.iimage.su/s/28/gUBhDjxxaooGzXbkgrkTMaI6UNUMQVRpqg0sRdb5G.png", TVON Film
+#EXTGRP:RUZIEV MY TV +
+http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
+#EXTINF:-1 tvg-name="MoRoZ" tvg-logo="https://images.genius.com/7a610bb79027beacd9f07b07499e2dde.400x400x1.png", MoRoZ
+#EXTGRP:RUZIEV MY TV +
+https://s3.livacha.ru/live/zamoroz.m3u8
+#EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="https://iptvx.one/picons/31-kanal-kz.png", 31 КАНАЛ KZ
+#EXTGRP:RUZIEV MY TV +
+https://tvset.org/ch/000000663.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" group-title="RUZIEV MY TV +",NSC+
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
@@ -1661,8 +1674,11 @@ http://88.212.15.19/live/mb_sexy/index.m3u8
 
 
 
-
-
+#EXTINF:-1,FAN HD
+#EXTGRP:RUZIEV MY TV +
+http://37.192.119.31:81/udp/239.1.21.52:1234
+#EXTINF:0 group-title="RUZIEV MY TV +" tvg-id="79" tvg-logo="http://epg.one/img2/79.png",СТС
+http://cdn.kubteltv.workers.dev/?ID=377
 #EXTINF:-1 group-title="RUZIEV MY TV +",Alpha Moretimeᴴᴰ
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0 tvg-rec="0",BOX Gurman HD
@@ -2264,6 +2280,84 @@ http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564
 
 
 
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Новые песни: Анна Боронина – Гаджет
+https://v.mover.uz/138t9Sve_m.mp4ROZC3mAm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ": Егор Крид и Terry – Будущий бывший
+https://v.mover.uz/138t9Sve_m.mp45bPsORbm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ" Terry-Мега
+https://v.mover.uz/138t9Sve_m.mp4MVEqMwbm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Все Песни
+https://v.mover.uz/138t9Sve_m.mp4t7D2sBcm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Hype
+https://v.mover.uz/138t9Sve_m.mp41iaVRPtm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ" Terry – Меркурий
+https://v.mover.uz/138t9Sve_m.mp4xOcML3em
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",НАZИМА и Скруджи – Real one
+https://v.mover.uz/138t9Sve_m.mp46qeu5FD
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Джей Мар, Terry, Plc, DanyMuse и НАZИМА – Новый Black Star
+https://v.mover.uz/138t9Sve_m.mp4fupi2fbm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Егор Крид & Terry – Будущий бывший (Official song)
+https://v.mover.uz/138t9Sve_m.mp4gVyEgRbm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Гимн шоу "ПЕСНИ" Максим Фадеев, Тимати, Павел Воля и Участники
+https://v.mover.uz/138t9Sve_m.mp46jzsA3em
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",ПЕСНИ": PLC и DanyMuse – Драмы
+https://v.mover.uz/138t9Sve_m.mp4LL7Anwbm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Боронина – Рабочий класс 
+https://v.mover.uz/138t9Sve_m.mp4pIiT5EDm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Максим Фадеев – Большой сольный концерт впервые за 25 лет
+https://v.mover.uz/138t9Sve_m.mp4vKBapxEm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Живой концерт HammAli & Navai (LIVE @ Авторадио)
+https://v.mover.uz/138t9Sve_m.mp4XpbypxEm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Живой концерт Artik & Asti на Авторадио
+https://v.mover.uz/138t9Sve_m.mp4daffyNWm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Наzима | Живой концерт на Авторадио
+https://v.mover.uz/138t9Sve_m.mp45NwrzNWm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SnowПати 20/21. Часть 1 [в 2-х частях] (01.01.2021)
+https://v.mover.uz/138t9Sve_m.mp4grMGzgVm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SnowПати 20/21. Часть 2 [в 2-х частях] (01.01.2021)
+https://v.mover.uz/138t9Sve_m.mp43nlnrgVm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Михаил Задорнов – „Нас не оцифруешь!” (2011)
+https://v.mover.uz/138t9Sve_m.mp4YKQUbCXm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Михаил Задорнов – „Смех в конце тоннеля” (2016)
+https://v.mover.uz/138t9Sve_m.mp45RpEJSXm
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Виктор Цой (группа Кино) – Концерт (Москва, ЦСКА Арена) (Live 2021)
+https://v.mover.uz/138t9Sve_m.mp4Xu1TCOqI
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Dizayn jamoasi 2022-yilgi konsert dasturi
+https://v.mover.uz/138t9Sve_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MILLION JAMOASI 2024 | МИЛЛИОН ЖАМОАСИ 2024 | КОНЦЕРТ
+https://v.mover.uz/pzQaqyN_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Танцы! Ёлка! Муз-ТВ! 2026
+https://v.mover.uz/E7dDpQ0A_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Руки вверх! 20 лет Юбилейный концерт (2017)
+https://v.mover.uz/RJs8MIVm_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Отпетые Мошенники – Люби меня люби
+https://v.mover.uz/gssUpYjm_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto & Sneaky Sound System – I Will Be Here (Live at LIV)
+https://v.mover.uz/RlmuS1wj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings – (Linzi Stoppard’s Electric Violin Remix)
+https://v.mover.uz/htmEDdHm_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",KAROL G, Tiesto – CONTIGO (Official Video)
+https://v.mover.uz/wIgag46l_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – ADAGIO FOR STRINGS VIVA TV
+https://v.mover.uz/yVSjeMBj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings
+https://v.mover.uz/BHHiypKj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Just Be
+https://v.mover.uz/qojLK1wj_m.mp4
+
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – ADAGIO FOR STRINGS Tomorrowland 2013
+https://v.mover.uz/8Enz3hfj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Live @ Ultra Music Festival Miami, USA (27.03.2015)
+https://v.mover.uz/kdWJrPA_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Titanic
+https://v.mover.uz/V7yxszKj_m.mp4
 
 #EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",JAUZ b2b NGHTMRE Live at Ultra Music Festival Miami 2022
 https://v.mover.uz/kkqR5Yav_m.mp4
