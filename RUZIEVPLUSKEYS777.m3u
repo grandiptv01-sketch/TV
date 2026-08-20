@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/17 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/20 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -2286,171 +2286,554 @@ http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564
 
 
 
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZEV / ДИСКОТЕКА 90",Каста – Вокруг шум
-https://v.mover.uz/pepAo2Hm_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZEV / ДИСКОТЕКА 90",Каста – Ревность
-https://v.mover.uz/MQOAzn1_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZEV / ДИСКОТЕКА 90",Каста – Метла
-https://v.mover.uz/kWE4buFj_s.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Новые песни: Анна Боронина – Гаджет
+
+
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Царица
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/AstiAnna__Carica_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Верю в тебя
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/AstiAnna__VeryuVTebya_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Как любовь твою понять?
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/JONY_AstiAnna__KakLyubovTvoyuPonyat_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",По барам
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Asti__PoBaram_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Феникс
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/AstiAnna__Feniks_9.mp4
+
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Enigma – Moment of Peace (Bass Boosted)
+https://v.mover.uz/ulinEPCO_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",КАСТА НА ПОРЯДОК ВЫШЕ
+https://v.mover.uz/azkYhklS_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",КАСТА ЗАКРЫТЫЙ КОСМОС
+https://v.mover.uz/n7Hvk1W_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",ДАНА СОКОЛОВА ИНДИГО
+https://v.mover.uz/qijX4Sf2_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MASSA Feat. MUBINLOLO – Qattu (Official Music Video)
+https://v.mover.uz/I7w9vaKP_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Insane Beats – Tattoo – Loreen (Techno Remix)
+https://v.mover.uz/iuyh0Juw_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",KERRIA & Amirchik – What If (Official Music Video)
+https://v.mover.uz/noWKWMps_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Suleymer Mystique
+https://v.mover.uz/yvHhQFYU_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Ladynsax – For you Video edited by ©MAFI2A MUSIC
+https://v.mover.uz/deTKgKYj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Ladynsax – Memories (cover) Video edited by ©MAFI2A MUSIC
+https://v.mover.uz/1Af3nOAB_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"DLEJ UZBEKISTON
+https://v.mover.uz/xK2lu4wL_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – МЕРКУРИЙ
+https://v.mover.uz/X2soeAhs_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",ЕГОР КРИД  TERRY БУДУЩИЙ БЫВШИЙ
+https://v.mover.uz/LsDSkEbg_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",BLACK STAR MAFIA РАКЕТА
+https://v.mover.uz/9bUYDWGJ_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – HYPE
+https://v.mover.uz/abUzq4DL_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Все Песни
+https://v.mover.uz/DbLTc3tw_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SAY MO& NAZIMA
+https://v.mover.uz/tZAPUWbs_m.mp4
+
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Каста – Вокруг шум
+https://v.mover.uz/I8m05ms_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Каста – Ревность
+https://v.mover.uz/DldgUwe2_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Каста – Метла
+https://v.mover.uz/GLMS0pHQ_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Новые песни: Анна Боронина – Гаджет
 https://v.mover.uz/ROZC3mAm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ": Егор Крид и Terry – Будущий бывший
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ": Егор Крид и Terry – Будущий бывший
 https://v.mover.uz/5bPsORbm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ" Terry-Мега
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ" Terry-Мега
 https://v.mover.uz/MVEqMwbm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Все Песни
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Все Песни
 https://v.mover.uz/t7D2sBcm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Hype
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Terry – Hype
 https://v.mover.uz/1iaVRPtm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ" Terry – Меркурий
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ","ПЕСНИ" Terry – Меркурий
 https://v.mover.uz/xOcML3em_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",НАZИМА и Скруджи – Real one
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",НАZИМА и Скруджи – Real one
 https://v.mover.uz/6qeu5FD_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Джей Мар, Terry, Plc, DanyMuse и НАZИМА – Новый Black Star
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Джей Мар, Terry, Plc, DanyMuse и НАZИМА – Новый Black Star
 https://v.mover.uz/fupi2fbm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Егор Крид & Terry – Будущий бывший (Official song)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Егор Крид & Terry – Будущий бывший (Official song)
 https://v.mover.uz/gVyEgRbm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Гимн шоу "ПЕСНИ" Максим Фадеев, Тимати, Павел Воля и Участники
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Гимн шоу "ПЕСНИ" Максим Фадеев, Тимати, Павел Воля и Участники
 https://v.mover.uz/6jzsA3em_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",ПЕСНИ": PLC и DanyMuse – Драмы
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",ПЕСНИ": PLC и DanyMuse – Драмы
 https://v.mover.uz/LL7Anwbm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Боронина – Рабочий класс 
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Боронина – Рабочий класс 
 https://v.mover.uz/pIiT5EDm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Максим Фадеев – Большой сольный концерт впервые за 25 лет
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Максим Фадеев – Большой сольный концерт впервые за 25 лет
 https://v.mover.uz/vKBapxEm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Живой концерт HammAli & Navai (LIVE @ Авторадио)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Живой концерт HammAli & Navai (LIVE @ Авторадио)
 https://v.mover.uz/XpbypxEm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Живой концерт Artik & Asti на Авторадио
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Живой концерт Artik & Asti на Авторадио
 https://v.mover.uz/daffyNWm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Наzима | Живой концерт на Авторадио
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Наzима | Живой концерт на Авторадио
 https://v.mover.uz/5NwrzNWm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SnowПати 20/21. Часть 1 [в 2-х частях] (01.01.2021)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SnowПати 20/21. Часть 1 [в 2-х частях] (01.01.2021)
 https://v.mover.uz/grMGzgVm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SnowПати 20/21. Часть 2 [в 2-х частях] (01.01.2021)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",SnowПати 20/21. Часть 2 [в 2-х частях] (01.01.2021)
 https://v.mover.uz/3nlnrgVm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Михаил Задорнов – „Нас не оцифруешь!” (2011)
-https://v.mover.uz/YKQUbCXm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Михаил Задорнов – „Смех в конце тоннеля” (2016)
-https://v.mover.uz/5RpEJSXm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Виктор Цой (группа Кино) – Концерт (Москва, ЦСКА Арена) (Live 2021)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Enigma – Still I m Sad (Bass Boosted)
+https://v.mover.uz/HbxcGilq_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Enigma – Sadeness (Bass Boosted)
+https://v.mover.uz/yzY3Km4_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Виктор Цой (группа Кино) – Концерт (Москва, ЦСКА Арена) (Live 2021)
 https://v.mover.uz/Xu1TCOqI_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Dizayn jamoasi 2022-yilgi konsert dasturi
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Dizayn jamoasi 2022-yilgi konsert dasturi
 https://v.mover.uz/138t9Sve_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MILLION JAMOASI 2024 | МИЛЛИОН ЖАМОАСИ 2024 | КОНЦЕРТ
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MILLION JAMOASI 2024 | МИЛЛИОН ЖАМОАСИ 2024 | КОНЦЕРТ
 https://v.mover.uz/pzQaqyN_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Танцы! Ёлка! Муз-ТВ! 2026
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Танцы! Ёлка! Муз-ТВ! 2026
 https://v.mover.uz/E7dDpQ0A_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Руки вверх! 20 лет Юбилейный концерт (2017)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Руки вверх! 20 лет Юбилейный концерт (2017)
 https://v.mover.uz/RJs8MIVm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Отпетые Мошенники – Люби меня люби
-https://v.mover.uz/gssUpYjm_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto & Sneaky Sound System – I Will Be Here (Live at LIV)
-https://v.mover.uz/RlmuS1wj_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings – (Linzi Stoppard’s Electric Violin Remix)
-https://v.mover.uz/htmEDdHm_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",KAROL G, Tiesto – CONTIGO (Official Video)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Отпетые Мошенники – Люби меня люби
+https://v.mover.uz/gssUpYjm_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings (Live)
+https://v.mover.uz/wp7VTAn0_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings – (Linzi Stoppard’s Electric Violin Remix)
+https://v.mover.uz/ieVAdInq_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",KAROL G, Tiesto – CONTIGO (Official Video)
 https://v.mover.uz/wIgag46l_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – ADAGIO FOR STRINGS VIVA TV
-https://v.mover.uz/yVSjeMBj_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings
-https://v.mover.uz/BHHiypKj_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Just Be
-https://v.mover.uz/qojLK1wj_h.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – ADAGIO FOR STRINGS VIVA TV
+https://v.mover.uz/yVSjeMBj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Adagio For Strings
+https://v.mover.uz/OSTeJTDE_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Just Be
+https://v.mover.uz/MYrZoBV_m.mp4
 
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – ADAGIO FOR STRINGS Tomorrowland 2013
-https://v.mover.uz/8Enz3hfj_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Live @ Ultra Music Festival Miami, USA (27.03.2015)
-https://v.mover.uz/kdWJrPA_h.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Titanic
-https://v.mover.uz/V7yxszKj_h.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – ADAGIO FOR STRINGS Tomorrowland 2013
+https://v.mover.uz/8Enz3hfj_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Live @ Ultra Music Festival Miami, USA (27.03.2015)
+https://v.mover.uz/kdWJrPA_m.mp4
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tiesto – Just Be live
+https://v.mover.uz/AAg0wrlC_m.mp4
 
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",JAUZ b2b NGHTMRE Live at Ultra Music Festival Miami 2022
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",JAUZ b2b NGHTMRE Live at Ultra Music Festival Miami 2022
 https://v.mover.uz/kkqR5Yav_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Best Gaming Music Trap, House, Dubstep
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Best Gaming Music Trap, House, Dubstep
 https://v.mover.uz/4x0upDwU_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",(Дискотека 90-х) Супердискотека – Поколению 90-х посвящается (90-е годы)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",(Дискотека 90-х) Супердискотека – Поколению 90-х посвящается (90-е годы)
 https://v.mover.uz/wE0j538m_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Настя Петрик Can’t live (Without you)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Настя Петрик Can’t live (Without you)
 https://v.mover.uz/7e3Mx9A_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Мона – Ветер
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Мона – Ветер
 https://v.mover.uz/b6thdwjm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х (Санкт-Петербург 20.10.2018) часть 1/2
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х (Санкт-Петербург 20.10.2018) часть 1/2
 https://v.mover.uz/KVtDM61m_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х (Санкт-Петербург 20.10.2018) Часть 2/2
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х (Санкт-Петербург 20.10.2018) Часть 2/2
 https://v.mover.uz/7UXv661m_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х Радио Рекорд 19.04.14 Часть 1
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х Радио Рекорд 19.04.14 Часть 1
 https://v.mover.uz/uTmlwxNj_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х Радио Рекорд 19.04.14 Часть 2
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х Радио Рекорд 19.04.14 Часть 2
 https://v.mover.uz/1bZ7m9Nj_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х Радио Рекорд 19.04.14 Часть 3
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Супердискотека 90-х Радио Рекорд 19.04.14 Часть 3
 https://v.mover.uz/C9PnV9Nj_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Zivert – Я Тебя Люблю (MISTY cover)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Zivert – Я Тебя Люблю (MISTY cover)
 https://v.mover.uz/DhHCXYWm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Misty – Desert Rose (cover Sting) – Кавер на любимую песню Стинга
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Misty – Desert Rose (cover Sting) – Кавер на любимую песню Стинга
 https://v.mover.uz/uo7jeZVm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MISTY – Ring My Bells – Deep House Remix (Enrique Iglesias Cover)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MISTY – Ring My Bells – Deep House Remix (Enrique Iglesias Cover)
 https://v.mover.uz/tfNxSh5m_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Zivert – Life (MISTY cover)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Zivert – Life (MISTY cover)
 https://v.mover.uz/dp1zI9Em_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Ramil’ – Сияй – MISTY Cover
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Ramil’ – Сияй – MISTY Cover
 https://v.mover.uz/UeLCPvum_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Jony & Emin – Камин (MISTY cover)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Jony & Emin – Камин (MISTY cover)
 https://v.mover.uz/BHlwlTcm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MISTY – Omuzumda (Vox Remix)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MISTY – Omuzumda (Vox Remix)
 https://v.mover.uz/cJJwIrXm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",JONY – Аллея (MISTY cover)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",JONY – Аллея (MISTY cover)
 https://v.mover.uz/z116WMqm_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MISTY – Она тебя целует
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MISTY – Она тебя целует
 https://v.mover.uz/32U0jpEm_m.mp4
-#EXTINF:0 group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",(Дискотека 90-х) Егор Крид – MALO 2.0 ft. OG Buda, Toxi$, Мэйби Бэйби, Baby Cute, Дора, madk1d, тёмный принц ( КЛИП )
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",(Дискотека 90-х) Егор Крид – MALO 2.0 ft. OG Buda, Toxi$, Мэйби Бэйби, Baby Cute, Дора, madk1d, тёмный принц ( КЛИП )
 https://v.mover.uz/HAyEgns6_m.mp4
-#EXTINF:0 group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",The FIFA World Cup Final 2026™ Topps Halftime ShoW
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",The FIFA World Cup Final 2026™ Topps Halftime ShoW
 https://v.mover.uz/Yyi6VKtw_m.mp4
-#EXTINF:0 group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Тимати х Navai — Lambo 
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Тимати х Navai — Lambo 
 https://v.mover.uz/8rmJB3Rq_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Estas Tonne – Spirit of Time (Cignus Remix)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Estas Tonne – Spirit of Time (Cignus Remix)
 https://v.mover.uz/1mIjHIuz_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ- ENDI KECH
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ- ENDI KECH
 https://v.mover.uz/v3ZTUuo_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",TATITERA ТА ЖЕНЩИНА ЧТО МНЕ БЫЛА МИЛА
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",TATITERA ТА ЖЕНЩИНА ЧТО МНЕ БЫЛА МИЛА
 https://v.mover.uz/JYrn7vT_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ YOLQIZ YOLGA CHIQQAMAN TUN BAGRIDA
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ YOLQIZ YOLGA CHIQQAMAN TUN BAGRIDA
 https://v.mover.uz/NP5CLrAb_m.mp4
 
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",TATITERRA HAYOT HAQIQAT
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",TATITERRA HAYOT HAQIQAT
 https://v.mover.uz/dmkgjYet_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",PINK TRASTFALL
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",PINK TRASTFALL
 https://v.mover.uz/5O8mZluv_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ GULLAMAGAN SHOX
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ GULLAMAGAN SHOX
 https://v.mover.uz/wvKtnomq_m.mp4DLEJ 
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ FAQAT SENI SEVGANIM UCHUN
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ FAQAT SENI SEVGANIM UCHUN
 https://v.mover.uz/r7e9yOxA_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ SEN YOLQIZ EMASSAN
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ SEN YOLQIZ EMASSAN
 https://v.mover.uz/KredtDMg_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ  BAXTIM SENDA
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",DLEJ  BAXTIM SENDA
 https://v.mover.uz/u683roHM_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MIA BOYKA & SABI БАЗОВЫЙ МИНИМУМ
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MIA BOYKA & SABI БАЗОВЫЙ МИНИМУМ
 https://v.mover.uz/xueYP9CL_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",TASMIN ЛЕТИ ЗА МНОЙ
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",TASMIN ЛЕТИ ЗА МНОЙ
 https://v.mover.uz/uoZIXNmr_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MASSA – VIP (feat. Ditto & Asl Wayne) 
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",MASSA – VIP (feat. Ditto & Asl Wayne) 
 https://v.mover.uz/CybyG946_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tohir-sodiqov-tohir-sodiqov-bolalar-shou-35-yil-konsert-dasturi 
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Tohir-sodiqov-tohir-sodiqov-bolalar-shou-35-yil-konsert-dasturi 
 https://v.mover.uz/HLrj5U4_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Million-jamoasi-2025-yil-konsert-dasturi 
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Million-jamoasi-2025-yil-konsert-dasturi 
 https://v.mover.uz/uheER0dG_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Kamro – Indilla Enigma
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Kamro – Indilla Enigma
 https://v.mover.uz/efDDEY6g_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Eminem – Not Easy ft. Josh Breaks [Remix 2023]
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Eminem – Not Easy ft. Josh Breaks [Remix 2023]
 https://v.mover.uz/l6LhrGYt_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Eminem – When I m Gone (Official Music Video)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Eminem – When I m Gone (Official Music Video)
 https://v.mover.uz/BtMDsD15_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Eminem – Stan (Long Version) ft. Dido
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Eminem – Stan (Long Version) ft. Dido
 https://v.mover.uz/QUbYbjC_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Güneş – Suçlarımdan Biri (Bass Boosted)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",Güneş – Suçlarımdan Biri (Bass Boosted)
 https://v.mover.uz/RRBBtpEW_m.mp4
-#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title=" RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",S14 – Çekmeyin (Bass Boosted)
+#EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ",S14 – Çekmeyin (Bass Boosted)
 https://v.mover.uz/GOCxPTgl_m.mp4
+
+
+
+
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Безотносительно
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/GagarinaPolina__Bezotnositelno_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Бабочки
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/GagarinaPolina__Babochki_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Вода
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__Voda_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Навсегда
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__Navsegda_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Вчера
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/GagarinaPolina__Vchera_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Оставить след
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/ostavit_sled.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",На расстоянии
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__NaRasstoyanii_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Камень на сердце
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/gagarina__kamennaserdce_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Смотри
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__Smotri_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Меланхолия
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/gagarinapolina__melanholiya_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Выше головы
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/gagarina__vyshegolovy_9.mp4
+
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Ты со мной или нет
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Dj_Smash_KravecMarina__TySoMnoiIliNet_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Позвони
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Dj_Smash_Nivesta__Pozvoni_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",CO2
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Artik_Asti__CO2_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Амнезия
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Smash_ChebotinaLyusya__Amneziya_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Не переживай
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/smash__neperezhivai_9.mp4
+
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/klava-koka-tochka-premera-klipa-2021-34d7c2cc.jpg",Клава Кока – Точка
+https://v.mover.uz/vZXrqnDL_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/monaldin-femme-like-you-feat-emma-pters-5f58aa58.jpg",Monaldin – Femme Like You (feat. Emma P?ters)
+https://v.mover.uz/c01tuBxf_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/iowa-amp-elka-jabloko-akustika-2021-76efa05e.jpg",IOWA & Ёлка – Яблоко (Акустика 2021!)
+https://v.mover.uz/8qDwAFKa_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/icona-pop-x-vize-off-of-my-mind-lyric-video-ultra-music-50c86bf8.jpg",Icona Pop x VIZE – Off Of My Mind (Lyric Video)
+https://v.mover.uz/JVKRrjeV_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/stan-but-its-only-dido-slowed-w-reverb-e6278487.jpg",Stan but it’s only Dido (slowed w reverb)
+https://v.mover.uz/TS5DVskZ_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/loboda-indie-rock-vogue-premera-klipa-2021-3686f523.jpg",LOBODA – Indie Rock (Vogue)
+https://v.mover.uz/pQrjvcyQ_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/basta-ft-skriptonit-raj-on-niman-remix-ce1064a7.jpg",Баста ft. Скриптонит – Рай. он (Niman Remix)
+https://v.mover.uz/iIzRVjyY_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/matrang-zamanchivaja-premera-klipa-2021-4d9384fc.jpg",MATRANG – Заманчивая
+https://v.mover.uz/GgiWwAoe_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/jay-wheeler-take-my-life-ft-tyla-yaweh-official-video-546dcf52.jpg",Jay Wheeler – Take My Life ft. Tyla Yaweh
+https://v.mover.uz/phUzJRN0_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/tiesto-amp-karol-g-dont-be-shy-official-music-video-e072fcaf.jpg",Tiesto & Karol G – Don’t Be Shy
+https://v.mover.uz/3qI6aNAs_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/black-eyed-peas-saweetie-lele-pons-hit-it-official-music-video-bd942909.jpg",Lele Pons – HIT IT
+https://v.mover.uz/Lmtjuwdy_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/sub-urban-amp-bella-poarch-inferno-official-music-video-e626724c.jpg",Sub Urban & Bella Poarch – INFERNO
+https://v.mover.uz/bIfq5bwM_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/munisa-rizayeva-ayrilding-76f88c57.jpg",Munisa Rizayeva
+https://v.mover.uz/IXB3wdO1_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/eminem-higher-official-video-explicit-4e66a4d4.jpg",Eminem – Higher
+https://v.mover.uz/sJ2OuQVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/dan-balan-amp-indi-dyshat-o-ljubvi-official-video-2021-fc5dfc2f.jpg",Dan Balan & INDI – Дышат о Любви
+https://v.mover.uz/Zv6X84Vm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/ozoda-ft-zulaykho-mahmadshoeva-leyli-official-video-2021-e223ad8c.jpg",Ozoda ft. Zulaykho Mahmadshoeva – Leyli
+https://v.mover.uz/wIbHh7Vm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/yulduz-usmonova-yurak-official-video-2021-c1abc83e.jpg",Yulduz Usmonova – Yurak
+https://v.mover.uz/oQZ7GeL_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/morgenshtern-cristal-amp-moet-klip-itogi-2020-goda-d3ba908d.jpg",MORGENSHTERN – Cristal & МОЁТ
+https://v.mover.uz/iQ5s6UVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/basta-belyj-kit-9e5ffbc7.jpg",Баста – Белый кит
+https://v.mover.uz/Ii0wRuVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/dora-vtjurilas-65e0799c.jpg",Дора — Втюрилась
+https://v.mover.uz/gWFyPqVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/shohrux-ummon-ketarsan-shohruh-ummon-ketarsan-b81d0c25.jpg",Shohrux (Ummon) – Ketarsan
+https://v.mover.uz/JYmmCx7m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/timati-vs-egor-krid-zvezdopad-af3ec47f.jpg",Тимати vs Егор Крид
+https://v.mover.uz/0aOfQ97m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/yorqinxoja-umarov-amp-abbbose-margarita-official-video-2020-1ef16d0b.jpg",Yorqinxo’ja Umarov & Abbbose – Margarita
+https://v.mover.uz/6R877Z7m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/ozodbek-nazarbekov-inson-qasidasi-oda-o-cheloveke-human-dc25a696.jpg",Ozodbek Nazarbekov – Inson qasidasi
+https://v.mover.uz/VLNgWU7m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/via-marokand-alma-via-marokand-alma-039acfb8.jpg",VIA Marokand – Alma
+https://v.mover.uz/Rd9d5B5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/hanna-navsegda-tvoja-premera-klipa-2020-f36c47a0.jpg",ХАННА – Навсегда твоя
+https://v.mover.uz/c0T2V65m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/miyagi-amp-andy-panda-minor-mood-video-624c4822.jpg",Miyagi & Andy Panda - Minor
+https://v.mover.uz/IVdF195m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/basta-amp-zivert-nebolej-540efdab.jpg",Баста & Zivert – неболей
+https://v.mover.uz/PALK4C5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/shohruhxon-ilk-sevgim-a102bcb8.jpg",Shohruhxon – Ilk sevgim
+https://v.mover.uz/zGgzKz5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/levan-gorozija-feat-paanda-hudi-premera-klipa-2020-c3caeee5.jpg",Леван Горозия feat. ПААНДА – Худи
+https://v.mover.uz/ljNRmH5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/billie-eilish-my-future-5830048e.jpg",Billie Eilish – my future
+https://v.mover.uz/XUlgQ35m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/rasa-kukla-premera-klipa-2020-91b03da4.jpg",?RASA - КУКЛА
+https://v.mover.uz/Ghg0935m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/gryffin-amp-john-martin-cry-official-music-video-2020-d02dcab5.jpg",Gryffin & John Martin – Cry
+https://v.mover.uz/gHwfS2i_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/hensy-pobolelo-i-proshlo-premera-klipa-62e21cbe.jpg",HENSY – Поболело и прошло
+https://v.mover.uz/BGCh9vum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/hammali-amp-navai-a-esli-jeto-ljubov-premera-klipa-2020--7f7a71c7.jpg",HammAli & Navai - А если это любовь ?
+https://v.mover.uz/56Cdbpum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/emin-mmm-premera-klipa-2020-2b1c9d5e.jpg",EMIN – МММ
+https://v.mover.uz/QwdRQIum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/the-weeknd-snowchild-official-video-c6850bd6.jpg",The Weeknd – Snowchild
+https://v.mover.uz/NQF8RGum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/the-veronicas-biting-my-tongue-official-video-2020-5cd7acef.jpg",The Veronicas – Biting My Tongue
+https://v.mover.uz/IGPHdGum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/lp-the-one-that-you-love-official-video-2020-d1e94cfd.jpg",LP – The One That You Love
+https://v.mover.uz/EVFARRum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/maroon-5-nobodys-love-f7191345.jpg",Maroon 5 – Nobody’s Love
+https://v.mover.uz/a5XCUfum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/taylor-swift-cardigan-official-music-video-5cae5a62.jpg",Taylor Swift – cardigan
+https://v.mover.uz/YlPCUfum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/minelli-amp-inna-discoteka-official-video-2020-1d7a06e1.jpg",Minelli & INNA – Discoteka
+https://v.mover.uz/FCRcfRum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/vintazh-novaja-zhizn-premera-klipa-2020-c58bc1a6.jpg",Винтаж – Новая Жизнь
+https://v.mover.uz/Hg6zmGum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/aleksandr-rybak-pozadi-premera-klipa-2020-f9799000.jpg",Александр Рыбак – Позади
+https://v.mover.uz/42lAEBum_h.mp4
+#EXTINF:-1  group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/shokhrullo-abdullaev-lola-official-video-2020-9ab452d7.jpg",Shokhrullo Abdullaev – Lola
+https://v.mover.uz/Tz7Nm2i_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/munisa-rizayeva-dil-official-video-2020-b2255ea2.jpg",Munisa Rizayeva – Dil
+https://v.mover.uz/bk5OcQum_h.mp4
+#EXTINF:-1  group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/timati-feat-grigorij-leps-s-chistogo-lista-premera-klipa-2020-84824ea0.jpg",Тимати feat. Григорий Лепс - С чистого листа
+https://v.mover.uz/MIyNuVcm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" tvg-logo="http://topfilms.me/uploads/cache/shahlo-ahmedova-jurak-premera-klipa-52ff0644.jpg",Шахло Ахмедова - Юрак
+https://v.mover.uz/9yxqk8cm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/ternovoy-popkorm-premera-klipa-2020-2e580e22.jpg",TERNOVOY - ПопкорМ
+https://v.mover.uz/uw8mGvWm_h.mp4
+#EXTINF:-1  group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"tvg-logo="http://topfilms.me/uploads/cache/levan-gorozija-shtorm-premera-klipa-2020-008ac47a.jpg",Леван Горозия - Шторм
+https://v.mover.uz/XorQbecm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/klava-koka-tochka-premera-klipa-2021-34d7c2cc.jpg",Клава Кока – Точка
+https://v.mover.uz/vZXrqnDL_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/monaldin-femme-like-you-feat-emma-pters-5f58aa58.jpg",Monaldin – Femme Like You (feat. Emma P?ters)
+https://v.mover.uz/c01tuBxf_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/iowa-amp-elka-jabloko-akustika-2021-76efa05e.jpg",IOWA & Ёлка – Яблоко (Акустика 2021!)
+https://v.mover.uz/8qDwAFKa_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/icona-pop-x-vize-off-of-my-mind-lyric-video-ultra-music-50c86bf8.jpg",Icona Pop x VIZE – Off Of My Mind (Lyric Video)
+https://v.mover.uz/JVKRrjeV_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/stan-but-its-only-dido-slowed-w-reverb-e6278487.jpg",Stan but it’s only Dido (slowed w reverb)
+https://v.mover.uz/TS5DVskZ_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/loboda-indie-rock-vogue-premera-klipa-2021-3686f523.jpg",LOBODA – Indie Rock (Vogue)
+https://v.mover.uz/pQrjvcyQ_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/basta-ft-skriptonit-raj-on-niman-remix-ce1064a7.jpg",Баста ft. Скриптонит – Рай. он (Niman Remix)
+https://v.mover.uz/iIzRVjyY_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/matrang-zamanchivaja-premera-klipa-2021-4d9384fc.jpg",MATRANG – Заманчивая
+https://v.mover.uz/GgiWwAoe_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/jay-wheeler-take-my-life-ft-tyla-yaweh-official-video-546dcf52.jpg",Jay Wheeler – Take My Life ft. Tyla Yaweh
+https://v.mover.uz/phUzJRN0_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/tiesto-amp-karol-g-dont-be-shy-official-music-video-e072fcaf.jpg",Tiesto & Karol G – Don’t Be Shy
+https://v.mover.uz/3qI6aNAs_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/black-eyed-peas-saweetie-lele-pons-hit-it-official-music-video-bd942909.jpg",Lele Pons – HIT IT
+https://v.mover.uz/Lmtjuwdy_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/sub-urban-amp-bella-poarch-inferno-official-music-video-e626724c.jpg",Sub Urban & Bella Poarch – INFERNO
+https://v.mover.uz/bIfq5bwM_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/munisa-rizayeva-ayrilding-76f88c57.jpg",Munisa Rizayeva
+https://v.mover.uz/IXB3wdO1_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/eminem-higher-official-video-explicit-4e66a4d4.jpg",Eminem – Higher
+https://v.mover.uz/sJ2OuQVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/dan-balan-amp-indi-dyshat-o-ljubvi-official-video-2021-fc5dfc2f.jpg",Dan Balan & INDI – Дышат о Любви
+https://v.mover.uz/Zv6X84Vm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/ozoda-ft-zulaykho-mahmadshoeva-leyli-official-video-2021-e223ad8c.jpg",Ozoda ft. Zulaykho Mahmadshoeva – Leyli
+https://v.mover.uz/wIbHh7Vm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/yulduz-usmonova-yurak-official-video-2021-c1abc83e.jpg",Yulduz Usmonova – Yurak
+https://v.mover.uz/oQZ7GeL_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/morgenshtern-cristal-amp-moet-klip-itogi-2020-goda-d3ba908d.jpg",MORGENSHTERN – Cristal & МОЁТ
+https://v.mover.uz/iQ5s6UVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/basta-belyj-kit-9e5ffbc7.jpg",Баста – Белый кит
+https://v.mover.uz/Ii0wRuVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/dora-vtjurilas-65e0799c.jpg",Дора — Втюрилась
+https://v.mover.uz/gWFyPqVm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/shohrux-ummon-ketarsan-shohruh-ummon-ketarsan-b81d0c25.jpg",Shohrux (Ummon) – Ketarsan
+https://v.mover.uz/JYmmCx7m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/timati-vs-egor-krid-zvezdopad-af3ec47f.jpg",Тимати vs Егор Крид
+https://v.mover.uz/0aOfQ97m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/yorqinxoja-umarov-amp-abbbose-margarita-official-video-2020-1ef16d0b.jpg",Yorqinxo’ja Umarov & Abbbose – Margarita
+https://v.mover.uz/6R877Z7m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/ozodbek-nazarbekov-inson-qasidasi-oda-o-cheloveke-human-dc25a696.jpg",Ozodbek Nazarbekov – Inson qasidasi
+https://v.mover.uz/VLNgWU7m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/via-marokand-alma-via-marokand-alma-039acfb8.jpg",VIA Marokand – Alma
+https://v.mover.uz/Rd9d5B5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/hanna-navsegda-tvoja-premera-klipa-2020-f36c47a0.jpg",ХАННА – Навсегда твоя
+https://v.mover.uz/c0T2V65m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/miyagi-amp-andy-panda-minor-mood-video-624c4822.jpg",Miyagi & Andy Panda - Minor
+https://v.mover.uz/IVdF195m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/basta-amp-zivert-nebolej-540efdab.jpg",Баста & Zivert – неболей
+https://v.mover.uz/PALK4C5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/shohruhxon-ilk-sevgim-a102bcb8.jpg",Shohruhxon – Ilk sevgim
+https://v.mover.uz/zGgzKz5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/levan-gorozija-feat-paanda-hudi-premera-klipa-2020-c3caeee5.jpg",Леван Горозия feat. ПААНДА – Худи
+https://v.mover.uz/ljNRmH5m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/billie-eilish-my-future-5830048e.jpg",Billie Eilish – my future
+https://v.mover.uz/XUlgQ35m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/rasa-kukla-premera-klipa-2020-91b03da4.jpg",?RASA - КУКЛА
+https://v.mover.uz/Ghg0935m_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/gryffin-amp-john-martin-cry-official-music-video-2020-d02dcab5.jpg",Gryffin & John Martin – Cry
+https://v.mover.uz/gHwfS2i_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/hensy-pobolelo-i-proshlo-premera-klipa-62e21cbe.jpg",HENSY – Поболело и прошло
+https://v.mover.uz/BGCh9vum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/hammali-amp-navai-a-esli-jeto-ljubov-premera-klipa-2020--7f7a71c7.jpg",HammAli & Navai - А если это любовь ?
+https://v.mover.uz/56Cdbpum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/emin-mmm-premera-klipa-2020-2b1c9d5e.jpg",EMIN – МММ
+https://v.mover.uz/QwdRQIum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/the-weeknd-snowchild-official-video-c6850bd6.jpg",The Weeknd – Snowchild
+https://v.mover.uz/NQF8RGum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/the-veronicas-biting-my-tongue-official-video-2020-5cd7acef.jpg",The Veronicas – Biting My Tongue
+https://v.mover.uz/IGPHdGum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/lp-the-one-that-you-love-official-video-2020-d1e94cfd.jpg",LP – The One That You Love
+https://v.mover.uz/EVFARRum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/maroon-5-nobodys-love-f7191345.jpg",Maroon 5 – Nobody’s Love
+https://v.mover.uz/a5XCUfum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/taylor-swift-cardigan-official-music-video-5cae5a62.jpg",Taylor Swift – cardigan
+https://v.mover.uz/YlPCUfum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/minelli-amp-inna-discoteka-official-video-2020-1d7a06e1.jpg",Minelli & INNA – Discoteka
+https://v.mover.uz/FCRcfRum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/vintazh-novaja-zhizn-premera-klipa-2020-c58bc1a6.jpg",Винтаж – Новая Жизнь
+https://v.mover.uz/Hg6zmGum_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/aleksandr-rybak-pozadi-premera-klipa-2020-f9799000.jpg",Александр Рыбак – Позади
+https://v.mover.uz/42lAEBum_h.mp4
+#EXTINF:-1  group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/shokhrullo-abdullaev-lola-official-video-2020-9ab452d7.jpg",Shokhrullo Abdullaev – Lola
+https://v.mover.uz/Tz7Nm2i_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/munisa-rizayeva-dil-official-video-2020-b2255ea2.jpg",Munisa Rizayeva – Dil
+https://v.mover.uz/bk5OcQum_h.mp4
+#EXTINF:-1  group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/timati-feat-grigorij-leps-s-chistogo-lista-premera-klipa-2020-84824ea0.jpg",Тимати feat. Григорий Лепс - С чистого листа
+https://v.mover.uz/MIyNuVcm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"   tvg-logo="http://topfilms.me/uploads/cache/shahlo-ahmedova-jurak-premera-klipa-52ff0644.jpg",Шахло Ахмедова - Юрак
+https://v.mover.uz/9yxqk8cm_h.mp4
+#EXTINF:-1 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/ternovoy-popkorm-premera-klipa-2020-2e580e22.jpg",TERNOVOY - ПопкорМ
+https://v.mover.uz/uw8mGvWm_h.mp4
+#EXTINF:-1  group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="http://topfilms.me/uploads/cache/levan-gorozija-shtorm-premera-klipa-2020-008ac47a.jpg",Леван Горозия - Шторм
+https://v.mover.uz/XorQbecm_h.mp4
+
+
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Безотносительно
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/GagarinaPolina__Bezotnositelno_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Бабочки
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/GagarinaPolina__Babochki_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Вода
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__Voda_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Навсегда
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__Navsegda_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Вчера
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/GagarinaPolina__Vchera_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Оставить след
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/ostavit_sled.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",На расстоянии
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__NaRasstoyanii_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Камень на сердце
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/gagarina__kamennaserdce_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Смотри
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Gagarina__Smotri_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Меланхолия
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/gagarinapolina__melanholiya_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://static.1tv.ru/uploads/project/member/image/2023/02/08/1113/big/1113_big_4380f377c0.png",Выше головы
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/gagarina__vyshegolovy_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Царица
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/AstiAnna__Carica_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Верю в тебя
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/AstiAnna__VeryuVTebya_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Как любовь твою понять?
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/JONY_AstiAnna__KakLyubovTvoyuPonyat_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",По барам
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Asti__PoBaram_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://cdn.tvspb.ru/storage/wp-content/uploads/2023/02/fotor_2023-2-2_12_21_58.png__0_0x0.jpg",Феникс
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/AstiAnna__Feniks_9.mp4
+
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Ты со мной или нет
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Dj_Smash_KravecMarina__TySoMnoiIliNet_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Позвони
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Dj_Smash_Nivesta__Pozvoni_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",CO2
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Artik_Asti__CO2_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Амнезия
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/Smash_ChebotinaLyusya__Amneziya_9.mp4
+#EXTINF:0 group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ"  tvg-logo="https://echoperm.ru/upload/files/2022/5/6/4750017.ZN8n2r.jpg",Не переживай
+http://cache-rmg.servicecdn.ru/rmg/streaming_rutv/video/smash__neperezhivai_9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13WSJjs4/Music-Video.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ", Топ Лучшие Русские Хиты 80-х и 90-х HD 720p
+https://v.mover.uz/M81PJcfV_h.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13WSJjs4/Music-Video.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ", Топ Лучшие Русские Хиты 90-х HD 720p
+https://v.mover.uz/DzzdvTl_h.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13WSJjs4/Music-Video.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ", Топ Лучшие Русские Хиты 2000-х (1 Часть) HD 720p
+https://v.mover.uz/E6BBDm1U_h.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13WSJjs4/Music-Video.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ", Навсегда - концерт группы Винтаж в клубе Известия Hall HD 720p
+https://v.mover.uz/YokK3k5m_h.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13WSJjs4/Music-Video.png" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ", Первый сольный музыкальный концерт Артура Пирожкова HD 720p
+https://v.mover.uz/M0heryLm_h.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cz9mfOHKPJc/maxresdefault.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Gareth Emery Live at Ultra Music Festival Miami 2022
+https://v.mover.uz/lKIHuRXt_m.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn1.ozone.ru/s3/multimedia-d/c600/6407386345.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Кино - Последний концерт (Лужники) реставрированный звук
+https://v2.catcast.tv/videos/ch40908/171120210453_112762/video.mp4
+
+#EXTINF:-1 tvg-logo="https://static.mk.ru/upload/entities/2021/07/22/17/articles/facebookPicture/90/05/c6/e1/5c701d4e1532fdbad23bbe02ba772362.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Концерт Полины Гагариной «Навсегда».2023
+http://balancer-vod.1tv.ru/video/multibitrate/video/2023/06/16/47235d04-a269-46aa-a609-f14b1826ef0a_HD-news-2023_06_17-00_02_41_3800.mp4
+
+
+#EXTINF:-1 tvg-logo="https://aif-s3.aif.ru/images/028/319/dbf2efb2fadd40f0faddfaa9439af929.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" ЮРИЙ ШАТУНОВ – КОНЦЕРТ В МОСКВЕ. КРОКУС СИТИ ХОЛЛ
+https://v.mover.uz/FmMXVtJ3_m.mp4
+
+#EXTINF:-1 tvg-logo="https://best90.ru/wp-content/uploads/2018/01/pesnya-99.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Подборка Лучших песен на Фестивале «Песня Года 99» Новогодний Фестиваль
+https://v.mover.uz/M81PJcfV_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M8-3S3d4JVc/maxresdefault.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Фестиваль Жара. Игорь Николаев.
+https://v.mover.uz/HzFzar6q_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pongr19RvWQ/maxresdefault.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" МузЛофт – Концерт | Денис Клявер.
+https://v.mover.uz/eUshoHoA_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NRmUsDEMqwE/maxresdefault.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Гала-концерт. Открытие фестиваля ЖАРА.
+https://v.mover.uz/ZLe5xkfi_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Sw77VOrCW7o/hqdefault.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Выпускной 2022 авторадио
+https://olsib.at.ua/playlist/vypusknoj_2022.m3u
+
+#EXTINF:-1 tvg-logo="https://i.mover.uz/4MZrrUF9_th.webp" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Beyonce – Renaissance World Tour (Live in Cologne) КОНЦЕРТ 2023
+https://v.mover.uz/4MZrrUF9_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.mover.uz/PrhatOM_th.webp" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Топ Лучшие Русские Песни и Хиты 2000-х (4 Часть)
+https://v.mover.uz/PrhatOM_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.mover.uz/iLglUXsu_m1.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" Status Quo – The Last Night Of The Electrics
+https://v.mover.uz/iLglUXsu_m.mp4
+
+#EXTINF:-1 tvg-logo="https://i.mover.uz/Hgm8fv7m_m2.jpg" group-title="RUZIEV КОЛЛЕКЦИЯ КЛИПОВ" ZIVERT – Лучшие Песни Авторадио | On-Line Концерт 2020
+https://v.mover.uz/Hgm8fv7m_m.mp4
+
 
 
 
@@ -2636,6 +3019,59 @@ https://v.mover.uz/GNUuPyXi_m.mp4
 https://v.mover.uz/9NdKpseR_m.mp4
 
 
+
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Sandra 
+https://v.mover.uz/rUXIFdrm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Минаев - Вояж 
+https://v.mover.uz/CiJe0ZD_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Modern Talking 
+https://v.mover.uz/zbtLU0Sm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Видео-17
+https://v.mover.uz/5idtuvA_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Modern Talking 
+https://v.mover.uz/0RICkdrm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Disco 80x
+https://v.mover.uz/oIxWSTom_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Voyage Voyage 
+https://v.mover.uz/x9rJFdrm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Барыкин - Букет 
+https://v.mover.uz/NeshnQJm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Modern Talking 
+https://v.mover.uz/djPYsmnm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Modern Talking 
+https://v.mover.uz/JuCNdmnm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Розовые Розы
+https://v.mover.uz/rZ5RY0rm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х", Прощай Алиса
+https://v.mover.uz/pRqu0tD_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Видео-30
+https://v.mover.uz/DcoNJI9m_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Божья Коровка 
+https://v.mover.uz/K6D4nQJm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х", Юра Шатунов - Розовый вечер 
+https://v.mover.uz/8wsyw4rm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Pretty Young Girl 
+https://v.mover.uz/exOKYv1m_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Modern Talking 
+https://v.mover.uz/x4W2dmnm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Видео-35
+https://v.mover.uz/ZFkgU0Sm_m.mp4
+#EXTINF:-1 tvg-logo="https://cdn1.intermedia.ru/img/news_x400/338494.jpg" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  Видео-36
+https://v.mover.uz/jWSUU0Sm_m.mp4
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-design-beauty-name.png" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  14*
+https://v.mover.uz/DcoNJI9m_m.mp4
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-design-beauty-name.png" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  18*
+https://v.mover.uz/lCozSI9m_m.mp4
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-design-beauty-name.png" group-title="RUZIEV+ IPTV| КЛИПЫ 80х",  21*
+https://v.mover.uz/z1utafAy_m.mp4
+
+
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-design-beauty-name.png" group-title="RUZIEV+ IPTV| КЛИПЫ 90х-00х",  Дискотека 90х Русское Радио
+https://v.mover.uz/A65akS5m_m.mp4
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-design-beauty-name.png" group-title="RUZIEV+ IPTV| КЛИПЫ 90х-00х",  WMC 90e
+https://v.mover.uz/w3lQTgy_m.mp4
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-design-beauty-name.png" group-title="RUZIEV+ IPTV| КЛИПЫ 90х-00х",  MakSim на Авторадио
+https://v.mover.uz/h39NbNWL_m.mp4
 
 
 
