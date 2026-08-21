@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/20 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/21 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -12,12 +12,1359 @@ http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
 
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f394c1e1fd7f124b7055_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  QAZAQSTAN HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T3xeqeRFBBFKEVmIfWpGBpg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d97ce7966ce11288f6da_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Хабар HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tj7GZehymJdB80qLV0XIKFA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4fabe939b7848b8da9f4_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  24 KZ HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5K0AmTDNhZzrZv42HTX4XA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c98d3adc823184b0f91e_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Balapan
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TAs2VMXckwxQwtqiyq35O9A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/cbdfd0250cf754f0fc0f_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Ел Арна
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tb7ga75i6hwRg72DmJYHJAA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/eb5611749672102f2dfc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Qazsport HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tbrk9q6f86MyBjGbxmIiXLQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/83db4cd15402564d097d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Седьмой канал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TpumlpID1k1UT9-pXsnSwXw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bb63d4c9b9c02a2a7012_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  МИР
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TH6AfOJvG_CXFoo32Y0TORA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5280ff4bf6e0d33905b5_250x250c.png" group-title="GRAND PLUS | BEE TV",  Jibek Joly
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TB7mZRAk3FS09x1XZwlD9XA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/58266f3d1c0c4632c1ca_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Astana TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TzMUSVvqR8phTKa_ZzUurLw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/df5f7874ff1a1c33fa0e_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Первый Канал Евразия
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9THMrRDjhEv7FN_0zZWwkOEg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d613572346470332a4c0_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  31 Канал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TP8IR3Lfu_G2WXmHYlK49bQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1f986b02f777d1ddcaf8_250x250c.png" group-title="GRAND PLUS | BEE TV",  НТК
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TkWYLN0RvdVQ30TzA4PiR0w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/33fb6e40599d0b8232f4_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  МИР 24
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T8B8I4GbLDR2BmYsi-0fHvQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/012065b77c4abb90203a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  HIT TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TlowFv7oHfB-ItdDqK7cjBg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3a704c7f24401062235c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Жетiсу
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tzn3n2tRsHEC-H8FHBrs_gQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bf659e05e40799d73fb7_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Новое Телевидение HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TPw1EMuPouTYeeREhMpJMTQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e7acccc58e54e856cc00_250x250c.png" group-title="GRAND PLUS | BEE TV",  Atyraý
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T3s9Jb5_peZPxY9mZT-HBOQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/470f35933527720e805f_250x250c.png" group-title="GRAND PLUS | BEE TV",  Mańǵystaý
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TNrKEPuNDlnEoxNPk25p_0A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2e00ee4763f0c6dcc242_250x250c.png" group-title="GRAND PLUS | BEE TV",  Ońtústik
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TqazNrtexUluBemElRzTv9A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2249a87b25965efb77a1_250x250c.png" group-title="GRAND PLUS | BEE TV",  Qostanai
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TWHd_S3YIfmzrO5ANbEc7fg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/aa8dc720ca99d8931b2a_250x250c.png" group-title="GRAND PLUS | BEE TV",  Altai
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TOzwNFiOGL-trb2vopwiynQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/36cd311b355ec611948b_250x250c.png" group-title="GRAND PLUS | BEE TV",  Aqjaıyq
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TXThWTIGuthGQbkcxxXMPrA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a651d1a8dd8cd4d734ed_250x250c.png" group-title="GRAND PLUS | BEE TV",  Qyzyljar
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TXSBft_0-PCIxi8nME-uRww&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ac269a9df8e491dae94c_250x250c.png" group-title="GRAND PLUS | BEE TV",  Saryarqa
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TcUbfShFw8KMeyUCchzp66Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/25fe4b72a368842235ae_250x250c.png" group-title="GRAND PLUS | BEE TV",  Kókshe
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TtG6ez60S5ObgECA6gssWMA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3a40cac8909d8e1e5268_250x250c.png" group-title="GRAND PLUS | BEE TV",  Qyzylorda
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TTCL0jt-Y9Sgk8gwYjc4qPQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d3a0f07a78459f72dff3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Туркестан
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TKZC_T5R8NKvcfHA7WHINEw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/336594933b0c4401f221_250x250c.png" group-title="GRAND PLUS | BEE TV",  Алау ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9To-ytWvBCxCkV8h5pzJTC3w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a54aa41ba87cb21a3b9c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Инфоканал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TAGYZYmaYcriv5nx1sMoIKA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0cb1126f7de8bc85996c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  77 TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5XTFe4XYtouEZ0LH9bw8tA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/792e45f994751837d719_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТДК-42
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TelTXws75S3miRGhyqKUbPw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/97e0047084cd9109f473_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Твоё Телевидение
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T-brk9tt_ysOJxpepyIz3sg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a94d611c073a18ff6a8d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Turan TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TaDCBGxk6VTbIfNiXpwBjpA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5168e66b61e286a3a5ab_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Ирбис TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TbFn1AJydv9Hn9sl86GMGwA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/996f7bb2fd73611384b3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Айғак
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TnUPyhcEkO58mN2nFyB_Y_w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4596b71a2e7bb074eff2_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Отырар-TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TqY9Mwcw6BBYXwrnJIbNK5g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f44df35fc0efaa3e9247_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  РИКА-ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TUThejLRHS1wOhul1vd1wlA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/046e9f831ff7030ca35a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТВК 6
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TZUASzjuEu-Kb-Nb2yS4-rg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1098e7fe3d1dfc5a6294_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Лёва
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TCLTZb57lTn7gAyeIprtu0A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a2d1d65fd9162bc53420_250x250c.png" group-title="GRAND PLUS | BEE TV",  5 канал (региональный)
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TPtmuo1rhOfK4yF-TU62wVg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/996c7b534d88c1b7d815_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ULYTAU
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TlGy1yRHlFytnjrEEXF7KPQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/72f252b4a59c7cda13c9_250x250c.png" group-title="GRAND PLUS | BEE TV", Первый Карагандинский
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TrHPHa3t8Lr4AsI4iLP3yGw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/74a43517914e5c16e51b_250x250c.png" group-title="GRAND PLUS | BEE TV", Тараз 24
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TD_necnAwXFCzweBIVS8BLA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/021f2cf763cff139f87d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ABAI TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TyR-qO58pN8gd-QPLreDnBg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ed87052b6b1741e925c1_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Gulli Girl
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tpfh-eB_bPAN3drW1mfTNTA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bdbb68cdc994bfd26078_250x250c.png" group-title="GRAND PLUS | BEE TV",  Almaty tv
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TZeHYQpABMlb97r5YgxlOIA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/807a4f567cfc534bf0b8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Мультиландия
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TuR5K-XA4f2cNznxVFusJkw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b98e70d39d18bb58f626_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Nickelodeon
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TXlLipm58ssNucVw0cCvp7w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/55eef279b9257e6d84ed_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Мульт
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TltG1X15CCZWgvqXFJyEivA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a684ca1af2d52dd50908_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Cartoon Network
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9THdX4pReLETKt2Gm3Te_avw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d7c89d4f67ed145129e1_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Nick Jr.
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TlE1PE7FshxdfcxT-N59u2w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1184b670e38f3de99eba_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  В гостях у сказки
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tv3BG0_iBCaUjFAr9-EEflg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2f41ae1cfd0a3484ec0d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Cartoonito
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5bQM57nRBzMtoAmaPN1atw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/32e29485276b658399d8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  О!
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tie0U8d9yeE5Bvjd2O57wfQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2d992aa3f2994632e1ab_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  СТС Kids
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TqIbLmEeyDeROrrbkrYFmlw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/6024edd71e3a9bd24091_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  TiJi
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Ty2hSigln8QHW-yMhFWIt0A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/83ff181b98f356dec588_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Карусель International
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TPo5jQp0jRrvituUZeHsqGg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f634acdbde08b2fcfa6f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Уникум
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TbBip37J3k4LyUf9rkkJkNA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d39cc56e171fc25477d8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Премиум Кино HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T-vjQK_WuG1Eq5IWY_027QQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/931417f051d5a61e31d2_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Мировое Кино HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TXzC_Xh1Ac_7UGrlToEeroA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/925fe38b08dc1c32a56c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Семейное кино HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TtyYVJfrtRhVaZGe_OljB_g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e118a58d83e7adb86bc4_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Кинобоевик HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T2Xl24rRcaHe6JPi1kSqWKw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/736fdff0e132eabaa0bd_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Детский мир
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T7ujLbp9h9PGIx2pmfv5tbg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9787cce6dd15d3ecf245_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Nicktoons
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TBTaHGJfIq_qutIv6M9ayHw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1eb0177cee564bf3a1dc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Любимое Кино
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T92E1orNFQrFxjwc6ZQoYZQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/641f8114b9b438930c0c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Red
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TMwqA-sDUxhkJWF08suGl2Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bd8bd5a9e0f2ca51232c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Дом кино
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T8WZoxJygv_e_xjDFB2A9cA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c5d89182b2e89afbb7bf_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Comedy Central
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TAtUPLi9kRGaBEMAYfUfNFg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bd3018283b5c4fa6828d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Black
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T9MnPeOaoqDnHOivBpEld0A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bc9381fe8416c6dbaf5c_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Киносемья HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Ts8vfvsOMF5Lbha4y4xyaEQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ad24338ea1399716b4bc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Hollywood
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T1NkOMYSOM1jnhu8oWpyG5g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2d6d65687762d4169948_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Иллюзион+ HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T2sLfFaNuemBQK6ZHrQxY_w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8b3d005ec7c25eb978d1_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  CINEMA
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TUEtM1M6VGqtE06bUEOrjDA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/01f19b4e63eed355f4ac_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  A2
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tc_sWsjrLwUrUKEwnBIowzw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/14ee97a02055256b9c3a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Amedia HiT HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TWa4gju1AiLF1CgVyKtoeSg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/338b091eeb92e8af6054_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  FlixSnip HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tra7VsXdi7hO-TEgJLrWLpA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/03572df041ccc011f56a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Русский Иллюзион
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TRxwdssGmyTXCeuQMXs5gOQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/950335d9208c45f67f52_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Еврокино
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TnX6zGoJKhepgVg6EckoAoA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f07fb448cfa2f97e8fca_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  FOX HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TaP0qlikdVxy2wYC2dDUGYA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ab4e0a5e86f65a9384c8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  FOX Life HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TY22bOkqMyF6nBmjsWsLqZw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a533bfdd1b3959419d76_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Дорама HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TcXcgrOxE5gEHe8LNsCHOWA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1848f6358e409863873f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Sci-Fi
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TNrobepbf6yAE_BgACLPC3A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4823051d2a4658759c89_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Кинохит HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TEbklNeurC-S1yIoHCP86cQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/53aec0995f3c951f55be_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Кинопремьера HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TEj9jmEsvPqsai-B3P5WCpg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ee77310472d12817f3b0_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  НСТ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TEym8fIDuOWh8Wa82vkO_rQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/413703cd93b7e48461eb_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Amedia Premium HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Trcee77RUbEQf1sTBnS8ABg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d5e51a075132a153e042_250x250c.png" group-title="GRAND PLUS | BEE TV",  Alem 1HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9ThBynJjz91eAkqX_2NY3FJg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/cd852920e9da99d9c68a_250x250c.png" group-title="GRAND PLUS | BEE TV",  Alem 2HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T_i-LRUtHAiethkKgdJ8vjg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ac8dbf89759c78b0e716_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  A1 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TWIgood-QXLYLumHPZS4C2Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e2437aa2d9991403526a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Коктем
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TQPKZ-N9cG3HeK8LVmBvd7Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/356cfdf8e7851ae9427f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Дом кино Premium HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TunRo-mKXoRVBG9nvAknYpw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f2aa80a1e591779a27d6_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Победа
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T4DwG7jIqkfwqQUjsWg2zFA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e87887bcd937d299df7f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  FILMUADrama
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TR1wMBXlngOvF-a7kBzGNDw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a853ea93e2fc6cfc8ca8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТВ 3 International
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5wHaB0n3eGpQECcLBFCxZA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b313e2337b1f828ecc89_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Fashion & LifeStyle HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TZr-xMpSVUsj6CJ0VI4S4cw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/26f46c37590479c062d1_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  National Geographic HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TOEoTozSs6weVtnEFwHkTew&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b3c6b1bfebea5587e749_250x250c.jpg" group-title="GRAND PLUS | BEE TV", MTV Live HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tu8AbbbtGTHDlpUM0hBQCnQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/67706d003bbd73d411eb_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  RTVi HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T2jBC_Nad3ZnKVf9FvQMA4g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d1b5edc46bb7390fec90_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТВ Центр
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T6GpfAnVDCp9LGiYvjwNkGw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5fd002fd71e1535636a7_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Первый канал СНГ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TdxA9QTuxcoLlTtV9Q5L2uQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ad55cc9f9f41d204c901_250x250c.png" group-title="GRAND PLUS | BEE TV",  НТВ МИР
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TiuN9141kworlvmTEp8-UxA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3e74b2404d12e936deac_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Россия 24
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T3eFjRIUDOyYTN9Qx2RZB3A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4dc78b5251f843286c9a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТВ21
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TQ4LU2P4P-TQSPC3awuKkFQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/508da11c3623f20a8ce9_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju+ Comedy HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TqCjmxXCnDaWYvfN62j9X6Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/7ca513ff37d3daff6043_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju+ Megahit HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Th2MVkUnPLfVfTBnGZLcbjw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1f5ee41ceb1b95288a84_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju+ Premiere HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TZNG4IYOqrzO2QGYUkyCSMQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/afed2efc7a6451ad92ff_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Киноман
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TLiz-TN9MNCi1G7AlsBb3JQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ac56289e41bc5a0e44fd_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju+ Serial HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TaqY9uxD8eKgYRQ04KZ9V9Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8de23d6f38a715d9f4dc_250x250c.png" group-title="GRAND PLUS | BEE TV",  Кинеко HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TGkvqZU1-8vCChIQEJm7pzA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0ba169f16ff9f5c3d2d9_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Q Football
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TGiEvDmOzXr7QXLZQx-H97w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/dfc8d9e511e3ee1f0d66_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Сапфир HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TuwGkwVDWoVmocgPjgdT7Yw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/384823ef75ae9b2c7691_250x250c.png" group-title="GRAND PLUS | BEE TV",  НТВ Сериал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TlbSpfTh4Cf3cYNVFv1FlvQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/65c82dc649943173632b_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Trash HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T31kfs7pomHXUN7gSzQC9Ow&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/489663ca06faf18de375_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  EuroNews
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TclEh8lbb_PjTBHFOF_HYYg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/62805ab6a73164be8ea7_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Беларусь 24 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5urkdhazS_tW_KVLQ3EApQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d958f66ef19c33594da7_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Trace Sport Stars HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TNA6clYHa02bptCsvrgwT9A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/94e695bee4aef4a9f43d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  8 канал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TijbSQb5HogmoLsEs30h7tA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/04438ea1262643ec9dec_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Sport plus
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T6iHgXHMF8UNi7XJxLq8mmg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/7e2ca919041d71271ee2_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Пятый канал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tp18A61qZNkFHwQ-3HBkY6g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ae6a47ee560ebd9b6d79_250x250c.jpg" group-title="GRAND PLUS | BEE TV", France 24 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TDw8DdNjfQVrDsMYH3v7CfQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ac19c432667678acc915_250x250c.png" group-title="GRAND PLUS | BEE TV",  Start.Air HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9ToE42LfOxUedUrf7mYBrf0Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0dfbaf0e1e0a6e3566f4_250x250c.png" group-title="GRAND PLUS | BEE TV",  Start.World HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TGjmAuL4IR055vcKBtTKrZA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0176f494974cc6c829b2_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  CNN International
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TeCIzteITCjAJYWrSDz3YnQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/26f96007eaec469fefd6_250x250c.png" group-title="GRAND PLUS | BEE TV",  Q Arena
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TeZ7h4bK525tOr8zAZN-_Rg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/38ba32f7edc3c3befe39_250x250c.jpg" group-title="GRAND PLUS | BEE TV", МАТЧ! Планета
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T9WWVeD2vnDSB5g3cNXPhZQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0536f61f9e9880cfbd7b_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Q Live 3
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TfjWDHdk4TMop0uT69XKCHw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b3300d773839481c0c04_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Q Live 1
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TGmOZRtugasuX7iXrpgLUdw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e29475f40d24a420f230_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Q Live 2
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9To67YAYBCg1Sn435kWRIyGw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ac12d6628c863d97ad73_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Q Live 4
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TDPxlMpYjK8oYGRiZjyhElg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/580f3cdf962aa1ac3c73_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Точка отрыва
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T99xHv4vg3jX4x1JM_dNpuA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bec207d41468eb586662_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Atameken Business Channel HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5ClaqqPYpHEyJ0SMFa2spQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9750eccff90f771c5575_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Eurosport 1 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tz43SKU6ZNNBMtgRnW5QosQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/04d36e667f60c837c80b_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju+ Sport
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TR1bY3QJWsWWwj451qNYosA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d9bf58ff035828b2091d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Удар HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TBkjP3G9NeM_aoMtQzJmo0w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c78290b38b649decd1fe_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju TV1000 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TenTZoP4qDt4Rj_8bXVTvzA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/591658c02ebafa06ad8e_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju TV1000 action HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TExaAP0B4n-D7boXrwgW5Rw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/150294d184cbafa5fd81_250x250c.png" group-title="GRAND PLUS | BEE TV",  viju TV1000 русское HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TDLTjahvIp9jVj7esLilAow&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/211e83fca3c97811241c_250x250c.png" group-title="GRAND PLUS | BEE TV",  Big Planet HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tid03cmewUXdkbuzj0s8H3g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/933fdce25fe31c5057ce_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju Explore HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TDuiicqY4YlfOLxmT1S3lQQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1461bf35581f5872bda5_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju History HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T04N67XSwmVjyDSZn-21h1g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e8b639c1bfa6963f68c0_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  viju Nature HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TUvCsgIamQRoK7khRzzY_IQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1df3cae3a2d7236bcecf_250x250c.png" group-title="GRAND PLUS | BEE TV",  Da Vinci Learning
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T9UL3lU8u2FD8EUjQxiAh2g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/07d41cbd4777e7407a90_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Бокс ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TBMONO0qIwN-ejj8-bhdAEg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/571ca62a7c864cf0f24f_250x250c.jpg" group-title="GRAND PLUS | BEE TV", TRT AVAZ HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TSjaxYm9esrBe-q81u5vbFA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/07f506af71cb9d4452d6_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  РБК
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TMJdcB1J0DZGxH3Kts_Iuqg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/31a505df5ee3b1143d71_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Trace Urban HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TMqc0KwgimSS-Xh22d_aRXA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ed43ba5b93d2617c2b70_250x250c.jpg" group-title="GRAND PLUS | BEE TV", KHL Prime HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T55nLP52o5r_VRvKfadSRLg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/04ae4484265995cc34c3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  EuroNews English HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TuNnYpggsxrGFGJB2JWP8tw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/91bab804e588759773bc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Eurosport 2 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TcgQoWQnaJ9AbbsLhOzVWSg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8f0735b9721c241a73a8_250x250c.png" group-title="GRAND PLUS | BEE TV",  Setanta Qazaqstan HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TnH0zeoM1TfZhtfiswPdvZA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/de5ddfdae49ecdc332bf_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Setanta Sports 1 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TPWCuK4C21aEhGz_3JX1tcg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ea7ef86f1cf21f5d3e8f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Setanta Sports 2 HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T6U803H2i-hz4F70vfxq4GA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1d0be1c01422ab865f3f_250x250c.png" group-title="GRAND PLUS | BEE TV",  Q League
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tjj2dlZzSSuDBB6GgiNpmvg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/14b072806fc95af1e801_250x250c.jpg" group-title="GRAND PLUS | BEE TV", MMA-TV.COM HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TZuoGM_JpggY9A-kakf3v9A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/735197bec51201759a24_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Загородная жизнь HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TPzXKFuqmtcwWUFjiqIwHvQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/67a3748eb961f8d9f704_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТНВ-Планета
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TAh5zzZCWewqGWmKVB0sKdw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d0e581171cc8146af039_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BBC World News
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TNt9nff6gmgAAsBxBFm62ew&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/6cf8328ce8ef4791f2dc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  РТР-Планета (Россия)
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TODPVkZQlfdcNg9M6pbULcQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b84d5e0d014ff24e3352_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Caspian News
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T7NOJJr2q6ZeLV_p4s6rlxA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/829566763ea4d7de808f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Музыка Первого
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TmZPWBPM3pOPt9x8lJQADZw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/7a43e81a69da45ffab0d_250x250c.png" group-title="GRAND PLUS | BEE TV",  Мир Сериала
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T_dI1uCqNWV9BqOFKZex-dA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c753f7050f8a610c0a6e_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Gakku TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TKg8iDTNhrQF-uwitPUKxlg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/734ce9b9c724caf3625c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Шансон ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TboOFV81bB-Mb1N46oRv-FA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d4ae69aad37c3f7dc28c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Той Думан
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TanD4sdx4mD_AG7feShBaVg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/da2471fe84ef9cdaa860_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  MCM Top
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T60B6Mq4-pjt0MXqqwKYCWA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5cf9603c40f442948422_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Mezzo
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TyhINq9hi0fEZrm3IjugZWQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4b191d0f25361f5d9f5b_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТНТ Music
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TCDviW6X5axgJErkg8dCvgg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/134d12c5cdd84feafe02_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  MUZZONE
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T6SpGX5OrvVtkuyqcPtxwPw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2c5f9366d22b50ea1f8c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  1HD Music Television
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TDTwde70-FE9pgpzbNMD-EA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c14ad735d48369db6504_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Наша Тема
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TYp-5NOWlepzg1rhDjRfWnA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8ef2f22fd1c48a054c68_250x250c.png" group-title="GRAND PLUS | BEE TV",  Bollywood HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TJNeQmJaxVRc2pOfSHF-Eaw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/75cdbdc9631f97d5e9c8_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Deutsche Welle HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TpGs7skUDTy5Q1tXkBlhquQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8ca0b3be8d059cec7423_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Живая природа HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TPKEirRbBB7Rc5zvS3HXpZQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f6b28b807c0b08fcefc3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Zooпарк
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TesTr6Czupx1Rjn_RfhmvHg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/15a3ea4ada45b1de4d7c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Вопросы и ответы
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TbhCtnoiVi74c6ZDGTNVGbQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/755145eadf5a3af2733d_250x250c.png" group-title="GRAND PLUS | BEE TV", Успех
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TkxusBgXW1LokKYgEy0qYfA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9af2ac639e6991dfa331_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Лапки LIVE
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TDG_NYUofFExpRlApBMuKxQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/988b0c7fecf1af44abf5_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  English Club TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TUGWrfonyT3QAh3rR43MV-A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8e35930a799b0bcc4a19_250x250c.png" group-title="GRAND PLUS | BEE TV", MTV 00s
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TrV0gj2l6qS3MUFznrYi69Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bb2b39196a0e650fadcc_250x250c.png" group-title="GRAND PLUS | BEE TV", Психология 21
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T4fXL7L1MiX-aWoPunlX4Mw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/762a1ef012e90be30eae_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Спас
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TiSB2lqWgl73RuguZCxADOw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a13a19790760b4de159f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Россия К
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TVjfC2bnVGGfPq-qnK0x17Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1b18266bff594af339b9_250x250c.png" group-title="GRAND PLUS | BEE TV",  History HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tcu1XdpTvLU6R86WXjWkIdQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3e2691191bd090085b7c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  History 2HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TMFdBW7N1K9e1v4U5lAgHcg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3bd37e0c48d0bfd76196_250x250c.png" group-title="GRAND PLUS | BEE TV", Дикая охота HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TtztmzZ5_lQwX2rLDIYb6DQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d3d8c6b17d9974212794_250x250c.png" group-title="GRAND PLUS | BEE TV", Дикая рыбалка HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tsa_plMi46176xlY4Iv0jCg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3e14afb33def4e5dfa15_250x250c.png" group-title="GRAND PLUS | BEE TV",  Зал суда
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TTIrn7YhbpqibDftskQsBSQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1ca20d448535ec389eee_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Т24
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T54z-GcKhmGja_h4AFIA1sw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/95504f7def57f25608c6_250x250c.png" group-title="GRAND PLUS | BEE TV",  Gagsnetwork
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tj_pAxPBp481GloJY-adcsA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/671925492d0445c64aca_250x250c.png" group-title="GRAND PLUS | BEE TV",  Народ всё видит
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TyjDJiZNs6MHGGz85uvIUww&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/6c7a7c501930f36a1c6c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Планета HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TRyGiNNmVBM6Yuz8ydcrYdg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/18a2f8707a4c80ed3870_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Диалоги о Рыбалке
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TpwaWkFwEg2aoU-LLRzo8nw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/78f8a84d70bdece9f0c8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Discovery Channel  HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TeJ12Qik9oJ11RLpabfdm4g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/feea7f082cd02b71650d_250x250c.png" group-title="GRAND PLUS | BEE TV", TMB TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TwuBSdUyJDkl2zXDa1l943w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/65f257b52dece8533bf6_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Animal Planet HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T8bxx411A6KpZ8L7hW-vxhQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/30f6f99b56dfad609159_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Глазами Туриста HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TFn_ipsqijhe9VLYJauPQHw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/acfc0ed421797d65cc4b_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Новый игровой канал
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Td6Tvk_DhbcgbpOg6ENjgzw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/074a5acd7cb8c10b00b8_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Тайны галактики HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TpTOw62tsvztU_MDapp4UUA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/98656a48bc143e6f9bfd_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Центральное Телевидение
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TC3TRex-e0ASk_itWLsGXUQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/092fa5b0f845e5abab9c_250x250c.png" group-title="GRAND PLUS | BEE TV",  Здоровое ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TK86M8W1xZM2t61E6x9n0GQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f3a267b473f2b06cd976_250x250c.png" group-title="GRAND PLUS | BEE TV",  НТВ Право
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T-O6eZF3wG4UGGaWz2zCHtA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d1b6b44728598dc1555a_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  #КтоКуда
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TfjEhKh6KNvK3WZ9dOZ09Ow&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/fa993e0a4604e1db6c4e_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  SHOW KZ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TKe2GxvrMlfCzB_hGE0U08g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/81781e4f936d5c09d8f9_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Аппетитный
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TcRrmDO9ln6U7VXdOHJqMsQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/faf30e75271a40348dbd_250x250c.png" group-title="GRAND PLUS | BEE TV", Дача HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TofpBBlD4lcWafbClOAWJnw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/cb1effec2d873a64ab00_250x250c.png" group-title="GRAND PLUS | BEE TV", Первый Вегетарианский HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TEuAS2Rp2eUUWKLdtj3c0nQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/12da750773516918739f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Рен ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TitP1n-1m4J8PsOr5d5oetw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3f3de4c092273825fcd3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  СТС International
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9THBBQAqqz5rp_P-rwd-xZqg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3a112223dd40d20b85a3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Феникс+ Кино
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TFSAfFCb4V3R-pWF8rMy-tg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1d627d93bfe3cdf5d3a9_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Plan B
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TsnbFOqRx6qcxyzUMmgCgjg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9260eba32c4b8c8ab4a2_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Мосфильм. Золотая коллекция
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tjiej3NUtwcLVUCg2BfHYTA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2b82fec7a7d5beac62fa_250x250c.png" group-title="GRAND PLUS | BEE TV",  Оружие
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TAiiyYQRDWpAUdXEjw1V7eQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3709013abae1847e215f_250x250c.png" group-title="GRAND PLUS | BEE TV",  Ertis
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TSIfZT81YjpbIG3b1TADQyA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b82695f2297a2059e84e_250x250c.png" group-title="GRAND PLUS | BEE TV",  Jambyl
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TkeCfWqT4i77wPWo3Vr6zlg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/42bf4a3b814e35c415ab_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Время
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T-LWcignoHg4hxYpyXwEErA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/df8b5c4d80d893c18388_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Телекафе
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TQsBlheKLc9eFt8PUi6zD2Q&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ed573267b8efb401f3ab_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Домашний International
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TatVQZ76GubG5rUbn5jE5Ng&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/cae3979276bc597fb199_250x250c.png" group-title="GRAND PLUS | BEE TV",  Рыбалка и охота
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TicQnTdvJnpooouERdTynUw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0b8cb443ab50fe8fe8f9_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Women's Magazine HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TMUntAX-nwnTrStv_NsQOhA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/714280fb4694d708d4c9_250x250c.png" group-title="GRAND PLUS | BEE TV",  НТВ Стиль
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tv_CfpiisKogogA_ImVrhfg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/38b73627015ee94e5cd7_250x250c.png" group-title="GRAND PLUS | BEE TV",  Terra HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TP3-sGmoTae1qyT0vB-be6w&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b75429540f75b2cab053_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Мужской
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TTQEtmdPr5-NV2ZtVv7Pflw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/660909d8f23d199b09e5_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Домашние животные
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TQKAVHStiWJ3GcW-jaRcA_A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9aa40885e81d05a150d5_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  АВТО 24
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TEOBdk-EYDF9sCqDitWAUqA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e08fa27438b77a12638d_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  КТК HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TBf0dNkfhjAvZhvBiuv8LqQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e178f73d23ee275827c1_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Nat Geo Wild HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TeALsW-io3DBqrXkVEM46WA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/df908065c6acdcb8913c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  TLC HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tf9yXdAHTXShGMXVuj16Mgw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/194eecf35530b16fc45f_250x250c.png" group-title="GRAND PLUS | BEE TV",  Анекдот ТВ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TVzfdQP56VI7t5ZXDse5yiQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5f70f27210fc32873e3a_250x250c.png" group-title="GRAND PLUS | BEE TV",  Еда Премиум HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TClj_JUndFTXVUwww9ZMeGA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/689a91a49cbd7f589dce_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Перец
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TaKhNUQNwd4rgXKPh1604-g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/6cc1cfebe66a810b1f2f_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТНТ4
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TzYTTlQNr7_VjXQrQMP478g&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/43c4f2686b97c994b170_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Пятница International
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TFf_IyHV7v9x9aWj4CQBL9A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c93965524fe815c8dff4_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  ТНТ
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TlHoEw9ZZStmkiNbMn4WwBg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/635ff09c16772c076842_250x250c.jpg" group-title="GRAND PLUS | BEE TV", Телепутешествия HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TjzBsXc27biYSNk97psdzHg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/6bc4c1b270cc2b876809_250x250c.png" group-title="GRAND PLUS | BEE TV",  Semei
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TZz3SZ9_2v99vNI36P37tjA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/41fb4e2fbbeeb5046867_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Extreme Sports
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TB8YEauiTVfZN5iB-nuQlyg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/09f8b965ec2fb76d45c3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Setanta Sport KZ+
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T4YE-j8ulm1DkJ3cbNcnIKw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1044defdea6396f17455_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Достык Eurasian
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TQqFZ1EVpARR3F8SVBU03DA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Salem Alem
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TSzfvcXeIGVacG3yPFajP-A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5555afc38f8ef3ffe32c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Семейные мелодрамы
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TBx--220kVe6wEY3HPq6hhA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/90de790458a59a7fd384_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Орел и Решка
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TRzW9j5WjYJY7ZIxBjwp_vg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/487ac614da16a23af262_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Вещдок
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T7hCgv594-s70zddxG92ixw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/eb5611749672102f2dfc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Qazsport HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9Tbrk9q6f86MyBjGbxmIiXLQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/09f8b965ec2fb76d45c3_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Setanta Sport KZ+
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T4YE-j8ulm1DkJ3cbNcnIKw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/42b26031f5c21ab42468_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  AQTOBE
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T4B09JJCmOXSzvOeaEKmi9A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/fec9b83c310a4bab4d37_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Movies
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TrSTA-Cox8BMH55YYoS5QCQ&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1044defdea6396f17455_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Dostyq TV
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TQqFZ1EVpARR3F8SVBU03DA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ea8d44356b29d37798dc_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Curiosity HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TSk2eV4K1TYwc5w0yLa1aIA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/28afaf58f765c2ebf009_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Salem Alem
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TSzfvcXeIGVacG3yPFajP-A&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/767c63346ecd480ebce5_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Среда
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TwAYoMzQ5UXd_L8N58jxGBg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/8de23d6f38a715d9f4dc_250x250c.png" group-title="GRAND PLUS | BEE TV",  Кинеко HD
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TGkvqZU1-8vCChIQEJm7pzA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/41fb4e2fbbeeb5046867_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  Extreme Sports
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TB8YEauiTVfZN5iB-nuQlyg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c5506e04370107796c9e_250x250c.png" group-title="GRAND PLUS | BEE TV",  Live 6
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TxjFTMKVLbX3y9TE9At00nw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0330cc7898a3f3a0b0c5_250x250c.png" group-title="GRAND PLUS | BEE TV",  Live 5
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T29ZagKGC-96NOiHeZGQxRg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5555afc38f8ef3ffe32c_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Семейные мелодрамы
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TBx--220kVe6wEY3HPq6hhA&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/90de790458a59a7fd384_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Орел и Решка
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TRzW9j5WjYJY7ZIxBjwp_vg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/487ac614da16a23af262_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Вещдок
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T7hCgv594-s70zddxG92ixw&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/156b492619df6aa2e6ea_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Sport
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9TaejKG5KoyXo0c8xmwTcExg&token=MjIyMjoyMjIyMjI%3D
+
+#EXTINF:-1 tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9c893f54591100ea0bf7_250x250c.jpg" group-title="GRAND PLUS | BEE TV",  BeeTV Series
+http://185.221.213.254/live/stream7.php?q=OWHPT_MRdjOT2tz52BOmACpAF1y9kknlrMwu1VvHur0MOU5XZYFf9bOYpXeaPE9T5tAsR8vux2FlQZ-NHCz5vw&token=MjIyMjoyMjIyMjI%3D
 
 
 
-#EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="GRAND TV",Okko Futbol 
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/08/13//df5afa69-409f-4410-b71e-57baba82160b-q-500x500.jpeg", iTV Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/qCCdJSYL2ZZ3VBZO7wumrg/e/1787381426/4006/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/2wKjVsZKe6n9hRZwnqhgoQ/e/1783450993/1064/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/gJPjOzZspNALkaCOt9A-rA/e/1781247247/4000/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/zLkgv2dLTO7statqxXEUSg/e/1781247248/4001/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/kl_yIOWd8wrpiNqnJlYUuA/e/1781247249/1408/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/JkiJYQoy0Q-ZHbBm5J2cCg/e/1781247250/1001/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/tUbUKuwqWcqjZAnXqSP5JQ/e/1781247251/1002/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/bpZkOx6PPjIZ8JTuRJWfAQ/e/1781247252/1003/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/jTi7MxqLZ-3ALzmLR3BxmA/e/1781247255/1011/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/iIDngEedLZamkolX8v9uTg/e/1781247257/1286/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/oBeNbmJ0z5SEb5t_zMS4fA/e/1781247257/1014/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/fGoQCMWPUbuTWjX0acSQEA/e/1781247258/1216/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/ygh0PNGZvL8e4W5YUdgVyw/e/1781247259/1012/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/pZ2VfJkVbO81MsxKp-kBMA/e/1781247260/1217/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/b8LGyYJf1WwUg6VOBUR9uQ/e/1781247264/1221/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg", DasturxonTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/UvsxJrnrtoEDMlP50eCJeA/e/1781247265/1206/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/O-tgg4Jj7rwR-0f1zYvj_Q/e/1781247265/1007/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/O2MxY65uMWFB_SdUFXkooQ/e/1781247266/1205/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/mKpXWmHRnuKDYXjkHAQnhQ/e/1781247267/1008/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/xA7DJGlL-n0VzuApy-koMg/e/1781247268/1005/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/cuesbc6pawuutPrCGSzfwg/e/1781247269/1013/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/iArxwJoDQtW9jy35Jfwdhw/e/1781247270/1009/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/2V0uIziaO2KGxQk9QDKk7w/e/1781247271/1209/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/eEcxFJUkoqAtELPBB1qnFA/e/1781247272/1006/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/g4zCHrRFOxbUNxy3nGlEwQ/e/1781247273/1015/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/5IMwyAW0e9cV42VJVK8Vlw/e/1781247274/1204/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/nJ-4B8RupGEQz0Qvk9634w/e/1781247275/4007/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/J_mAzsjo1wetJFMhPC0SRQ/e/1781247276/4008/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/rCjPRHCOffZoDFYHvUaTjg/e/1781247277/1220/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/bxX2EuRxcAztaViGLmPToA/e/1781247277/1457/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/usW-BFgO-sfMyg19vU8Nww/e/1781247278/1458/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/E4tC8b4QB9i1uxGaRenp-w/e/1781247279/1460/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/OlGl-kwALHEdFNYKMpKYPA/e/1781247280/1461/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/M-VhdbL_1tv1Q8uKL2V-ZA/e/1781247281/1462/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/TZbcNHDTBKZWnBMq3SBN-w/e/1781247282/1463/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/XKHj97vY3mM0u0-AhnWdJQ/e/1781247283/1464/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/55KqHLvN4Dq5sZZdvk_nvg/e/1781247284/1465/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/4HMp9wSd8GFA8MJatAyFMQ/e/1781247285/1466/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/DJggpu8ZosWzjQ9al9bHrg/e/1781247286/1467/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Bukhara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/Qw8vzx6zJEP33YSQyHGEmw/e/1781247287/1459/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Samarkand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/GaiY8nBXBMQEEcegCh58ww/e/1781247287/1468/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/mReNQK-vqw7CqebjgLybwA/e/1781247288/4012/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/gWUS8Zwas2V5-X740zd4yg/e/1781247289/1469/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/XWH5MRKFld-SMoszF9WlaA/e/1781247290/1470/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/HJP-ChblzLpcz7PrRu57Hw/e/1781247291/1494/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/KZCXZUyIOJxFm1aMc7C0wg/e/1781247292/1486/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/J7lXpBXqRe5QbGOuMdtKVQ/e/1781247293/1485/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/oT8sfG8brxGhByytdSYgKQ/e/1781247294/1488/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/3Vtuq43FvxMURdv8PATNyA/e/1781247295/1489/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/6N8cdya8qdlLHRvGw5QUpg/e/1781247296/1495/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/ee9fuOzsoOw0BpmxaJLCWQ/e/1781247297/1496/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/b4EGTXC6E0mma6sdQ59ieA/e/1781247298/1491/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/27sHMQZsnpMAsTAqecqktg/e/1781247298/1492/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/_2x3vvTZYMvXztHf4KhLHw/e/1781247299/1490/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/I-fR_3ATzxrS6ihCgU5upg/e/1781247300/1285/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/v9MGL6wtmVyMA3t9ERu3ww/e/1781247301/1497/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/QRXYb8_2gWHRbG8Ck7Gj8Q/e/1781247302/1301/index.m3u8
+#EXTINF:-1 group-title="RUZIEV ITV UZ" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://stream9.itv.uz/t/wI4Jyzqq3HMyS11TgUfhug/e/1781247303/1499/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТНТ4
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Россия 24
+https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Россия К
+https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",РТР Планета
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",НТВ-Мир
+https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Рен ТВ international
+https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",365 дней
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Техно 24
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Моя планета
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Explore
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat History
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",National Geographic
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Nat Geo Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",История
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Big planet
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Поехали!
+https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia Hit HD
+https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia Premium HD
+https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia 1
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Авто 24
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Индия
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дом кино
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дом кино премиум
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Домашний
+https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Еврокино
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинохит
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киноужас
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Индийское кино
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинокомедия
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киномикс
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Родное кино
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносемья
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносерия
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносвидание
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мужское кино
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Наше новое кино
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000 Русское кино
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000 Action
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Москва 24
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",КВН ТВ
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мир
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТВЦ
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Ностальгия
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Новое телевидение
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Оружие
+https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Перец
+https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Победа
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Русский иллюзион
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС
+https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС Love
+https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Телекафе
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Точка отрыва
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дорама
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Start Air
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Start World
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV XXI
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Ю
+https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Время
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Жара
+https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Живи
+https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Сарафан
+https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Зоопарк
+https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Звезда
+https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Astana TV
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",КТК
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",НТК
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Atameken Business
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",24 KZ
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Пятый канал
+https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",7 канал (Казахстан)
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Abai TV
+https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Almaty TV
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Habar
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Qazaqstan KZ
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТНВ-Планета
+https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Turan TV
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Balapan
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Bridge TV Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",МузТВ
+https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",RU.TV
+https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Шансон ТВ
+https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Европа плюс ТВ
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",В гостях у сказки
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Baby time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Лапки Live
+https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС Kids
+https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Da Vinci
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Карусель
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",О!
+https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Бобёр
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мульт
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мультиландия
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",KHL Prime
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",KHL
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Матч ТВ
+https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Матч! Планета
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Sports
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",MMA-TV
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Etreme sports
+https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Qazsport HD
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Astana TV
+http://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Atameken Business
+http://fs.uplink.kz/atameken/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Balapan International
+http://194.190.78.80/Balapan/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Europa Plus TV
+http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Qonaev Media
+http://s.qonaevtv.kz:8081/live/qonaev/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Индия
+https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Индия
+http://fs.uplink.kz/india/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
+http://iptv.mega.net.ru:8888/Karusel_/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
+http://fs.uplink.kz/karusel/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
+https://s70378.cdn.ngenix.net/karusel/2/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
+http://37.186.70.39:40/play/98/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Муз ТВ
+http://iptv.mega.net.ru:8888/MUZ_TV/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Муз ТВ
+http://fs.uplink.kz/muz_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Музыка Первого
+http://193.25.8.59:8000/muzika
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Музыка Первого
+http://iptv.mega.net.ru:8888/Muzika_Pervogo/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Мульт
+http://iptv.mega.net.ru:8888/Mul_t/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Мульт
+http://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",НТК Казахстан
+http://fs.uplink.kz/ntk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Перец
+http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС
+http://194.152.35.17/sts/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС
+http://iptv.mega.net.ru:8888/STS/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС Love
+http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС International
+http://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Т24
+http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",ТВ 21
+http://iptv.mega.net.ru:8888/XXI/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",ТВ 21
+http://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Ю
+http://iptv.mega.net.ru:8888/U/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Ю
+http://fs.uplink.kz/u/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="mtv-us"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTVᴴᴰ USA
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="mtv-live-us"  tvg-logo="https://iptvx.one/picons/mtv-live-us.png" ,MTV Liveᴴᴰ
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/9078.png"   $ExtFilter="ГЕДЕМ",Arm Toon SD
+http://timeshift.arpinet.am/236/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/9078.png" ,ARM TOON SD
+http://185.57.68.33/236/mpegts
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="russky-illuzion" ,Русский Иллюзион
+https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domkino-premium"  tvg-logo="http://epg.one/img2/2020.png" ,Дом Кино Премиум
+https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domkino-int" ,Дом Кино International
+https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="telekafe" ,Телекафе
+https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="amedia-premium" ,Amedia Premium HD
+https://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="rodnoe-kino" ,Родное Кино
+https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
+https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinoseria" ,Киносерия
+https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinosemiya" ,Киносемья
+https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinokomedia" ,Кинокомедия
+https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinomiks" ,Киномикс
+https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinoxit" ,Кинохит
+https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское
+https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="muzhskoe-kino" ,Мужское Кино
+https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000-action" ,viju TV1000 Action
+https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000" ,viju TV1000
+https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinosvidanie" ,Киносвидание
+https://fs.uplink.kz/kinosvidanie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tvxxi" ,ТВ 21
+https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="texno-24" ,Т24
+https://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="lubimoe-kino" ,Любимое Кино
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way HD
+http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="qostanai-kz"  tvg-logo="https://iptvx.one/picons/qostanai-kz.png"   tvg-name="Qostanai",Qostanai
+https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="xabar"  tvg-logo="http://1lot.tv/ch/8966.png" ,Хабарᴴᴰ 🇰🇿
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
+
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="euronews"  tvg-logo="https://iptvx.one/picons/euronews.png" ,EuroNews SD
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" ,DWᴴᴰ Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png"   $ExtFilter="ГЕДЕМ",DWᴴᴰ Russian
+http://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" ,DWᴴᴰ Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://epg.one/img2/2142.png" ,Настоящее Времяᴴᴰ
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://1lot.tv/ch/5503.png" ,Настоящее Времяᴴᴰ
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
+#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV" tvg-id="sts" ,СТС
+https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/4654.png" ,MIXMᴴᴰ
+http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1group-title="GRAND PLUS | UPLINK KZ TV"  tvg-logo="http://epg.one/img2/6787.png" ,555 
+http://trk555.tv:8888/live
+
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk.webp"   tvg-name="Кино ВК",ВК Киноᴴᴰ
+rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk2.webp"   tvg-name="Кино ВК 2",ВК Кино 2ᴴᴰ
+rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk.webp"   tvg-name="VK Кино и сериалы",ВК Кино и сериалыᴴᴰ
+rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/11186.png" ,Alpha Cinemaᴴᴰ
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/11186.png" ,Alpha Cinemaᴴᴰ
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domashny-int" ,Домашний International
+https://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="rentv-int"  tvg-logo="https://iptvx.one/picons/rentv-int.png" ,Рен ТВ International
+https://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND TV",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=q5_imdW9DMiPdP52oLjuPA&e=1787944976&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="GRAND TV",TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=UyzOpTYp-O6bQOX3CAMeVA&e=1787945023&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="GRAND TV",TV1000
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fM1ieHknjyOUXIaDJAG1UQ&e=1787944999&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
+#EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="GRAND TV",Okko ФУТБОЛ
 http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="GRAND TV",Okko Prajm Sport 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="GRAND TV",Okko ПРАЙМ СПОРТ 
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="GRAND TV",Okko Sport 
 http://stream.mcquack.net/492/index.m3u8
@@ -25198,559 +26545,6 @@ http://de1.plist.link:3355/FGfpnUmovVu72819/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 #EXTGRP:RUZIEV ПЛЮСОВЫЕ
 http://de1.plist.link:3355/FGfpnUmovVu920055/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP3iZLxGI9FHvWtTCbflrX-J54F4LfPRvqIoQQIuLcIE4.tg6457680141
 
-
-
-
-
-
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/2wKjVsZKe6n9hRZwnqhgoQ/e/1783450993/1064/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/gJPjOzZspNALkaCOt9A-rA/e/1781247247/4000/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/zLkgv2dLTO7statqxXEUSg/e/1781247248/4001/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/kl_yIOWd8wrpiNqnJlYUuA/e/1781247249/1408/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/JkiJYQoy0Q-ZHbBm5J2cCg/e/1781247250/1001/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/tUbUKuwqWcqjZAnXqSP5JQ/e/1781247251/1002/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/bpZkOx6PPjIZ8JTuRJWfAQ/e/1781247252/1003/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/jTi7MxqLZ-3ALzmLR3BxmA/e/1781247255/1011/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg", ZO'R TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/iIDngEedLZamkolX8v9uTg/e/1781247257/1286/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/oBeNbmJ0z5SEb5t_zMS4fA/e/1781247257/1014/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/fGoQCMWPUbuTWjX0acSQEA/e/1781247258/1216/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/ygh0PNGZvL8e4W5YUdgVyw/e/1781247259/1012/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/pZ2VfJkVbO81MsxKp-kBMA/e/1781247260/1217/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/b8LGyYJf1WwUg6VOBUR9uQ/e/1781247264/1221/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg", DasturxonTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/UvsxJrnrtoEDMlP50eCJeA/e/1781247265/1206/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/O-tgg4Jj7rwR-0f1zYvj_Q/e/1781247265/1007/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/O2MxY65uMWFB_SdUFXkooQ/e/1781247266/1205/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/mKpXWmHRnuKDYXjkHAQnhQ/e/1781247267/1008/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/xA7DJGlL-n0VzuApy-koMg/e/1781247268/1005/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/cuesbc6pawuutPrCGSzfwg/e/1781247269/1013/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/iArxwJoDQtW9jy35Jfwdhw/e/1781247270/1009/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/2V0uIziaO2KGxQk9QDKk7w/e/1781247271/1209/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/eEcxFJUkoqAtELPBB1qnFA/e/1781247272/1006/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/g4zCHrRFOxbUNxy3nGlEwQ/e/1781247273/1015/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/5IMwyAW0e9cV42VJVK8Vlw/e/1781247274/1204/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/nJ-4B8RupGEQz0Qvk9634w/e/1781247275/4007/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/J_mAzsjo1wetJFMhPC0SRQ/e/1781247276/4008/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/rCjPRHCOffZoDFYHvUaTjg/e/1781247277/1220/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/bxX2EuRxcAztaViGLmPToA/e/1781247277/1457/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/usW-BFgO-sfMyg19vU8Nww/e/1781247278/1458/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/E4tC8b4QB9i1uxGaRenp-w/e/1781247279/1460/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/OlGl-kwALHEdFNYKMpKYPA/e/1781247280/1461/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/M-VhdbL_1tv1Q8uKL2V-ZA/e/1781247281/1462/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/TZbcNHDTBKZWnBMq3SBN-w/e/1781247282/1463/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/XKHj97vY3mM0u0-AhnWdJQ/e/1781247283/1464/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/55KqHLvN4Dq5sZZdvk_nvg/e/1781247284/1465/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/4HMp9wSd8GFA8MJatAyFMQ/e/1781247285/1466/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/DJggpu8ZosWzjQ9al9bHrg/e/1781247286/1467/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Bukhara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/Qw8vzx6zJEP33YSQyHGEmw/e/1781247287/1459/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Samarkand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/GaiY8nBXBMQEEcegCh58ww/e/1781247287/1468/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/mReNQK-vqw7CqebjgLybwA/e/1781247288/4012/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/gWUS8Zwas2V5-X740zd4yg/e/1781247289/1469/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/XWH5MRKFld-SMoszF9WlaA/e/1781247290/1470/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/HJP-ChblzLpcz7PrRu57Hw/e/1781247291/1494/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/KZCXZUyIOJxFm1aMc7C0wg/e/1781247292/1486/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/J7lXpBXqRe5QbGOuMdtKVQ/e/1781247293/1485/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/oT8sfG8brxGhByytdSYgKQ/e/1781247294/1488/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/3Vtuq43FvxMURdv8PATNyA/e/1781247295/1489/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/6N8cdya8qdlLHRvGw5QUpg/e/1781247296/1495/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/ee9fuOzsoOw0BpmxaJLCWQ/e/1781247297/1496/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/b4EGTXC6E0mma6sdQ59ieA/e/1781247298/1491/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/27sHMQZsnpMAsTAqecqktg/e/1781247298/1492/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/_2x3vvTZYMvXztHf4KhLHw/e/1781247299/1490/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/I-fR_3ATzxrS6ihCgU5upg/e/1781247300/1285/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/v9MGL6wtmVyMA3t9ERu3ww/e/1781247301/1497/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/QRXYb8_2gWHRbG8Ck7Gj8Q/e/1781247302/1301/index.m3u8
-#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://stream9.itv.uz/t/wI4Jyzqq3HMyS11TgUfhug/e/1781247303/1499/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТНТ4
-https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Россия 24
-https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Россия К
-https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",РТР Планета
-https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",НТВ-Мир
-https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Рен ТВ international
-https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",365 дней
-https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Техно 24
-https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Моя планета
-https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Explore
-https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat History
-https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Nature
-https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",National Geographic
-https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Nat Geo Wild
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",История
-https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Big planet
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Поехали!
-https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia Hit HD
-https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia Premium HD
-https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia 1
-https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Авто 24
-https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Индия
-https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дом кино
-https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дом кино премиум
-https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Домашний
-https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Еврокино
-https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинохит
-https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киноужас
-https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Индийское кино
-https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинокомедия
-https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киномикс
-https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинопремьера HD
-https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Родное кино
-https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносемья
-https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносерия
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносвидание
-https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мужское кино
-https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Наше новое кино
-https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000 Русское кино
-https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000 Action
-https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000
-https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Москва 24
-https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",КВН ТВ
-https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мир
-https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТВЦ
-https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Ностальгия
-https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Новое телевидение
-https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Оружие
-https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Перец
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Победа
-https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Русский иллюзион
-https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС
-https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС Love
-https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Телекафе
-https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Точка отрыва
-https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дорама
-https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Start Air
-https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Start World
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV XXI
-https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Ю
-https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Время
-https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Жара
-https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Живи
-https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Сарафан
-https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Зоопарк
-https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Звезда
-https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Astana TV
-https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",КТК
-https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",НТК
-https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Atameken Business
-https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",24 KZ
-https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Пятый канал
-https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",7 канал (Казахстан)
-https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Abai TV
-https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Almaty TV
-https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Habar
-https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Qazaqstan KZ
-https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТНВ-Планета
-https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Turan TV
-https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Balapan
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Bridge TV Classic
-https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",МузТВ
-https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",RU.TV
-https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Шансон ТВ
-https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Европа плюс ТВ
-https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",В гостях у сказки
-https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Baby time
-https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Лапки Live
-https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС Kids
-https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Da Vinci
-https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Карусель
-https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",О!
-https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Бобёр
-https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мульт
-https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мультиландия
-https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",KHL Prime
-https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",KHL
-https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Матч ТВ
-https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Матч! Планета
-https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Sports
-https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",MMA-TV
-https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Etreme sports
-https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Qazsport HD
-https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
-
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Astana TV
-http://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Atameken Business
-http://fs.uplink.kz/atameken/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Balapan International
-http://194.190.78.80/Balapan/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Europa Plus TV
-http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Qonaev Media
-http://s.qonaevtv.kz:8081/live/qonaev/playlist.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Индия
-https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Индия
-http://fs.uplink.kz/india/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
-http://iptv.mega.net.ru:8888/Karusel_/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
-https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
-http://fs.uplink.kz/karusel/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
-https://s70378.cdn.ngenix.net/karusel/2/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
-https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
-http://37.186.70.39:40/play/98/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Муз ТВ
-http://iptv.mega.net.ru:8888/MUZ_TV/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Муз ТВ
-http://fs.uplink.kz/muz_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Музыка Первого
-http://193.25.8.59:8000/muzika
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Музыка Первого
-http://iptv.mega.net.ru:8888/Muzika_Pervogo/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Мульт
-http://iptv.mega.net.ru:8888/Mul_t/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Мульт
-http://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",НТК Казахстан
-http://fs.uplink.kz/ntk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Перец
-http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС
-http://194.152.35.17/sts/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС
-http://iptv.mega.net.ru:8888/STS/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС International
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС Love
-http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС International
-http://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Т24
-http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",ТВ 21
-http://iptv.mega.net.ru:8888/XXI/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",ТВ 21
-http://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Ю
-http://iptv.mega.net.ru:8888/U/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Ю
-http://fs.uplink.kz/u/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="mtv-us"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTVᴴᴰ USA
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="mtv-live-us"  tvg-logo="https://iptvx.one/picons/mtv-live-us.png" ,MTV Liveᴴᴰ
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/9078.png"   $ExtFilter="ГЕДЕМ",Arm Toon SD
-http://timeshift.arpinet.am/236/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/9078.png" ,ARM TOON SD
-http://185.57.68.33/236/mpegts
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="russky-illuzion" ,Русский Иллюзион
-https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domkino-premium"  tvg-logo="http://epg.one/img2/2020.png" ,Дом Кино Премиум
-https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domkino-int" ,Дом Кино International
-https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="telekafe" ,Телекафе
-https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="amedia-premium" ,Amedia Premium HD
-https://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="rodnoe-kino" ,Родное Кино
-https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
-https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinoseria" ,Киносерия
-https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinosemiya" ,Киносемья
-https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinokomedia" ,Кинокомедия
-https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
-https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinomiks" ,Киномикс
-https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinoxit" ,Кинохит
-https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское
-https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="muzhskoe-kino" ,Мужское Кино
-https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000-action" ,viju TV1000 Action
-https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000" ,viju TV1000
-https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinosvidanie" ,Киносвидание
-https://fs.uplink.kz/kinosvidanie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tvxxi" ,ТВ 21
-https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="texno-24" ,Т24
-https://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="lubimoe-kino" ,Любимое Кино
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way HD
-http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="qostanai-kz"  tvg-logo="https://iptvx.one/picons/qostanai-kz.png"   tvg-name="Qostanai",Qostanai
-https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="xabar"  tvg-logo="http://1lot.tv/ch/8966.png" ,Хабарᴴᴰ 🇰🇿
-http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
-
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="euronews"  tvg-logo="https://iptvx.one/picons/euronews.png" ,EuroNews SD
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" ,DWᴴᴰ Russian
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png"   $ExtFilter="ГЕДЕМ",DWᴴᴰ Russian
-http://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="deutsche-welle-ru"  tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" ,DWᴴᴰ Russian
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://epg.one/img2/2142.png" ,Настоящее Времяᴴᴰ
-https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://1lot.tv/ch/5503.png" ,Настоящее Времяᴴᴰ
-https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
-#EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV" tvg-id="sts" ,СТС
-https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/4654.png" ,MIXMᴴᴰ
-http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:-1group-title="GRAND PLUS | UPLINK KZ TV"  tvg-logo="http://epg.one/img2/6787.png" ,555 
-http://trk555.tv:8888/live
-
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk.webp"   tvg-name="Кино ВК",ВК Киноᴴᴰ
-rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk2.webp"   tvg-name="Кино ВК 2",ВК Кино 2ᴴᴰ
-rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="https://smotret.tv/images/kino-vk.webp"   tvg-name="VK Кино и сериалы",ВК Кино и сериалыᴴᴰ
-rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/11186.png" ,Alpha Cinemaᴴᴰ
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_cinema"  tvg-logo="http://1lot.tv/ch/11186.png" ,Alpha Cinemaᴴᴰ
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domashny-int" ,Домашний International
-https://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="rentv-int"  tvg-logo="https://iptvx.one/picons/rentv-int.png" ,Рен ТВ International
-https://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 
