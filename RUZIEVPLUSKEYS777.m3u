@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/08/31 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/09/04 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -3395,8 +3395,18 @@ https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_3.Zima.v.
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5XaWf6.png" group-title="RUZIEV MY TV +",AMAZON PRIME VIDEO ROMANCE HD
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIfcswa.png" group-title="RUZIEV MY TV +",AMAZON PRIME VIDEO MEN'S CLUB HD
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=uagq7qyIq4Aezo9xxqoWOA&e=2087404567&scheme=https
+#EXTINF:-1 tvg-logo="http://epg.one/img/2067.png" group-title="RUZIEV MY TV +",ATV HD
+http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/7765.png" group-title="RUZIEV MY TV +",ԹԱՎԱ TV HD
+http://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="RUZIEV MY TV +",ԼԱՎՖՀԱՔ HD
+http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mDnNFEi.png" group-title="RUZIEV MY TV +",ԿԻՆՈՄԱՆ HD
+http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +", WB TV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +", FX USA
