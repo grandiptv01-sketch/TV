@@ -13,45 +13,71 @@ http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
 
-#EXTINF:-1 group-title="GRAND TV",Кино и Жизнь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=SxraDygnCGevYsi3ESXF3g&e=2089191731&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Фильмач
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=T8WCT4DI65CSVbs2MRkzUA&e=2089191732&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Детективы каждый день
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=fOWTZNRdN72EhpB5ipI9vA&e=2089191732&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Apple TV+Action Time
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=7idkXF3pqRTa4lhn5fl4zA&e=2089191732&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Apple TV+Woman's Story
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=ZFaz6vBUbqoPx5KJSvzFzQ&e=2089191733&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Epic Media Love
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=krpVd_9_7JFilqY2RKpZhg&e=2089191733&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Epic Media Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=C5o5cAoITeUkMIbwNvVBVw&e=2089191734&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Звездные войны
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=PdoK86NUyQ1Wx5GcIPUTgw&e=2089191734&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Гарри Поттер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=7ECjmn7vH_l7VpnXPifOKg&e=2089191735&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Marvel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=p7G4rfU5nE1vFDGMgZpWTw&e=2089191736&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Amazon Prime Video mans' club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=C1noSBldNUGxTDJLhbSGzg&e=2089191737&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Amazon Prime Video Romance
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=NbhBZgklcmAS0BEHc_S1Wg&e=2089191738&scheme=https
-#EXTINF:-1 group-title="GRAND TV",Твой кинотеатр
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=5e9a8V1Wg2Jo2Zu74zjgVQ&e=2089191738&scheme=https
+
+
+
+
+
+#EXTINF:-1 tvg-name="GrandF TV Action HD" tvg-id="action" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Action HD
+#EXTGRP:GRAND TV
+http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 tvg-name="GrandF TV Comedy" tvg-id="comedy" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Comedy
+#EXTGRP:GRAND TV
+http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 tvg-name="GrandF TV Thriller" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Thriller
+#EXTGRP:GRAND TV
+http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 tvg-name="GrandF TV Fantazy" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Fantazy
+#EXTGRP:GRAND TV
+http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 tvg-name="DreakingDad" tvg-logo="https://i.pinimg.com/236x/5e/2c/b3/5e2cb37f571a6e7ac40bcb61a3735bfe.jpg?nii=t", DreakingDad
+#EXTGRP:GRAND TV
+https://assimilator.tv/uploads/DreakingDad.m3u8
+#EXTINF:-1 tvg-name="MrErrorHQ" tvg-logo="https://goodgame.ru/files/avatars/av_1475265_McFK.jpg", MrErrorHQ
+#EXTGRP:GRAND TV
+https://assimilator.tv/uploads/MrErrorHQ.m3u8
+#EXTINF:-1 tvg-name="Детективы КД" tvg-logo="https://pic.rutubelist.ru/video/2025-10-02/18/89/188980e103fe58923afd3105465c86a5.jpg?width=500", Детективы КД
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=e-caIksGBaf5gajY8NBHmQ&e=2085932934&scheme=https
+#EXTINF:-1 tvg-name="ТВОЙ КИНОТЕАТР" tvg-logo="https://avatars.mds.yandex.net/i?id=9eaea17e965265de28911c21901a7ab0_l-4600463-images-thumbs&n=13", ТВОЙ КИНОТЕАТР
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
+#EXTINF:-1 tvg-name="MARVEL CINEMATIC UNIVERSE" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-26/5f/5f/5f5f4258f912baf2c5a5c0a07550183a.jpg?width=500", MARVEL CINEMATIC UNIVERSE
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=Zk-U5xs6PnXC_hrCvTQSIQ&e=2087765363&scheme=https
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ЗВЕЗДЕНЫХ ВОЙН" tvg-logo="https://i.pinimg.com/736x/fc/e7/0f/fce70f99809f656e2ef741107ce7d84f.jpg", ВСЕЛЕННАЯ ЗВЕЗДЕНЫХ ВОЙН
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=8Rvr_KoGTYWePHeLLRUMlA&e=2088007313&scheme=https
+#EXTINF:-1 tvg-name="APPLE TV+ WOMAN'S STORIES" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/ff/e0/ffe0813d42945ce49830c8631a8eeb72.jpg?width=500", APPLE TV+ WOMAN'S STORIES
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Xjb5m-V_rhgqpU1n8eIFaA&e=2088007858&scheme=https
+#EXTINF:-1 tvg-name="APPLE TV+ ACTION TIME" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/81/8c/818cc0846fd903cd2943d9cfc9a48486.jpg?width=500", APPLE TV+ ACTION TIME
+#EXTGRP:GRAND TV
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=jRBAV1A5l_uTMotVPtUGbA&e=2088007796&scheme=https
+#EXTINF:-1 tvg-name="ZSMEDIA" tvg-logo="https://sun1-17.userapi.com/s/v1/ig2/lI9i11Ea1iGGrOrzoHgK0bkZyvUlZ_ovuVuJOkzOS0XbEg1GCpHd7PevbbGALYmvKNakI7vNhVm1RjbYV90k5JfZ.jpg?quality=95&crop=251,237,428,428&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240", ZSMEDIA
+#EXTGRP:GRAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="Кино ВК" tvg-logo="https://smotret.tv/images/kino-vk.webp", Кино ВК
+#EXTGRP:GRAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd249.okcdn.ru/playback/11476322626375?stkn=6ZvE0ZY2mEWWoiyODjhS5OPDNBY7YlMNap9wZyAnU7TmJXeKb9JPFfONHCd59AjyYkTygJHec4A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="Кино ВК 2" tvg-logo="https://smotret.tv/images/kino-vk2.webp", Кино ВК 2
+#EXTGRP:GRAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd243.okcdn.ru/playback/10472252320626?stkn=vjSgQTBCvo-PV2KkzjQWix-AgQOqVwI7Lffm0fYrTHUMC4ggE3p89R0ODQzGziywj1dRaMj3VoA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="VK Кино и сериалы" tvg-logo="https://sun1-24.userapi.com/s/v1/ig2/2VJ4jMymoIzu-fda1TgQ3fCwUVKEnTHvc3WUWvdb26afxZP8XHvWp035AvuuBgv_ki7UnC0ATJUh3maPNklmLmEt.jpg?quality=95&crop=0,0,1280,1280&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&cs=480x480", VK Кино и сериалы
+#EXTGRP:GRAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd196.okcdn.ru/playback/12955145284352?stkn=z4T70nsJfsesUP9S-NMciqKLtV28OVwB4wSZwnZGL1vbVtF0_YHglWGItLNxQ-oA7FpUPpPxox0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-name="Kino.Online" tvg-logo="https://sun1-85.userapi.com/s/v1/ig2/LTqGOjmooxX-zIsEGpr5HRHX12v21qmlpdUU5o1ObRgY4VV1GUUKn6ocmS6swtrYaq7aUNIuJ8Ots9SiyijGZ6C0.jpg?quality=95&crop=103,120,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=540x540", Kino.Online
+#EXTGRP:GRAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
 
 #EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="GRAND TV",Okko ФУТБОЛ
 http://stream.mcquack.net/491/index.m3u8
@@ -282,16 +308,6 @@ http://live.novoeradio.by:8081/live/novoeradio_megamix_aac128/icecast.audio
 https://fm101.uz:9943/fm101_low.aac
 
 
-#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 1
-https://betkinglive.online/betking/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 2
-https://betkinglive.online/betking2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 3
-https://betkinglive.online/betking3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 4
-https://betkinglive.online/betking4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/0NnqZW7R/1.jpg",BETKING LIVE 5
-https://betkinglive.online/betking5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GRAND TV",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 
