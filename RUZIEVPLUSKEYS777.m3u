@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/09/23 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/09/25 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -28,18 +28,7 @@ http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/str
 http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/BCn3MrncB7dyCnoO1IfRI0Xj4qO04K.png",GRAND TV СЕРИАЛ
 http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8
-#EXTINF:-1 tvg-name="GrandF TV Action HD" tvg-id="action" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Action HD
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 tvg-name="GrandF TV Comedy" tvg-id="comedy" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Comedy
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 tvg-name="GrandF TV Thriller" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Thriller
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 tvg-name="GrandF TV Fantazy" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Fantazy
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
+
 #EXTINF:-1 tvg-name="DreakingDad" tvg-logo="https://i.pinimg.com/236x/5e/2c/b3/5e2cb37f571a6e7ac40bcb61a3735bfe.jpg?nii=t", DreakingDad
 #EXTGRP:GRAND TV
 https://assimilator.tv/uploads/DreakingDad.m3u8
@@ -591,16 +580,18 @@ https://stream.smotrim.ru/fasttv_hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-name="СТРК HD" tvg-logo="https://iptvx.one/picons/strk.png", СТРК HD
 #EXTGRP:RUZIEV MY TV +
 http://sochinskayatrk.ru:2015/STRK/mpegts
-
-#EXTINF:-1group-title="RUZIEV MY TV +",Muzzone
-https://s70378.cdn.ngenix.net/muzzone/2/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Bazmoc
-https://s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV LifeHack
-https://s70378.cdn.ngenix.net/filmzone/2/index.m3u8
-#EXTINF:-1group-title="RUZIEV MY TV +",ATV Kinoman
-https://s70378.cdn.ngenix.net/kinoman/1/index.m3u8
-
+#EXTINF:-1 group-title="RUZIEV MY TV +",Fox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=vLUqd3ubuGciH44xLDUBtw&e=2090233542&scheme=https
+#EXTINF:-1 group-title="RUZIEV MY TV +",Fox Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=7n3BAG64i2xpMyYQc-z2Ag&e=2090233543&scheme=https
+#EXTINF:-1 group-title="RUZIEV MY TV +",Epic Media Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=1MraUpgANt5GoeOQ4Xe4bw&e=2090233545&scheme=https
+#EXTINF:-1 group-title="RUZIEV MY TV +",Epic Media Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=VFY5nVXXKdGuaOcraglsxw&e=2090233546&scheme=https
 #EXTINF:-1 tvg-logo="http://194.26.229.4/live/pda.png" group-title="RUZIEV MY TV +",   OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="RUZIEV MY TV +",NOW TV TURK
@@ -986,6 +977,2381 @@ http://xbujw5ry.megogo.xyz/iptv/N7H9M3GCUWG5LN2AFN9D7ZBB/6242/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Ню Арт HD
 #EXTGRP:RUZIEV MY TV +
 http://xbujw5ry.megogo.xyz/iptv/N7H9M3GCUWG5LN2AFN9D7ZBB/31716/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +" ,Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +" ,Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="RUZIEV MY TV +" ,Первый канал (+4)
+http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+
+
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТВ3 HD
+http://ott.watch/stream/JBT2S5J8EX/136.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Пятница! HD
+http://ott.watch/stream/JBT2S5J8EX/181.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Суббота! HD
+http://ott.watch/stream/JBT2S5J8EX/269.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Ю
+http://ott.watch/stream/JBT2S5J8EX/230.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",2х2
+http://ott.watch/stream/JBT2S5J8EX/187.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Перец International
+http://ott.watch/stream/JBT2S5J8EX/121.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",World Fashion Channel HD
+http://ott.watch/stream/JBT2S5J8EX/119.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Сарафан
+http://ott.watch/stream/JBT2S5J8EX/81.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Вопросы и ответы
+http://ott.watch/stream/JBT2S5J8EX/76.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТНТ HD
+http://ott.watch/stream/JBT2S5J8EX/135.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТНТ4 HD
+http://ott.watch/stream/JBT2S5J8EX/106.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТНТ(+2)
+http://ott.watch/stream/JBT2S5J8EX/97.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",СТС HD
+http://ott.watch/stream/JBT2S5J8EX/138.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",СТС Love
+http://ott.watch/stream/JBT2S5J8EX/183.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Домашний HD
+http://ott.watch/stream/JBT2S5J8EX/227.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Інтер+ HD
+http://ott.watch/stream/JBT2S5J8EX/345.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Новий канал HD
+http://ott.watch/stream/JBT2S5J8EX/157.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ICTV 2 HD
+http://ott.watch/stream/JBT2S5J8EX/368.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",СТБ HD
+http://ott.watch/stream/JBT2S5J8EX/156.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",2+2 HD
+http://ott.watch/stream/JBT2S5J8EX/173.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",FILMUADRAMA HD
+http://ott.watch/stream/JBT2S5J8EX/273.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA: Культура HD
+http://ott.watch/stream/JBT2S5J8EX/435.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",К1 HD
+http://ott.watch/stream/JBT2S5J8EX/270.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТЕТ HD
+http://ott.watch/stream/JBT2S5J8EX/338.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",1+1 International
+http://ott.watch/stream/JBT2S5J8EX/105.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ОЦЕ HD
+http://ott.watch/stream/JBT2S5J8EX/329.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Кус-кус HD
+http://ott.watch/stream/JBT2S5J8EX/195.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",НТН HD
+http://ott.watch/stream/JBT2S5J8EX/326.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",36.6 HD
+http://ott.watch/stream/JBT2S5J8EX/331.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Квартал ТВ
+http://ott.watch/stream/JBT2S5J8EX/321.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дім HD
+http://ott.watch/stream/JBT2S5J8EX/383.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Bolt HD
+http://ott.watch/stream/JBT2S5J8EX/73.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ПлюсПлюс HD
+http://ott.watch/stream/JBT2S5J8EX/339.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Бiгудi
+http://ott.watch/stream/JBT2S5J8EX/340.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Інтер HD
+http://ott.watch/stream/JBT2S5J8EX/174.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ICTV HD
+http://ott.watch/stream/JBT2S5J8EX/158.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",1+1 HD
+http://ott.watch/stream/JBT2S5J8EX/172.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",1+1 Україна HD
+http://ott.watch/stream/JBT2S5J8EX/219.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",К2 HD
+http://ott.watch/stream/JBT2S5J8EX/324.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA: Київ HD
+http://ott.watch/stream/JBT2S5J8EX/439.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA: Крим HD
+http://ott.watch/stream/JBT2S5J8EX/436.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA: Перший HD
+http://ott.watch/stream/JBT2S5J8EX/437.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Zoom HD
+http://ott.watch/stream/JBT2S5J8EX/327.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Уніан HD
+http://ott.watch/stream/JBT2S5J8EX/341.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Channel 9 HD (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/20.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Channel 11 (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/293.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Channel 12 HD (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/294.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Channel 13 (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/295.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Zoom (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/377.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",KAN23 (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/378.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",YES Movies Action HD (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/380.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",HOT Zone HD (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/379.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",HOT HBO HD (Израиль)
+http://ott.watch/stream/JBT2S5J8EX/381.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",7 канал (Казахстан)
+http://ott.watch/stream/JBT2S5J8EX/27.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",31 Канал (Казахстан)
+http://ott.watch/stream/JBT2S5J8EX/388.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Qazaqstan (Казахстан)
+http://ott.watch/stream/JBT2S5J8EX/71.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Астана ТВ (Казахстан)
+http://ott.watch/stream/JBT2S5J8EX/28.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",КТК (Казахстан)
+http://ott.watch/stream/JBT2S5J8EX/26.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",НТК (Казахстан)
+http://ott.watch/stream/JBT2S5J8EX/389.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Armenia 1 TV (Армения)
+http://ott.watch/stream/JBT2S5J8EX/38.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Armenia TV HD (Армения)
+http://ott.watch/stream/JBT2S5J8EX/175.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Shant HD (Армения)
+http://ott.watch/stream/JBT2S5J8EX/37.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ATV HD (Армения)
+http://ott.watch/stream/JBT2S5J8EX/36.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Kentron HD (Армения)
+http://ott.watch/stream/JBT2S5J8EX/39.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TV3 Life HD (Латвия)
+http://ott.watch/stream/JBT2S5J8EX/373.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",LTV 7 HD (Латвия)
+http://ott.watch/stream/JBT2S5J8EX/371.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TV 24 (Латвия)
+http://ott.watch/stream/JBT2S5J8EX/372.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",LTV1 (Латвия)
+http://ott.watch/stream/JBT2S5J8EX/34.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",LNK HD (Литва)
+http://ott.watch/stream/JBT2S5J8EX/30.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",BTV HD (Литва)
+http://ott.watch/stream/JBT2S5J8EX/35.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",LRT HD (Литва)
+http://ott.watch/stream/JBT2S5J8EX/31.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",LRT Plius HD (Литва)
+http://ott.watch/stream/JBT2S5J8EX/353.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TV 1 (Литва)
+http://ott.watch/stream/JBT2S5J8EX/374.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TV3 HD (Литва)
+http://ott.watch/stream/JBT2S5J8EX/29.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Balticum (Литва)
+http://ott.watch/stream/JBT2S5J8EX/376.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TV 6 (Литва)
+http://ott.watch/stream/JBT2S5J8EX/375.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Молдова 1
+http://ott.watch/stream/JBT2S5J8EX/336.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Prime1 (Молдова)
+http://ott.watch/stream/JBT2S5J8EX/335.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Jurnal TV (Молдова)
+http://ott.watch/stream/JBT2S5J8EX/277.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Discovery HD
+http://ott.watch/stream/JBT2S5J8EX/177.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Discovery Science HD
+http://ott.watch/stream/JBT2S5J8EX/146.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Investigation Discovery
+http://ott.watch/stream/JBT2S5J8EX/205.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",National Geographic HD
+http://ott.watch/stream/JBT2S5J8EX/116.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Nat Geo Wild HD
+http://ott.watch/stream/JBT2S5J8EX/149.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",History HD
+http://ott.watch/stream/JBT2S5J8EX/113.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",H2 HD
+http://ott.watch/stream/JBT2S5J8EX/65.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TLC HD
+http://ott.watch/stream/JBT2S5J8EX/168.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Animal Planet HD
+http://ott.watch/stream/JBT2S5J8EX/114.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Глазами Туриста HD
+http://ott.watch/stream/JBT2S5J8EX/304.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Живи Активно HD
+http://ott.watch/stream/JBT2S5J8EX/132.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Наука 2.0 HD
+http://ott.watch/stream/JBT2S5J8EX/125.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Культура
+http://ott.watch/stream/JBT2S5J8EX/229.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",В мире животных HD
+http://ott.watch/stream/JBT2S5J8EX/241.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Мама
+http://ott.watch/stream/JBT2S5J8EX/79.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Доктор HD
+http://ott.watch/stream/JBT2S5J8EX/80.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Da Vinci
+http://ott.watch/stream/JBT2S5J8EX/238.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju Explore HD
+http://ott.watch/stream/JBT2S5J8EX/239.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju+ Planet HD
+http://ott.watch/stream/JBT2S5J8EX/240.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju History HD
+http://ott.watch/stream/JBT2S5J8EX/101.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Quiz TV HD
+http://ott.watch/stream/JBT2S5J8EX/397.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Соль ТВ HD
+http://ott.watch/stream/JBT2S5J8EX/398.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Чемодан ТВ HD
+http://ott.watch/stream/JBT2S5J8EX/399.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",365 дней ТВ
+http://ott.watch/stream/JBT2S5J8EX/70.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Моя планета HD
+http://ott.watch/stream/JBT2S5J8EX/124.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",RTG HD
+http://ott.watch/stream/JBT2S5J8EX/164.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Приключения HD
+http://ott.watch/stream/JBT2S5J8EX/198.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Travel channel HD
+http://ott.watch/stream/JBT2S5J8EX/231.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Travel+Adventure HD
+http://ott.watch/stream/JBT2S5J8EX/206.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Охота и рыбалка
+http://ott.watch/stream/JBT2S5J8EX/155.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Охотник и рыболов HD
+http://ott.watch/stream/JBT2S5J8EX/194.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Диалоги о рыбалке HD
+http://ott.watch/stream/JBT2S5J8EX/264.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Рибалка HD
+http://ott.watch/stream/JBT2S5J8EX/286.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дикая Охота HD
+http://ott.watch/stream/JBT2S5J8EX/274.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дикая Рыбалка HD
+http://ott.watch/stream/JBT2S5J8EX/275.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дача HD
+http://ott.watch/stream/JBT2S5J8EX/370.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Усадьба
+http://ott.watch/stream/JBT2S5J8EX/211.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Живая природа HD
+http://ott.watch/stream/JBT2S5J8EX/225.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Живая планета
+http://ott.watch/stream/JBT2S5J8EX/83.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Кухня ТВ
+http://ott.watch/stream/JBT2S5J8EX/179.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Food Time HD
+http://ott.watch/stream/JBT2S5J8EX/216.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Food Network HD
+http://ott.watch/stream/JBT2S5J8EX/298.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Авто24 HD
+http://ott.watch/stream/JBT2S5J8EX/78.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Авто Плюс HD
+http://ott.watch/stream/JBT2S5J8EX/186.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Моя стихия HD
+http://ott.watch/stream/JBT2S5J8EX/141.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",HDL HD
+http://ott.watch/stream/JBT2S5J8EX/161.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Insight TV HD
+http://ott.watch/stream/JBT2S5J8EX/361.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Мега HD
+http://ott.watch/stream/JBT2S5J8EX/325.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Фауна
+http://ott.watch/stream/JBT2S5J8EX/401.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Терра
+http://ott.watch/stream/JBT2S5J8EX/402.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Наука
+http://ott.watch/stream/JBT2S5J8EX/403.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Автомобільний HD
+http://ott.watch/stream/JBT2S5J8EX/404.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Закон HD
+http://ott.watch/stream/JBT2S5J8EX/406.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Масон HD
+http://ott.watch/stream/JBT2S5J8EX/346.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Трофей HD
+http://ott.watch/stream/JBT2S5J8EX/357.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Нано ТВ HD
+http://ott.watch/stream/JBT2S5J8EX/419.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",RAZ 1 HD
+http://ott.watch/stream/JBT2S5J8EX/463.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",RAZ 2 HD
+http://ott.watch/stream/JBT2S5J8EX/464.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBпремьера HD
+http://ott.watch/stream/JBT2S5J8EX/160.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBкомедия HD
+http://ott.watch/stream/JBT2S5J8EX/265.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBсемья HD
+http://ott.watch/stream/JBT2S5J8EX/170.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBсвидание HD
+http://ott.watch/stream/JBT2S5J8EX/171.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBхит HD
+http://ott.watch/stream/JBT2S5J8EX/126.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBмикс HD
+http://ott.watch/stream/JBT2S5J8EX/133.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Родное OTTCLUB
+http://ott.watch/stream/JBT2S5J8EX/242.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Индийское OTTCLUB
+http://ott.watch/stream/JBT2S5J8EX/104.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Мужское OTTCLUB HD
+http://ott.watch/stream/JBT2S5J8EX/107.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBужас HD
+http://ott.watch/stream/JBT2S5J8EX/278.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju TV 1000 HD
+http://ott.watch/stream/JBT2S5J8EX/110.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju TV 1000 Action HD
+http://ott.watch/stream/JBT2S5J8EX/100.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju+ Premiere HD
+http://ott.watch/stream/JBT2S5J8EX/202.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju+ Megahit HD
+http://ott.watch/stream/JBT2S5J8EX/200.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju+ Comedy HD
+http://ott.watch/stream/JBT2S5J8EX/201.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju+ Serial HD
+http://ott.watch/stream/JBT2S5J8EX/311.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Комедийное HD
+http://ott.watch/stream/JBT2S5J8EX/74.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Amedia Premium HD
+http://ott.watch/stream/JBT2S5J8EX/151.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Amedia 1 HD
+http://ott.watch/stream/JBT2S5J8EX/117.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Amedia Hit HD
+http://ott.watch/stream/JBT2S5J8EX/162.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Роман HD
+http://ott.watch/stream/JBT2S5J8EX/266.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Иллюзион
+http://ott.watch/stream/JBT2S5J8EX/122.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Бестселлер
+http://ott.watch/stream/JBT2S5J8EX/208.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Детектив
+http://ott.watch/stream/JBT2S5J8EX/204.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Комедия
+http://ott.watch/stream/JBT2S5J8EX/68.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Comedy Central
+http://ott.watch/stream/JBT2S5J8EX/167.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",black HD
+http://ott.watch/stream/JBT2S5J8EX/263.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Время
+http://ott.watch/stream/JBT2S5J8EX/237.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",red HD
+http://ott.watch/stream/JBT2S5J8EX/69.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",sci-fi HD
+http://ott.watch/stream/JBT2S5J8EX/180.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Наше HD
+http://ott.watch/stream/JBT2S5J8EX/217.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Душевное HD
+http://ott.watch/stream/JBT2S5J8EX/213.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBТВ HD
+http://ott.watch/stream/JBT2S5J8EX/221.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",OTTCLUBпоказ HD
+http://ott.watch/stream/JBT2S5J8EX/64.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Cinema HD
+http://ott.watch/stream/JBT2S5J8EX/62.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",НСТ
+http://ott.watch/stream/JBT2S5J8EX/207.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ЕвроOTTCLUB HD
+http://ott.watch/stream/JBT2S5J8EX/385.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fox HD
+http://ott.watch/stream/JBT2S5J8EX/182.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fox Life HD
+http://ott.watch/stream/JBT2S5J8EX/129.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТВ XXI
+http://ott.watch/stream/JBT2S5J8EX/152.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Plan B HD
+http://ott.watch/stream/JBT2S5J8EX/196.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Остросюжетное HD
+http://ott.watch/stream/JBT2S5J8EX/214.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дом OTTCLUB
+http://ott.watch/stream/JBT2S5J8EX/236.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дом OTTCLUB Премиум HD
+http://ott.watch/stream/JBT2S5J8EX/108.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Hollywood HD
+http://ott.watch/stream/JBT2S5J8EX/268.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",НТВ Сериал
+http://ott.watch/stream/JBT2S5J8EX/301.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Телекафе
+http://ott.watch/stream/JBT2S5J8EX/314.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",24Техно
+http://ott.watch/stream/JBT2S5J8EX/209.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Наше мужское HD
+http://ott.watch/stream/JBT2S5J8EX/362.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Блокбастер HD
+http://ott.watch/stream/JBT2S5J8EX/364.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Star Cinema HD
+http://ott.watch/stream/JBT2S5J8EX/310.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Star Family HD
+http://ott.watch/stream/JBT2S5J8EX/226.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Kino 1 HD
+http://ott.watch/stream/JBT2S5J8EX/395.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Kino 2 HD
+http://ott.watch/stream/JBT2S5J8EX/465.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Твій Серіал HD
+http://ott.watch/stream/JBT2S5J8EX/466.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Шокирующее HD
+http://ott.watch/stream/JBT2S5J8EX/75.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Хит HD
+http://ott.watch/stream/JBT2S5J8EX/363.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Enter-фільм HD
+http://ott.watch/stream/JBT2S5J8EX/322.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Мосфильм. Золотая коллекция HD
+http://ott.watch/stream/JBT2S5J8EX/369.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Премиальное HD
+http://ott.watch/stream/JBT2S5J8EX/421.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Ретро
+http://ott.watch/stream/JBT2S5J8EX/191.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",FAN HD
+http://ott.watch/stream/JBT2S5J8EX/420.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Дорама HD
+http://ott.watch/stream/JBT2S5J8EX/412.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan HD
+http://ott.watch/stream/JBT2S5J8EX/349.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Top HD
+http://ott.watch/stream/JBT2S5J8EX/350.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Action HD
+http://ott.watch/stream/JBT2S5J8EX/351.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Thriller HD
+http://ott.watch/stream/JBT2S5J8EX/352.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Marvel HD
+http://ott.watch/stream/JBT2S5J8EX/354.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Ужасы HD
+http://ott.watch/stream/JBT2S5J8EX/355.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Comedy HD
+http://ott.watch/stream/JBT2S5J8EX/356.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan РуOTTCLUB HD
+http://ott.watch/stream/JBT2S5J8EX/358.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",CineMan Сваты HD
+http://ott.watch/stream/JBT2S5J8EX/359.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Rating HD
+http://ott.watch/stream/JBT2S5J8EX/422.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Cinema HD
+http://ott.watch/stream/JBT2S5J8EX/423.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Premiere HD
+http://ott.watch/stream/JBT2S5J8EX/424.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Comedy HD
+http://ott.watch/stream/JBT2S5J8EX/426.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Family HD
+http://ott.watch/stream/JBT2S5J8EX/427.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh VHS HD
+http://ott.watch/stream/JBT2S5J8EX/428.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Fantastic HD
+http://ott.watch/stream/JBT2S5J8EX/429.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Series HD
+http://ott.watch/stream/JBT2S5J8EX/430.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Horror HD
+http://ott.watch/stream/JBT2S5J8EX/431.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Adventure HD
+http://ott.watch/stream/JBT2S5J8EX/432.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Romantic HD
+http://ott.watch/stream/JBT2S5J8EX/433.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Thriller HD
+http://ott.watch/stream/JBT2S5J8EX/434.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Eurosport 1 HD
+http://ott.watch/stream/JBT2S5J8EX/176.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Eurosport 2 HD
+http://ott.watch/stream/JBT2S5J8EX/192.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! Футбол 1 HD
+http://ott.watch/stream/JBT2S5J8EX/130.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! Футбол 2 HD
+http://ott.watch/stream/JBT2S5J8EX/142.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! Футбол 3 HD
+http://ott.watch/stream/JBT2S5J8EX/185.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! Игра HD
+http://ott.watch/stream/JBT2S5J8EX/188.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! СТРАНА HD
+http://ott.watch/stream/JBT2S5J8EX/143.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! Арена HD
+http://ott.watch/stream/JBT2S5J8EX/163.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч ТВ HD
+http://ott.watch/stream/JBT2S5J8EX/169.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч! Боец HD
+http://ott.watch/stream/JBT2S5J8EX/112.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Матч Премьер HD
+http://ott.watch/stream/JBT2S5J8EX/193.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Setanta Sports 1 HD
+http://ott.watch/stream/JBT2S5J8EX/234.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Setanta Sports 2 HD
+http://ott.watch/stream/JBT2S5J8EX/235.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Setanta Sports HD UA
+http://ott.watch/stream/JBT2S5J8EX/313.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Setanta Sports+ HD
+http://ott.watch/stream/JBT2S5J8EX/390.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Sport 1
+http://ott.watch/stream/JBT2S5J8EX/391.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Sport 1 Baltic
+http://ott.watch/stream/JBT2S5J8EX/461.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Sport 2
+http://ott.watch/stream/JBT2S5J8EX/392.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Sport 3 HD
+http://ott.watch/stream/JBT2S5J8EX/393.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Sport 4
+http://ott.watch/stream/JBT2S5J8EX/394.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Dynamo Kyiv TV HD
+http://ott.watch/stream/JBT2S5J8EX/396.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA: OTTCLUB HD
+http://ott.watch/stream/JBT2S5J8EX/444.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",KHL ТВ
+http://ott.watch/stream/JBT2S5J8EX/166.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",KHL Prime HD
+http://ott.watch/stream/JBT2S5J8EX/178.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Viju+ Sport HD
+http://ott.watch/stream/JBT2S5J8EX/333.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TV 3 Sport HD LT
+http://ott.watch/stream/JBT2S5J8EX/416.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Бокс ТВ
+http://ott.watch/stream/JBT2S5J8EX/154.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Беларусь 5 HD
+http://ott.watch/stream/JBT2S5J8EX/33.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Extreme Sports
+http://ott.watch/stream/JBT2S5J8EX/148.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",X Sport Plus HD
+http://ott.watch/stream/JBT2S5J8EX/332.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Экстрим HD
+http://ott.watch/stream/JBT2S5J8EX/285.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UDAR HD
+http://ott.watch/stream/JBT2S5J8EX/279.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Qazsport
+http://ott.watch/stream/JBT2S5J8EX/72.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Nickelodeon UA HD
+http://ott.watch/stream/JBT2S5J8EX/127.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Nickelodeon
+http://ott.watch/stream/JBT2S5J8EX/443.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Nick Jr
+http://ott.watch/stream/JBT2S5J8EX/220.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Солнце
+http://ott.watch/stream/JBT2S5J8EX/118.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",TiJi
+http://ott.watch/stream/JBT2S5J8EX/111.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Мульт HD
+http://ott.watch/stream/JBT2S5J8EX/232.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Мульт и музыка
+http://ott.watch/stream/JBT2S5J8EX/82.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",JimJam
+http://ott.watch/stream/JBT2S5J8EX/150.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Капитан Фантастика HD
+http://ott.watch/stream/JBT2S5J8EX/144.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Карусель
+http://ott.watch/stream/JBT2S5J8EX/120.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",В гостях у сказки HD
+http://ott.watch/stream/JBT2S5J8EX/93.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Канал О!
+http://ott.watch/stream/JBT2S5J8EX/60.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Gulli Girl
+http://ott.watch/stream/JBT2S5J8EX/305.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Ani
+http://ott.watch/stream/JBT2S5J8EX/306.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Піксель HD
+http://ott.watch/stream/JBT2S5J8EX/323.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Fresh Kids HD
+http://ott.watch/stream/JBT2S5J8EX/425.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Cartoons Short HD
+http://ott.watch/stream/JBT2S5J8EX/347.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Cartoons Big HD
+http://ott.watch/stream/JBT2S5J8EX/348.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Stingray iConcerts HD
+http://ott.watch/stream/JBT2S5J8EX/267.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Stingray CMusic HD
+http://ott.watch/stream/JBT2S5J8EX/312.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",М1 HD
+http://ott.watch/stream/JBT2S5J8EX/218.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",М2 HD
+http://ott.watch/stream/JBT2S5J8EX/330.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",BRIDGE DELUXE HD
+http://ott.watch/stream/JBT2S5J8EX/92.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",BRIDGE CLASSIC
+http://ott.watch/stream/JBT2S5J8EX/272.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",BRIDGE
+http://ott.watch/stream/JBT2S5J8EX/318.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",BRIDGE ХИТ
+http://ott.watch/stream/JBT2S5J8EX/320.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Music Box
+http://ott.watch/stream/JBT2S5J8EX/319.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Europa Plus TV HD
+http://ott.watch/stream/JBT2S5J8EX/184.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Inrating HD
+http://ott.watch/stream/JBT2S5J8EX/147.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",MTV Hits
+http://ott.watch/stream/JBT2S5J8EX/302.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",MTV Live HD
+http://ott.watch/stream/JBT2S5J8EX/215.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",MTV 00s
+http://ott.watch/stream/JBT2S5J8EX/165.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",MTV 90s
+http://ott.watch/stream/JBT2S5J8EX/88.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",MTV 80s
+http://ott.watch/stream/JBT2S5J8EX/87.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Музыка Первого
+http://ott.watch/stream/JBT2S5J8EX/153.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Муз-ТВ
+http://ott.watch/stream/JBT2S5J8EX/86.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Жара HD
+http://ott.watch/stream/JBT2S5J8EX/386.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",RU.TV
+http://ott.watch/stream/JBT2S5J8EX/109.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Mezzo Live HD
+http://ott.watch/stream/JBT2S5J8EX/276.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Ля-минор ТВ
+http://ott.watch/stream/JBT2S5J8EX/303.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",ТНТ MUSIC
+http://ott.watch/stream/JBT2S5J8EX/317.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Настоящее время HD
+http://ott.watch/stream/JBT2S5J8EX/384.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",EuroNews
+http://ott.watch/stream/JBT2S5J8EX/189.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Deutsche Welle HD
+http://ott.watch/stream/JBT2S5J8EX/440.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",BBC News HD UK
+http://ott.watch/stream/JBT2S5J8EX/85.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA: Новини HD
+http://ott.watch/stream/JBT2S5J8EX/438.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Рада HD
+http://ott.watch/stream/JBT2S5J8EX/382.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Еспресо HD
+http://ott.watch/stream/JBT2S5J8EX/84.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",24 Канал HD
+http://ott.watch/stream/JBT2S5J8EX/462.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",UA TV HD
+http://ott.watch/stream/JBT2S5J8EX/63.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Ukraine World News HD
+http://ott.watch/stream/JBT2S5J8EX/441.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="OTTCLUB (Архив)",Ми-Україна
+http://ott.watch/stream/JBT2S5J8EX/442.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV TV PLUS",24 Kitchen
+http://77.85.236.219:6061/play/24_Kitchen/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",7/8 TV
+http://77.85.236.219:6061/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Action.box
+http://77.85.236.219:6061/play/Action_box/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Agro TV
+http://77.85.236.219:6061/play/Agro_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Animal Planet
+http://77.85.236.219:6061/play/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",BG Music Channel
+http://77.85.236.219:6061/play/BG_Music_Channel/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",BNT 4
+http://77.85.236.219:6061/play/BNT_4/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Baby TV
+http://77.85.236.219:6061/play/Baby_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Balkanika
+http://77.85.236.219:6061/play/Balkanika/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",BeIN Movies Turk
+http://77.85.236.219:6061/play/BeIN_Movies_Turk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Box TV
+http://77.85.236.219:6061/play/Box_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Bulgaria On Air
+http://77.85.236.219:6061/play/Bulgaria_On_Air/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",CI Network
+http://77.85.236.219:6061/play/CI_Network/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",CITY TV
+http://77.85.236.219:6061/play/CITY_TV_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",CNN
+http://77.85.236.219:6061/play/CNN/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Cartoon network
+http://77.85.236.219:6061/play/Cartoon_network/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Cartoonito
+http://77.85.236.219:6061/play/Cartoonito/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Chasse & Peche
+http://77.85.236.219:6061/play/Chasse_and_Peche/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Cine.box
+http://77.85.236.219:6061/play/Cine_box/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",CineStar TV
+http://77.85.236.219:6061/play/CineStar_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Cinemania
+http://77.85.236.219:6061/play/Cinemania/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Comedy.box
+http://77.85.236.219:6061/play/Comedy_box/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",DM Sat
+http://77.85.236.219:6061/play/DM_Sat/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",DSTV
+http://77.85.236.219:6061/play/DSTV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",DW
+http://77.85.236.219:6061/play/DW/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Da Vinci
+http://77.85.236.219:6061/play/Da_Vinci/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Diema Sport 2 HD
+http://77.85.236.219:6061/play/Diema_Sport_2_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Diema Sport 3 HD
+http://77.85.236.219:6061/play/Diema_Sport_3_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Diema Sport HD
+http://77.85.236.219:6061/play/Diema_Sport_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Discovery Channel
+http://77.85.236.219:6061/play/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Disney
+http://77.85.236.219:6061/play/Disney/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Disney Junior
+http://77.85.236.219:6061/play/Disney_Junior/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Dom Kino Premium
+http://77.85.236.219:6061/play/Dom_Kino_Premium/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",E-Kids
+http://77.85.236.219:6061/play/E_Kids/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",English Club
+http://77.85.236.219:6061/play/English_Club/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Epic Drama
+http://77.85.236.219:6061/play/Epic_Drama/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Euronews Bulgaria
+http://77.85.236.219:6061/play/Euronews_Bulgaria/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Eurosport 1
+http://77.85.236.219:6061/play/Eurosport_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Eurosport 2
+http://77.85.236.219:6061/play/Eurosport_2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Fashion TV
+http://77.85.236.219:6061/play/Fashion_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Fen TV
+http://77.85.236.219:6061/play/Fen_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Food Network
+http://77.85.236.219:6061/play/Food_Network/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",HGTV HD
+http://77.85.236.219:6061/play/HGTV_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",History HD
+http://77.85.236.219:6061/play/History_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",ID
+http://77.85.236.219:6061/play/ID/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",KANAL 7 Avrupa
+http://77.85.236.219:6061/play/KANAL_7_Avrupa/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Kino Nova HD
+http://77.85.236.219:6061/play/Kino_Nova_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",MAX Sport 1 HD
+http://77.85.236.219:6061/play/MAX_Sport_1_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",MAX Sport 2 HD
+http://77.85.236.219:6061/play/MAX_Sport_2_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",MAX Sport 3 HD
+http://77.85.236.219:6061/play/MAX_Sport_3_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",MAX Sport 4 HD
+http://77.85.236.219:6061/play/MAX_Sport_4_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",MTV
+http://77.85.236.219:6061/play/MTV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Magic TV
+http://77.85.236.219:6061/play/Magic_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Mezzo
+http://77.85.236.219:6061/play/Mezzo/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",MovieSTAR
+http://77.85.236.219:6061/play/MovieSTAR/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",NG Wild
+http://77.85.236.219:6061/play/NG_Wild/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",NG Wild HD
+http://77.85.236.219:6061/play/NG_Wild_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",NKTV Evrokom
+http://77.85.236.219:6061/play/NKTV_Evrokom/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nat Geo HD
+http://77.85.236.219:6061/play/Nat_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nick Junior
+http://77.85.236.219:6061/play/Nick_Junior/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nicktoons
+http://77.85.236.219:6061/play/Nicktoons/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nostalgia
+http://77.85.236.219:6061/play/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nova HD
+http://77.85.236.219:6061/play/Nova_HD_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nova News HD
+http://77.85.236.219:6061/play/Nova_News_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Nova Sport
+http://77.85.236.219:6061/play/Nova_Sport/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",RING HD
+http://77.85.236.219:6061/play/RING_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",RTL
+http://77.85.236.219:6061/play/RTL/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Ribalka i Ohota
+http://77.85.236.219:6061/play/Ribalka_i_Ohota/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Rodina TV
+http://77.85.236.219:6061/play/Rodina_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",STAR Channel
+http://77.85.236.219:6061/play/STAR_Channel/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS", Turk
+http://77.85.236.219:6061/play/_Turk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Soul & Pepper TV
+http://77.85.236.219:6061/play/Soul_and_Pepper_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",TLC
+http://77.85.236.219:6061/play/TLC/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",TV 1000
+http://77.85.236.219:6061/play/TV_1000/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",TV1000 RKG
+http://77.85.236.219:6061/play/TV1000_RKG/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",TV8 Int.
+http://77.85.236.219:6061/play/TV8_Int/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",The Voice
+http://77.85.236.219:6061/play/The_Voice/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",VIVACOM ARENA
+http://77.85.236.219:6061/play/VIVACOM_ARENA/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",VIVACOM Arena HD
+http://77.85.236.219:6061/play/VIVACOM_Arena_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Viasat History
+http://77.85.236.219:6061/play/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Viasat Nature
+http://77.85.236.219:6061/play/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",bTV Action HD
+http://77.85.236.219:6061/play/bTV_Action_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",bTV Cinema
+http://77.85.236.219:6061/play/bTV_Cinema_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",bTV Comedy
+http://77.85.236.219:6061/play/bTV_Comedy_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",bTV HD 
+http://77.85.236.219:6061/play/bTV_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",bTV Story
+http://77.85.236.219:6061/play/bTV_Story_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",БНТ 2
+http://77.85.236.219:6061/play/BNT_2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",БНТ 3 HD
+http://77.85.236.219:6061/play/BNT_3_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",БНТ1
+http://77.85.236.219:6061/play/BNT_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",България 24
+http://77.85.236.219:6061/play/Bulgaria_24/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Диема HD
+http://77.85.236.219:6061/play/Diema_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Диема Фемили HD
+http://77.85.236.219:6061/play/Diema_Family_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Планета HD
+http://77.85.236.219:6061/play/Planeta_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Планета Фолк
+http://77.85.236.219:6061/play/Planeta_Folk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",СКАТ
+http://77.85.236.219:6061/play/SKAT/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Тянков Фолк
+http://77.85.236.219:6061/play/Tiankov_Folfk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Фен Фолк
+http://77.85.236.219:6061/play/Fen_Folk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV PLUS",Фолклор ТВ
+http://77.85.236.219:6061/play/Folklor_TV/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",01 ПЕРВЫЙ КАНАЛ
+http://31.130.16.230:4022/udp/239.1.8.1:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",02 РОССИЯ-1
+http://31.130.16.230:4022/udp/239.1.8.2:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",08 КАРУСЕЛЬ
+http://31.130.16.230:4022/udp/239.1.8.3:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",03 МАТЧ!
+http://31.130.16.230:4022/udp/239.1.8.4:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",07 РОССИЯ-24
+http://31.130.16.230:4022/udp/239.1.8.5:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",06 РОССИЯ-К
+http://31.130.16.230:4022/udp/239.1.8.6:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",04 НТВ
+http://31.130.16.230:4022/udp/239.1.8.7:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",05 ПЯТЫЙ КАНАЛ
+http://31.130.16.230:4022/udp/239.1.8.8:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",8 Канал
+http://31.130.16.230:4022/udp/239.1.8.9:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Красная Линия
+http://31.130.16.230:4022/udp/239.1.8.10:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ВМЕСТЕ РФ
+http://31.130.16.230:4022/udp/239.1.8.11:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Краснодар
+http://31.130.16.230:4022/udp/239.1.8.15:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Грозный
+http://31.130.16.230:4022/udp/239.1.8.16:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",История
+http://31.130.16.230:4022/udp/239.1.8.17:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",09 ОТР
+http://31.130.16.230:4022/udp/239.1.8.18:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Инфоканал  HD
+http://31.130.16.230:4022/udp/239.1.8.19:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Охота и Рыбалка HD
+http://31.130.16.230:4022/udp/239.1.8.20:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",18 МИР
+http://31.130.16.230:4022/udp/239.1.8.24:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Мир 24
+http://31.130.16.230:4022/udp/239.1.8.25:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",12 Спас
+http://31.130.16.230:4022/udp/239.1.8.27:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",АСТРАХАНЬ 24 HD
+http://31.130.16.230:4022/udp/239.1.8.28:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Fight Club HD
+http://31.130.16.230:4022/udp/239.1.8.29:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",НТВ Стиль HD
+http://31.130.16.230:4022/udp/239.1.8.32:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",НТВ Право
+http://31.130.16.230:4022/udp/239.1.8.33:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",НТВ Сериал HD
+http://31.130.16.230:4022/udp/239.1.8.34:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",НТВ-ХИТ
+http://31.130.16.230:4022/udp/239.1.8.35:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",НТВ HD
+http://31.130.16.230:4022/udp/239.1.8.36:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Усадьба_HD
+http://31.130.16.230:4022/udp/239.1.8.37:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Еврокино HD
+http://31.130.16.230:4022/udp/239.1.8.38:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Драйв HD
+http://31.130.16.230:4022/udp/239.1.8.39:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Волгоград 1 HD
+http://31.130.16.230:4022/udp/239.1.8.40:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Телеканал 360 HD
+http://31.130.16.230:4022/udp/239.1.8.42:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Волгоград 24  HD
+http://31.130.16.230:4022/udp/239.1.8.41:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",РБК
+http://31.130.16.230:4022/udp/239.1.8.43:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Первый Волгоградский Канал
+http://31.130.16.230:4022/udp/239.1.8.77:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",01 ПЕРВЫЙ КАНАЛ
+http://31.130.16.230:4022/udp/239.1.8.101:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",02 РОССИЯ-1
+http://31.130.16.230:4022/udp/239.1.8.102:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",03 МАТЧ!
+http://31.130.16.230:4022/udp/239.1.8.103:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",04 НТВ
+http://31.130.16.230:4022/udp/239.1.8.104:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",05 ПЯТЫЙ КАНАЛ
+http://31.130.16.230:4022/udp/239.1.8.105:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",06 РОССИЯ-К
+http://31.130.16.230:4022/udp/239.1.8.106:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",07 РОССИЯ-24
+http://31.130.16.230:4022/udp/239.1.8.107:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",08 КАРУСЕЛЬ
+http://31.130.16.230:4022/udp/239.1.8.108:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",09 ОТР
+http://31.130.16.230:4022/udp/239.1.8.109:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",10 ТВ Центр
+http://31.130.16.230:4022/udp/239.1.8.110:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",11 РЕН ТВ
+http://31.130.16.230:4022/udp/239.1.8.111:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Спас
+http://31.130.16.230:4022/udp/239.1.8.112:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",13 СТС
+http://31.130.16.230:4022/udp/239.1.8.113:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",14 Домашний
+http://31.130.16.230:4022/udp/239.1.8.114:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ТВ3
+http://31.130.16.230:4022/udp/239.1.8.115:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Пятница
+http://31.130.16.230:4022/udp/239.1.8.116:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Звезда
+http://31.130.16.230:4022/udp/239.1.8.117:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",18 МИР
+http://31.130.16.230:4022/udp/239.1.8.118:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",19 ТНТ
+http://31.130.16.230:4022/udp/239.1.8.119:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Муз ТВ
+http://31.130.16.230:4022/udp/239.1.8.120:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ВЕСТИ ФМ
+http://31.130.16.230:4022/udp/239.1.8.121:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Радио МАЯК
+http://31.130.16.230:4022/udp/239.1.8.122:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Радио России
+http://31.130.16.230:4022/udp/239.1.8.123:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ВЕСТИ ФМ
+http://31.130.16.230:4022/udp/239.1.8.124:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Радио МАЯК
+http://31.130.16.230:4022/udp/239.1.8.125:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Радио России
+http://31.130.16.230:4022/udp/239.1.8.126:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",13 СТС
+http://31.130.16.230:4022/udp/239.1.9.2:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",19 ТНТ
+http://31.130.16.230:4022/udp/239.1.9.3:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",11 РЕН ТВ
+http://31.130.16.230:4022/udp/239.1.9.4:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Солнце
+http://31.130.16.230:4022/udp/239.1.9.6:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Советская киноклассика HD
+http://31.130.16.230:4022/udp/239.1.9.5:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",В гостях у сказки
+http://31.130.16.230:4022/udp/239.1.9.7:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",10 ТВ Центр
+http://31.130.16.230:4022/udp/239.1.9.8:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ТНТ MUSIC
+http://31.130.16.230:4022/udp/239.1.9.9:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE
+http://31.130.16.230:4022/udp/239.1.9.10:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ТНТ HD
+http://31.130.16.230:4022/udp/239.1.9.11:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE TV РУССКИЙ ХИТ
+http://31.130.16.230:4022/udp/239.1.9.12:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",VHS-ka HD
+http://31.130.16.230:4022/udp/239.1.9.14:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Ю-ТВ (0)
+http://31.130.16.230:4022/udp/239.1.9.13:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE ROCK
+http://31.130.16.230:4022/udp/239.1.9.15:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Союз
+http://31.130.16.230:4022/udp/239.1.9.16:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",17 Звезда
+http://31.130.16.230:4022/udp/239.1.9.17:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Нано
+http://31.130.16.230:4022/udp/239.1.9.18:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",РУССКИЙ ИЛЛЮЗИОН HD
+http://31.130.16.230:4022/udp/239.1.9.19:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",RT Region SD
+http://31.130.16.230:4022/udp/239.1.9.20:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Кубань 24 HD
+http://31.130.16.230:4022/udp/239.1.9.21:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE CLASSIC
+http://31.130.16.230:4022/udp/239.1.9.22:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Комедия
+http://31.130.16.230:4022/udp/239.1.9.24:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Старт HD
+http://31.130.16.230:4022/udp/239.1.9.23:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Bolt HD
+http://31.130.16.230:4022/udp/239.1.9.25:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Star Family HD
+http://31.130.16.230:4022/udp/239.1.9.26:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Star Cinema HD
+http://31.130.16.230:4022/udp/239.1.9.27:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ТВ 21
+http://31.130.16.230:4022/udp/239.1.9.28:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Народная музыка HD
+http://31.130.16.230:4022/udp/239.1.9.30:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Любимое кино
+http://31.130.16.230:4022/udp/239.1.9.29:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE DELUXE HD
+http://31.130.16.230:4022/udp/239.1.9.31:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Россия 1 HD
+http://31.130.16.230:4022/udp/239.1.9.34:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Охотник и рыболов HD
+http://31.130.16.230:4022/udp/239.1.9.35:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Первый канал HD
+http://31.130.16.230:4022/udp/239.1.9.36:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Диалоги о рыбалке
+http://31.130.16.230:4022/udp/239.1.9.37:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Советская Киноклассика HD
+http://31.130.16.230:4022/udp/239.1.9.38:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Иллюзион+ HD
+http://31.130.16.230:4022/udp/239.1.9.39:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Рыжий
+http://31.130.16.230:4022/udp/239.1.9.40:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Тонус
+http://31.130.16.230:4022/udp/239.1.9.41:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Мультимузыка
+http://31.130.16.230:4022/udp/239.1.9.42:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ТНВ Планета
+http://31.130.16.230:4022/udp/239.1.9.43:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Тайна
+http://31.130.16.230:4022/udp/239.1.9.44:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",СТС LOVE +0
+http://31.130.16.230:4022/udp/239.1.9.45:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Первый канал HD
+http://31.130.16.230:4022/udp/239.1.9.46:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",RT DOC HD
+http://31.130.16.230:4022/udp/239.1.9.48:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Че! +0
+http://31.130.16.230:4022/udp/239.1.9.77:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",2X2
+http://31.130.16.230:4022/udp/239.1.10.1:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",15 ТВ3
+http://31.130.16.230:4022/udp/239.1.10.2:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",THT4
+http://31.130.16.230:4022/udp/239.1.10.3:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Патриот
+http://31.130.16.230:4022/udp/239.1.10.4:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Суббота!
+http://31.130.16.230:4022/udp/239.1.10.5:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Кино ТВ HD
+http://31.130.16.230:4022/udp/239.1.10.6:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Cinema
+http://31.130.16.230:4022/udp/239.1.10.8:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Чижик HD
+http://31.130.16.230:4022/udp/239.1.10.7:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Кинопоказ HD
+http://31.130.16.230:4022/udp/239.1.10.9:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Живи активно  HD
+http://31.130.16.230:4022/udp/239.1.10.10:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",16 Пятница
+http://31.130.16.230:4022/udp/239.1.10.11:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Калейдоскоп
+http://31.130.16.230:4022/udp/239.1.10.12:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Рыболов HD
+http://31.130.16.230:4022/udp/239.1.10.13:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",LUXURY HD
+http://31.130.16.230:4022/udp/239.1.10.14:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Приключения HD
+http://31.130.16.230:4022/udp/239.1.10.15:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Romance Channel
+http://31.130.16.230:4022/udp/239.1.10.16:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Мульт HD
+http://31.130.16.230:4022/udp/239.1.10.17:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Suspense
+http://31.130.16.230:4022/udp/239.1.10.19:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",RTG HD
+http://31.130.16.230:4022/udp/239.1.10.20:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Cartoon Classics
+http://31.130.16.230:4022/udp/239.1.10.21:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Мосфильм Золотая Коллекция HD
+http://31.130.16.230:4022/udp/239.1.10.22:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",RTG TV
+http://31.130.16.230:4022/udp/239.1.10.23:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Загородный HD
+http://31.130.16.230:4022/udp/239.1.10.24:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Зоо ТВ HD
+http://31.130.16.230:4022/udp/239.1.10.25:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Телепутешествия
+http://31.130.16.230:4022/udp/239.1.10.26:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Моя Планета HD
+http://31.130.16.230:4022/udp/239.1.10.27:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Наука HD
+http://31.130.16.230:4022/udp/239.1.10.28:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Bollywood HD
+http://31.130.16.230:4022/udp/239.1.10.29:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",20 МУЗ ТВ
+http://31.130.16.230:4022/udp/239.1.10.30:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Телеканал Футбол HD
+http://31.130.16.230:4022/udp/239.1.10.31:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Europa Plus TV HD
+http://31.130.16.230:4022/udp/239.1.10.32:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Пятница! Msk HD
+http://31.130.16.230:4022/udp/239.1.10.33:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE HITS
+http://31.130.16.230:4022/udp/239.1.10.34:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ТВ3 HD
+http://31.130.16.230:4022/udp/239.1.10.35:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Ru TV HD
+http://31.130.16.230:4022/udp/239.1.10.37:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Дорама HD
+http://31.130.16.230:4022/udp/239.1.10.38:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Хоккейный HD
+http://31.130.16.230:4022/udp/239.1.11.1:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Спортивный HD
+http://31.130.16.230:4022/udp/239.1.11.2:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Первый Космический HD
+http://31.130.16.230:4022/udp/239.1.11.3:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Футбольный HD
+http://31.130.16.230:4022/udp/239.1.11.4:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Арсенал HD
+http://31.130.16.230:4022/udp/239.1.11.5:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Театр
+http://31.130.16.230:4022/udp/239.1.11.6:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",.Black
+http://31.130.16.230:4022/udp/239.1.11.7:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",РУССКИЙ ДЕТЕКТИВ
+http://31.130.16.230:4022/udp/239.1.11.12:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",День Победы HD
+http://31.130.16.230:4022/udp/239.1.11.13:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Русский Роман HD
+http://31.130.16.230:4022/udp/239.1.11.14:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Scream HD
+http://31.130.16.230:4022/udp/239.1.11.15:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Русский Бестселлер
+http://31.130.16.230:4022/udp/239.1.11.16:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Беларусь 24
+http://31.130.16.230:4022/udp/239.1.11.28:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Mama
+http://31.130.16.230:4022/udp/239.1.11.29:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Сарафан
+http://31.130.16.230:4022/udp/239.1.11.32:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Живая Планета
+http://31.130.16.230:4022/udp/239.1.11.33:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Кино ТВ
+http://31.130.16.230:4022/udp/239.1.11.34:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Sumiko HD
+http://31.130.16.230:4022/udp/239.1.11.35:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Techno 24
+http://31.130.16.230:4022/udp/239.1.11.36:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",НСТ
+http://31.130.16.230:4022/udp/239.1.11.37:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",REX HD
+http://31.130.16.230:4022/udp/239.1.11.38:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Mатч! HD
+http://31.130.16.230:4022/udp/239.1.11.39:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Блокбастер HD
+http://31.130.16.230:4022/udp/239.1.12.1:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Блокбастер HD
+http://31.130.16.230:4022/udp/239.1.12.2:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju TV1000
+http://31.130.16.230:4022/udp/239.1.12.4:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Cinema UHD
+http://31.130.16.230:4022/udp/239.1.12.3:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju TV1000 action
+http://31.130.16.230:4022/udp/239.1.12.5:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju TV1000 русское
+http://31.130.16.230:4022/udp/239.1.12.6:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",ULTRA Cinema
+http://31.130.16.230:4022/udp/239.1.12.8:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Shopping Live
+http://31.130.16.230:4022/udp/239.1.12.7:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Frenchlover
+http://31.130.16.230:4022/udp/239.1.12.10:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BlueHustler HD
+http://31.130.16.230:4022/udp/239.1.12.11:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE Шлягер
+http://31.130.16.230:4022/udp/239.1.12.12:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE FRESH
+http://31.130.16.230:4022/udp/239.1.12.13:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Barely legal
+http://31.130.16.230:4022/udp/239.1.12.14:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",KINOJAM 1 HD
+http://31.130.16.230:4022/udp/239.1.12.15:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",KINOJAM 2 HD
+http://31.130.16.230:4022/udp/239.1.12.16:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",DetectiveJam HD
+http://31.130.16.230:4022/udp/239.1.12.17:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",FamilyJam HD
+http://31.130.16.230:4022/udp/239.1.12.18:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",LeomaxSD
+http://31.130.16.230:4022/udp/239.1.12.19:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju+ Sport
+http://31.130.16.230:4022/udp/239.1.12.20:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",Da Vinci
+http://31.130.16.230:4022/udp/239.1.12.21:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju Explore
+http://31.130.16.230:4022/udp/239.1.12.22:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju History
+http://31.130.16.230:4022/udp/239.1.12.23:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",viju Nature
+http://31.130.16.230:4022/udp/239.1.12.24:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BABY TIME
+http://31.130.16.230:4022/udp/239.1.12.25:1234
+#EXTINF:-1 group-title="RUZIEV TV / POWERNET ",BRIDGE ЭТНО
+http://31.130.16.230:4022/udp/239.1.12.26:1234
+
+
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Ultra 4K Extreme
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",TV XXI
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Сапфир HD
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Витебск
+http://46.53.200.153:7777/play/a00h/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Буг ТВ HD
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Светлое ТВ
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Наш Кинопоказ
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",RTG HD
+http://46.53.200.153:7777/play/a00u/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Viju TV1000 Новелла HD
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",TV1000
+http://46.53.200.153:7777/play/TV_1000/index.m3
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",TV1000 Action
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",TV1000 Русское Кино
+http://46.53.200.153:7777/play/a01g/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",VIP Comedy HD
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",VIP Megahit HD
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",VIP Premiere HD
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",VIP Serial HD
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Шансон ТВ
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Европа плюс ТВ
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Live music channel
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Viasat Sport HD
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / WELCOME",Viasat Sport
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
+
+
+
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Первый канал
+http://195.64.140.147:10001/991
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Россия 1
+http://195.64.140.147:10002/992
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Россия К
+http://195.64.140.147:10006/996
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Россия 24
+http://195.64.140.147:10007/997
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",НТВ
+http://195.64.140.147:10004/994
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ТНТ
+http://195.64.140.147:10020/9920
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ТНТ4
+http://195.64.140.147:10034/34
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",НТВ Сериал
+http://195.64.140.147:10073/73
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",НТВ Хит
+http://195.64.140.147:10074/74
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",НТВ Стиль
+http://195.64.140.147:10173/173
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",НТВ Право
+http://195.64.140.147:10181/181
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Пятый Канал
+http://195.64.140.147:10005/995
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",РЕН ТВ
+http://195.64.140.147:10011/9911
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Animal Planet HD
+http://195.64.140.147:10032/32
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Охота и Рыбалка
+http://195.64.140.147:10039/39
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Viasat Explore
+http://195.64.140.147:10144/144
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Viasat History
+http://195.64.140.147:10145/145
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Viasat Nature
+http://195.64.140.147:10146/146
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Viju+ Planet
+http://195.64.140.147:10147/147
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",National Geographic Wild HD
+http://195.64.140.147:10149/149
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Terra
+http://195.64.140.147:10150/150
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Discovery
+http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Investigation Discovery
+http://195.64.140.147:10152/152
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",National Geographic
+http://195.64.140.147:10153/153
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",История
+http://195.64.140.147:10156/156
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Travel Channel
+http://195.64.140.147:10158/158
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",RTG HD
+http://195.64.140.147:10159/159
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Оружие
+http://195.64.140.147:10160/160
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Моя Планета
+http://195.64.140.147:10161/161
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Охотник и Рыболов
+http://195.64.140.147:10162/162
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Большая Азия
+http://195.64.140.147:10175/175
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Наука
+http://195.64.140.147:10176/176
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Доктор
+http://195.64.140.147:10177/177
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Живи
+http://195.64.140.147:10178/178
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Загородная Жизнь
+http://195.64.140.147:10180/180
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",CGTN Русский
+http://195.64.140.147:10182/182
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Love Nature
+http://195.64.140.147:10214/214
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Диалоги о Рыбалке
+http://195.64.140.147:10117/117
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Поехали!
+http://195.64.140.147:10168/168
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Galaxy
+http://195.64.140.147:10169/169
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Зоопарк
+http://195.64.140.147:10170/170
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Здоровое ТВ
+http://195.64.140.147:10171/171
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ОТР
+http://195.64.140.147:10009/999
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ТВЦ
+http://195.64.140.147:10010/9910
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",СПАС
+http://195.64.140.147:10012/12
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",СТС
+http://195.64.140.147:10013/9913
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ТВ3
+http://195.64.140.147:10014/9914
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Пятница
+http://195.64.140.147:10015/9915
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Звезда
+http://195.64.140.147:10016/9916
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Домашний
+http://195.64.140.147:10018/18
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мир
+http://195.64.140.147:10019/19
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Ю
+http://195.64.140.147:10021/9921
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Че!
+http://195.64.140.147:10022/22
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",2x2
+http://195.64.140.147:10023/23
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",360
+http://195.64.140.147:10024/24
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Москва 24
+http://195.64.140.147:10025/25
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Телекафе
+http://195.64.140.147:10026/26
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Усадьба
+http://195.64.140.147:10028/28
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Авто плюс
+http://195.64.140.147:10029/29
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Домашние Животные
+http://195.64.140.147:10030/30
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Точка Отрыва
+http://195.64.140.147:10031/31
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Channel 9 FHD IL
+http://195.64.140.147:10033/33
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кухня ТВ
+http://195.64.140.147:10037/37
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",78 HD
+http://195.64.140.147:10038/38
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Суббота
+http://195.64.140.147:10041/41
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Киносемья
+http://195.64.140.147:10042/42
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Киноужас
+http://195.64.140.147:10043/43
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Киномикс
+http://195.64.140.147:10044/44
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Киносвидание
+http://195.64.140.147:10045/45
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кинохит
+http://195.64.140.147:10046/46
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кинокомедия
+http://195.64.140.147:10047/47
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Киносерия
+http://195.64.140.147:10048/48
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Индийское Кино
+http://195.64.140.147:10049/49
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кино ТВ
+http://195.64.140.147:10050/50
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мужское Кино
+http://195.64.140.147:10051/51
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Родное Кино
+http://195.64.140.147:10052/52
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Наше Новое Кино
+http://195.64.140.147:10053/53
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Настоящее Страшное ТВ
+http://195.64.140.147:10054/54
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Синема HD
+http://195.64.140.147:10055/55
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Сапфир
+http://195.64.140.147:10056/56
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Дом Кино
+http://195.64.140.147:10057/57
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Киносат
+http://195.64.140.147:10058/58
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Amedia 1
+http://195.64.140.147:10059/59
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Amedia 2
+http://195.64.140.147:10060/60
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Классика Кино
+http://195.64.140.147:10061/61
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Amedia Premium
+http://195.64.140.147:10062/62
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Start Air
+http://195.64.140.147:10063/63
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Kinojam 1
+http://195.64.140.147:10064/64
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Paramount Comedy
+http://195.64.140.147:10065/65
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",FAN
+http://195.64.140.147:10066/66
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",TV1000
+http://195.64.140.147:10067/67
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",TV1000 Русское Кино
+http://195.64.140.147:10069/69
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",VIP Comedy HD
+http://195.64.140.147:10070/70
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",VIP Megahit HD
+http://195.64.140.147:10071/71
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",VIP Premiere HD
+http://195.64.140.147:10072/72
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Русский Бестселлер
+http://195.64.140.147:10075/75
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Русский Роман
+http://195.64.140.147:10076/9976
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Русский Детектив
+http://195.64.140.147:10077/77
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мосфильм. Золотая коллекция
+http://195.64.140.147:10078/78
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",HollyWood HD
+http://195.64.140.147:10079/79
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кинеко
+http://195.64.140.147:10080/80
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Дом Кино Премиум
+http://195.64.140.147:10081/81
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Plan B
+http://195.64.140.147:10082/82
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bollywood HD
+http://195.64.140.147:10083/83
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кинопремьера HD
+http://195.64.140.147:10084/84
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",.RED
+http://195.64.140.147:10085/85
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",.Sci-Fi
+http://195.64.140.147:10086/86
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",.Black
+http://195.64.140.147:10087/87
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ЕвроКино
+http://195.64.140.147:10088/88
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мир Сериала
+http://195.64.140.147:10089/89
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Иллюзион+
+http://195.64.140.147:10090/90
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Любимое Кино
+http://195.64.140.147:10091/91
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Комедия
+http://195.64.140.147:10092/92
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Русский Иллюзион
+http://195.64.140.147:10093/93
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",365 Дней
+http://195.64.140.147:10095/95
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Авто 24
+http://195.64.140.147:10118/118
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Вопросы и ответы
+http://195.64.140.147:10120/120
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",TLC
+http://195.64.140.147:10137/137
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",КВН ТВ
+http://195.64.140.147:10138/138
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",СТС Love
+http://195.64.140.147:10140/140
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Победа
+http://195.64.140.147:10141/141
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Продвижение
+http://195.64.140.147:10142/142
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Пёс и Ко
+http://195.64.140.147:10143/143
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Звезда+
+http://195.64.140.147:10155/155
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Арсенал HD
+http://195.64.140.147:10157/157
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Союзный
+http://195.64.140.147:10164/164
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Кто есть Кто
+http://195.64.140.147:10165/165
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Время
+http://195.64.140.147:10166/166
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Ностальгия
+http://195.64.140.147:10167/167
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Психология 21
+http://195.64.140.147:10174/174
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Наша Тема
+http://195.64.140.147:10172/172
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Euronews
+http://195.64.140.147:10183/183
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Ключ
+http://195.64.140.147:10184/184
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Известия
+http://195.64.140.147:10185/185
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Санкт-Петербург
+http://195.64.140.147:10186/186
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",МИР 24
+http://195.64.140.147:10187/187
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Открытый Мир
+http://195.64.140.147:10188/188
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Жара
+http://195.64.140.147:10202/202
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Сарафан
+http://195.64.140.147:10203/203
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Москва Доверие
+http://195.64.140.147:10189/189
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",MTV 00s
+http://195.64.140.147:10190/190
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",MTV 80s
+http://195.64.140.147:10191/191
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",MTV 90s
+http://195.64.140.147:10192/192
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",MTV rus
+http://195.64.140.147:10193/193
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",МузТВ
+http://195.64.140.147:10017/17
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",RU.TV
+http://195.64.140.147:10035/35
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Европа плюс ТВ
+http://195.64.140.147:10036/36
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Шансон ТВ
+http://195.64.140.147:10195/195
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Музыка Первого
+http://195.64.140.147:10196/196
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bridge TV Шлягер
+http://195.64.140.147:10197/197
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bridge TV Classic
+http://195.64.140.147:10040/40
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bridge TV Русский Хит
+http://195.64.140.147:10194/194
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bridge TV Fresh
+http://195.64.140.147:10198/198
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bridge TV HITS
+http://195.64.140.147:10199/199
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Bridge TV Deluxe
+http://195.64.140.147:10200/200
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ТНТ Music
+http://195.64.140.147:10201/201
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Da Vinci
+http://195.64.140.147:10154/154
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Nickelodeon HD
+http://195.64.140.147:10121/121
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Детский Мир
+http://195.64.140.147:10119/119
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Солнце
+http://195.64.140.147:10027/27
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Карусель
+http://195.64.140.147:10008/998
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Gulli Girl
+http://195.64.140.147:10122/122
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Лёва HD
+http://195.64.140.147:10123/123
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",О!
+http://195.64.140.147:10124/124
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Nick JR
+http://195.64.140.147:10125/125
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Наше Детство
+http://195.64.140.147:10126/126
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",МАМА
+http://195.64.140.147:10127/127
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Tiji
+http://195.64.140.147:10128/128
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",СТС Kids
+http://195.64.140.147:10129/129
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Супергерои
+http://195.64.140.147:10130/130
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Уникум
+http://195.64.140.147:10131/131
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мульт
+http://195.64.140.147:10132/132
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Бобёр
+http://195.64.140.147:10163/163
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",ANI
+http://195.64.140.147:10133/133
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мультимузыка
+http://195.64.140.147:10134/134
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мультиландия
+http://195.64.140.147:10135/135
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",В Гостях у Сказки
+http://195.64.140.147:10136/136
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч ТВ
+http://195.64.140.147:10003/993
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Арена
+http://195.64.140.147:10096/96
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Боец
+http://195.64.140.147:10097/97
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Sport 5
+http://195.64.140.147:10098/98
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Страна
+http://195.64.140.147:10099/99
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Футбол 1 HD
+http://195.64.140.147:10100/100
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Футбол 2 HD
+http://195.64.140.147:10101/101
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Футбол 3 HD
+http://195.64.140.147:10102/102
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Премьер HD
+http://195.64.140.147:10103/99103
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч! Планета
+http://195.64.140.147:10104/104
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Матч HD
+http://195.64.140.147:10105/105
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",TRT Sport
+http://195.64.140.147:10106/106
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Футбол
+http://195.64.140.147:10107/107
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",КХЛ ТВ
+http://195.64.140.147:10108/108
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",КХЛ ТВ HD
+http://195.64.140.147:10109/109
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",MMA-TV
+http://195.64.140.147:10110/110
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Мир Баскетболла
+http://195.64.140.147:10111/111
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Extreme Sort Channel
+http://195.64.140.147:10112/112
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Viasat Sort
+http://195.64.140.147:10113/113
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Eurosport 1 HD
+http://195.64.140.147:10114/114
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Eurosport 2 HD
+http://195.64.140.147:10115/115
+#EXTINF:-1 group-title="RUZIEV TV / LLC G&G",Ziggo Golf
+http://195.64.140.147:10116/116
+
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Первый канал
+http://89.33.29.115:8080/Pervikanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РОССИЯ 1
+http://89.33.29.115:8080/Rossiya_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Россия HD
+http://89.33.29.115:8080/Rossiya_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ТНТ 
+http://89.33.29.115:8080/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ТНТ HD
+http://89.33.29.115:8080/TNTHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РОССИЯ 24
+http://89.33.29.115:8080/Rossiya_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Россия К
+http://89.33.29.115:8080/Rossiya_K/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НТВ HD
+http://89.33.29.115:8080/NTV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НТВ-МИР
+http://89.33.29.115:8080/NTV_Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НТВ Право
+http://89.33.29.115:8080/ntvpravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НТВ Стиль
+http://89.33.29.115:8080/ntvstyle/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НТВ Сериал
+http://89.33.29.115:8080/ntvserial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РЕН ТВ
+http://89.33.29.115:8080/REN_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ЕДА Премиум
+http://89.33.29.115:8080/Eda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", RTG HD
+http://89.33.29.115:8080/RTG_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", TERRA HD
+http://89.33.29.115:8080/TERRA_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Discovery Channel HD
+http://89.33.29.115:8080/Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Animal Planet HD
+http://89.33.29.115:8080/Animal_Planet_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Авто 24
+http://89.33.29.115:8080/Avto_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Усадьба
+http://89.33.29.115:8080/Usadba/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", 365 дней
+http://89.33.29.115:8080/365_dney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Travel+Adventure
+http://89.33.29.115:8080/Travel_Adventure_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Телекафе
+http://89.33.29.115:8080/Telekafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Телепутешествия
+http://89.33.29.115:8080/Teleputeshestviya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Совершенно секретно
+http://89.33.29.115:8080/Sovershenno_sekretno/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Кто есть кто
+http://89.33.29.115:8080/kto_est_kto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", National Geographic HD
+http://89.33.29.115:8080/National_Geo_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Nat Geo Wild HD
+http://89.33.29.115:8080/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Наука HD
+http://89.33.29.115:8080/Nauka_2.0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", История
+http://89.33.29.115:8080/Istoriya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Мужской
+http://89.33.29.115:8080/Muzhskoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Viasat Explore HD
+http://89.33.29.115:8080/Viasat_Explorer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Viasat Nature HD
+http://89.33.29.115:8080/Viasat_Nature_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Живая планета
+http://89.33.29.115:8080/Zhivaya_planeta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Точка РФ
+http://89.33.29.115:8080/HD_Life/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", DocuBox HD
+http://89.33.29.115:8080/DocuBoxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ДРАЙВ
+http://89.33.29.115:8080/Drayv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ОРУЖИЕ
+http://89.33.29.115:8080/Oruzhie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", RTVi
+http://89.33.29.115:8080/RTVi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Время
+http://89.33.29.115:8080/Vremya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Дождь
+http://89.33.29.115:8080/Dozhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НАСТОЯЩЕЕ ВРЕМЯ
+http://89.33.29.115:8080/Nast_vremya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ЖИВИ!
+http://89.33.29.115:8080/Zhivi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ТЕХНО 24
+http://89.33.29.115:8080/Tehno_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", TLC HD
+http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Кухня ТВ
+http://89.33.29.115:8080/Kuhnya_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", АВТО ПЛЮС
+http://89.33.29.115:8080/Avto_Plyus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", В Мире Животных HD
+http://89.33.29.115:8080/Animal_Family_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Доктор
+http://89.33.29.115:8080/24Dok/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Охотник и Рыболов HD
+http://89.33.29.115:8080/Ohotnik_i_Ryibolov_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Планета HD
+http://89.33.29.115:8080/IQ_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Первый космический
+http://89.33.29.115:8080/Eureka_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Глазами туриста HD
+http://89.33.29.115:8080/Glazami_turista_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Investigation Discovery HD
+http://89.33.29.115:8080/ID_Xtra_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", H2 HD
+http://89.33.29.115:8080/H2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Победа HD
+http://89.33.29.115:8080/Pobeda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Русский бестселлер
+http://89.33.29.115:8080/Russkibesteller/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Русский Иллюзион
+http://89.33.29.115:8080/Russkiy_illyuzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РУССКИЙ ДЕТЕКТИВ
+http://89.33.29.115:8080/Russkiy_detektiv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НСТ
+http://89.33.29.115:8080/NST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Кино ТВ 
+http://89.33.29.115:8080/Kino_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Индия
+http://89.33.29.115:8080/ZeeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Дорама
+http://89.33.29.115:8080/dorama_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ИНДИЙСКОЕ КИНО
+http://89.33.29.115:8080/Indiya_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", КИНОСЕРИЯ
+http://89.33.29.115:8080/Mnogo_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Мужское Кино HD
+http://89.33.29.115:8080/Muzhskoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Киномикс HD
+http://89.33.29.115:8080/Kino_plyus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Кинокомедия HD
+http://89.33.29.115:8080/Komediya_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НАШЕ НОВОЕ КИНО
+http://89.33.29.115:8080/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РОДНОЕ КИНО
+http://89.33.29.115:8080/Nashe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", КИНОХИТ
+http://89.33.29.115:8080/Kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Киноужас HD
+http://89.33.29.115:8080/kinoujas_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Премиальное HD
+http://89.33.29.115:8080/Kino_premium_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", КИНОПРЕМЬЕРА HD
+http://89.33.29.115:8080/HD_Kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Иллюзион+
+http://89.33.29.115:8080/Illyuzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Кинопоказ
+http://89.33.29.115:8080/Kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", .Red
+http://89.33.29.115:8080/SET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", .Black
+http://89.33.29.115:8080/Sony_Turbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Fox HD
+http://89.33.29.115:8080/FOX_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Fox Life
+http://89.33.29.115:8080/Fox_Life_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Horror TV
+http://89.33.29.115:8080/Horror/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", TV1000
+http://89.33.29.115:8080/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", TV1000 Action
+http://89.33.29.115:8080/TV1000_Action/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", TV1000 Русское кино
+http://89.33.29.115:8080/TV1000russkoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", TV XXI
+http://89.33.29.115:8080/TV-XXI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Cinema HD
+http://89.33.29.115:8080/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Еврокино
+http://89.33.29.115:8080/Evrokino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Кинозал! СССР
+http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Sky2000 MultSU
+http://89.33.29.115:8080/Sky1000Mult_SU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Sky2000 MultRU
+http://89.33.29.115:8080/Sky1000Mult_RU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Sky2000 VHS HD
+http://89.33.29.115:8080/sky2000_VHS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Sky1000_India
+http://89.33.29.115:8080/Sky1000_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РЕТРО
+http://89.33.29.115:8080/Retro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Liberty Netflix
+http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Страшное HD
+http://89.33.29.115:8080/StrashnoeHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", СТРАХ HD
+http://89.33.29.115:8080/strah_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ViP Megahit HD
+http://89.33.29.115:8080/TV1000_Megahit_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ViP Premiere HD
+http://89.33.29.115:8080/TV1000_Premium_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ViP Comedy HD
+http://89.33.29.115:8080/TV1000_Comedy_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", VIP Serial HD
+http://89.33.29.115:8080/VIP_Serial_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Русский Экстрим
+http://89.33.29.115:8080/Russkiy_ekstrim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Star Family HD 
+http://89.33.29.115:8080/112Ukraina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Романтичное HD
+http://89.33.29.115:8080/Semeynoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Наше крутое HD
+http://89.33.29.115:8080/Nashe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Дом Кино
+http://89.33.29.115:8080/Dom_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Капитан Фантастика
+http://89.33.29.115:8080/Ginger_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", START Air HD
+http://89.33.29.115:8080/START_Air_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", START World HD
+http://89.33.29.115:8080/START_World_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Amedia 2
+http://89.33.29.115:8080/Amedia_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Amedia Hit HD
+http://89.33.29.115:8080/Amedia_Hit_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Остросюжетное HD
+http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ШОКИРУЮЩЕЕ
+http://89.33.29.115:8080/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", КАМЕДИ
+http://89.33.29.115:8080/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ПРО ЛЮБОВЬ HD
+http://89.33.29.115:8080/pro_lyubov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РУССКАЯ КОМЕДИЯ
+http://89.33.29.115:8080/russkaya_komedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", CineMan
+http://89.33.29.115:8080/CineMan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Сарафан
+http://89.33.29.115:8080/Sarafan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", КВН ТВ
+http://89.33.29.115:8080/KVN_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Перец International
+http://89.33.29.115:8080/Peretz_int/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ТВ3
+http://89.33.29.115:8080/TV_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Домашний
+http://89.33.29.115:8080/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Пятый Канал
+http://89.33.29.115:8080/5_kanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Звезда
+http://89.33.29.115:8080/Zvezda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Че
+http://89.33.29.115:8080/Che/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Ю
+http://89.33.29.115:8080/UTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ПЯТНИЦА
+http://89.33.29.115:8080/Pyatnitsa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", РБК 
+http://89.33.29.115:8080/RBK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", HOT
+http://89.33.29.115:8080/fun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Euronews
+http://89.33.29.115:8080/Euronews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", НТН
+http://89.33.29.115:8080/NTN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", zoom
+http://89.33.29.115:8080/zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", travel
+http://89.33.29.115:8080/travel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Mezzo
+http://89.33.29.115:8080/Mezzo_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ICTV
+http://89.33.29.115:8080/ICTV/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", 1+1
+http://89.33.29.115:8080/1plus1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", 2+2
+http://89.33.29.115:8080/2plus2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ТЕТ HD
+http://89.33.29.115:8080/TET/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Эспресо TV UA
+http://89.33.29.115:8080/EspresoTVUA/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Интер UA
+http://89.33.29.115:8080/Inter/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", СТБ UA
+http://89.33.29.115:8080/STB/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Квартал ТВ
+http://89.33.29.115:8080/UA_kvartal/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Fastnfunbox
+http://89.33.29.115:8080/FastFunBoxHD/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST",  Tiji TV
+http://89.33.29.115:8080/TiJi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", В гостях у сказки
+http://89.33.29.115:8080/v_gostyax_u_skaski/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Мульт
+http://89.33.29.115:8080/Mult/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Мультиландия
+http://89.33.29.115:8080/Multimaniya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Gulli
+http://89.33.29.115:8080/Gulli/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Jim jam
+http://89.33.29.115:8080/JimJam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Мама
+http://89.33.29.115:8080/mama_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Ani
+http://89.33.29.115:8080/ani/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Baby Time
+http://89.33.29.115:8080/Baby_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Солнце
+http://89.33.29.115:8080/Disney_rus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Cartoon Network
+http://89.33.29.115:8080/Cartoon_Network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", СТС Love
+http://89.33.29.115:8080/STS_Love/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", СТС KIDS
+http://89.33.29.115:8080/sts_kids_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Детский мир
+http://89.33.29.115:8080/Teleklub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Nickelodeon
+http://89.33.29.115:8080/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", maestro
+http://89.33.29.115:8080/maestro/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Classic Music HD
+http://89.33.29.115:8080/c-music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Musicbox Gold
+http://89.33.29.115:8080/360TuneBox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Шансон ТВ
+http://89.33.29.115:8080/ShansonTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Ля-минор
+http://89.33.29.115:8080/Lya-minor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Европа Плюс ТВ
+http://89.33.29.115:8080/Evropa_Plyus_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Bridge TV Classic
+http://89.33.29.115:8080/Bridge_TV_Classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Bridge TV Фрэш
+http://89.33.29.115:8080/Bridge_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", iConcerts HD
+http://89.33.29.115:8080/iConcertsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Ностальгия
+http://89.33.29.115:8080/Nostalgiya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", 1HD
+http://89.33.29.115:8080/1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", MCM TOP
+http://89.33.29.115:8080/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", ТНТ MUSIC
+http://89.33.29.115:8080/TNT_Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Удар
+http://89.33.29.115:8080/UFC_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Матч! HD
+http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", КХЛ HD
+http://89.33.29.115:8080/KHL_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Бокс ТВ
+http://89.33.29.115:8080/Boks_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Extreme Sports
+http://89.33.29.115:8080/Extreme_Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Eurosport 1 HD
+http://89.33.29.115:8080/Eurosport_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Eurosport 2 HD
+http://89.33.29.115:8080/Evrosport_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Матч! Арена
+http://89.33.29.115:8080/Match_Arena/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", МАТЧ! ИГРА HD
+http://89.33.29.115:8080/Match_Igra_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", МАТЧ! Планета
+http://89.33.29.115:8080/Match_Planeta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", МАТЧ ПРЕМЬЕР HD
+http://89.33.29.115:8080/Nash_futbol_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Матч! Боец
+http://89.33.29.115:8080/Match_Boets/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Матч! Футбол 1 HD
+http://89.33.29.115:8080/Match_Futbol_1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Матч! Футбол 2 HD
+http://89.33.29.115:8080/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Матч! Футбол 3 HD
+http://89.33.29.115:8080/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", SPORT 1
+http://89.33.29.115:8080/sport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", СПОРТ+
+http://89.33.29.115:8080/sportplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Сетанта Спорт+ Украина
+http://89.33.29.115:8080/Setanta_SportsHD_UA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Viasat Sport
+http://89.33.29.115:8080/Viasat_Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / INTERHOST", Setanta Eurasia HD
+http://89.33.29.115:8080/SetantaEurasia/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Рен ТВ
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Россия 1
+http://194.152.35.17/rossiya_1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",НТВ
+http://194.152.35.17/ntv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",ТНТ
+http://194.152.35.17/tnt/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",ТНТ4
+http://194.152.35.17/tnt4/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",2x2
+http://194.152.35.17/2x2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Пятый канал
+http://194.152.35.17/5-kanal/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Amedia Hit
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Че
+http://194.152.35.17/che/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Дом Кино Премиум HD
+http://194.152.35.17/dom-kino-premium-hd/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Кино ТВ
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",ОТР
+http://194.152.35.17/otr/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Пятница
+http://194.152.35.17/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",СТС
+http://194.152.35.17/sts/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",ТВЦ
+http://194.152.35.17/tvc/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Ю
+http://194.152.35.17/yu/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Звезда 
+http://194.152.35.17/zvezda/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Мама
+http://194.152.35.17/mama/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Мульт
+http://194.152.35.17/Mult/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Ani
+http://194.152.35.17/ani/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Карусель 
+http://194.152.35.17/Karusel/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / LINKINTEL",Матч ТВ
+http://194.152.35.17/match/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Первый канал
+http://185.195.184.30:8000/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",РЕН ТВ
+http://185.195.184.30:8000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",РенТВ Молдова
+http://185.195.184.30:8000/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Россия 1
+http://185.195.184.30:8000/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ТНТ
+http://185.195.184.30:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",НТВ
+http://185.195.184.30:8000/play/a0ie/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",НТВ Право
+http://185.195.184.30:8000/play/a0kb/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",НТВ Сериал
+http://185.195.184.30:8000/play/a0kc/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",НТВ Стиль
+http://185.195.184.30:8000/play/a0ka/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",НТВ-ХИТ
+http://185.195.184.30:8000/play/a0k2/index.m3u8
+http://185.195.184.30:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Viasat Explore
+http://185.195.184.30:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Viasat History
+http://185.195.184.30:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Viasat Nature
+http://185.195.184.30:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",National Geographic
+http://185.195.184.30:8000/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Nat Geo Wild
+http://185.195.184.30:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Animal Planet
+http://185.195.184.30:8000/play/a1aj/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",The Explorers
+http://185.195.184.30:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Точка РФ
+http://185.195.184.30:8000/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",История
+http://185.195.184.30:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Travel+Adventure
+http://185.195.184.30:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Big Planet
+http://185.195.184.30:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Big Planet HD
+http://185.195.184.30:8000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Диалоги о рыбалке
+http://185.195.184.30:8000/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Дикая охота HD
+http://185.195.184.30:8000/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Дикая рыбалка HD
+http://185.195.184.30:8000/play/a0kd/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Тайны Галактики
+http://185.195.184.30:8000/play/a0es/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Охота и рыбалка
+http://185.195.184.30:8000/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Моя Планета
+http://185.195.184.30:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Доктор
+http://185.195.184.30:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Здоровое ТВ
+http://185.195.184.30:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",360
+http://185.195.184.30:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Точка отрыва
+http://185.195.184.30:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Усадьба
+http://185.195.184.30:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Ю
+http://185.195.184.30:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Индийское Кино
+http://185.195.184.30:8000/play/27/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Кино ТВ
+http://185.195.184.30:8000/play/a0jj/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Киномикс
+http://185.195.184.30:8000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",КИНОПРЕМЬЕРА HD
+http://185.195.184.30:8000/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",КИНОСВИДАНИЕ
+http://185.195.184.30:8000/play/a0m7/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Кинокомедия
+http://185.195.184.30:8000/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Киносвидание
+http://185.195.184.30:8000/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Киносемья HD
+http://185.195.184.30:8000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Кинохит
+http://185.195.184.30:8000/play/a0jh/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Мужское кино
+http://185.195.184.30:8000/play/a0ji/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",.black
+http://185.195.184.30:8000/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",.sci-fi
+http://185.195.184.30:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",9 Волна
+http://185.195.184.30:8000/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Авто 24
+http://185.195.184.30:8000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Amedia Premium HD
+http://185.195.184.30:8000/play/a0fa/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Bollywood HD
+http://185.195.184.30:8000/play/a0h5/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МИР 24
+http://185.195.184.30:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",FlixSnip
+http://185.195.184.30:8000/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",KinoLiving
+http://185.195.184.30:8000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Plan B HD
+http://185.195.184.30:8000/play/a0kf/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Star Cinema
+http://185.195.184.30:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",viju+ Comedy
+http://185.195.184.30:8000/play/a0iw/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",viju+ Megahit
+http://185.195.184.30:8000/play/a0iv/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",viju+ Premiere
+http://185.195.184.30:8000/play/a0iu/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",viju+ Serial
+http://185.195.184.30:8000/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",TV1000
+http://185.195.184.30:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",TV1000 Action
+http://185.195.184.30:8000/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",TV1000 Русское кино 
+http://185.195.184.30:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ДОМАШНИЕ ЖИВОТНЫЕ
+http://185.195.184.30:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ДОМАШНИЙ (+4)
+http://185.195.184.30:8000/play/a0k1/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ДОРАМА
+http://185.195.184.30:8000/play/a0mk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Дом Кино Премиум HD
+http://185.195.184.30:8000/play/a0em/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Дом кино
+http://185.195.184.30:8000/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ЕвроКино
+http://185.195.184.30:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ЖИВИ!
+http://185.195.184.30:8000/play/a0lj/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Звезда
+http://185.195.184.30:8000/play/a0ii/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",КИНЕКО
+http://185.195.184.30:8000/play/a0he/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Кухня ТВ
+http://185.195.184.30:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Мосфильм. Золотая Коллекция
+http://185.195.184.30:8000/play/a1af/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Наука
+http://185.195.184.30:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Наше новое кино
+http://185.195.184.30:8000/play/a0k9/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Первый Вегетарианский
+http://185.195.184.30:8000/play/a0ks/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV", Пятый канал
+http://185.195.184.30:8000/play/a0jc/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Русский Бестселлер
+http://185.195.184.30:8000/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Русский Детектив
+http://185.195.184.30:8000/play/a0hi/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Русский Роман
+http://185.195.184.30:8000/play/a0hh/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Русский иллюзион
+http://185.195.184.30:8000/play/a0ku/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",САПФИР HD
+http://185.195.184.30:8000/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",СТС
+http://185.195.184.30:8000/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Совершенно секретно
+http://185.195.184.30:8000/play/a0km/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Союз
+http://185.195.184.30:8000/play/a0k4/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV", Суббота
+http://185.195.184.30:8000/play/a0it/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",BRIDGE TV
+http://185.195.184.30:8000/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",BRIDGE HD
+http://185.195.184.30:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",BRIDGE TV ROCK
+http://185.195.184.30:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",BRIDGE TV
+http://185.195.184.30:8000/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",BRIDGE TV РУССКИЙ ХИТ
+http://185.195.184.30:8000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Hit TV
+http://185.195.184.30:8000/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",RU.TV
+http://185.195.184.30:8000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",о2тв
+http://185.195.184.30:8000/play/a0kn/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",ТНТ MUSIC
+http://185.195.184.30:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Шансон ТВ
+http://185.195.184.30:8000/play/a0k0/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Мульт HD
+http://185.195.184.30:8000/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Карусель
+http://185.195.184.30:8000/play/a0if/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Мультиландия
+http://185.195.184.30:8000/play/a0m6/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Kids TV
+http://185.195.184.30:8000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Бобёр
+http://185.195.184.30:8000/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",TiJi
+http://185.195.184.30:8000/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Bolt
+http://185.195.184.30:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",СТС Kids
+http://185.195.184.30:8000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",BABY TIME
+http://185.195.184.30:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Gulli Girl
+http://185.195.184.30:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Duck TV
+http://185.195.184.30:8000/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Мама
+http://185.195.184.30:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV", Da Vinci
+http://185.195.184.30:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",В гостях у сказки
+http://185.195.184.30:8000/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Радость моя
+http://185.195.184.30:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",СОЛНЦЕ
+http://185.195.184.30:8000/play/a0hb/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ ПРЕМЬЕР
+http://185.195.184.30:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! HD
+http://185.195.184.30:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! БОЕЦ
+http://185.195.184.30:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! ФУТБОЛ 1
+http://185.195.184.30:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! ФУТБОЛ 2
+http://185.195.184.30:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! ФУТБОЛ 3
+http://185.195.184.30:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! АРЕНА
+http://185.195.184.30:8000/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! ИГРА
+http://185.195.184.30:8000/play/a0h8/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",МАТЧ! СТРАНА
+http://185.195.184.30:8000/play/a0h9/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Матч ТВ
+http://185.195.184.30:8000/play/a0id/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Eurosport 1
+http://185.195.184.30:8000/play/a0jr/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Eurosport 2
+http://185.195.184.30:8000/play/a0js/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",KHL Prime
+http://185.195.184.30:8000/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",КХЛ
+http://185.195.184.30:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Viasat Sport
+http://185.195.184.30:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Мир баскетбола
+http://185.195.184.30:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Extreme Sports
+http://185.195.184.30:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",MMA-TV
+http://185.195.184.30:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",Футбол
+http://185.195.184.30:8000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",БОКС ТВ
+http://185.195.184.30:8000/play/a0lp/index.m3u8
+#EXTINF:-1 group-title="RUZIEV TV / HARTUM TV",СТАРТ
+http://185.195.184.30:8000/play/a0du/index.m3u8
+
+
+
+
+
 
 
 
