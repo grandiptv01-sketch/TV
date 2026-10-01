@@ -28,18 +28,46 @@ http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/str
 http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/BCn3MrncB7dyCnoO1IfRI0Xj4qO04K.png",GRAND TV СЕРИАЛ
 http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8
-#EXTINF:-1 tvg-name="GrandF TV Action HD" tvg-id="action" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Action HD
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 tvg-name="GrandF TV Comedy" tvg-id="comedy" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Comedy
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 tvg-name="GrandF TV Thriller" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Thriller
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 tvg-name="GrandF TV Fantazy" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Fantazy
-#EXTGRP:GRAND TV
-http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Cinema HD
+http://195.64.140.147:10055/55
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Epic Drama
+http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", FAN HD
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Horror TV HD
+http://89.33.29.115:8080/Horror/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Остросюжетное HD
+http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Премиальное
+http://89.33.29.115:8080/Kino_premium_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Про любовь HD
+http://89.33.29.115:8080/pro_lyubov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Романтичное HD
+http://89.33.29.115:8080/Semeynoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Шокирующее
+http://89.33.29.115:8080/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="APPLE TV+ DRAMA STORIES" tvg-logo="https://pic.rtbcdn.ru/video/2026-09-14/6d/d7/6dd74d0a3e1dea55406f598483a8fde4.jpg?width=500", APPLE TV+ DRAMA STORIES
 #EXTGRP:GRAND TV
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Xjb5m-V_rhgqpU1n8eIFaA&e=2088007858&scheme=https
@@ -53,26 +81,6 @@ https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=ah
 #EXTGRP:GRAND TV
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=gDOhfmWnk0J89LgBtDU-BQ&e=2089560978&scheme=https
 
-#EXTINF:-1 tvg-id="detvoraplushd" tvg-name="ДетвораПлюс HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/89fe214904639432.png" group-title="GRAND TV",ДетвораПлюс HD
-https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
-#EXTINF:-1 tvg-id="velvetmenthd" tvg-name="Velvet. Ментовские Сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/d385074b6255d55c.png" group-title="GRAND TV",Velvet. Ментовские Сериалы HD
-https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
-#EXTINF:-1 tvg-id="velvetsovetskoehd" tvg-name="Velvet. Советское кино HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/7129effd35bb63a1.png" group-title="GRAND TV",Velvet. Советское кино HD
-https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 tvg-id="velvetzolotohd" tvg-name="Velvet. Золотая коллекция HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/1d811cf354275a47.png" group-title="GRAND TV",Velvet. Золотая коллекция HD
-https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
-#EXTINF:-1 tvg-id="velveteurkinohd" tvg-name="Velvet. Европейское кино HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/e4351d9b387c625d.png" group-title="GRAND TV",Velvet. Европейское кино HD
-https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
-#EXTINF:-1 tvg-id="serialyhityhd" tvg-name="Velvet. Сериалы Хиты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/e5f4f860cf5111be.png" group-title="GRAND TV",Velvet. Сериалы Хиты HD
-https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
-#EXTINF:-1 tvg-id="velvetuzhasyhd" tvg-name="Velvet. Ужасы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/8dde3949fecff16c.png" group-title="GRAND TV",Velvet. Ужасы HD
-https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
-#EXTINF:-1 tvg-id="mirserialhd" tvg-name="Velvet. Мировые сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/d834f5a9e60097e0.png" group-title="GRAND TV",Velvet. Мировые сериалы HD
-https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
-#EXTINF:-1 tvg-id="turkserial-hd" tvg-name="Velvet. Турецкие сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/3a97ff710bd5fb7a.png" group-title="GRAND TV",Velvet. Турецкие сериалы HD
-https://cdn.rostelekom-tv.xyz/live/3c9TIqiOO4n7o4zK.m3u8
-#EXTINF:-1 tvg-id="velvetsvatyhd" tvg-name="Velvet. Сваты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/5c274519467ec9c5.png" group-title="GRAND TV",Velvet. Сваты HD
-https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 #EXTINF:-1 tvg-name="DreakingDad" tvg-logo="https://i.pinimg.com/236x/5e/2c/b3/5e2cb37f571a6e7ac40bcb61a3735bfe.jpg?nii=t", DreakingDad
 #EXTGRP:GRAND TV
 https://assimilator.tv/uploads/DreakingDad.m3u8
@@ -402,6 +410,118 @@ https://data01-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_1.Troe.iz
 https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_2.Kanikuly.v.Prostokvashino.1980.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
 #EXTINF:0 tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png"  group-title="GRAND TV", Zima.v.Prostokvashino 3 серия
 https://data00-cdn.11cdn.org/fi2lm/375eb63c22e3c4d8d68b12f4be24f934/7f_3.Zima.v.Prostokvashino.1984.x264.BDRip.1080p-prishel.a1.03.04.18.mp4
+
+
+#EXTINF:-1 tvg-id="24Kitchen.us@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" group-title="RUZIEV TV PLUS/ КУХНЯ",24Kitchen Bulgary (1080p)
+http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="RUZIEV TV PLUS/ КУХНЯ",America's Test Kitchen (720p)
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+#EXTINF:-1 tvg-id="BBCFood.us@SD" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="RUZIEV TV PLUS/ КУХНЯ",BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Boligkjopiblinde.se@NO" tvg-logo="https://images.pluto.tv/channels/63c6a1c46d126a000760b91c/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Boligkjop i blinde
+https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
+#EXTINF:-1 tvg-id="Boligkobiblinde.se@DK" tvg-logo="https://images.pluto.tv/channels/63c6a27a4faf1c0007b48f7b/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Boligkob i blinde
+https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="RUZIEV TV PLUS/ КУХНЯ",bon appetit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BuyingBlindDenmark.se@SE" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 tvg-id="ChefChampion.us@SD" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Chef Champion (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-id="ChefRocShow.us@SD" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Chef Roc Show (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-id="ChefTV.br@SD" tvg-logo="https://i.imgur.com/UYksTee.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Chef TV (720p)
+http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru@HD" tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="RUZIEV TV PLUS/ КУХНЯ",City Eden Recepty Gurmana [Not 24/7]
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 tvg-id="CookingPanda.us@SD" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Cooking Panda (576p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="RUZIEV TV PLUS/ КУХНЯ",Dens Food Channel [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="RUZIEV TV PLUS/ КУХНЯ",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="RUZIEV TV PLUS/ КУХНЯ",El Gourmet South (1080p)
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-id="FoodChannel.il@SD" tvg-logo="https://images.open-epg.com/x1723.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Food Channel (1080p)
+http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Food Food (576p)
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru@HD" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="RUZIEV TV PLUS/ КУХНЯ",FoodTime (1080p)
+http://str2.iptvhd.ru:8080/Eda/index.m3u8
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it@SD" tvg-logo="https://i.imgur.com/x5cwb1q.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Gambero Rosso Channel (720p)
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-id="GEMFood.tr@SD" tvg-logo="https://i.imgur.com/SMtSinK.png" group-title="RUZIEV TV PLUS/ КУХНЯ",GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Gordon Ramsay's Hell's Kitchen (720p)
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Gusto TV (1080p)
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Hello Taste
+https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
+#EXTINF:-1 tvg-id="Hungry.us@SD" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Hungry (720p)
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="IntheKitchen.us@SD" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="Cooking;Shop",In the Kitchen (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="RUZIEV TV PLUS/ КУХНЯ",Kitchen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 tvg-id="Kochenpatoppen.se@DK" tvg-logo="https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Koch'en pa toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+#EXTINF:-1 tvg-id="Kuhnya.ru@SD" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Kuhnya (576p)
+http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1 tvg-id="KulinarTV.ru@SD" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="RUZIEV TV PLUS/ КУХНЯ",Kulinar TV (576p)
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="MadDogandMerrill.us@SD" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Mad Dog and Merrill (540p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="RUZIEV TV PLUS/ КУХНЯ",Masala TV (576p)
+http://103.250.28.74:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Master Chefs Academy TV (720p)
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+#EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",MasterChef Danmarks storste madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+#EXTINF:-1 tvg-id="Medknivenforstruben.se@DK" tvg-logo="https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Med kniven for struben
+https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCocina.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCucina.de@IT" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@GB" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Pluto TV Food GB
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-id="Skonneombygninger.se@DK" tvg-logo="https://images.pluto.tv/channels/61c19d329b8260000744331b/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Skonne ombygninger
+https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
+#EXTINF:-1 tvg-id="StugfixarnaNorge.se@SE" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Tastemade (1080p)
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Tastemade UK (1080p)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Tastemade Brasil (720p)
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us@SD" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Tastemade en Espanol (1080p) [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us@SD" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Tastemade Travel (1080p)
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="RUZIEV TV PLUS/ КУХНЯ",Telecafe (Russia) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-id="TilMiddagHos.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" group-title="RUZIEV TV PLUS/ КУХНЯ",Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="RUZIEV TV PLUS/ КУХНЯ",TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+
+
+
+
 
 
 
@@ -87160,7 +87280,700 @@ https://onlineradiobox.com/json/ru/capfuturegarage/play?platform=web
 https://onlineradiobox.com/json/ru/capricepiano/play?platform=web
 
 
-
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist0.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist1.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist2.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist3.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist4.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist5.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist6.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist7.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist8.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist9.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist10.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist11.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist12.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist13.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist14.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist15.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist16.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist17.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist18.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist19.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist20.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist21.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist22.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist23.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist24.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist25.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist26.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist27.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist28.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist29.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist30.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist31.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist32.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist33.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist34.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist35.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist36.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist37.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist38.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist39.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist40.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist41.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist42.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist43.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist44.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist45.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist46.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist47.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist48.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist49.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist50.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist51.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist52.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist53.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist54.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist55.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist56.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist57.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist58.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist59.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist60.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist61.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist62.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist63.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist64.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist65.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist66.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist67.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist68.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist69.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist70.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist71.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist72.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist73.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist74.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist75.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist76.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist77.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist78.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist79.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist80.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist81.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist82.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist83.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist84.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist85.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist86.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist87.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist88.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist89.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist90.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist91.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist92.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist93.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist94.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist95.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist96.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist97.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist98.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist99.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist100.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist101.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist102.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist103.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist104.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist105.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist106.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist107.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist108.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist109.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist110.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist111.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist112.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist113.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist114.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist115.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist116.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist117.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist118.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist119.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist120.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist121.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist122.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist123.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist124.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist125.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist126.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist127.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist128.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist129.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist130.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist131.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist132.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist133.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist134.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist135.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist136.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist137.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist138.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist139.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist140.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist141.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist142.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist143.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist144.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist145.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist146.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist147.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist148.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist149.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist150.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist151.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist152.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist153.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist154.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist155.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist156.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist157.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist158.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist159.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist160.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist161.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist162.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist163.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist164.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist165.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist166.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist167.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist168.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist169.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist170.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist171.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist172.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist173.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist174.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist175.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist176.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist177.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist178.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist179.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist180.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist181.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist182.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist183.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist184.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist185.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist186.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist187.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist188.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist189.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist190.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist191.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist192.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist193.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist194.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist195.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist196.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist197.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist198.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist199.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist200.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist201.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist202.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist203.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist204.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist205.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist206.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist207.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist208.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist209.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist210.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist211.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist212.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist213.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist214.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist215.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist216.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist217.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist218.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist219.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist220.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist221.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist222.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist223.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist224.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist225.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist226.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist227.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist228.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist229.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist230.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist231.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist232.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist233.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist234.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist235.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist236.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist237.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist238.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist239.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist240.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist241.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist242.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist243.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist244.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist245.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist246.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist247.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist248.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist249.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist250.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist251.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist252.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist253.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist254.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist255.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist256.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist257.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist258.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist259.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist260.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist261.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist262.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist263.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist264.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist265.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist266.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist267.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist268.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist269.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist270.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist271.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist272.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist273.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist274.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist275.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist276.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist277.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist278.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist279.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist280.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist281.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist282.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist283.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist284.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist285.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist286.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist287.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist288.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist289.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist290.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist291.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist292.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist293.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist294.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist295.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist296.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist297.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist298.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist299.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist300.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist301.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist302.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist303.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist304.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist305.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist306.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist307.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist308.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist309.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist310.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist311.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist312.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist313.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist314.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist315.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist316.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist317.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist318.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist319.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist320.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist321.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist322.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist323.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist324.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist325.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist326.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist327.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist328.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist329.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist330.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist331.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist332.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist333.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist334.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist335.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist336.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist337.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist338.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist339.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist340.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist341.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist342.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist343.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist344.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist345.ts
+#EXTINF:-1 group-title="ТВ ",
+https://sesion.desdeparaguay.net/hls/playlist346.ts
 
 
 
