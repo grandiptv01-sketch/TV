@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/09/30 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/10/02 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -33,17 +33,1160 @@ http://194.152.35.17/cinema/index.m3u8
 
 #EXTINF:-1 group-title="GRAND TV" audio-track="rus", FAN HD
 http://stream.mcquack.net/420/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQvPsBq/tnt.png" group-title="GRAND TV",ТНТ
+http://tv.shbro.org/stream/35AA07ACC53A/3f04indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hWKzzvL/rentv.png" group-title="GRAND TV",Рен ТВ
+http://tv.shbro.org/stream/35AA07ACC53A/tv1indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKVNc6dK/tnt4.png" group-title="GRAND TV",ТНТ4
+http://tv.shbro.org/stream/35AA07ACC53A/8989videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X70fH33q/tv3.png" group-title="GRAND TV",ТВ3
+http://tv.shbro.org/stream/35AA07ACC53A/32aeindexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhQvnKqY/sts.png" group-title="GRAND TV",СТС
+http://tv.shbro.org/stream/35AA07ACC53A/d7b0videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3xX3yxX/stslove.png" group-title="GRAND TV",СТС Love
+http://tv.shbro.org/stream/35AA07ACC53A/b8c6videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvpTHbQt/stskids.png" group-title="GRAND TV",СТС Kids
+http://tv.shbro.org/stream/35AA07ACC53A/e2a8videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mhfhDbLd/che.png" group-title="GRAND TV",Че!
+http://tv.shbro.org/stream/35AA07ACC53A/02efvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c40rVLz1/Prodvizenie.png" group-title="GRAND TV",Продвижение
+http://tv.shbro.org/stream/35AA07ACC53A/b275videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/Discovery.png" group-title="GRAND TV",Discovery
+http://tv.shbro.org/stream/35AA07ACC53A/nnelindexm3u8_a6c8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=952c2ec26e547a326c3c7a65a6c8211ce59f5e9f-4948622-images-thumbs&n=13" group-title="GRAND TV",TV1000
+http://tv.shbro.org/stream/35AA07ACC53A/be84videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2d2fb9029d2340dce9867d06318c9da4618620dd-5423330-images-thumbs&n=13" group-title="GRAND TV",TV1000 Русское кино
+http://tv.shbro.org/stream/35AA07ACC53A/abb2videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/Jj52sq152/5fb535cm/yD5ciKOrkO9oF0rQiDDaEcsiNs6zJ7cFnAYqO3P0CA3SrrWsoTV3UMGHEhx0uGeg3eTp41DrBTXVEsEFJQqmwh1qaayXb6S-zcJOgTzUGmFbY8J_Z6ezdFkmm0rGgfk4Ul7wibejxRLmMeVvcy8VYnlh6TZA2qHklPFX5DRuo3Ca_8xrwzgQefjVa7bK0FrRCmMxDsH04Wc75tk_J6BLbaIJ9452MKUyRUNErDMexeA5kWmmIZp1FTYghqAEP4DDGS5fu5MKAqqJl6tWydJLkJvyku7TNdCHObYKDJXQuv-A29S8ZEFUobbwVhzxbRUzCrHrFpJaphT2QbaA186RQRjuvosQioF6-AfbBurQGaEp4iFcQtewpVrHyE7mARktIyg0DhTwdJHVYtdc0z3XMiqC61dQO2WG54HFQRTc0UMLTDzI86jASrmmewQZkIuTufETTVFH0weLNHk9toBpnUMZBKz0ANSBpkDlrrAtlWAZg3s1g_qnxsVgRQDVf0Pim1--CVNY0FmatIhkCiFaYulTUP6CZkOVi4YKT8eTiZ2ya9XcRjDGItVChq9BbeXQuZFpJUAZBYUEItZSRX6BcNuNnhtwueP56UQZFqlQCoIpU4Af0WSQtItXyQ7XoQjfAbm0vsbytjLmMWT9Ah4XsBtz66dTGqYm1GG0klXdYMCYv804s1jQ20jmWzdrY-oRqNFRbBDXU3f4VnhNh7OancCYVT5mcsdQBmLXbGFfNaBowYkWkEmF5GRTBlB0DKKzav1fm2Hb4lvaZUnWKWD6I7ggIE8wJpCV6MRpHMUAOo_wqUfPxfCng8aA91zSHeVieZFZpyJKZzckYrTQ5-0AsMg9XxuiO6B5mIZrdRgACbNaEYC-M0aTNoiUGIz0IIqP8bqFvsXCFBH20TVfYfzH0Htw-aeQCYVFpBLWwaVswxG43W2rA6hDmrtUakaL0cjD6yOTfBIGIeR7VKov1bEa8" group-title="GRAND TV",TV1000 Action
+http://tv.shbro.org/stream/35AA07ACC53A/2de8videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=0fb7cd2513a7744b5d1077463191ee41d68a81a5-4550718-images-thumbs&n=13" group-title="GRAND TV",Vip Comedy
+http://tv.shbro.org/stream/35AA07ACC53A/3605videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b9931318e304033a950534d3de7dd020c51fdd55-5886904-images-thumbs&n=13" group-title="GRAND TV",VIP Megahit
+http://tv.shbro.org/stream/35AA07ACC53A/d057videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=83010656b7e2e6edaf622c03096197820bcb6a12-7749798-images-thumbs&n=13" group-title="GRAND TV",Vip Premiere
+http://tv.shbro.org/stream/35AA07ACC53A/808fvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=fed13589212ac997048216009aa1bb705ab00585-2834022-images-thumbs&n=13" group-title="GRAND TV",Домашний
+http://tv.shbro.org/stream/35AA07ACC53A/3f8avideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/Scripach_tv.png" group-title="GRAND TV",Scripach tv FHD
+http://tv.shbro.org/stream/35AA07ACC53A/scripachtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b6356e77578e3ce3386de9f95d411e3caae9bc0b-12422585-images-thumbs&n=13" group-title="GRAND TV",Kinowalk FHD
+http://tv.shbro.org/stream/35AA07ACC53A/gkinowalklive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6526aea2d3a4eca123a5b345d676864dfc3c3b25-10878270-images-thumbs&n=13" group-title="GRAND TV",KinoMix FHD
+http://tv.shbro.org/stream/35AA07ACC53A/chkinomixlive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=589de06081ff0233730a704bf89b51ed128d9292-5234591-images-thumbs&n=13" group-title="GRAND TV",Video-Arsenal FHD
+http://tv.shbro.org/stream/35AA07ACC53A/deoarsenallive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=ba0c679a0ac112e901f17ba50e081bb0fa3ce867-5329285-images-thumbs&n=13" group-title="GRAND TV",MovieToper FHD
+http://tv.shbro.org/stream/35AA07ACC53A/movietoperlive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=aaf64ea7507dfa41b3e71bf9474ed877416511ad-8341432-images-thumbs&n=13" group-title="GRAND TV",kinolampa FHD
+http://tv.shbro.org/stream/35AA07ACC53A/kinolampalive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4313b28ff4caac75a77bb8c539a259700e3414c1-5205074-images-thumbs&n=13" group-title="GRAND TV",Blockbusters Time FHD
+http://tv.shbro.org/stream/35AA07ACC53A/usterstimelive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4f5976cd60497e9d50a294790494fa1e5c1071c5-5883354-images-thumbs&n=13" group-title="GRAND TV",TimeToMovie FHD
+http://tv.shbro.org/stream/35AA07ACC53A/imetomovielive.m3u8
+#EXTINF:-1 tvg-logo="https://yastatic.net/naydex/yandex-search/BORB8x570/348bb5SwyM5/_mWWHWS9YPlLD7cbg8s_EVe_vjafbhkb5rdaywO3x6OPlN6ySfWAp4ZnJSIpEcycgjn1bI3aW3PCYOc-lQaj_D9hxQ20-LdtGopliIIJfhaFeOw2jqkNmSNxjx5RoURgjoEEvNUrnn5bvzo_og4eyFQ4YisIXkkqGE" group-title="GRAND TV",TimeToHorror FHD
+http://tv.shbro.org/stream/35AA07ACC53A/metohorrorlive.m3u8
+#EXTINF:-1 tvg-logo="https://yastatic.net/naydex/yandex-search/BORB8x519/348bb5SwyM5/_mWWHWS9YPlLD7cbg8s_EVe_vjafbhkb5rdbCwE3UaLPlEuzyzaWJcZnpSL9UQ0dQi2juM7bm6TXdLIrlZA1PT-0BQy2ezWt2ckiGYMKf5YA73pxie8OXXYgTBkDdBCjjhoEu1UrWTpc-fm8I8PYy5a4JX6enYBqA" group-title="GRAND TV",Video_Prokat FHD
+http://tv.shbro.org/stream/35AA07ACC53A/deoprokatlive.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f56b2d324917a2659785d4f07f5dad2ae6e763ec-4814374-images-thumbs&n=13" group-title="GRAND TV",BCU Action HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=da994ccaf459f1b9a1b17128f12e154f9c9257af-9854329-images-thumbs&n=13" group-title="GRAND TV",BCU Cinema HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_1478.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBJiJvJA3CaXQGiS2-b4OcOihfMaQEyThnlXo-xkRh0XTHp9n50H9pZqznxAB0WsmdDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="GRAND TV",BCU Cinema+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_f733.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=03ab452c2a1b06585d1136e21815a6bd93abbcaf-4338066-images-thumbs&n=13" group-title="GRAND TV",BCU Criminal HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_2c22.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBJSU6eVGSaHYFjSu4bI6dOn9eZKQGn2hhxyU4xEJm0XvH89v9iitjYKznxQJzWsKcDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="GRAND TV",BCU Filmystic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_cf46.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d9a5c0ce8999b899260f8df73720dd68d17c052c-16347695-images-thumbs&n=13" group-title="GRAND TV",BCU History HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_4cfc.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBKyZreAXOOXBWgiq_P97OOCcGNK8Cz2lulioxwxIy13vBpNn6hCg5NqzjxAp0VsyZFumXYGDBCUml0xTEoVNmGnIqeXtayjt0P-VYnBnl4llXIEvZS8wwMsFkJoVaCepso-LXj8BYDRzJgKxUECi1-W28jltpzQV7y-0IwK99cEhjAHoxU55oAivyS6oe0OFveCtKwkvvCwHrVlmhVznTOLTh-6D7cBo0852fexYms9NXvLxjTuIOV_jvPuefUGdrehBRKFehci8W1Hy6NsDPSWcwZNFW2g8-z1hchU8-5wKpytWp124ZB823h2s_BbfSQqyzTGnjJ2jt_xD5uFxgRXs0XCh1oHk0NtN8myr34G1dBWnveu8HDu54SZttOt8Cu-rtvfdYGSPtsb1iLS-W4FedtkZu8jRV0vAx2bp0cm1CIV8EU71ODBLRa58s38ZaUi1353TrETjNb0y8TRryPKT07LHFfCoW57-eeiIGluBUvph3Tu4jVsThLsCkU1l3VwB8I2GcXAoq9nyNLfTaT3gXdsZj3Bswz0RjhHUE3i6S6tic31QOKdi4kHcfNIzcULO4QUnJH3TDzQzIqUB9X2kRZTZmgGAAFMljkC_v2H19C0nddcAZEv5YTr1jJeAFpcDMkcByEALHqrBEEzSBznuKqnRK1Cti8fME4KlacFZAK0AEW7FYNzjsQbIozsdddzZw03XrODXzZnilZzTaFKLCzIXHWDUh2JOXXgw6rchBiK5Yc-QJT-rKFte5V1RdVy1xAUyyWgUs6VWNNt7ieV8ratBQxigG0EpJv3c5_DqT9sq-30A3MvCzuWIrEL_tdaucSkTuInnP1ijQu3ZQaXw9RwthsVwzOcl2hwPRy0RMDVPTYv0GDvJwTJx1BecAlfrOm8NeCwbRpIVUIQe9xE2jrUpr5AZr3Pc1w7tBUX1cF1M" group-title="GRAND TV",BCU Kids 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_0c84.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBInRqdQKTPHMEgi67OonLbigENaNUmTtkwXgwwRNmgX6X99vzgCxiMKzmwwV8Vc6aDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="GRAND TV",BCU Kinorating HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_b769.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=7afe44ef7ddd612c0b158f99247d0eaf90489a8c-4355007-images-thumbs&n=13" group-title="GRAND TV",BCU Marvel HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_5b19.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBIyI-clfAPXRS3n-8PYqZbngBNa9Tmj8zwX86wRU1hXrEooqv1n8-Zqzjxwd0VM6aE-mXYGDBCUml0xTEoVNmGnIqeXtayjt0P-VYnBnl4llXIEvZS8wwMsFkJoVaCepso-LXj8BYDRzJgKxUECi1-W28jltpzQV7y-0IwK99cEhjAHoxU55oAivyS6oe0OFveCtKwkvvCwHrVlmhVznTOLTh-6D7cBo0852fexYms9NXvLxjTuIOV_jvPuefUGdrehBRKFehci8W1Hy6NsDPSWcwZNFW2g8-z1hchU8-5wKpytWp124ZB823h2s_BbfSQqyzTGnjJ2jt_xD5uFxgRXs0XCh1oHk0NtN8myr34G1dBWnveu8HDu54SZttOt8Cu-rtvfdYGSPtsb1iLS-W4FedtkZu8jRV0vAx2bp0cm1CIV8EU71ODBLRa58s38ZaUi1353TrETjNb0y8TRryPKT07LHFfCoW57-eeiIGluBUvph3Tu4jVsThLsCkU1l3VwB8I2GcXAoq9nyNLfTaT3gXdsZj3Bswz0RjhHUE3i6S6tic31QOKdi4kHcfNIzcULO4QUnJH3TDzQzIqUB9X2kRZTZmgGAAFMljkC_v2H19C0nddcAZEv5YTr1jJeAFpcDMkcByEALHqrBEEzSBznuKqnRK1Cti8fME4KlacFZAK0AEW7FYNzjsQbIozsdddzZw03XrODXzZnilZzTaFKLCzIXHWDUh2JOXXgw6rchBiK5Yc-QJT-rKFte5V1RdVy1xAUyyWgUs6VWNNt7ieV8ratBQxigG0EpJv3c5_DqT9sq-30A3MvCzuWIrEL_tdaucSkTuInnP1ijQu3ZQaXw9RwthsVwzOcl2hwPRy0RMDVPTYv0GDvJwTJx1BecAlfrOm8NeCwbRpIVUIQe9xE2jrUpr5AZr3Pc1w7tBUX1cF1M" group-title="GRAND TV",BCU Premiere HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_f0a3.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6c2820125134ee188cc71568ed8e8232d0621660-5666576-images-thumbs&n=13" group-title="GRAND TV",BCU Premiere Ultra 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_f0a3_bc58.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5e4accdbaf2b8c6bfd5f3baff0d78ce30d15d0f6-3607511-images-thumbs&n=13" group-title="GRAND TV",BCU Reality HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_0da2.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b46064b6e10e440af65a3481da6009f96e9bee29-5364055-images-thumbs&n=13" group-title="GRAND TV",BCU Romantic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_440e.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=216ca8ae647deea3ca1929e72f6ed2e63aebeb49-5887670-images-thumbs&n=13" group-title="GRAND TV",BCU Russian HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_7f1e.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=73f5d63bd4980f9bbd461aa789999b857918adbd-5467645-images-thumbs&n=13" group-title="GRAND TV",BCU Stars HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_cde5.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=3b2d7ff02e274d40fd48adb6391af4947de18fa5-12715110-images-thumbs&n=13" group-title="GRAND TV",BCU Survival HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_7c71.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8d93d17c52cf29e486741f516e2c4198b6c90c04-16505343-images-thumbs&n=13" group-title="GRAND TV",BCU TruMotion HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_2b2e.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a2f42294dc65d8f4661fdb62414a2d656289a009-5219173-images-thumbs&n=13" group-title="GRAND TV",BCU Ultra 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_3074.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f09bfa4480cbc18572a2dd34b122180f27150ecb-5330362-images-thumbs&n=13" group-title="GRAND TV",BCU VHS HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_c51d.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=cefc94d1afa99e1fe698ac2788a537b491c66ce2-9214146-images-thumbs&n=13" group-title="GRAND TV",BCU Кинозал Premiere 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_cf1c.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBdXAweFCTP3IGgy3lPouYOXhTNfZUmG0zxX44wRlj1nnBqtuo1ntja6zgzwpwVc-YDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="GRAND TV",BCU Кинозал Premiere 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_4f1b.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=fe634add1d9d3d4c6ab2132185fb3e448992e3f7-12422010-images-thumbs&n=13" group-title="GRAND TV",BCU Кинозал Premiere 3 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_e851.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6a18353d9231fd2e7917f347ab518667d2b5c06b-10245136-images-thumbs&n=13" group-title="GRAND TV",BCU Мультсериал
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_2166.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=e5256bfa6abd9026718dad7dd4d984a7e8e0ed08-12527828-images-thumbs&n=13" group-title="GRAND TV",BCU Сваты HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_a0ca.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d629610d86616a700524dbb33dd29ae69b6df4d4-10350562-images-thumbs&n=13" group-title="GRAND TV",BCU СССР HD
+http://tv.shbro.org/stream/35AA07ACC53A/8acegetstream_562b.m3u8
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kino-tv.png" group-title="GRAND TV",Кино ТВ
+http://tv.shbro.org/stream/35AA07ACC53A/v1a1monom3u8_373d.m3u8
+#EXTINF:-1 tvg-logo="https://yastatic.net/naydex/yandex-search/BORB8x519/348bb5SwyM5/_mWWHWS9YPlLD7cbg8s_EVe_vjafbhkb5rdPCUOjh3ZO1V6mSbYDcJEypCL90Vncge93eI3OzqRDYDMrlJF3_Cg1RQz0ePetG8hiGYMKf5YA73pxie8OXXYgTBkDdBCjjhoEu1UrWTpc-fm8I8PYy5a4JX6enYBqA" group-title="GRAND TV",Cinema Megahit HD
+http://tv.shbro.org/stream/35AA07ACC53A/d578videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yastatic.net/naydex/yandex-search/BORB8x519/348bb5SwyM5/_mWWHWS9YPlLD7cbg8s_EVe_vjafbhkb5rdOyBU2hzcaQd5mnOOA5BHlsOP9EFkIwrk1eJrOW3ADoae-1dB2Kmq0BQw0e7atG0kiGYMKf5YA73pxie8OXXYgTBkDdBCjjhoEu1UrWTpc-fm8I8PYy5a4JX6enYBqA" group-title="GRAND TV",Cinema Comedy HD
+http://tv.shbro.org/stream/35AA07ACC53A/d579videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yastatic.net/naydex/yandex-search/BORB8x519/348bb5SwyM5/_mWWHWS9YPlLD7cbg8s_EVe_vjafbhkb5rdaC1SjE_ZbwcuySfeCJUVnZiK8BQzeAe1i-dsODqRWI7N-1VB2vL70xQz2OvctmcniGYMKf5YA73pxie8OXXYgTBkDdBCjjhoEu1UrWTpc-fm8I8PYy5a4JX6enYBqA" group-title="GRAND TV",Cinema Family HD
+http://tv.shbro.org/stream/35AA07ACC53A/d589videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=e92bb6a49118996a9d110d9d8f4a4bd8bf73dfb3-8497159-images-thumbs&n=13" group-title="GRAND TV",Cinema Legend HD
+http://tv.shbro.org/stream/35AA07ACC53A/d727videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=cc276f03c61b51b03e31aaaa10dca6a86c5cf72d-13106613-images-thumbs&n=13" group-title="GRAND TV",Сinema Kinohit HD
+http://tv.shbro.org/stream/35AA07ACC53A/d728videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=40f3448a3aa2499ed3acff7c081cb9e582bcf82c-5877972-images-thumbs&n=13" group-title="GRAND TV",Cine+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/d567videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBdn47IlbBa3NZiyjlYoObaicDM6YCyWcynHo8kRQ00XST9Ij41n85YKzqwgpyU86SDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="GRAND TV",Cine+ Legend
+http://tv.shbro.org/stream/35AA07ACC53A/d568videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6a3cb35eed068a776a7a833933f84fc2cab1f2cb-3536087-images-thumbs&n=13" group-title="GRAND TV",Kinoliving HD
+http://tv.shbro.org/stream/35AA07ACC53A/d560videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/5phDR4166/787ceekOTTb/zon4KCFHSgGiIVapZBpZN5CVO3TU9jzWHEBKnE8JAfHOiYE2SvsbYjOPygBMfZQyzxlkH1sx0Nu1i_GoY2u1yhrZKznxAB2VcKTDq2TbGbDHxf8zwncrkIzXX43Mi4JxjkYP_tYnwT1_0JZLkzuU8M6M9wyfYp_CZUegfr7ufNPFBvTiJFmDyyp5Vu0qGVqzy15wtMN0oBUYUxUNHgnXZVPDCjobpgx9sltUi9X7nD4CRnuTVmHTzDBCYLW1ILbWDwhzru-YAEqg99bhpBCRcQBSsDlKuKtQ0JVRB9hI2KPYjEO336wIdjvckkBRPNF_DY94Eh9n0gE-xSp-N2uxVsPH-SjrkkiLoLKS4m_ZUTtPl_QyzTFoURsVGASYQFjhHkRCd9frBb3y0h8DHrfcPQGHMBdY71MPPsGicDJjvNbKz_imadbCA-w33qMtWJV_gNg3-oUx4lWRG11EU0nfrNBNQvIW6o-0fxHVBJy0XTiMD_XWESdbBHFGZfBxbzXaB417Lq_VCEPsNxZooRCSekAds71DdmufV54VDJqFV-hRw0s30mrFc3pbW4TU8ZD6Dg9_Hd8pXI91y-J9eim_0whCuu0smkTFYzYVIKyRW7VInHi1wXUvVl2RkUrfxJDnU0zE8BUqQ7P22hyLEjQX-oaDOBaRbNTA_wYo-HludlSChX5lIFlExie822Qh0Zz4TRD3N8t1KdUf29_Dk0vcqV6Hzbidq4v0PtiTxVG0HTLPQHebF23QjntH6Hh8b7zdykKwLObeh00mMlvlKt_Q8MZWOXNGsSqcHR4eT9IOHGnSAsz9kmwP_XfSlIPRfVZ2w4i8l1Hp08fwy6V58qm63U6IuCdp103Jr39TKa5SEnoL3358x3Gi3RAU2kJQhVyoX4eE9VDhTDc4ll0NkbHYvUGAMhYZKVzBPkomePvuvVJDgP3oZFXICSUxUSXuWdDzD1u2O4Oxrx1VHNDHUc" group-title="GRAND TV",4ever Theater HD
+http://tv.shbro.org/stream/35AA07ACC53A/d558videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=9d4bcd62ea010a8601b5f33cb6c1a84fb0526a83-10344054-images-thumbs&n=13" group-title="GRAND TV",NOW series HD
+http://tv.shbro.org/stream/35AA07ACC53A/d566videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4a867da89a93879a98d583206a2d6ef962f42e4d-8437019-images-thumbs&n=13" group-title="GRAND TV",Cine+ Hit HD
+http://tv.shbro.org/stream/35AA07ACC53A/d539videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=02d3420d494d6f674e2c3f328345495ab92ae242-4669930-images-thumbs&n=13" group-title="GRAND TV",4ever Cinema HD
+http://tv.shbro.org/stream/35AA07ACC53A/d521videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=06388bdc24874e68d5654595e14f7a62a245513a-4913172-images-thumbs&n=13" group-title="GRAND TV",4ever Drama HD
+http://tv.shbro.org/stream/35AA07ACC53A/d557videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b3991ce4050cb1ab929745732d2d19e48e6b6d22-5280865-images-thumbs&n=13" group-title="GRAND TV",Viasat Kino Comedy HD
+http://tv.shbro.org/stream/35AA07ACC53A/d249videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=e619b276eb3641a3292d42845b5a89e6f7bb646a-5876030-images-thumbs&n=13" group-title="GRAND TV",Viasat Kino HD
+http://tv.shbro.org/stream/35AA07ACC53A/d104videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1efee9e88e1da0ee45795066182d7b0a70e27617-4937272-images-thumbs&n=13" group-title="GRAND TV",Bollywood HD
+http://tv.shbro.org/stream/35AA07ACC53A/d183videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1ded90b870f95493e04fddc17886fe78be600f9a-10471610-images-thumbs&n=13" group-title="GRAND TV",FilmBox Arthouse
+http://tv.shbro.org/stream/35AA07ACC53A/d111videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d6ed40c81c0087feea3b89a3ac38de7e9bec2b2f-4408252-images-thumbs&n=13" group-title="GRAND TV",FilmBox
+http://tv.shbro.org/stream/35AA07ACC53A/d109videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=571ccf3846a8878316400e0a422e8e55ece6c555-5343653-images-thumbs&n=13" group-title="GRAND TV",Квартал ТВ
+http://tv.shbro.org/stream/35AA07ACC53A/d180videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d15a9b5ba811180b2000dd8506e16d6ea55fb3d7-12484384-images-thumbs&n=13" group-title="GRAND TV",Твій серіал HD
+http://tv.shbro.org/stream/35AA07ACC53A/d718videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d2dfc7a531b857a6b5e3f5bd5495c4a1c97c51e9-4825137-images-thumbs&n=13" group-title="GRAND TV",Kinosweet HD
+http://tv.shbro.org/stream/35AA07ACC53A/d581videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=924838208fb67a31e7860cbee87edaa4a8280b2b-5351568-images-thumbs&n=13" group-title="GRAND TV",Okko TV HD
+http://tv.shbro.org/stream/35AA07ACC53A/9232videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=83cce158a289f3107dff7bc718f28225cbf46423-4740375-images-thumbs&n=13" group-title="GRAND TV",Кино ТВ HD
+http://tv.shbro.org/stream/35AA07ACC53A/8386videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Дом Кино
+http://tv.shbro.org/stream/35AA07ACC53A/8048videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=3cf34258a67b14cde859ab65315debc81c4d4490-4118326-images-thumbs&n=13" group-title="GRAND TV",Дом Кино Премиум HD
+http://tv.shbro.org/stream/35AA07ACC53A/8049videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=7b3210691d309c377ae78d93dab23d3b89fa3cca-4334236-images-thumbs&n=13" group-title="GRAND TV",FAN HD
+http://tv.shbro.org/stream/35AA07ACC53A/8108videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=ceb23ffac3001ff15290e0d23ec8d090747ddc10-3797894-images-thumbs&n=13" group-title="GRAND TV",viju TV1000 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8109videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=e78dbcf400122a6f896383ba6cf2b6ac7cdc8b57-4396111-images-thumbs&n=13" group-title="GRAND TV",viju TV1000 action HD
+http://tv.shbro.org/stream/35AA07ACC53A/8119videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=9fdd2c7cc8a703f50f2dd2ac55f25344915319a6-8182686-images-thumbs&n=13" group-title="GRAND TV",viju TV1000 русское HD
+http://tv.shbro.org/stream/35AA07ACC53A/9222videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2af290272c28f5c121749b9d5bcbca92f5ad836f-11044949-images-thumbs&n=13" group-title="GRAND TV",viju+ Comedy HD
+http://tv.shbro.org/stream/35AA07ACC53A/8661videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=4167c897d346492f15b67c20c39f3ec481f7f396-5294555-images-thumbs&n=13" group-title="GRAND TV",viju+ Megahit HD
+http://tv.shbro.org/stream/35AA07ACC53A/8169videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=c9cbb179dc393268fa05045248cc8e9c4660e428-5710449-images-thumbs&n=13" group-title="GRAND TV",Hollywood
+http://tv.shbro.org/stream/35AA07ACC53A/8651videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=46f96c79687933a10181024d759919c83bfbd834-4054969-images-thumbs&n=13" group-title="GRAND TV",Шокирующие
+http://tv.shbro.org/stream/35AA07ACC53A/8322videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=0af2c073377bb18ea0de3b94d016804a991f5e55-5129481-images-thumbs&n=13" group-title="GRAND TV",Криминальное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8965videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",САПФИР HD
+http://tv.shbro.org/stream/35AA07ACC53A/8028videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Hollywood HD
+http://tv.shbro.org/stream/35AA07ACC53A/8184videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Шокирующее HD
+http://tv.shbro.org/stream/35AA07ACC53A/8296videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Криминальное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8310videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Премиальное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8323videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Остросюжетное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8648videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Душевное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8051videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Любимое HD
+http://tv.shbro.org/stream/35AA07ACC53A/8168videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Комедийное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8052videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Комедия
+http://tv.shbro.org/stream/35AA07ACC53A/8165videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",FX
+http://tv.shbro.org/stream/35AA07ACC53A/8155videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",FX HD
+http://tv.shbro.org/stream/35AA07ACC53A/8010videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",FX Life HD
+http://tv.shbro.org/stream/35AA07ACC53A/8161videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",НСТ
+http://tv.shbro.org/stream/35AA07ACC53A/8162videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Индия
+http://tv.shbro.org/stream/35AA07ACC53A/8059videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Русский роман HD
+http://tv.shbro.org/stream/35AA07ACC53A/8115videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Русский детектив
+http://tv.shbro.org/stream/35AA07ACC53A/8663videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Русский бестселлер
+http://tv.shbro.org/stream/35AA07ACC53A/8412videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Наше HD
+http://tv.shbro.org/stream/35AA07ACC53A/9077videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",sci-fi
+http://tv.shbro.org/stream/35AA07ACC53A/9084videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",black HD
+http://tv.shbro.org/stream/35AA07ACC53A/9074videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Феникс+ Кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/9061videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Новинки HD
+http://tv.shbro.org/stream/35AA07ACC53A/9080videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Счастливого нового года HD
+http://tv.shbro.org/stream/35AA07ACC53A/9064videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Марвел сериалы HD
+http://tv.shbro.org/stream/35AA07ACC53A/9063videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Интерны HD
+http://tv.shbro.org/stream/35AA07ACC53A/9058videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Сваты HD
+http://tv.shbro.org/stream/35AA07ACC53A/9055videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Космос HD
+http://tv.shbro.org/stream/35AA07ACC53A/9054videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Комедия HD
+http://tv.shbro.org/stream/35AA07ACC53A/9052videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Доктор HD
+http://tv.shbro.org/stream/35AA07ACC53A/8664videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Герой HD
+http://tv.shbro.org/stream/35AA07ACC53A/8741videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Время HD
+http://tv.shbro.org/stream/35AA07ACC53A/8742videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kernel TV Бумажный дом HD
+http://tv.shbro.org/stream/35AA07ACC53A/8743videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",О!
+http://tv.shbro.org/stream/35AA07ACC53A/8706videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM NewFilm 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8745videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM NewFilm 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8746videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM NewFilm 3 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8708videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM NewFilm RU HD
+http://tv.shbro.org/stream/35AA07ACC53A/8710videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Боевик HD
+http://tv.shbro.org/stream/35AA07ACC53A/8725videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Катастрофа HD
+http://tv.shbro.org/stream/35AA07ACC53A/8328videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Комедия HD
+http://tv.shbro.org/stream/35AA07ACC53A/8410videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Супергерои HD
+http://tv.shbro.org/stream/35AA07ACC53A/8933videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Ужасы HD
+http://tv.shbro.org/stream/35AA07ACC53A/8545videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Love HD
+http://tv.shbro.org/stream/35AA07ACC53A/8442videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM UFO HD
+http://tv.shbro.org/stream/35AA07ACC53A/8449videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM История HD
+http://tv.shbro.org/stream/35AA07ACC53A/8652videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Киберпанк HD
+http://tv.shbro.org/stream/35AA07ACC53A/8559videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Семейный 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8991videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Семейный 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8994videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Спорт HD
+http://tv.shbro.org/stream/35AA07ACC53A/8617videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Кунг-фу HD
+http://tv.shbro.org/stream/35AA07ACC53A/8618videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Celebrity HD
+http://tv.shbro.org/stream/35AA07ACC53A/8619videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Фобия HD
+http://tv.shbro.org/stream/35AA07ACC53A/8621videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM World Hits HD
+http://tv.shbro.org/stream/35AA07ACC53A/8685videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Агата Кристи HD
+http://tv.shbro.org/stream/35AA07ACC53A/8622videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Вестерн HD
+http://tv.shbro.org/stream/35AA07ACC53A/8624videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Грайндхаус HD
+http://tv.shbro.org/stream/35AA07ACC53A/8625videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Затмение HD
+http://tv.shbro.org/stream/35AA07ACC53A/8733videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Квартирник HD
+http://tv.shbro.org/stream/35AA07ACC53A/8799videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Криминал HD
+http://tv.shbro.org/stream/35AA07ACC53A/8779videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Мифология HD
+http://tv.shbro.org/stream/35AA07ACC53A/8627videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Нуар HD
+http://tv.shbro.org/stream/35AA07ACC53A/8916videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Погружение HD
+http://tv.shbro.org/stream/35AA07ACC53A/8629videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Приключения HD
+http://tv.shbro.org/stream/35AA07ACC53A/8778videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Синематограф HD
+http://tv.shbro.org/stream/35AA07ACC53A/8325videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Скорость HD
+http://tv.shbro.org/stream/35AA07ACC53A/8631videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Стивен Кинг HD
+http://tv.shbro.org/stream/35AA07ACC53A/8633videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Триллер HD
+http://tv.shbro.org/stream/35AA07ACC53A/8634videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Ужастик HD
+http://tv.shbro.org/stream/35AA07ACC53A/8658videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Фантастика HD
+http://tv.shbro.org/stream/35AA07ACC53A/8404videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Translation HD
+http://tv.shbro.org/stream/35AA07ACC53A/8327videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Драма HD
+http://tv.shbro.org/stream/35AA07ACC53A/8893videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Кинофестиваль HD
+http://tv.shbro.org/stream/35AA07ACC53A/8620videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Пир UHD
+http://tv.shbro.org/stream/35AA07ACC53A/8626videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM 007 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8709videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Сваты HD
+http://tv.shbro.org/stream/35AA07ACC53A/8547videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Воронины HD
+http://tv.shbro.org/stream/35AA07ACC53A/8644videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Полицейский с Рублёвки HD
+http://tv.shbro.org/stream/35AA07ACC53A/8628videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Роскино HD
+http://tv.shbro.org/stream/35AA07ACC53A/8623videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Крутые 90-е HD
+http://tv.shbro.org/stream/35AA07ACC53A/8632videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM OldSchool HD
+http://tv.shbro.org/stream/35AA07ACC53A/8630videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Ситком HD
+http://tv.shbro.org/stream/35AA07ACC53A/8789videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Ситком 2.0 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8411videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Classic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8894videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Ужасы Classic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8614videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Комедия Classic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8615videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM Боевик Classic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8616videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM USSR Драма HD
+http://tv.shbro.org/stream/35AA07ACC53A/8744videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM USSR 1941-1945 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8656videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM USSR Приключения HD
+http://tv.shbro.org/stream/35AA07ACC53A/8993videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM USSR Сказки HD
+http://tv.shbro.org/stream/35AA07ACC53A/8637videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM USSR Комедия HD
+http://tv.shbro.org/stream/35AA07ACC53A/8638videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MM USSR Детектив HD
+http://tv.shbro.org/stream/35AA07ACC53A/8642videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MS ANIMATED HD
+http://tv.shbro.org/stream/35AA07ACC53A/8657videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MS CRIME HD
+http://tv.shbro.org/stream/35AA07ACC53A/8568videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MS PRISONS HD
+http://tv.shbro.org/stream/35AA07ACC53A/8569videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MS YOUNG BLOOD HD
+http://tv.shbro.org/stream/35AA07ACC53A/8489videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",MS MAGIC 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8534videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Короткие истории HD
+http://tv.shbro.org/stream/35AA07ACC53A/8573videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Улика HD
+http://tv.shbro.org/stream/35AA07ACC53A/8570videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Паранормальное HD
+http://tv.shbro.org/stream/35AA07ACC53A/8501videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Остров HD
+http://tv.shbro.org/stream/35AA07ACC53A/8483videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Детектив HD
+http://tv.shbro.org/stream/35AA07ACC53A/8533videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Голые и смешные HD
+http://tv.shbro.org/stream/35AA07ACC53A/8571videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Невский HD
+http://tv.shbro.org/stream/35AA07ACC53A/9492videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Психо HD
+http://tv.shbro.org/stream/35AA07ACC53A/8952videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Сериалы HD
+http://tv.shbro.org/stream/35AA07ACC53A/8951videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine Выживание HD
+http://tv.shbro.org/stream/35AA07ACC53A/8954videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",GoldLine VHS HD
+http://tv.shbro.org/stream/35AA07ACC53A/8955videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan HD
+http://tv.shbro.org/stream/35AA07ACC53A/8957videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Marvel HD
+http://tv.shbro.org/stream/35AA07ACC53A/8958videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Триллер HD
+http://tv.shbro.org/stream/35AA07ACC53A/8959videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Мелодрама HD
+http://tv.shbro.org/stream/35AA07ACC53A/8960videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Катастрофы HD
+http://tv.shbro.org/stream/35AA07ACC53A/8961videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Комедийные сериалы HD
+http://tv.shbro.org/stream/35AA07ACC53A/8967videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan TOP HD
+http://tv.shbro.org/stream/35AA07ACC53A/8825videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Ужасы HD
+http://tv.shbro.org/stream/35AA07ACC53A/8807videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan MiniSeries HD
+http://tv.shbro.org/stream/35AA07ACC53A/8821videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Premium HD
+http://tv.shbro.org/stream/35AA07ACC53A/8833videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Сваты HD
+http://tv.shbro.org/stream/35AA07ACC53A/8772videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan VHS HD
+http://tv.shbro.org/stream/35AA07ACC53A/8802videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Emergency Room HD
+http://tv.shbro.org/stream/35AA07ACC53A/8767videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Симпсоны HD
+http://tv.shbro.org/stream/35AA07ACC53A/8824videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Криминальные Сериалы HD
+http://tv.shbro.org/stream/35AA07ACC53A/8871videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Ментовские войны HD
+http://tv.shbro.org/stream/35AA07ACC53A/9121videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Лесник HD
+http://tv.shbro.org/stream/35AA07ACC53A/8574videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Пёс + ЛИХАЧ HD
+http://tv.shbro.org/stream/35AA07ACC53A/8826videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Рукино HD
+http://tv.shbro.org/stream/35AA07ACC53A/8771videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan СССР HD
+http://tv.shbro.org/stream/35AA07ACC53A/8795videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Военные Сериалы HD
+http://tv.shbro.org/stream/35AA07ACC53A/9498videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Расследование авиакатастроф HD
+http://tv.shbro.org/stream/35AA07ACC53A/8804videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Фитнес HD
+http://tv.shbro.org/stream/35AA07ACC53A/8822videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan СССР 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8886videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Дубляж СССР HD
+http://tv.shbro.org/stream/35AA07ACC53A/8475videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan OLD 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8883videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",CineMan Relax 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8468videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCUMEDIA HD
+http://tv.shbro.org/stream/35AA07ACC53A/8870videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere HD
+http://tv.shbro.org/stream/35AA07ACC53A/8473videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8872videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere 1 HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8474videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8873videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere 2 HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8478videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere 3 HD
+http://tv.shbro.org/stream/35AA07ACC53A/8879videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere 3 HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8479videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Fantastic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8880videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Fantastic HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8476videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU FilMystic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8882videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU FilMystic HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8481videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Marvel HD
+http://tv.shbro.org/stream/35AA07ACC53A/8876videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Marvel HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8477videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Action HD
+http://tv.shbro.org/stream/35AA07ACC53A/8878videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Action HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8480videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Comedy HD
+http://tv.shbro.org/stream/35AA07ACC53A/8975videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Comedy HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8891videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Cosmo HD
+http://tv.shbro.org/stream/35AA07ACC53A/8892videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Cosmo HDR
+http://tv.shbro.org/stream/35AA07ACC53A/8877videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Cinema HD
+http://tv.shbro.org/stream/35AA07ACC53A/8884videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Cinema+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/8881videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Catastrophe HD
+http://tv.shbro.org/stream/35AA07ACC53A/8885videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Romantic HD
+http://tv.shbro.org/stream/35AA07ACC53A/8910videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU History HD
+http://tv.shbro.org/stream/35AA07ACC53A/8890videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Stars HD
+http://tv.shbro.org/stream/35AA07ACC53A/8977videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Reality HD
+http://tv.shbro.org/stream/35AA07ACC53A/8455videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Criminal HD
+http://tv.shbro.org/stream/35AA07ACC53A/8912videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU TruMotion HD
+http://tv.shbro.org/stream/35AA07ACC53A/8457videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Kinorating HD
+http://tv.shbro.org/stream/35AA07ACC53A/8980videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Survival HD
+http://tv.shbro.org/stream/35AA07ACC53A/8875videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Russian HD
+http://tv.shbro.org/stream/35AA07ACC53A/8888videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Russia 90s HD
+http://tv.shbro.org/stream/35AA07ACC53A/8908videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU CCCP HD
+http://tv.shbro.org/stream/35AA07ACC53A/8889videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU RUSerial HD
+http://tv.shbro.org/stream/35AA07ACC53A/8887videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU VHS HD
+http://tv.shbro.org/stream/35AA07ACC53A/8911videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Сваты HD
+http://tv.shbro.org/stream/35AA07ACC53A/8354videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Ultra 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8430videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BCU Premiere Ultra 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8418videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Spy HD
+http://tv.shbro.org/stream/35AA07ACC53A/8417videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Fantasy HD
+http://tv.shbro.org/stream/35AA07ACC53A/8989videom3u8_7810.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Zombie HD
+http://tv.shbro.org/stream/35AA07ACC53A/8987videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Western HD
+http://tv.shbro.org/stream/35AA07ACC53A/8988videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Serial HD
+http://tv.shbro.org/stream/35AA07ACC53A/8419videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Memory HD
+http://tv.shbro.org/stream/35AA07ACC53A/8434videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX M.Serial HD
+http://tv.shbro.org/stream/35AA07ACC53A/8985videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Cyber HD
+http://tv.shbro.org/stream/35AA07ACC53A/8983videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Mayday HD
+http://tv.shbro.org/stream/35AA07ACC53A/8986videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Gangster HD
+http://tv.shbro.org/stream/35AA07ACC53A/8428videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Hybrid HD
+http://tv.shbro.org/stream/35AA07ACC53A/8441videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Oscar HD
+http://tv.shbro.org/stream/35AA07ACC53A/8982videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Ghost HD
+http://tv.shbro.org/stream/35AA07ACC53A/8984videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Apocalypse HD
+http://tv.shbro.org/stream/35AA07ACC53A/8444videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Franchise HD
+http://tv.shbro.org/stream/35AA07ACC53A/8453videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Anime HD
+http://tv.shbro.org/stream/35AA07ACC53A/8431videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX UltraStars 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8443videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Russian 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8433videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Premiere 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8448videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Remast+ 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8432videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Kosmo 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8452videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Serial 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8903videom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",BOX Serial Premiere 4K
+http://tv.shbro.org/stream/35AA07ACC53A/8684videom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/403.png" group-title="GRAND TV",CineMan Relax 4K
+http://tv.shbro.org/stream/35AA07ACC53A/lax4kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/178.png" group-title="GRAND TV",4 Ever Drama HD
+http://tv.shbro.org/stream/35AA07ACC53A/maHDmonom3u8_9d5a.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1809.png" group-title="GRAND TV",YOSSO TV Трагичное
+http://tv.shbro.org/stream/35AA07ACC53A/RAGIKmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2563.png" group-title="GRAND TV",4 Ever Theater HD
+http://tv.shbro.org/stream/35AA07ACC53A/erHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/104.png" group-title="GRAND TV",Мосфильм Золотая коллекция
+http://tv.shbro.org/stream/35AA07ACC53A/lmSDmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Історичні серіали HD
+http://tv.shbro.org/stream/35AA07ACC53A/Kinomonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Premium Family HD
+http://tv.shbro.org/stream/35AA07ACC53A/lyHDmonom3u8_04d1.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/25.png" group-title="GRAND TV",Кіно та Серіали
+http://tv.shbro.org/stream/35AA07ACC53A/5GGDdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/69.png" group-title="GRAND TV",Kino Hit HD
+http://tv.shbro.org/stream/35AA07ACC53A/itHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/159.png" group-title="GRAND TV",BCU Сваты HD
+http://tv.shbro.org/stream/35AA07ACC53A/atiHDmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Дорами Українською HD
+http://tv.shbro.org/stream/35AA07ACC53A/tyHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/81.png" group-title="GRAND TV",Речдок HD
+http://tv.shbro.org/stream/35AA07ACC53A/okHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/219.png" group-title="GRAND TV",Timeless Dizi Channel HD
+http://tv.shbro.org/stream/35AA07ACC53A/ziHDmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Premium COMEDY HD
+http://tv.shbro.org/stream/35AA07ACC53A/DYHDmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Premium ACTION HD
+http://tv.shbro.org/stream/35AA07ACC53A/ONHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/76.png" group-title="GRAND TV",Trash HD
+http://tv.shbro.org/stream/35AA07ACC53A/shHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/745.png" group-title="GRAND TV",Viasat Kino Action HD
+http://tv.shbro.org/stream/35AA07ACC53A/DCEEmonom3u8_d1da.m3u8
+#EXTINF:-1 group-title="GRAND TV",Хіт Комедія HD
+http://tv.shbro.org/stream/35AA07ACC53A/dyUAmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Твоє Кінозал 1 (тест)
+http://tv.shbro.org/stream/35AA07ACC53A/Zal1monom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/396.png" group-title="GRAND TV",CineMan Фитнес
+http://tv.shbro.org/stream/35AA07ACC53A/itnesmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/681.png" group-title="GRAND TV",Kinosweet HD
+http://tv.shbro.org/stream/35AA07ACC53A/etHDmonom3u8_dad5.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/19.png" group-title="GRAND TV",Индия
+http://tv.shbro.org/stream/35AA07ACC53A/eeTVmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/669.png" group-title="GRAND TV",Kino 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/o2HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/668.png" group-title="GRAND TV",Кино24
+http://tv.shbro.org/stream/35AA07ACC53A/24SDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/683.png" group-title="GRAND TV",Боевики HD
+http://tv.shbro.org/stream/35AA07ACC53A/kiHdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/673.png" group-title="GRAND TV",Sumiko HD
+http://tv.shbro.org/stream/35AA07ACC53A/koHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/418.png" group-title="GRAND TV",FlixSnip (Test)
+http://tv.shbro.org/stream/35AA07ACC53A/pFRFmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/409.png" group-title="GRAND TV",Твій серіал HD
+http://tv.shbro.org/stream/35AA07ACC53A/alHDmonom3u8_0504.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/661.png" group-title="GRAND TV",Kino Comedy +1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/s1HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/773.png" group-title="GRAND TV",Viasat Serial HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDUAmonom3u8_01aa.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/258.png" group-title="GRAND TV",Epic Drama HD LT|LV
+http://tv.shbro.org/stream/35AA07ACC53A/LTLVmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/369.png" group-title="GRAND TV",CineMan OLD 4K
+http://tv.shbro.org/stream/35AA07ACC53A/Old4Kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/263.png" group-title="GRAND TV",НТВ Сериал HD
+http://tv.shbro.org/stream/35AA07ACC53A/alHDmonom3u8_1d30.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/233.png" group-title="GRAND TV",ProKino HD
+http://tv.shbro.org/stream/35AA07ACC53A/NOHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/232.png" group-title="GRAND TV",Kino Dorama HD
+http://tv.shbro.org/stream/35AA07ACC53A/maHDmonom3u8_cc3f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1669.png" group-title="GRAND TV",Cine+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDLWmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2520.png" group-title="GRAND TV",AMC HD
+http://tv.shbro.org/stream/35AA07ACC53A/MCHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1670.png" group-title="GRAND TV",Cine+ Hit HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDLWmonom3u8_cfb0.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1811.png" group-title="GRAND TV",KION Хит HD
+http://tv.shbro.org/stream/35AA07ACC53A/ITHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/141.png" group-title="GRAND TV",VHSka
+http://tv.shbro.org/stream/35AA07ACC53A/VHSkamonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/151.png" group-title="GRAND TV",Dorama +
+http://tv.shbro.org/stream/35AA07ACC53A/plusmonom3u8_730a.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/227.png" group-title="GRAND TV",Кино 7 HD Latvia
+http://tv.shbro.org/stream/35AA07ACC53A/LVHDmonom3u8_c4f7.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/485.png" group-title="GRAND TV",A1
+http://tv.shbro.org/stream/35AA07ACC53A/A1RUmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/624.png" group-title="GRAND TV",A1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/a1hdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/484.png" group-title="GRAND TV",A2
+http://tv.shbro.org/stream/35AA07ACC53A/A2RUmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/881.png" group-title="GRAND TV",A2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/A2HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/483.png" group-title="GRAND TV",A home of HBO 1
+http://tv.shbro.org/stream/35AA07ACC53A/FHBO1monom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/656.png" group-title="GRAND TV",A home of HBO 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/hithdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/488.png" group-title="GRAND TV",A home of HBO 2
+http://tv.shbro.org/stream/35AA07ACC53A/FHBO2monom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/487.png" group-title="GRAND TV",A home of HBO 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/BO2HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/946.png" group-title="GRAND TV",AMC
+http://tv.shbro.org/stream/35AA07ACC53A/MCRUSmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/490.png" group-title="GRAND TV",Bollywood
+http://tv.shbro.org/stream/35AA07ACC53A/ODSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/489.png" group-title="GRAND TV",Bollywood HD
+http://tv.shbro.org/stream/35AA07ACC53A/oodHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/486.png" group-title="GRAND TV",Hollywood
+http://tv.shbro.org/stream/35AA07ACC53A/oodSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/482.png" group-title="GRAND TV",Hollywood HD
+http://tv.shbro.org/stream/35AA07ACC53A/oodHDmonom3u8_bcd5.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/753.png" group-title="GRAND TV",Fan
+http://tv.shbro.org/stream/35AA07ACC53A/vFANmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1089.png" group-title="GRAND TV",Fan HD
+http://tv.shbro.org/stream/35AA07ACC53A/FanHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/564.png" group-title="GRAND TV",Epic Drama HD
+http://tv.shbro.org/stream/35AA07ACC53A/amaHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/492.png" group-title="GRAND TV",.Red
+http://tv.shbro.org/stream/35AA07ACC53A/edSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/630.png" group-title="GRAND TV",.Red HD
+http://tv.shbro.org/stream/35AA07ACC53A/TVHDmonom3u8_db2f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/500.png" group-title="GRAND TV",.Sci-Fi
+http://tv.shbro.org/stream/35AA07ACC53A/SciFimonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/499.png" group-title="GRAND TV",.Black
+http://tv.shbro.org/stream/35AA07ACC53A/Turbomonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1066.png" group-title="GRAND TV",Duo 3 Baltic
+http://tv.shbro.org/stream/35AA07ACC53A/ANNELmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1067.png" group-title="GRAND TV",Duo 6 Baltic
+http://tv.shbro.org/stream/35AA07ACC53A/TURBOmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/547.png" group-title="GRAND TV",Премиальное HD
+http://tv.shbro.org/stream/35AA07ACC53A/iumHDmonom3u8_1e94.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/560.png" group-title="GRAND TV",Душевное HD
+http://tv.shbro.org/stream/35AA07ACC53A/manHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/555.png" group-title="GRAND TV",Комедийное HD
+http://tv.shbro.org/stream/35AA07ACC53A/noeHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/561.png" group-title="GRAND TV",Наше Крутое HD
+http://tv.shbro.org/stream/35AA07ACC53A/toeHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2333.png" group-title="GRAND TV",Любимое HD
+http://tv.shbro.org/stream/35AA07ACC53A/moeHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/556.png" group-title="GRAND TV",Шокирующее HD
+http://tv.shbro.org/stream/35AA07ACC53A/cheHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/559.png" group-title="GRAND TV",Остросюжетное HD
+http://tv.shbro.org/stream/35AA07ACC53A/noeHDmonom3u8_7205.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/806.png" group-title="GRAND TV",Романтичное HD
+http://tv.shbro.org/stream/35AA07ACC53A/oeHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/627.png" group-title="GRAND TV",Страшное HD
+http://tv.shbro.org/stream/35AA07ACC53A/noehdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/517.png" group-title="GRAND TV",НСТ
+http://tv.shbro.org/stream/35AA07ACC53A/vNSTmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/525.png" group-title="GRAND TV",Русский Иллюзион
+http://tv.shbro.org/stream/35AA07ACC53A/USIONmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/503.png" group-title="GRAND TV",Русская Комедия
+http://tv.shbro.org/stream/35AA07ACC53A/omedymonom3u8_a188.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/636.png" group-title="GRAND TV",Русский Детектив
+http://tv.shbro.org/stream/35AA07ACC53A/ektivmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/526.png" group-title="GRAND TV",Русский Бестселлер
+http://tv.shbro.org/stream/35AA07ACC53A/ellermonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/524.png" group-title="GRAND TV",Русский Роман
+http://tv.shbro.org/stream/35AA07ACC53A/Romanmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/616.png" group-title="GRAND TV",Русский Роман HD
+http://tv.shbro.org/stream/35AA07ACC53A/manhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/677.png" group-title="GRAND TV",YOSSO TV Мелодрама
+http://tv.shbro.org/stream/35AA07ACC53A/yossomonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Твоє Кінозал 2 (тест)
+http://tv.shbro.org/stream/35AA07ACC53A/Zal2monom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Euro Drama HD
+http://tv.shbro.org/stream/35AA07ACC53A/maHDmonom3u8_1424.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2336.png" group-title="GRAND TV",KINOWOOD HD
+http://tv.shbro.org/stream/35AA07ACC53A/ODHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/470.png" group-title="GRAND TV",NOW Series HD
+http://tv.shbro.org/stream/35AA07ACC53A/iesHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/389.png" group-title="GRAND TV",Kino Megahit HD
+http://tv.shbro.org/stream/35AA07ACC53A/gahitmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1727.png" group-title="GRAND TV",Euro Channel HD
+http://tv.shbro.org/stream/35AA07ACC53A/elHDmonom3u8_e38a.m3u8
+#EXTINF:-1 group-title="GRAND TV",Classic Movies&Cartoons+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/nsHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/327.png" group-title="GRAND TV",BCU Criminal HD
+http://tv.shbro.org/stream/35AA07ACC53A/nalHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/340.png" group-title="GRAND TV",Сапфир HD
+http://tv.shbro.org/stream/35AA07ACC53A/ildHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/51.png" group-title="GRAND TV",Світло
+http://tv.shbro.org/stream/35AA07ACC53A/poquemonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",ТВІЙ СВІТ HD
+http://tv.shbro.org/stream/35AA07ACC53A/itHDmonom3u8_8875.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/567.png" group-title="GRAND TV",BCU Premiere Ultra 4K
+http://tv.shbro.org/stream/35AA07ACC53A/tra4Kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/529.png" group-title="GRAND TV",Ретро
+http://tv.shbro.org/stream/35AA07ACC53A/retromonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/739.png" group-title="GRAND TV",Kino 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDUAmonom3u8_b7df.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/398.png" group-title="GRAND TV",Shot TV
+http://tv.shbro.org/stream/35AA07ACC53A/hotTVmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1111.png" group-title="GRAND TV",Duo 3 Baltic HD
+http://tv.shbro.org/stream/35AA07ACC53A/LHDLTmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1112.png" group-title="GRAND TV",Duo 6 Baltic HD
+http://tv.shbro.org/stream/35AA07ACC53A/OHDLTmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1120.png" group-title="GRAND TV",CineMan Ужасы
+http://tv.shbro.org/stream/35AA07ACC53A/Uzasymonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Хіт Бойовик HD
+http://tv.shbro.org/stream/35AA07ACC53A/ikUAmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1129.png" group-title="GRAND TV",Киноужас HD
+http://tv.shbro.org/stream/35AA07ACC53A/zasHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1127.png" group-title="GRAND TV",FilmUA Live HD
+http://tv.shbro.org/stream/35AA07ACC53A/iveHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1107.png" group-title="GRAND TV",Premiere HD 1
+http://tv.shbro.org/stream/35AA07ACC53A/1HDmonom3u8_c67d.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kino Plus HD
+http://tv.shbro.org/stream/35AA07ACC53A/usHDmonom3u8_b339.m3u8
+#EXTINF:-1 group-title="GRAND TV",Kino Horrors HD
+http://tv.shbro.org/stream/35AA07ACC53A/rsHDmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Точка Ризику HD
+http://tv.shbro.org/stream/35AA07ACC53A/izikymonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1252.png" group-title="GRAND TV",Dlia Ciebie TV
+http://tv.shbro.org/stream/35AA07ACC53A/ieTVmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1851.png" group-title="GRAND TV",CineMan Катастрофы
+http://tv.shbro.org/stream/35AA07ACC53A/rophemonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1823.png" group-title="GRAND TV",CineMan ПёС + ЛИХАЧ
+http://tv.shbro.org/stream/35AA07ACC53A/nPesmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1265.png" group-title="GRAND TV",КиноКульт HD
+http://tv.shbro.org/stream/35AA07ACC53A/LTHDmonom3u8_d17a.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1394.png" group-title="GRAND TV",CineMan Air Crash
+http://tv.shbro.org/stream/35AA07ACC53A/Crashmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1275.png" group-title="GRAND TV",Cinema HD
+http://tv.shbro.org/stream/35AA07ACC53A/RUHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1396.png" group-title="GRAND TV",Твоє кіно. Relax
+http://tv.shbro.org/stream/35AA07ACC53A/Relaxmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1398.png" group-title="GRAND TV",Наше новое кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/noHDmonom3u8_42b9.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1290.png" group-title="GRAND TV",Дорама HD UA
+http://tv.shbro.org/stream/35AA07ACC53A/HDUAmonom3u8_e62f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1297.png" group-title="GRAND TV",TV XXI HD
+http://tv.shbro.org/stream/35AA07ACC53A/Kinomonom3u8_263f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1327.png" group-title="GRAND TV",FX HD Estonia
+http://tv.shbro.org/stream/35AA07ACC53A/HDEEmonom3u8_ce0a.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1333.png" group-title="GRAND TV",Kino Family HD
+http://tv.shbro.org/stream/35AA07ACC53A/lyHDmonom3u8_297f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1364.png" group-title="GRAND TV",Kino Prime HD
+http://tv.shbro.org/stream/35AA07ACC53A/meHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1410.png" group-title="GRAND TV",FlixSnip HD
+http://tv.shbro.org/stream/35AA07ACC53A/pHDSMmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1413.png" group-title="GRAND TV",Киносериал HD [KZ]
+http://tv.shbro.org/stream/35AA07ACC53A/2HDmonom3u8_1981.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1416.png" group-title="GRAND TV",Premiere HD 3
+http://tv.shbro.org/stream/35AA07ACC53A/3HDmonom3u8_1cbc.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1434.png" group-title="GRAND TV",CineMan
+http://tv.shbro.org/stream/35AA07ACC53A/neManmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1442.png" group-title="GRAND TV",Premiere HD 4
+http://tv.shbro.org/stream/35AA07ACC53A/4HDmonom3u8_e31b.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1440.png" group-title="GRAND TV",CineMan VHS
+http://tv.shbro.org/stream/35AA07ACC53A/nVHSmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1439.png" group-title="GRAND TV",CineMan Marvel
+http://tv.shbro.org/stream/35AA07ACC53A/ARVELmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1438.png" group-title="GRAND TV",CineMan Thriller
+http://tv.shbro.org/stream/35AA07ACC53A/illermonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1437.png" group-title="GRAND TV",CineMan Melodrama
+http://tv.shbro.org/stream/35AA07ACC53A/dramamonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1436.png" group-title="GRAND TV",CineMan Action
+http://tv.shbro.org/stream/35AA07ACC53A/ctionmonom3u8_af71.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1435.png" group-title="GRAND TV",CineMan Top
+http://tv.shbro.org/stream/35AA07ACC53A/nTOPmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1441.png" group-title="GRAND TV",CineMan Рукино
+http://tv.shbro.org/stream/35AA07ACC53A/uKinomonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1443.png" group-title="GRAND TV",CineMan Сваты
+http://tv.shbro.org/stream/35AA07ACC53A/Svatymonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1913.png" group-title="GRAND TV",Киноужас
+http://tv.shbro.org/stream/35AA07ACC53A/ASSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1459.png" group-title="GRAND TV",Индия HD
+http://tv.shbro.org/stream/35AA07ACC53A/EEHDmonom3u8_1813.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1460.png" group-title="GRAND TV",Shot TV HD
+http://tv.shbro.org/stream/35AA07ACC53A/otHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1915.png" group-title="GRAND TV",FlixSnip
+http://tv.shbro.org/stream/35AA07ACC53A/ipSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1425.png" group-title="GRAND TV",C-History HD
+http://tv.shbro.org/stream/35AA07ACC53A/STORYmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2820.png" group-title="GRAND TV",Лавстори HD
+http://tv.shbro.org/stream/35AA07ACC53A/storymonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1918.png" group-title="GRAND TV",DetektivJam HD
+http://tv.shbro.org/stream/35AA07ACC53A/amHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1465.png" group-title="GRAND TV",CineMan MiniSeries
+http://tv.shbro.org/stream/35AA07ACC53A/eriesmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1529.png" group-title="GRAND TV",CineMan Комедия
+http://tv.shbro.org/stream/35AA07ACC53A/omedymonom3u8_b82b.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1528.png" group-title="GRAND TV",Криминальное HD
+http://tv.shbro.org/stream/35AA07ACC53A/oeHDmonom3u8_3ae0.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1589.png" group-title="GRAND TV",Viju TV1000 Romantica HD
+http://tv.shbro.org/stream/35AA07ACC53A/anticmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1595.png" group-title="GRAND TV",Хит HD
+http://tv.shbro.org/stream/35AA07ACC53A/XitHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1596.png" group-title="GRAND TV",Блокбастер HD
+http://tv.shbro.org/stream/35AA07ACC53A/terHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1597.png" group-title="GRAND TV",Наш кинопоказ HD
+http://tv.shbro.org/stream/35AA07ACC53A/kazHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1598.png" group-title="GRAND TV",Кинопоказ HD
+http://tv.shbro.org/stream/35AA07ACC53A/kazHDmonom3u8_2fde.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1599.png" group-title="GRAND TV",Про любовь HD
+http://tv.shbro.org/stream/35AA07ACC53A/bovHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1600.png" group-title="GRAND TV",Наше мужское HD
+http://tv.shbro.org/stream/35AA07ACC53A/koeHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1601.png" group-title="GRAND TV",Камеди HD
+http://tv.shbro.org/stream/35AA07ACC53A/edyHDmonom3u8_4415.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2320.png" group-title="GRAND TV",BCU TruMotion HD
+http://tv.shbro.org/stream/35AA07ACC53A/onHDmonom3u8_e1fc.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1649.png" group-title="GRAND TV",Premiere HD 2
+http://tv.shbro.org/stream/35AA07ACC53A/2HDmonom3u8_5e17.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1651.png" group-title="GRAND TV",Киноджем 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/2HDmonom3u8_c202.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1652.png" group-title="GRAND TV",Киноджем 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/1HDmonom3u8_0ad9.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1663.png" group-title="GRAND TV",Scream
+http://tv.shbro.org/stream/35AA07ACC53A/creammonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1666.png" group-title="GRAND TV",Viasat Kino HD
+http://tv.shbro.org/stream/35AA07ACC53A/DCEEmonom3u8_354c.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1672.png" group-title="GRAND TV",Cine+ Legend
+http://tv.shbro.org/stream/35AA07ACC53A/NDLWmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1674.png" group-title="GRAND TV",FilmBox Arthouse HD
+http://tv.shbro.org/stream/35AA07ACC53A/usHDmonom3u8_a5c3.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1676.png" group-title="GRAND TV",Timeless Dizi Channel
+http://tv.shbro.org/stream/35AA07ACC53A/ChSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1680.png" group-title="GRAND TV",Світло HD
+http://tv.shbro.org/stream/35AA07ACC53A/ueHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1684.png" group-title="GRAND TV",BCU Кинозал Premiere 1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/re1HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1685.png" group-title="GRAND TV",BCU Кинозал Premiere 2 HD
+http://tv.shbro.org/stream/35AA07ACC53A/re2HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1686.png" group-title="GRAND TV",BCU Кинозал Premiere 3 HD
+http://tv.shbro.org/stream/35AA07ACC53A/re3HDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1687.png" group-title="GRAND TV",BCU Reality HD
+http://tv.shbro.org/stream/35AA07ACC53A/ityHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1689.png" group-title="GRAND TV",BCU СССР HD
+http://tv.shbro.org/stream/35AA07ACC53A/SSRHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1690.png" group-title="GRAND TV",BCU Action HD
+http://tv.shbro.org/stream/35AA07ACC53A/ionHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1691.png" group-title="GRAND TV",BCU Ultra 4K
+http://tv.shbro.org/stream/35AA07ACC53A/tra4Kmonom3u8_52b2.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1692.png" group-title="GRAND TV",BCU Kinozakaz HD
+http://tv.shbro.org/stream/35AA07ACC53A/DIAHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1693.png" group-title="GRAND TV",BCU Catastrophe HD
+http://tv.shbro.org/stream/35AA07ACC53A/pheHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1694.png" group-title="GRAND TV",BCU Comedy HD
+http://tv.shbro.org/stream/35AA07ACC53A/edyHDmonom3u8_6cc1.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1695.png" group-title="GRAND TV",BCU Fantastic HD
+http://tv.shbro.org/stream/35AA07ACC53A/ticHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1696.png" group-title="GRAND TV",BCU FilMystic HD
+http://tv.shbro.org/stream/35AA07ACC53A/ticHDmonom3u8_b60f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1697.png" group-title="GRAND TV",BCU History HD
+http://tv.shbro.org/stream/35AA07ACC53A/oryHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1698.png" group-title="GRAND TV",BCU Marvel HD
+http://tv.shbro.org/stream/35AA07ACC53A/velHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1699.png" group-title="GRAND TV",BCU Premiere HD
+http://tv.shbro.org/stream/35AA07ACC53A/ereHDmonom3u8_7e99.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1700.png" group-title="GRAND TV",BCU Romantic HD
+http://tv.shbro.org/stream/35AA07ACC53A/ticHDmonom3u8_725b.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1701.png" group-title="GRAND TV",BCU Stars HD
+http://tv.shbro.org/stream/35AA07ACC53A/arsHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1702.png" group-title="GRAND TV",BCU Cinema HD
+http://tv.shbro.org/stream/35AA07ACC53A/emaHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1703.png" group-title="GRAND TV",BCU Cinema+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/lusHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1706.png" group-title="GRAND TV",BCU Kinorating HD
+http://tv.shbro.org/stream/35AA07ACC53A/ingHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1707.png" group-title="GRAND TV",BCU Russian HD
+http://tv.shbro.org/stream/35AA07ACC53A/ianHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1708.png" group-title="GRAND TV",BCU VHS HD
+http://tv.shbro.org/stream/35AA07ACC53A/VHSHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1709.png" group-title="GRAND TV",BCU RUSerial HD
+http://tv.shbro.org/stream/35AA07ACC53A/IALHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1827.png" group-title="GRAND TV",.Black HD
+http://tv.shbro.org/stream/35AA07ACC53A/ckHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1828.png" group-title="GRAND TV",.Sci-Fi HD
+http://tv.shbro.org/stream/35AA07ACC53A/fiHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1829.png" group-title="GRAND TV",Кино 7 HD Eesti
+http://tv.shbro.org/stream/35AA07ACC53A/EEHDmonom3u8_3c9d.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1717.png" group-title="GRAND TV",Мосфильм Золотая коллекция HD
+http://tv.shbro.org/stream/35AA07ACC53A/lmHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1721.png" group-title="GRAND TV",Твоє кіно. Хіт
+http://tv.shbro.org/stream/35AA07ACC53A/oHitmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1901.png" group-title="GRAND TV",BCU Little HD
+http://tv.shbro.org/stream/35AA07ACC53A/leHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2445.png" group-title="GRAND TV",CineMan Premium
+http://tv.shbro.org/stream/35AA07ACC53A/emiummonom3u8_a8e5.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1759.png" group-title="GRAND TV",Твоє кіно. Action
+http://tv.shbro.org/stream/35AA07ACC53A/ctionmonom3u8_0439.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1772.png" group-title="GRAND TV",Kino Fantasy HD
+http://tv.shbro.org/stream/35AA07ACC53A/syHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1789.png" group-title="GRAND TV",YOSSO TV Grand
+http://tv.shbro.org/stream/35AA07ACC53A/GRANDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1791.png" group-title="GRAND TV",YOSSO TV Music Hits
+http://tv.shbro.org/stream/35AA07ACC53A/HITSmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1792.png" group-title="GRAND TV",YOSSO TV NEW Кино
+http://tv.shbro.org/stream/35AA07ACC53A/ONEWmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1794.png" group-title="GRAND TV",YOSSO TV VHS
+http://tv.shbro.org/stream/35AA07ACC53A/SOVHSmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1795.png" group-title="GRAND TV",YOSSO TV Русские фильмы
+http://tv.shbro.org/stream/35AA07ACC53A/sorusmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1796.png" group-title="GRAND TV",YOSSO TV Советские фильмы
+http://tv.shbro.org/stream/35AA07ACC53A/SSSRmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1797.png" group-title="GRAND TV",YOSSO TV Союзмульт
+http://tv.shbro.org/stream/35AA07ACC53A/MULTmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1846.png" group-title="GRAND TV",Star Cinema HD LV
+http://tv.shbro.org/stream/35AA07ACC53A/HDLVmonom3u8_0702.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1847.png" group-title="GRAND TV",YOSSO TV Забавное
+http://tv.shbro.org/stream/35AA07ACC53A/AVNOEmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1848.png" group-title="GRAND TV",YOSSO TV Ковбойское
+http://tv.shbro.org/stream/35AA07ACC53A/YSKOEmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1849.png" group-title="GRAND TV",YOSSO TV BEST
+http://tv.shbro.org/stream/35AA07ACC53A/BESTmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1853.png" group-title="GRAND TV",YOSSO TV Adrenaline
+http://tv.shbro.org/stream/35AA07ACC53A/ALINEmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1854.png" group-title="GRAND TV",YOSSO TV Oblivion
+http://tv.shbro.org/stream/35AA07ACC53A/IVIONmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Dorama +1
+http://tv.shbro.org/stream/35AA07ACC53A/plus1monom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1860.png" group-title="GRAND TV",YOSSO TV Adventure
+http://tv.shbro.org/stream/35AA07ACC53A/NTUREmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1861.png" group-title="GRAND TV",YOSSO TV Thriller
+http://tv.shbro.org/stream/35AA07ACC53A/ILLERmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1863.png" group-title="GRAND TV",BCU Survival HD
+http://tv.shbro.org/stream/35AA07ACC53A/valHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1870.png" group-title="GRAND TV",Пес HD
+http://tv.shbro.org/stream/35AA07ACC53A/esHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1877.png" group-title="GRAND TV",Sweet Кіно HD
+http://tv.shbro.org/stream/35AA07ACC53A/WMKmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1888.png" group-title="GRAND TV",YOSSO-4K
+http://tv.shbro.org/stream/35AA07ACC53A/OUHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1890.png" group-title="GRAND TV",C-Marvel
+http://tv.shbro.org/stream/35AA07ACC53A/arvelmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1895.png" group-title="GRAND TV",Plan B
+http://tv.shbro.org/stream/35AA07ACC53A/PlanBmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1896.png" group-title="GRAND TV",Plan B HD
+http://tv.shbro.org/stream/35AA07ACC53A/nBHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1898.png" group-title="GRAND TV",FX
+http://tv.shbro.org/stream/35AA07ACC53A/XCEEmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1902.png" group-title="GRAND TV",TV1000 Russian Kino Global
+http://tv.shbro.org/stream/35AA07ACC53A/0RKGmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1905.png" group-title="GRAND TV",Феникс + Кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/NOHDmonom3u8_060a.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1932.png" group-title="GRAND TV",Канал 7 Baltic
+http://tv.shbro.org/stream/35AA07ACC53A/DUO7monom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1970.png" group-title="GRAND TV",KinoLiving HD
+http://tv.shbro.org/stream/35AA07ACC53A/ngHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1984.png" group-title="GRAND TV",BOX Ghost HD
+http://tv.shbro.org/stream/35AA07ACC53A/STHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1992.png" group-title="GRAND TV",BOX Premiere 4K
+http://tv.shbro.org/stream/35AA07ACC53A/re4Kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1993.png" group-title="GRAND TV",FX HD
+http://tv.shbro.org/stream/35AA07ACC53A/EEHDmonom3u8_5050.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2824.png" group-title="GRAND TV",Романтичний марафон HD
+http://tv.shbro.org/stream/35AA07ACC53A/rafonmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2627.png" group-title="GRAND TV",Дом Кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/noHDmonom3u8_4975.m3u8
+#EXTINF:-1 group-title="GRAND TV",JK Cinema 2
+http://tv.shbro.org/stream/35AA07ACC53A/nema2monom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",JK Cinema
+http://tv.shbro.org/stream/35AA07ACC53A/inemamonom3u8_c25d.m3u8
+#EXTINF:-1 group-title="GRAND TV",JK Cinema 3
+http://tv.shbro.org/stream/35AA07ACC53A/nema3monom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",JK Serial
+http://tv.shbro.org/stream/35AA07ACC53A/eroesmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2090.png" group-title="GRAND TV",Кіно та серіали+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/plusmonom3u8_5c28.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2109.png" group-title="GRAND TV",Duo Drama HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDEEmonom3u8_1ae5.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2113.png" group-title="GRAND TV",C-Inquest
+http://tv.shbro.org/stream/35AA07ACC53A/QUESTmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2114.png" group-title="GRAND TV",C-Comedy
+http://tv.shbro.org/stream/35AA07ACC53A/OMEDYmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2119.png" group-title="GRAND TV",BCU Cosmo HD
+http://tv.shbro.org/stream/35AA07ACC53A/smoHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2120.png" group-title="GRAND TV",Star Family HD LV
+http://tv.shbro.org/stream/35AA07ACC53A/HDLVmonom3u8_3679.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2129.png" group-title="GRAND TV",Ужасы HD
+http://tv.shbro.org/stream/35AA07ACC53A/siHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2276.png" group-title="GRAND TV",FX Life
+http://tv.shbro.org/stream/35AA07ACC53A/sdtvmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2283.png" group-title="GRAND TV",BOX Remast 4K
+http://tv.shbro.org/stream/35AA07ACC53A/st4Kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2284.png" group-title="GRAND TV",Кинобоевик HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDKZmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2285.png" group-title="GRAND TV",BOX Fantasy HD
+http://tv.shbro.org/stream/35AA07ACC53A/syHDmonom3u8_5e9e.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2287.png" group-title="GRAND TV",Семейное Кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDKZmonom3u8_420c.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2289.png" group-title="GRAND TV",BOX Mayday HD
+http://tv.shbro.org/stream/35AA07ACC53A/ayHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2290.png" group-title="GRAND TV",BOX Stories HD
+http://tv.shbro.org/stream/35AA07ACC53A/ESHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2295.png" group-title="GRAND TV",Премиум кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDKZmonom3u8_5182.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2178.png" group-title="GRAND TV",Мировое Кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/HDKZmonom3u8_02c7.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2216.png" group-title="GRAND TV",4Y Baltic
+http://tv.shbro.org/stream/35AA07ACC53A/altiamonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2239.png" group-title="GRAND TV",Saga HD
+http://tv.shbro.org/stream/35AA07ACC53A/GAHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2242.png" group-title="GRAND TV",BOX Serial 4K
+http://tv.shbro.org/stream/35AA07ACC53A/AL4Kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2263.png" group-title="GRAND TV",YOSSO TV Netflix
+http://tv.shbro.org/stream/35AA07ACC53A/TFLIXmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2299.png" group-title="GRAND TV",CineMan Скорая помощь
+http://tv.shbro.org/stream/35AA07ACC53A/ylacemonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2312.png" group-title="GRAND TV",YOSSO TV BEST 60 FPS
+http://tv.shbro.org/stream/35AA07ACC53A/60FPSmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2825.png" group-title="GRAND TV",Viju TV1000 Новелла HD
+http://tv.shbro.org/stream/35AA07ACC53A/vellamonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2329.png" group-title="GRAND TV",Kino Legend HD
+http://tv.shbro.org/stream/35AA07ACC53A/ndHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2330.png" group-title="GRAND TV",Kino Action +1 HD
+http://tv.shbro.org/stream/35AA07ACC53A/s1HDmonom3u8_0fc3.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2479.png" group-title="GRAND TV",Suspense HD
+http://tv.shbro.org/stream/35AA07ACC53A/ceHDmonom3u8_db7f.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2489.png" group-title="GRAND TV",Viju TV1000 Новелла
+http://tv.shbro.org/stream/35AA07ACC53A/vellamonom3u8_75e3.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2495.png" group-title="GRAND TV",Viasat Kino World HD
+http://tv.shbro.org/stream/35AA07ACC53A/noHDmonom3u8_f859.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2533.png" group-title="GRAND TV",4 Ever Cinema HD
+http://tv.shbro.org/stream/35AA07ACC53A/maHDmonom3u8_86cf.m3u8
+#EXTINF:-1 group-title="GRAND TV",Кріпосна HD
+http://tv.shbro.org/stream/35AA07ACC53A/naTVmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2548.png" group-title="GRAND TV",Юрчишини HD
+http://tv.shbro.org/stream/35AA07ACC53A/nyHDmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Киноман
+http://tv.shbro.org/stream/35AA07ACC53A/anTvmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2600.png" group-title="GRAND TV",Sweet Megahit HD
+http://tv.shbro.org/stream/35AA07ACC53A/gahitmonom3u8_1205.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2607.png" group-title="GRAND TV",BOX Franchise HD
+http://tv.shbro.org/stream/35AA07ACC53A/sehdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2608.png" group-title="GRAND TV",BOX Hybrid HD
+http://tv.shbro.org/stream/35AA07ACC53A/idhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2610.png" group-title="GRAND TV",BOX Gangster HD
+http://tv.shbro.org/stream/35AA07ACC53A/erhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2611.png" group-title="GRAND TV",BOX Oscar HD
+http://tv.shbro.org/stream/35AA07ACC53A/arhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2612.png" group-title="GRAND TV",BOX Memory HD
+http://tv.shbro.org/stream/35AA07ACC53A/ryhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2613.png" group-title="GRAND TV",BOX M.Serial HD
+http://tv.shbro.org/stream/35AA07ACC53A/alhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2615.png" group-title="GRAND TV",BOX Relax 4K
+http://tv.shbro.org/stream/35AA07ACC53A/ax4kmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2616.png" group-title="GRAND TV",BOX Game HD
+http://tv.shbro.org/stream/35AA07ACC53A/mehdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2617.png" group-title="GRAND TV",BOX Spy HD
+http://tv.shbro.org/stream/35AA07ACC53A/pyhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2619.png" group-title="GRAND TV",BOX Western HD
+http://tv.shbro.org/stream/35AA07ACC53A/rnhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2620.png" group-title="GRAND TV",BOX ZOMBIE HD
+http://tv.shbro.org/stream/35AA07ACC53A/iehdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2621.png" group-title="GRAND TV",BOX Cyber HD
+http://tv.shbro.org/stream/35AA07ACC53A/erhdmonom3u8_b767.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2625.png" group-title="GRAND TV",BOX Serial HD
+http://tv.shbro.org/stream/35AA07ACC53A/ALHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2635.png" group-title="GRAND TV",Любимое кино HD
+http://tv.shbro.org/stream/35AA07ACC53A/Kinomonom3u8_0fa1.m3u8
+#EXTINF:-1 group-title="GRAND TV",Киноджем 3 HD
+http://tv.shbro.org/stream/35AA07ACC53A/velimonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2682.png" group-title="GRAND TV",Опер за викликом+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/usHDmonom3u8_c1c9.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2722.png" group-title="GRAND TV",Кинодрама HD [KZ]
+http://tv.shbro.org/stream/35AA07ACC53A/1HDmonom3u8_adad.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2743.png" group-title="GRAND TV",Легенда HD
+http://tv.shbro.org/stream/35AA07ACC53A/DAHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2748.png" group-title="GRAND TV",Твій серіал
+http://tv.shbro.org/stream/35AA07ACC53A/alSDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2752.png" group-title="GRAND TV",Класика кінематографу HD
+http://tv.shbro.org/stream/35AA07ACC53A/fuHDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2758.png" group-title="GRAND TV",Kino Premiere HD
+http://tv.shbro.org/stream/35AA07ACC53A/DBCfvmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2759.png" group-title="GRAND TV",Kino Action HD
+http://tv.shbro.org/stream/35AA07ACC53A/FFVXDmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2760.png" group-title="GRAND TV",Kino Comedy HD
+http://tv.shbro.org/stream/35AA07ACC53A/GaqqZmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2762.png" group-title="GRAND TV",НТВ Хит HD
+http://tv.shbro.org/stream/35AA07ACC53A/itHDmonom3u8_b1ca.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1104.png" group-title="GRAND TV",Кинопоказ
+http://tv.shbro.org/stream/35AA07ACC53A/pokazmonom3u8.m3u8
+#EXTINF:-1 group-title="GRAND TV",VHS-сериал HD
+http://tv.shbro.org/stream/35AA07ACC53A/ERIALmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1055.png" group-title="GRAND TV",Film Zone
+http://tv.shbro.org/stream/35AA07ACC53A/NEHDmonom3u8_9450.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/4.png" group-title="GRAND TV",Viju TV 1000 Action HD
+http://tv.shbro.org/stream/35AA07ACC53A/ionhdmonom3u8.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1029.png" group-title="GRAND TV",Film Zone+ HD
+http://tv.shbro.org/stream/35AA07ACC53A/USHDmonom3u8_7b5c.m3u8
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/498.png" group-title="GRAND TV",Viju TV 1000 Русское
+http://tv.shbro.org/stream/35AA07ACC53A/sKinomonom3u8.m3u8
 
 
 
@@ -86401,701 +87544,7 @@ https://onlineradiobox.com/json/ru/capfuturegarage/play?platform=web
 https://onlineradiobox.com/json/ru/capricepiano/play?platform=web
 
 
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist0.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist1.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist2.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist3.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist4.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist5.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist6.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist7.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist8.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist9.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist10.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist11.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist12.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist13.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist14.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist15.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist16.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist17.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist18.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist19.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist20.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist21.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist22.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist23.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist24.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist25.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist26.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist27.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist28.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist29.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist30.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist31.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist32.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist33.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist34.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist35.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist36.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist37.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist38.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist39.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist40.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist41.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist42.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist43.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist44.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist45.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist46.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist47.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist48.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist49.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist50.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist51.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist52.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist53.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist54.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist55.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist56.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist57.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist58.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist59.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist60.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist61.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist62.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist63.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist64.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist65.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist66.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist67.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist68.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist69.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist70.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist71.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist72.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist73.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist74.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist75.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist76.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist77.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist78.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist79.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist80.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist81.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist82.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist83.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist84.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist85.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist86.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist87.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist88.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist89.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist90.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist91.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist92.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist93.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist94.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist95.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist96.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist97.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist98.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist99.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist100.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist101.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist102.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist103.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist104.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist105.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist106.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist107.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist108.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist109.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist110.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist111.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist112.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist113.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist114.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist115.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist116.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist117.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist118.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist119.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist120.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist121.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist122.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist123.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist124.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist125.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist126.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist127.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist128.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist129.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist130.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist131.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist132.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist133.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist134.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist135.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist136.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist137.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist138.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist139.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist140.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist141.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist142.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist143.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist144.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist145.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist146.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist147.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist148.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist149.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist150.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist151.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist152.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist153.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist154.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist155.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist156.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist157.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist158.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist159.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist160.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist161.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist162.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist163.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist164.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist165.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist166.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist167.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist168.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist169.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist170.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist171.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist172.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist173.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist174.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist175.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist176.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist177.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist178.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist179.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist180.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist181.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist182.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist183.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist184.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist185.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist186.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist187.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist188.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist189.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist190.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist191.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist192.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist193.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist194.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist195.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist196.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist197.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist198.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist199.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist200.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist201.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist202.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist203.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist204.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist205.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist206.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist207.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist208.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist209.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist210.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist211.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist212.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist213.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist214.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist215.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist216.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist217.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist218.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist219.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist220.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist221.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist222.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist223.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist224.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist225.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist226.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist227.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist228.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist229.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist230.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist231.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist232.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist233.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist234.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist235.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist236.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist237.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist238.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist239.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist240.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist241.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist242.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist243.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist244.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist245.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist246.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist247.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist248.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist249.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist250.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist251.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist252.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist253.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist254.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist255.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist256.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist257.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist258.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist259.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist260.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist261.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist262.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist263.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist264.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist265.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist266.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist267.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist268.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist269.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist270.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist271.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist272.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist273.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist274.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist275.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist276.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist277.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist278.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist279.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist280.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist281.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist282.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist283.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist284.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist285.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist286.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist287.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist288.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist289.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist290.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist291.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist292.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist293.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist294.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist295.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist296.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist297.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist298.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist299.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist300.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist301.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist302.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist303.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist304.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist305.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist306.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist307.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist308.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist309.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist310.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist311.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist312.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist313.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist314.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist315.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist316.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist317.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist318.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist319.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist320.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist321.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist322.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist323.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist324.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist325.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist326.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist327.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist328.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist329.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist330.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist331.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist332.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist333.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist334.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist335.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist336.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist337.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist338.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist339.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist340.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist341.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist342.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist343.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist344.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist345.ts
-#EXTINF:-1 group-title="ТВ ",TEST
-https://sesion.desdeparaguay.net/hls/playlist346.ts
-
+ 
 
 
 #EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.1
