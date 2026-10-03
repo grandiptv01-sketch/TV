@@ -70,9 +70,33 @@ http://tv.shbro.org/stream/35AA07ACC53A/3f8avideom3u8.m3u8
 
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kino-tv.png" group-title="GRAND TV",Кино ТВ
 http://tv.shbro.org/stream/35AA07ACC53A/v1a1monom3u8_373d.m3u8
+#EXTINF:-1,15 Plus Animation
+#EXTGRP:GRAND TV
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1,15 Plus Music
+#EXTGRP:GRAND TV
+http://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1,15 Plus NSC
+#EXTGRP:GRAND TV
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-
-
+#EXTINF:-1,SKY Aksion
+#EXTGRP:GRAND TV
+http://5.206.237.251:1288/AksionHD
+#EXTINF:-1,SKY Komedi
+#EXTGRP:GRAND TV
+http://5.206.237.251:1288/SkyKomedi
+#EXTINF:-1,SKY Max
+#EXTGRP:GRAND TV
+http://5.206.237.251:1288/SkyMax
+#EXTINF:-1,SKY Novela
+http://5.206.237.251:1288/SkyNovela
+#EXTINF:-1,SKY Planet
+#EXTGRP:GRAND TV
+http://5.206.237.251:1288/SkyPlanet
+#EXTINF:-1,SKY Shqip
+#EXTGRP:GRAND TV 
+http://5.206.237.251:1288/SkyShqip
 #EXTINF:-1 tvg-name="APPLE TV+ DRAMA STORIES" tvg-logo="https://pic.rtbcdn.ru/video/2026-09-14/6d/d7/6dd74d0a3e1dea55406f598483a8fde4.jpg?width=500", APPLE TV+ DRAMA STORIES
 #EXTGRP:GRAND TV
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Xjb5m-V_rhgqpU1n8eIFaA&e=2088007858&scheme=https
