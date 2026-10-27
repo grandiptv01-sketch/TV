@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/10/12 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/10/27 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -192,6 +192,29 @@ https://kgtv.online/live/region_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/f_auto,q_auto/v1790270058/zxnmyoruldbitdzo3kip.jpg",ЮТС KG 
 #EXTGRP:GRAND TV
 https://kgtv.online/live/yutc/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Манас ТВ
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Ош Пирим KG
+http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Классика кино
+https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Колобок ТВ - VHS Melodrama
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Kinosweet
+http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Kinowood HD
+http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",SuzuS TV Cinema
+https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",SuzuS TV Kinozakaz
+http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",SuzuS TV Survival
+https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png" group-title="GRAND TV",GRAND TV Record Супердискотека 90х
