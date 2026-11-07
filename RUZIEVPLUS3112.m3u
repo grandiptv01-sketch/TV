@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/10/27 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/11/07 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -54,6 +54,95 @@ http://tv.shbro.org/stream/35AA07ACC53A/02efvideom3u8.m3u8
 http://tv.shbro.org/stream/35AA07ACC53A/b275videom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/Discovery.png" group-title="GRAND TV",Discovery
 http://tv.shbro.org/stream/35AA07ACC53A/nnelindexm3u8_a6c8.m3u8
+#EXTINF:-1 group-title="GRAND TV",Документалки и шоу
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=h_4EbrxTXxZ5k1EWjPsUNA&e=2093994855&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=7oeZPeUkc8ziupkSTcADhA&e=2093994862&scheme=https
+#EXTINF:-1 group-title="GRAND TV",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=DwX7PCQQ7LXw39hlQfk9VQ&e=2093994862&scheme=https
+#EXTINF:-1 group-title="GRAND TV",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=900iaHYbXu7bPtLzfAczDw&e=2093994882&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Рика и Морти
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=5AT8TDLtlaHYAPyQlUdH6g&e=2093994923&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Мультимейшн
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=VCKrvUbu9t9gosFsyPOVSA&e=2093994923&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Мультфильмы 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=M9Vj2P-G_T775XglE1tyQA&e=2093994923&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Мультаташечки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=9tSU1ivPGmXvKV8t7joQYA&e=2093994924&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Bh0sFMYldQ1Ig0wd-P6dww&e=2093994948&scheme=https
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="russky-roman"  tvg-logo="https://iptvx.one/picons/russky-roman.png" ,Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png" ,НТВ Своя Играᴴᴰ
+https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_cinema"  tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg" ,НТВ Сериалы.Следствие велиᴴᴰ
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="baby-time"  tvg-logo="https://iptvx.one/picons/baby-time.png" ,Baby Time
+http://109.248.236.51/baby_time/video.m3u8
+#EXTINF:-1  group-title="GRAND TV" ,Kanal Muz Rap
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1273
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="https://i.imgur.com/CDPCF2X.png" ,Music Box Brazil SD
+http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="musicbox-dance"  tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" ,Music Box Danceᴴᴰ
+http://88.212.15.19/live/mb_dance/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="musicbox-hits"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/96.png" ,Music Box Hitsᴴᴰ
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music" ,San Francisco 1ᴴᴰ
+http://204.199.3.2/.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/5h9Ls3CL/image-23.png" ,Señal Urbana+ SD
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8?PlaylistM3UCL
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"   $ExtFilter="SUZTVFREE",Senzi SD
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-logo="https://i.imgur.com/AJIN8Dc.png" ,ShowVen SD
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="https://i.imgur.com/CNszwj1.png" ,Scorch TVᴴᴰ
+https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="https://cdn.promodj.com/legacy/i/mail/helpers/compression/logo_2x.png" ,PROMO DJ
+http://217.79.184.52/Nostalgia/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/20pmqjbc/image-20.png" ,Tv Arena Djsᴴᴰ
+https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="musicbox-dance"  tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/644.png" ,MusicBox Danceᴴᴰ
+http://kinowalk.hopto.org/ritsa_live
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="https://8upload.com/image/67e23c75f1626/kaloopyhilay.png" ,Kaloopyᴴᴰ
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/7888.png" ,MTV Old Россия SD
+rtmp://vkvsd211.okcdn.ru/playback/10851904072503?stkn=vuFWuALgx71Me_ImIyokT79ubnoxRPa5tX13N_kAoYvrXqqzlbVswhiDCtHEigaPYfKql22Cb_Ze&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  group-title="GRAND TV"  tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Logo_mtv_plus.png" ,MTV PLUS HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373020&extension=ts&play_token=2ItRTNFHFG
+#EXTINF:-1  group-title="GRAND TV"  tvg-id="cartoon-network"  tvg-logo="https://pic.rtbcdn.ru/video/2026-09-04/43/ce/43cee89724524828098e3aaadeb06d6f.jpg"   tvg-name="Cartoon Network", Cartoon Network
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=2oTzk1BWdyzUBIPFky3iYg&e=2088776142&scheme=https
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=952c2ec26e547a326c3c7a65a6c8211ce59f5e9f-4948622-images-thumbs&n=13" group-title="GRAND TV",TV1000
 http://tv.shbro.org/stream/35AA07ACC53A/be84videom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2d2fb9029d2340dce9867d06318c9da4618620dd-5423330-images-thumbs&n=13" group-title="GRAND TV",TV1000 Русское кино
@@ -782,22 +871,25 @@ rtmp://vkvsd79.okcdn.ru/playback/6258783562721?stkn=LGFR4BuetxRDxWb-Fe5_8LRzLCIr
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/hd/681/434/5.png", Смотрим 100% Любовь
 #EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/fasttv_hls/fasttv01/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png", Смотрим 100% Классика
 #EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/762/4.png", Смотрим 100% Детское
 #EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/fasttv_hls/fasttv05/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/690/791/5.png", Смотрим 100% Факты
 #EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/967/0.png", Смотрим 100% Праздник
 #EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/fasttv_hls/fasttv04/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/954/1.png", Смотрим 100% Мужское
 #EXTGRP:RUZIEV MY TV +
-https://stream.smotrim.ru/fasttv_hls/fasttv02/playlist_3.m3u8
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+
+
+
 #EXTINF:-1 tvg-name="СТРК HD" tvg-logo="https://iptvx.one/picons/strk.png", СТРК HD
 #EXTGRP:RUZIEV MY TV +
 http://sochinskayatrk.ru:2015/STRK/mpegts
