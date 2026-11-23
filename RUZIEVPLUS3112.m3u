@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/11/08 ОБНОВИЛ }",...
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/11/23 ОБНОВИЛ }",...
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -12,11 +12,66 @@ http://s06.wsbof.com:8080/s//TNT.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="GRAND TV",Музыкальные клипы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=ojnc2eAuKF-kFakOtFwumw&e=2095423455&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Вселенная DC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=9irt3xvAmz6pwEbfCOQMwQ&e=2095423403&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Мелодрамы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/73cbe695b3c624629c2ff056e38ead75/index.m3u8?s=0g2JzdX-Z2bQUx1mkcROwg&e=2095423386&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Дорамы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=qkc_w3stjPTOHKqeM1AiWg&e=2095423387&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Фэнтези фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/40fce8bc38735c864c0369228a72e59b/index.m3u8?s=j2Z6sO-q8zGoXo1UZjqaRg&e=2095423387&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Триллеры фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f7c1387e288223779b2b53937843233a/index.m3u8?s=E6oP-l1MDBy1-g2AhAgYVw&e=2095423388&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Ужасы фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1e74326173960505fb60f107e132fe6f/index.m3u8?s=KvYAQ8fzlEKSf20SLyfflg&e=2095423389&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Криминальные фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/87d8eb5aac1c9edae08717331f2adf3a/index.m3u8?s=-sfkS5_D4JU2sB1q-8N2JQ&e=2095423390&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Фантастические фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=qtBfLlCXVDYwvrYJh08aaw&e=2095423390&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Экшн фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=w8KbqNXqtL-DIaxIV3kcQw&e=2095423391&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Комедийные фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=1l0oKLsuLsbhahLt_AJVeA&e=2095423391&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Приключенческие фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/202d41c36b5ed9245216f5288be3a235/index.m3u8?s=hghUM-hFBeIWHWl7Lzi5_g&e=2095423392&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Индийские фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=JSyQZXNLuioKGTWitcABpw&e=2095423393&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Турецкие фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=nC1oUXr4sE0HLt5Ywn3Frw&e=2095423393&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Латиноамериканские фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=GF7ifO6dS4TZmiMoUd-bTw&e=2095423394&scheme=https
+#EXTINF:-1 group-title="GRAND TV",Драматические фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=k8UBV6hFrP5gYrY0Dhh8bw&e=2095423397&scheme=https
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/3rZzHHh0/1.png",Tom and Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/P5MBds1G/1.png", ЗОВ ТВ
+https://183.giatvcdn.com/giatv/giatv-tvzovlivestream/tvzovlivestream/playlist.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/bY7XTRqB/1.png", ЗОВ ТВ Black
+https://183.giatvcdn.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/playlist.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/SRzrR8Pt/1.png", ЗОВ ТВ RED
+https://183.giatvcdn.com/giatv/giatv-tvzov%20RED/tvzov%20RED/playlist.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/0N8cnz6S/i.jpg" , CyberTV
+https://183.giatvcdn.com/ssh101/ssh101/cybertv/playlist.m3u8
+#EXTINF:-1 group-title="GRAND TV" tvg-logo="https://i.postimg.cc/rmwZVDMW/1.png", VB Российские сериалы
+https://183.giatvcdn.com/ssh101/ssh101/russerials/playlist.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
 https://streamer-2.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3866/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32716" tvg-name="GRAND TV" catchup="default" catchup-source="http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8RB5ZF6a8W06V4l1jiSZurZYtdQxdZ.png",GRAND TV
@@ -28,8 +83,22 @@ http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3866/str
 http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8
 #EXTINF:-1 group-title="GRAND TV" tvg-id="ttv32783" tvg-name="GRAND TV СЕРИАЛ" catchup="default" catchup-source="http://streamer.enchart.one/42/4a377d8001f3e1a087ef6b007750604270872876/3875/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/BCn3MrncB7dyCnoO1IfRI0Xj4qO04K.png",GRAND TV СЕРИАЛ
 http://streamer.enchart.one/42/cbcc50450b45fef129ab439e949808277551af29/3875/stream.m3u8
-#EXTINF:-1 group-title="GRAND TV" audio-track="rus", Cinema
-http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus", BRIDGE TV RNB
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Bridge Симфония
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Mini Disco
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Bridge Jazz
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Bridge Soul
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Верба
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Bridge Dance
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
+#EXTINF:-1 group-title="GRAND TV" audio-track="rus",Bridge Rap
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
 #EXTINF:-1 group-title="GRAND TV" audio-track="rus",DIGINET DIGI TV
 https://ulduztv.dunyanin-yabancisi.workers.dev/live.m3u8
 #EXTINF:-1 group-title="GRAND TV" audio-track="rus", FAN HD
@@ -27544,235 +27613,235 @@ https://stream9.itv.uz/t/wI4Jyzqq3HMyS11TgUfhug/e/1781247303/1499/index.m3u8
 
 
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТНТ4
-https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Россия 24
-https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Россия К
-https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",РТР Планета
-https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",НТВ-Мир
-https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Рен ТВ international
-https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",365 дней
-https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Техно 24
-https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Моя планета
-https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Explore
-https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat History
-https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Nature
-https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",National Geographic
-https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Nat Geo Wild
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",История
-https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Big planet
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Поехали!
-https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia Hit HD
-https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia Premium HD
-https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Amedia 1
-https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Авто 24
-https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Индия
-https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дом кино
-https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дом кино премиум
-https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Домашний
-https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Еврокино
-https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинохит
-https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киноужас
-https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Индийское кино
-https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинокомедия
-https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киномикс
-https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Кинопремьера HD
-https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Родное кино
-https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносемья
-https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносерия
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Киносвидание
-https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мужское кино
-https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Наше новое кино
-https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000 Русское кино
-https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000 Action
-https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV1000
-https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Москва 24
-https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",КВН ТВ
-https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мир
-https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТВЦ
-https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Ностальгия
-https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Новое телевидение
-https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Оружие
-https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Перец
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Победа
-https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Русский иллюзион
-https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС
-https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС Love
-https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Телекафе
-https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Точка отрыва
-https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Дорама
-https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Start Air
-https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Start World
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",TV XXI
-https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Ю
-https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/u/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Время
-https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Жара
-https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Живи
-https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Сарафан
-https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Зоопарк
-https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Звезда
-https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Astana TV
-https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",КТК
-https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",НТК
-https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Atameken Business
-https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",24 KZ
-https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Пятый канал
-https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",7 канал (Казахстан)
-https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Abai TV
-https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Almaty TV
-https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Habar
-https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Qazaqstan KZ
-https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",ТНВ-Планета
-https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Turan TV
-https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Balapan
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Bridge TV Classic
-https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",МузТВ
-https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",RU.TV
-https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Шансон ТВ
-https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Европа плюс ТВ
-https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",В гостях у сказки
-https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Baby time
-https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Лапки Live
-https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",СТС Kids
-https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Da Vinci
-https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Карусель
-https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",О!
-https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/o/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Бобёр
-https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мульт
-https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Мультиландия
-https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",KHL Prime
-https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",KHL
-https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Матч ТВ
-https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/match/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Матч! Планета
-https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Viasat Sports
-https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",MMA-TV
-https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Etreme sports
-https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV",Qazsport HD
-https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv2
 
 
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Astana TV
-http://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Atameken Business
-http://fs.uplink.kz/atameken/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/atameken/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Balapan International
 http://194.190.78.80/Balapan/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Europa Plus TV
-http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Qonaev Media
 http://s.qonaevtv.kz:8081/live/qonaev/playlist.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Индия
 https://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Индия
-http://fs.uplink.kz/india/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/india/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
 http://iptv.mega.net.ru:8888/Karusel_/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель
-http://fs.uplink.kz/karusel/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/karusel/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
 https://s70378.cdn.ngenix.net/karusel/2/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Карусель Int.
@@ -27784,7 +27853,7 @@ http://37.186.70.39:40/play/98/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Муз ТВ
 http://iptv.mega.net.ru:8888/MUZ_TV/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Муз ТВ
-http://fs.uplink.kz/muz_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/muz_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Музыка Первого
 http://193.25.8.59:8000/muzika
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Музыка Первого
@@ -27792,11 +27861,11 @@ http://iptv.mega.net.ru:8888/Muzika_Pervogo/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Мульт
 http://iptv.mega.net.ru:8888/Mul_t/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Мульт
-http://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",НТК Казахстан
-http://fs.uplink.kz/ntk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/ntk/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Перец
-http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС
 http://194.152.35.17/sts/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС
@@ -27804,19 +27873,19 @@ http://iptv.mega.net.ru:8888/STS/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС Love
-http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",СТС International
-http://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Т24
-http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",ТВ 21
 http://iptv.mega.net.ru:8888/XXI/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",ТВ 21
-http://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Ю
 http://iptv.mega.net.ru:8888/U/index.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV",Ю
-http://fs.uplink.kz/u/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/u/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="mtv-us"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTVᴴᴰ USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
@@ -27830,52 +27899,52 @@ http://timeshift.arpinet.am/236/index.m3u8
 http://185.57.68.33/236/mpegts
 
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="russky-illuzion" ,Русский Иллюзион
-https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domkino-premium"  tvg-logo="http://epg.one/img2/2020.png" ,Дом Кино Премиум
-https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domkino-int" ,Дом Кино International
-https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="telekafe" ,Телекафе
-https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="amedia-premium" ,Amedia Premium HD
-https://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="rodnoe-kino" ,Родное Кино
-https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
-https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinoseria" ,Киносерия
-https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinosemiya" ,Киносемья
-https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinokomedia" ,Кинокомедия
-https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
-https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinomiks" ,Киномикс
-https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinoxit" ,Кинохит
-https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское
-https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="muzhskoe-kino" ,Мужское Кино
-https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000-action" ,viju TV1000 Action
-https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tv1000" ,viju TV1000
-https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="kinosvidanie" ,Киносвидание
-https://fs.uplink.kz/kinosvidanie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/kinosvidanie/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="tvxxi" ,ТВ 21
-https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="texno-24" ,Т24
-https://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="lubimoe-kino" ,Любимое Кино
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way HD
 http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="qostanai-kz"  tvg-logo="https://iptvx.one/picons/qostanai-kz.png"   tvg-name="Qostanai",Qostanai
-https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="xabar"  tvg-logo="http://1lot.tv/ch/8966.png" ,Хабарᴴᴰ 🇰🇿
 http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
 
@@ -27892,7 +27961,7 @@ https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="nastoyaschee-vremia"  tvg-logo="http://1lot.tv/ch/5503.png" ,Настоящее Времяᴴᴰ
 https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1  group-title="GRAND PLUS | UPLINK KZ TV" tvg-id="sts" ,СТС
-https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 
 #EXTINF:-1group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/4654.png" ,MIXMᴴᴰ
 http://89.179.247.144/hls/mixm.m3u8
@@ -27911,9 +27980,9 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="domashny-int" ,Домашний International
-https://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="GRAND PLUS | UPLINK KZ TV"  tvg-id="rentv-int"  tvg-logo="https://iptvx.one/picons/rentv-int.png" ,Рен ТВ International
-https://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
 
 
 
